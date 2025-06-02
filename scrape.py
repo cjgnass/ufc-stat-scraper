@@ -14,33 +14,68 @@ def get_event_data(url: str) -> Tuple[str, List[dict]]:
 
     """
     event_data = {}
-    event_name = get_event_name(url)
-    match_urls = get_match_urls(url)
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, 'html.parser')
 
-    
-    match_url = match_urls[0]
-    match_data = get_match_data(match_url)
+    name = get_event_name(soup)
+    date = get_event_date(soup)
 
+    event_data['event'] = name
+    event_data['date'] = date
 
+    fight_urls = get_fight_urls(url)
+    fight_data_list = get_fights_data(fight_urls)
 
-    return event_name, event_data
+    for fight_data in fight_data_list:
+        event_data[fight_data['name']] = fight_data
 
-def get_event_name(url: str) -> str:
+    return event_data
+
+def get_event_name(soup: BeautifulSoup) -> str:
     """
     Args:
-        url (str): URL of event
+        soup (BeautifulSoup): nested data structure that represents a document
 
     Returns:
         event_name (str): name of event
     """
-    response = requests.get(url)
-    soup = BeautifulSoup(response.text, 'html.parser')
     element = soup.find('span', class_='b-content__title-highlight')
     event_name = element.contents[0].strip()
 
     return event_name
 
-def get_match_data(url: str) -> dict:
+def get_event_date(soup: BeautifulSoup) -> str:
+    """
+    Args:
+        soup (BeautifulSoup): nested data structure that represents a document
+
+    Returns:
+        event_name (str): date of event
+    """
+    element = soup.find('li', class_='b-list__box-list-item')
+    event_date = element.contents[2].strip()
+
+    return event_date
+
+def get_fights_data(urls: List[str]) -> List[dict]:
+    """
+    Args: 
+        urls (List[str]): list of URLs of fights
+
+    Returns:
+        List[dict]: list of dictionaries with data of fights
+    """
+    fight_data_list = []
+    for url in urls:
+        fight_data_list.append(get_fight_data(url))
+    
+    return fight_data_list
+
+
+
+
+
+def get_fight_data(url: str) -> dict:
     """
     Args:
         url (str): URL of match
@@ -49,18 +84,24 @@ def get_match_data(url: str) -> dict:
         dict: dictionary with fight data
              
     """
-    data = {}
+    fight_data = {}
     
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
-    fighters = find_matchup(soup)
-    match_name = fighters[0] + ' vs ' + fighters[1]
+    fighters = find_fighters(soup)
+    name = fighters[0] + ' vs ' + fighters[1]
+    fight_data['name'] = name
+    fight_data['fighter1'] = fighters[0]
+    fight_data['fighter2'] = fighters[1]
+
 
 
     
-    return match_name,
+    return fight_data
 
-def find_matchup(soup: BeautifulSoup) -> Tuple[str, str]:
+
+
+def find_fighters(soup: BeautifulSoup) -> Tuple[str, str]:
     """
     Args:
         soup (BeautifulSoup): nested data structure that represents a document
@@ -93,8 +134,7 @@ def get_event_urls(url: str) -> List[str]:
     return event_urls
 
 
-
-def get_match_urls(url: str) -> List[str]:
+def get_fight_urls(url: str) -> List[str]:
     """
     Args:
         url (str): URL containing links to matches
@@ -102,14 +142,14 @@ def get_match_urls(url: str) -> List[str]:
     Returns:
         List[str]: list of match URLs
     """
-    match_urls = []
+    fight_urls = []
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
     elements = soup.find_all('a', class_='b-flag b-flag_style_green')
     for element in elements:
-        match_urls.append(element['href'])
+        fight_urls.append(element['href'])
 
-    return match_urls
+    return fight_urls
 
 
 
