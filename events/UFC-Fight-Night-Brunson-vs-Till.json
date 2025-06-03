@@ -1,0 +1,313 @@
+{
+    "event": "UFC Fight Night: Brunson vs. Till",
+    "date": "September 04, 2021",
+    "Derek Brunson vs Darren Till": {
+        "name": "Derek Brunson vs Darren Till",
+        "fighter1": "Derek Brunson",
+        "fighter2": "Darren Till",
+        "winner": "Derek Brunson",
+        "method": "Submission",
+        "time_end": "2:13",
+        "round_end": 3,
+        "fight_length": 253,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 84,
+            "str_landed": 101,
+            "str_att": 145,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 1,
+            "ctrl_time": 443
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 50,
+            "str_landed": 28,
+            "str_att": 53,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 4
+        }
+    },
+    "Tom Aspinall vs Serghei Spivac": {
+        "name": "Tom Aspinall vs Serghei Spivac",
+        "fighter1": "Tom Aspinall",
+        "fighter2": "Serghei Spivac",
+        "winner": "Tom Aspinall",
+        "method": "KO/TKO",
+        "time_end": "2:30",
+        "round_end": 1,
+        "fight_length": 150,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 16,
+            "sig_str_att": 26,
+            "str_landed": 16,
+            "str_att": 26,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 11,
+            "str_landed": 0,
+            "str_att": 11,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Alex Morono vs David Zawada": {
+        "name": "Alex Morono vs David Zawada",
+        "fighter1": "Alex Morono",
+        "fighter2": "David Zawada",
+        "winner": "Alex Morono",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 90,
+            "sig_str_att": 213,
+            "str_landed": 96,
+            "str_att": 219,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 66
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 86,
+            "sig_str_att": 205,
+            "str_landed": 91,
+            "str_att": 210,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 39
+        }
+    },
+    "Modestas Bukauskas vs Khalil Rountree Jr.": {
+        "name": "Modestas Bukauskas vs Khalil Rountree Jr.",
+        "fighter1": "Modestas Bukauskas",
+        "fighter2": "Khalil Rountree Jr.",
+        "winner": "Khalil Rountree Jr.",
+        "method": "KO/TKO",
+        "time_end": "2:30",
+        "round_end": 2,
+        "fight_length": 210,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 49,
+            "str_landed": 23,
+            "str_att": 49,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 38,
+            "sig_str_att": 92,
+            "str_landed": 38,
+            "str_att": 92,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Paddy Pimblett vs Luigi Vendramini": {
+        "name": "Paddy Pimblett vs Luigi Vendramini",
+        "fighter1": "Paddy Pimblett",
+        "fighter2": "Luigi Vendramini",
+        "winner": "Paddy Pimblett",
+        "method": "KO/TKO",
+        "time_end": "4:25",
+        "round_end": 1,
+        "fight_length": 265,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 47,
+            "sig_str_att": 81,
+            "str_landed": 47,
+            "str_att": 81,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 9
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 51,
+            "str_landed": 30,
+            "str_att": 56,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 27
+        }
+    },
+    "Molly McCann vs Ji Yeon Kim": {
+        "name": "Molly McCann vs Ji Yeon Kim",
+        "fighter1": "Molly McCann",
+        "fighter2": "Ji Yeon Kim",
+        "winner": "Molly McCann",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 127,
+            "sig_str_att": 272,
+            "str_landed": 130,
+            "str_att": 275,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 47
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 122,
+            "sig_str_att": 361,
+            "str_landed": 134,
+            "str_att": 374,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 155
+        }
+    },
+    "Jack Shore vs Liudvik Sholinian": {
+        "name": "Jack Shore vs Liudvik Sholinian",
+        "fighter1": "Jack Shore",
+        "fighter2": "Liudvik Sholinian",
+        "winner": "Jack Shore",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 92,
+            "sig_str_att": 155,
+            "str_landed": 104,
+            "str_att": 168,
+            "td_comp": 2,
+            "td_att": 8,
+            "sub_att": 1,
+            "ctrl_time": 268
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 92,
+            "str_landed": 33,
+            "str_att": 108,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 86
+        }
+    },
+    "Julian Erosa vs Charles Jourdain": {
+        "name": "Julian Erosa vs Charles Jourdain",
+        "fighter1": "Julian Erosa",
+        "fighter2": "Charles Jourdain",
+        "winner": "Julian Erosa",
+        "method": "Submission",
+        "time_end": "2:56",
+        "round_end": 3,
+        "fight_length": 296,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 103,
+            "sig_str_att": 214,
+            "str_landed": 106,
+            "str_att": 217,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 155
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 85,
+            "sig_str_att": 163,
+            "str_landed": 103,
+            "str_att": 181,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Dalcha Lungiambula vs Marc-Andre Barriault": {
+        "name": "Dalcha Lungiambula vs Marc-Andre Barriault",
+        "fighter1": "Dalcha Lungiambula",
+        "fighter2": "Marc-Andre Barriault",
+        "winner": "Marc-Andre Barriault",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 85,
+            "sig_str_att": 217,
+            "str_landed": 87,
+            "str_att": 219,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 32
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 118,
+            "sig_str_att": 289,
+            "str_landed": 128,
+            "str_att": 299,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 31
+        }
+    }
+}

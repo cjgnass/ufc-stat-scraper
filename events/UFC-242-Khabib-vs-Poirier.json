@@ -1,0 +1,418 @@
+{
+    "event": "UFC 242: Khabib vs. Poirier",
+    "date": "September 07, 2019",
+    "Khabib Nurmagomedov vs Dustin Poirier": {
+        "name": "Khabib Nurmagomedov vs Dustin Poirier",
+        "fighter1": "Khabib Nurmagomedov",
+        "fighter2": "Dustin Poirier",
+        "winner": "Khabib Nurmagomedov",
+        "method": "Submission",
+        "time_end": "2:06",
+        "round_end": 3,
+        "fight_length": 246,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 41,
+            "str_landed": 54,
+            "str_att": 77,
+            "td_comp": 7,
+            "td_att": 8,
+            "sub_att": 2,
+            "ctrl_time": 532
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 39,
+            "str_landed": 30,
+            "str_att": 57,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        }
+    },
+    "Edson Barboza vs Paul Felder": {
+        "name": "Edson Barboza vs Paul Felder",
+        "fighter1": "Edson Barboza",
+        "fighter2": "Paul Felder",
+        "winner": "Paul Felder",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 60,
+            "sig_str_att": 114,
+            "str_landed": 77,
+            "str_att": 133,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 109
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 56,
+            "sig_str_att": 154,
+            "str_landed": 75,
+            "str_att": 174,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 123
+        }
+    },
+    "Islam Makhachev vs Davi Ramos": {
+        "name": "Islam Makhachev vs Davi Ramos",
+        "fighter1": "Islam Makhachev",
+        "fighter2": "Davi Ramos",
+        "winner": "Islam Makhachev",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            79,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 43,
+            "sig_str_att": 95,
+            "str_landed": 88,
+            "str_att": 148,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 279
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 58,
+            "str_landed": 27,
+            "str_att": 80,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 25
+        }
+    },
+    "Curtis Blaydes vs Shamil Abdurakhimov": {
+        "name": "Curtis Blaydes vs Shamil Abdurakhimov",
+        "fighter1": "Curtis Blaydes",
+        "fighter2": "Shamil Abdurakhimov",
+        "winner": "Curtis Blaydes",
+        "method": "KO/TKO",
+        "time_end": "2:22",
+        "round_end": 2,
+        "fight_length": 202,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 43,
+            "str_landed": 46,
+            "str_att": 74,
+            "td_comp": 5,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 367
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 8,
+            "str_landed": 3,
+            "str_att": 8,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Mairbek Taisumov vs Diego Ferreira": {
+        "name": "Mairbek Taisumov vs Diego Ferreira",
+        "fighter1": "Mairbek Taisumov",
+        "fighter2": "Diego Ferreira",
+        "winner": "Diego Ferreira",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 51,
+            "sig_str_att": 160,
+            "str_landed": 51,
+            "str_att": 160,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 109,
+            "sig_str_att": 326,
+            "str_landed": 112,
+            "str_att": 329,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 19
+        }
+    },
+    "Joanne Wood vs Andrea Lee": {
+        "name": "Joanne Wood vs Andrea Lee",
+        "fighter1": "Joanne Wood",
+        "fighter2": "Andrea Lee",
+        "winner": "Joanne Wood",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 101,
+            "sig_str_att": 230,
+            "str_landed": 158,
+            "str_att": 293,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 133
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 61,
+            "sig_str_att": 137,
+            "str_landed": 104,
+            "str_att": 185,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 259
+        }
+    },
+    "Liana Jojua vs Sarah Moras": {
+        "name": "Liana Jojua vs Sarah Moras",
+        "fighter1": "Liana Jojua",
+        "fighter2": "Sarah Moras",
+        "winner": "Sarah Moras",
+        "method": "KO/TKO",
+        "time_end": "2:26",
+        "round_end": 3,
+        "fight_length": 266,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 45,
+            "str_landed": 45,
+            "str_att": 77,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 140
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 88,
+            "str_landed": 130,
+            "str_att": 191,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 395
+        }
+    },
+    "Ottman Azaitar vs Teemu Packalen": {
+        "name": "Ottman Azaitar vs Teemu Packalen",
+        "fighter1": "Ottman Azaitar",
+        "fighter2": "Teemu Packalen",
+        "winner": "Ottman Azaitar",
+        "method": "KO/TKO",
+        "time_end": "3:33",
+        "round_end": 1,
+        "fight_length": 213,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 27,
+            "sig_str_att": 53,
+            "str_landed": 27,
+            "str_att": 53,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 11
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 19,
+            "str_landed": 8,
+            "str_att": 19,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Belal Muhammad vs Takashi Sato": {
+        "name": "Belal Muhammad vs Takashi Sato",
+        "fighter1": "Belal Muhammad",
+        "fighter2": "Takashi Sato",
+        "winner": "Belal Muhammad",
+        "method": "Submission",
+        "time_end": "1:55",
+        "round_end": 3,
+        "fight_length": 235,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 49,
+            "sig_str_att": 106,
+            "str_landed": 78,
+            "str_att": 148,
+            "td_comp": 2,
+            "td_att": 9,
+            "sub_att": 1,
+            "ctrl_time": 151
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 89,
+            "str_landed": 34,
+            "str_att": 95,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 38
+        }
+    },
+    "Nordine Taleb vs Muslim Salikhov": {
+        "name": "Nordine Taleb vs Muslim Salikhov",
+        "fighter1": "Nordine Taleb",
+        "fighter2": "Muslim Salikhov",
+        "winner": "Muslim Salikhov",
+        "method": "KO/TKO",
+        "time_end": "4:26",
+        "round_end": 1,
+        "fight_length": 266,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 26,
+            "str_landed": 6,
+            "str_att": 26,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 10,
+            "sig_str_att": 23,
+            "str_landed": 10,
+            "str_att": 23,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Omari Akhmedov vs Zak Cummings": {
+        "name": "Omari Akhmedov vs Zak Cummings",
+        "fighter1": "Omari Akhmedov",
+        "fighter2": "Zak Cummings",
+        "winner": "Omari Akhmedov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 77,
+            "str_landed": 47,
+            "str_att": 106,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 219
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 69,
+            "str_landed": 24,
+            "str_att": 76,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Don Madge vs Fares Ziam": {
+        "name": "Don Madge vs Fares Ziam",
+        "fighter1": "Don Madge",
+        "fighter2": "Fares Ziam",
+        "winner": "Don Madge",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 49,
+            "str_landed": 72,
+            "str_att": 111,
+            "td_comp": 3,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 577
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 31,
+            "str_landed": 70,
+            "str_att": 96,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 146
+        }
+    }
+}

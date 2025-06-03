@@ -1,0 +1,421 @@
+{
+    "event": "UFC Fight Night: Dos Santos vs. Tuivasa",
+    "date": "December 01, 2018",
+    "Junior Dos Santos vs Tai Tuivasa": {
+        "name": "Junior Dos Santos vs Tai Tuivasa",
+        "fighter1": "Junior Dos Santos",
+        "fighter2": "Tai Tuivasa",
+        "winner": "Junior Dos Santos",
+        "method": "KO/TKO",
+        "time_end": "2:30",
+        "round_end": 2,
+        "fight_length": 210,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 26,
+            "sig_str_att": 65,
+            "str_landed": 37,
+            "str_att": 77,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 48
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 42,
+            "str_landed": 16,
+            "str_att": 46,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 75
+        }
+    },
+    "Mauricio Rua vs Tyson Pedro": {
+        "name": "Mauricio Rua vs Tyson Pedro",
+        "fighter1": "Mauricio Rua",
+        "fighter2": "Tyson Pedro",
+        "winner": "Mauricio Rua",
+        "method": "KO/TKO",
+        "time_end": "0:43",
+        "round_end": 3,
+        "fight_length": 163,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 30,
+            "sig_str_att": 56,
+            "str_landed": 62,
+            "str_att": 94,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 318
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 44,
+            "str_landed": 36,
+            "str_att": 49,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 41
+        }
+    },
+    "Mark Hunt vs Justin Willis": {
+        "name": "Mark Hunt vs Justin Willis",
+        "fighter1": "Mark Hunt",
+        "fighter2": "Justin Willis",
+        "winner": "Justin Willis",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 60,
+            "str_landed": 19,
+            "str_att": 60,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 59,
+            "sig_str_att": 103,
+            "str_landed": 59,
+            "str_att": 103,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Jake Matthews vs Anthony Rocco Martin": {
+        "name": "Jake Matthews vs Anthony Rocco Martin",
+        "fighter1": "Jake Matthews",
+        "fighter2": "Anthony Rocco Martin",
+        "winner": "Anthony Rocco Martin",
+        "method": "Submission",
+        "time_end": "1:19",
+        "round_end": 3,
+        "fight_length": 199,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 75,
+            "str_landed": 27,
+            "str_att": 78,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 38
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 86,
+            "str_landed": 33,
+            "str_att": 94,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 70
+        }
+    },
+    "Suman Mokhtarian vs Sodiq Yusuff": {
+        "name": "Suman Mokhtarian vs Sodiq Yusuff",
+        "fighter1": "Suman Mokhtarian",
+        "fighter2": "Sodiq Yusuff",
+        "winner": "Sodiq Yusuff",
+        "method": "KO/TKO",
+        "time_end": "2:14",
+        "round_end": 1,
+        "fight_length": 134,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 9,
+            "str_landed": 6,
+            "str_att": 10,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 34
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 43,
+            "str_landed": 44,
+            "str_att": 66,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 57
+        }
+    },
+    "Jimmy Crute vs Paul Craig": {
+        "name": "Jimmy Crute vs Paul Craig",
+        "fighter1": "Jimmy Crute",
+        "fighter2": "Paul Craig",
+        "winner": "Jimmy Crute",
+        "method": "Submission",
+        "time_end": "4:51",
+        "round_end": 3,
+        "fight_length": 411,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 38,
+            "str_landed": 49,
+            "str_att": 75,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 4,
+            "ctrl_time": 505
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 22,
+            "str_landed": 45,
+            "str_att": 57,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 258
+        }
+    },
+    "Yushin Okami vs Aleksei Kunchenko": {
+        "name": "Yushin Okami vs Aleksei Kunchenko",
+        "fighter1": "Yushin Okami",
+        "fighter2": "Aleksei Kunchenko",
+        "winner": "Aleksei Kunchenko",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            79,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 56,
+            "str_landed": 10,
+            "str_att": 56,
+            "td_comp": 0,
+            "td_att": 15,
+            "sub_att": 0,
+            "ctrl_time": 166
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 72,
+            "sig_str_att": 129,
+            "str_landed": 141,
+            "str_att": 203,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 78
+        }
+    },
+    "Wilson Reis vs Ben Nguyen": {
+        "name": "Wilson Reis vs Ben Nguyen",
+        "fighter1": "Wilson Reis",
+        "fighter2": "Ben Nguyen",
+        "winner": "Wilson Reis",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 115,
+            "str_landed": 41,
+            "str_att": 126,
+            "td_comp": 7,
+            "td_att": 17,
+            "sub_att": 1,
+            "ctrl_time": 357
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 111,
+            "str_landed": 53,
+            "str_att": 126,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 25
+        }
+    },
+    "Keita Nakamura vs Salim Touahri": {
+        "name": "Keita Nakamura vs Salim Touahri",
+        "fighter1": "Keita Nakamura",
+        "fighter2": "Salim Touahri",
+        "winner": "Keita Nakamura",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 41,
+            "sig_str_att": 97,
+            "str_landed": 55,
+            "str_att": 112,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 79,
+            "str_landed": 42,
+            "str_att": 87,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 40
+        }
+    },
+    "Elias Garcia vs Kai Kara-France": {
+        "name": "Elias Garcia vs Kai Kara-France",
+        "fighter1": "Elias Garcia",
+        "fighter2": "Kai Kara-France",
+        "winner": "Kai Kara-France",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            76,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 16,
+            "sig_str_att": 73,
+            "str_landed": 20,
+            "str_att": 77,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 2,
+            "ctrl_time": 28
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 86,
+            "sig_str_att": 178,
+            "str_landed": 157,
+            "str_att": 261,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 570
+        }
+    },
+    "Mizuto Hirota vs Christos Giagos": {
+        "name": "Mizuto Hirota vs Christos Giagos",
+        "fighter1": "Mizuto Hirota",
+        "fighter2": "Christos Giagos",
+        "winner": "Christos Giagos",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 55,
+            "str_landed": 47,
+            "str_att": 86,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 66
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 90,
+            "str_landed": 63,
+            "str_att": 131,
+            "td_comp": 5,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 562
+        }
+    },
+    "Alex Gorgees vs Damir Ismagulov": {
+        "name": "Alex Gorgees vs Damir Ismagulov",
+        "fighter1": "Alex Gorgees",
+        "fighter2": "Damir Ismagulov",
+        "winner": "Damir Ismagulov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            77,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 31,
+            "str_landed": 22,
+            "str_att": 43,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 55,
+            "str_landed": 103,
+            "str_att": 137,
+            "td_comp": 5,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 586
+        }
+    }
+}

@@ -1,0 +1,391 @@
+{
+    "event": "UFC on FUEL TV: Barao vs McDonald",
+    "date": "February 16, 2013",
+    "Renan Barao vs Michael McDonald": {
+        "name": "Renan Barao vs Michael McDonald",
+        "fighter1": "Renan Barao",
+        "fighter2": "Michael McDonald",
+        "winner": "Renan Barao",
+        "method": "Submission",
+        "time_end": "3:57",
+        "round_end": 4,
+        "fight_length": 417,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 112,
+            "str_landed": 43,
+            "str_att": 121,
+            "td_comp": 4,
+            "td_att": 10,
+            "sub_att": 1,
+            "ctrl_time": 238
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 92,
+            "str_landed": 29,
+            "str_att": 95,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Cub Swanson vs Dustin Poirier": {
+        "name": "Cub Swanson vs Dustin Poirier",
+        "fighter1": "Cub Swanson",
+        "fighter2": "Dustin Poirier",
+        "winner": "Cub Swanson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 126,
+            "str_landed": 80,
+            "str_att": 150,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 181
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 140,
+            "str_landed": 70,
+            "str_att": 158,
+            "td_comp": 2,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 242
+        }
+    },
+    "Jimi Manuwa vs Cyrille Diabate": {
+        "name": "Jimi Manuwa vs Cyrille Diabate",
+        "fighter1": "Jimi Manuwa",
+        "fighter2": "Cyrille Diabate",
+        "winner": "Jimi Manuwa",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "5:00",
+        "round_end": 1,
+        "fight_length": 300,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 36,
+            "str_landed": 18,
+            "str_att": 36,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 142
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 14,
+            "str_landed": 11,
+            "str_att": 16,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 19
+        }
+    },
+    "Gunnar Nelson vs Jorge Santiago": {
+        "name": "Gunnar Nelson vs Jorge Santiago",
+        "fighter1": "Gunnar Nelson",
+        "fighter2": "Jorge Santiago",
+        "winner": "Gunnar Nelson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 80,
+            "str_landed": 47,
+            "str_att": 86,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 338
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 43,
+            "sig_str_att": 123,
+            "str_landed": 52,
+            "str_att": 134,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 12
+        }
+    },
+    "James Te Huna vs Ryan Jimmo": {
+        "name": "James Te Huna vs Ryan Jimmo",
+        "fighter1": "James Te Huna",
+        "fighter2": "Ryan Jimmo",
+        "winner": "James Te Huna",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 49,
+            "sig_str_att": 79,
+            "str_landed": 121,
+            "str_att": 166,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 398
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 34,
+            "sig_str_att": 52,
+            "str_landed": 56,
+            "str_att": 77,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 381
+        }
+    },
+    "Terry Etim vs Renee Forte": {
+        "name": "Terry Etim vs Renee Forte",
+        "fighter1": "Terry Etim",
+        "fighter2": "Renee Forte",
+        "winner": "Renee Forte",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 62,
+            "str_landed": 14,
+            "str_att": 63,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 47,
+            "sig_str_att": 119,
+            "str_landed": 78,
+            "str_att": 154,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 645
+        }
+    },
+    "Paul Sass vs Danny Castillo": {
+        "name": "Paul Sass vs Danny Castillo",
+        "fighter1": "Paul Sass",
+        "fighter2": "Danny Castillo",
+        "winner": "Danny Castillo",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 23,
+            "str_landed": 23,
+            "str_att": 47,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 5,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 67,
+            "str_landed": 67,
+            "str_att": 104,
+            "td_comp": 4,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 735
+        }
+    },
+    "Andy Ogle vs Josh Grispi": {
+        "name": "Andy Ogle vs Josh Grispi",
+        "fighter1": "Andy Ogle",
+        "fighter2": "Josh Grispi",
+        "winner": "Andy Ogle",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 42,
+            "str_landed": 119,
+            "str_att": 153,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 791
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 26,
+            "str_landed": 19,
+            "str_att": 38,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 19
+        }
+    },
+    "Tom Watson vs Stanislav Nedkov": {
+        "name": "Tom Watson vs Stanislav Nedkov",
+        "fighter1": "Tom Watson",
+        "fighter2": "Stanislav Nedkov",
+        "winner": "Tom Watson",
+        "method": "KO/TKO",
+        "time_end": "4:42",
+        "round_end": 2,
+        "fight_length": 342,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 56,
+            "sig_str_att": 102,
+            "str_landed": 72,
+            "str_att": 118,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 264
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 78,
+            "str_landed": 61,
+            "str_att": 102,
+            "td_comp": 5,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 160
+        }
+    },
+    "Vaughan Lee vs Motonobu Tezuka": {
+        "name": "Vaughan Lee vs Motonobu Tezuka",
+        "fighter1": "Vaughan Lee",
+        "fighter2": "Motonobu Tezuka",
+        "winner": "Vaughan Lee",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 48,
+            "str_landed": 164,
+            "str_att": 192,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 71
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 35,
+            "str_landed": 17,
+            "str_att": 56,
+            "td_comp": 1,
+            "td_att": 15,
+            "sub_att": 1,
+            "ctrl_time": 471
+        }
+    },
+    "Phil Harris vs Ulysses Gomez": {
+        "name": "Phil Harris vs Ulysses Gomez",
+        "fighter1": "Phil Harris",
+        "fighter2": "Ulysses Gomez",
+        "winner": "Phil Harris",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 150,
+            "str_landed": 33,
+            "str_att": 150,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 9
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 159,
+            "str_landed": 35,
+            "str_att": 159,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 8
+        }
+    }
+}

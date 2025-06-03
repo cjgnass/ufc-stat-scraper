@@ -1,0 +1,346 @@
+{
+    "event": "UFC 111: St-Pierre vs Hardy",
+    "date": "March 27, 2010",
+    "Georges St-Pierre vs Dan Hardy": {
+        "name": "Georges St-Pierre vs Dan Hardy",
+        "fighter1": "Georges St-Pierre",
+        "fighter2": "Dan Hardy",
+        "winner": "Georges St-Pierre",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            132,
+            150
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 59,
+            "sig_str_att": 79,
+            "str_landed": 174,
+            "str_att": 201,
+            "td_comp": 11,
+            "td_att": 11,
+            "sub_att": 6,
+            "ctrl_time": 1234
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 27,
+            "str_landed": 42,
+            "str_att": 72,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 37
+        }
+    },
+    "Frank Mir vs Shane Carwin": {
+        "name": "Frank Mir vs Shane Carwin",
+        "fighter1": "Frank Mir",
+        "fighter2": "Shane Carwin",
+        "winner": "Shane Carwin",
+        "method": "KO/TKO",
+        "time_end": "3:48",
+        "round_end": 1,
+        "fight_length": 228,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 10,
+            "str_landed": 3,
+            "str_att": 10,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 49,
+            "sig_str_att": 63,
+            "str_landed": 74,
+            "str_att": 89,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 153
+        }
+    },
+    "Kurt Pellegrino vs Fabricio Camoes": {
+        "name": "Kurt Pellegrino vs Fabricio Camoes",
+        "fighter1": "Kurt Pellegrino",
+        "fighter2": "Fabricio Camoes",
+        "winner": "Kurt Pellegrino",
+        "method": "Submission",
+        "time_end": "4:20",
+        "round_end": 2,
+        "fight_length": 320,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 29,
+            "str_landed": 71,
+            "str_att": 91,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 407
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 11,
+            "str_landed": 19,
+            "str_att": 22,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 2,
+            "ctrl_time": 100
+        }
+    },
+    "Ben Saunders vs Jon Fitch": {
+        "name": "Ben Saunders vs Jon Fitch",
+        "fighter1": "Ben Saunders",
+        "fighter2": "Jon Fitch",
+        "winner": "Jon Fitch",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 30,
+            "str_landed": 31,
+            "str_att": 44,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 43
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 72,
+            "sig_str_att": 99,
+            "str_landed": 212,
+            "str_att": 247,
+            "td_comp": 2,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 733
+        }
+    },
+    "Jim Miller vs Mark Bocek": {
+        "name": "Jim Miller vs Mark Bocek",
+        "fighter1": "Jim Miller",
+        "fighter2": "Mark Bocek",
+        "winner": "Jim Miller",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 67,
+            "str_landed": 42,
+            "str_att": 89,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 3,
+            "ctrl_time": 97
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 45,
+            "str_landed": 52,
+            "str_att": 81,
+            "td_comp": 4,
+            "td_att": 8,
+            "sub_att": 1,
+            "ctrl_time": 591
+        }
+    },
+    "Nate Diaz vs Rory Markham": {
+        "name": "Nate Diaz vs Rory Markham",
+        "fighter1": "Nate Diaz",
+        "fighter2": "Rory Markham",
+        "winner": "Nate Diaz",
+        "method": "KO/TKO",
+        "time_end": "2:47",
+        "round_end": 1,
+        "fight_length": 167,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 34,
+            "sig_str_att": 60,
+            "str_landed": 54,
+            "str_att": 84,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 74
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 22,
+            "str_landed": 3,
+            "str_att": 22,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Ricardo Almeida vs Matt Brown": {
+        "name": "Ricardo Almeida vs Matt Brown",
+        "fighter1": "Ricardo Almeida",
+        "fighter2": "Matt Brown",
+        "winner": "Ricardo Almeida",
+        "method": "Submission",
+        "time_end": "3:30",
+        "round_end": 2,
+        "fight_length": 270,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 27,
+            "str_landed": 24,
+            "str_att": 36,
+            "td_comp": 5,
+            "td_att": 11,
+            "sub_att": 1,
+            "ctrl_time": 426
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 10,
+            "str_landed": 23,
+            "str_att": 28,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 16
+        }
+    },
+    "Rousimar Palhares vs Tomasz Drwal": {
+        "name": "Rousimar Palhares vs Tomasz Drwal",
+        "fighter1": "Rousimar Palhares",
+        "fighter2": "Tomasz Drwal",
+        "winner": "Rousimar Palhares",
+        "method": "Submission",
+        "time_end": "0:45",
+        "round_end": 1,
+        "fight_length": 45,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 1,
+            "str_landed": 0,
+            "str_att": 1,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 7
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 2,
+            "str_landed": 0,
+            "str_att": 2,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Rodney Wallace vs Jared Hamman": {
+        "name": "Rodney Wallace vs Jared Hamman",
+        "fighter1": "Rodney Wallace",
+        "fighter2": "Jared Hamman",
+        "winner": "Jared Hamman",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 66,
+            "str_landed": 47,
+            "str_att": 84,
+            "td_comp": 11,
+            "td_att": 13,
+            "sub_att": 1,
+            "ctrl_time": 318
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 60,
+            "sig_str_att": 124,
+            "str_landed": 176,
+            "str_att": 250,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 427
+        }
+    },
+    "Matthew Riddle vs Greg Soto": {
+        "name": "Matthew Riddle vs Greg Soto",
+        "fighter1": "Matthew Riddle",
+        "fighter2": "Greg Soto",
+        "winner": "Matthew Riddle",
+        "method": "DQ",
+        "time_end": "1:30",
+        "round_end": 3,
+        "fight_length": 210,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 88,
+            "str_landed": 92,
+            "str_att": 140,
+            "td_comp": 4,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 456
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 39,
+            "str_landed": 63,
+            "str_att": 81,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 41
+        }
+    }
+}

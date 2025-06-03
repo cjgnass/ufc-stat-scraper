@@ -1,0 +1,349 @@
+{
+    "event": "UFC on FOX: Henderson vs Thomson",
+    "date": "January 25, 2014",
+    "Benson Henderson vs Josh Thomson": {
+        "name": "Benson Henderson vs Josh Thomson",
+        "fighter1": "Benson Henderson",
+        "fighter2": "Josh Thomson",
+        "winner": "Benson Henderson",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            141,
+            144
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 91,
+            "str_landed": 114,
+            "str_att": 166,
+            "td_comp": 4,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 300
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 58,
+            "str_landed": 33,
+            "str_att": 75,
+            "td_comp": 4,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 472
+        }
+    },
+    "Stipe Miocic vs Gabriel Gonzaga": {
+        "name": "Stipe Miocic vs Gabriel Gonzaga",
+        "fighter1": "Stipe Miocic",
+        "fighter2": "Gabriel Gonzaga",
+        "winner": "Stipe Miocic",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 63,
+            "sig_str_att": 187,
+            "str_landed": 77,
+            "str_att": 205,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 125
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 82,
+            "str_landed": 33,
+            "str_att": 87,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 5
+        }
+    },
+    "Donald Cerrone vs Adriano Martins": {
+        "name": "Donald Cerrone vs Adriano Martins",
+        "fighter1": "Donald Cerrone",
+        "fighter2": "Adriano Martins",
+        "winner": "Donald Cerrone",
+        "method": "KO/TKO",
+        "time_end": "4:40",
+        "round_end": 1,
+        "fight_length": 280,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 16,
+            "sig_str_att": 37,
+            "str_landed": 16,
+            "str_att": 37,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 6
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 29,
+            "str_landed": 13,
+            "str_att": 29,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Darren Elkins vs Jeremy Stephens": {
+        "name": "Darren Elkins vs Jeremy Stephens",
+        "fighter1": "Darren Elkins",
+        "fighter2": "Jeremy Stephens",
+        "winner": "Jeremy Stephens",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 137,
+            "str_landed": 26,
+            "str_att": 142,
+            "td_comp": 0,
+            "td_att": 9,
+            "sub_att": 4,
+            "ctrl_time": 74
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 117,
+            "str_landed": 40,
+            "str_att": 117,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 68
+        }
+    },
+    "Alex Caceres vs Sergio Pettis": {
+        "name": "Alex Caceres vs Sergio Pettis",
+        "fighter1": "Alex Caceres",
+        "fighter2": "Sergio Pettis",
+        "winner": "Alex Caceres",
+        "method": "Submission",
+        "time_end": "4:39",
+        "round_end": 3,
+        "fight_length": 399,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 53,
+            "sig_str_att": 164,
+            "str_landed": 56,
+            "str_att": 168,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 93
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 49,
+            "sig_str_att": 177,
+            "str_landed": 49,
+            "str_att": 177,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 13
+        }
+    },
+    "Eddie Wineland vs Yves Jabouin": {
+        "name": "Eddie Wineland vs Yves Jabouin",
+        "fighter1": "Eddie Wineland",
+        "fighter2": "Yves Jabouin",
+        "winner": "Eddie Wineland",
+        "method": "KO/TKO",
+        "time_end": "4:16",
+        "round_end": 2,
+        "fight_length": 316,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 54,
+            "sig_str_att": 138,
+            "str_landed": 58,
+            "str_att": 142,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 75
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 109,
+            "str_landed": 33,
+            "str_att": 109,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Ramiro Hernandez vs Hugo Viana": {
+        "name": "Ramiro Hernandez vs Hugo Viana",
+        "fighter1": "Ramiro Hernandez",
+        "fighter2": "Hugo Viana",
+        "winner": "Hugo Viana",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 144,
+            "str_landed": 40,
+            "str_att": 144,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 79,
+            "sig_str_att": 234,
+            "str_landed": 79,
+            "str_att": 234,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 4
+        }
+    },
+    "Daron Cruickshank vs Mike Rio": {
+        "name": "Daron Cruickshank vs Mike Rio",
+        "fighter1": "Daron Cruickshank",
+        "fighter2": "Mike Rio",
+        "winner": "Daron Cruickshank",
+        "method": "KO/TKO",
+        "time_end": "4:56",
+        "round_end": 2,
+        "fight_length": 356,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 46,
+            "sig_str_att": 104,
+            "str_landed": 51,
+            "str_att": 111,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 86
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 38,
+            "str_landed": 14,
+            "str_att": 42,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 2
+        }
+    },
+    "George Sullivan vs Mike Rhodes": {
+        "name": "George Sullivan vs Mike Rhodes",
+        "fighter1": "George Sullivan",
+        "fighter2": "Mike Rhodes",
+        "winner": "George Sullivan",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 61,
+            "sig_str_att": 177,
+            "str_landed": 81,
+            "str_att": 200,
+            "td_comp": 2,
+            "td_att": 14,
+            "sub_att": 0,
+            "ctrl_time": 101
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 51,
+            "sig_str_att": 105,
+            "str_landed": 57,
+            "str_att": 112,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 152
+        }
+    },
+    "Walt Harris vs Nikita Krylov": {
+        "name": "Walt Harris vs Nikita Krylov",
+        "fighter1": "Walt Harris",
+        "fighter2": "Nikita Krylov",
+        "winner": "Nikita Krylov",
+        "method": "KO/TKO",
+        "time_end": "0:25",
+        "round_end": 1,
+        "fight_length": 25,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 5,
+            "str_landed": 1,
+            "str_att": 5,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 11,
+            "sig_str_att": 16,
+            "str_landed": 11,
+            "str_att": 16,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    }
+}

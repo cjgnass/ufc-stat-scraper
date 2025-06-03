@@ -1,0 +1,346 @@
+{
+    "event": "UFC 135: Jones vs Rampage",
+    "date": "September 24, 2011",
+    "Jon Jones vs Quinton Jackson": {
+        "name": "Jon Jones vs Quinton Jackson",
+        "fighter1": "Jon Jones",
+        "fighter2": "Quinton Jackson",
+        "winner": "Jon Jones",
+        "method": "Submission",
+        "time_end": "1:14",
+        "round_end": 4,
+        "fight_length": 254,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 61,
+            "sig_str_att": 117,
+            "str_landed": 74,
+            "str_att": 131,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 2,
+            "ctrl_time": 212
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 44,
+            "str_landed": 24,
+            "str_att": 52,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 16
+        }
+    },
+    "Matt Hughes vs Josh Koscheck": {
+        "name": "Matt Hughes vs Josh Koscheck",
+        "fighter1": "Matt Hughes",
+        "fighter2": "Josh Koscheck",
+        "winner": "Josh Koscheck",
+        "method": "KO/TKO",
+        "time_end": "4:59",
+        "round_end": 1,
+        "fight_length": 299,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 53,
+            "str_landed": 14,
+            "str_att": 53,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 51,
+            "str_landed": 29,
+            "str_att": 54,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 17
+        }
+    },
+    "Ben Rothwell vs Mark Hunt": {
+        "name": "Ben Rothwell vs Mark Hunt",
+        "fighter1": "Ben Rothwell",
+        "fighter2": "Mark Hunt",
+        "winner": "Mark Hunt",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 50,
+            "str_landed": 23,
+            "str_att": 54,
+            "td_comp": 2,
+            "td_att": 14,
+            "sub_att": 0,
+            "ctrl_time": 131
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 95,
+            "str_landed": 120,
+            "str_att": 173,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 378
+        }
+    },
+    "Travis Browne vs Rob Broughton": {
+        "name": "Travis Browne vs Rob Broughton",
+        "fighter1": "Travis Browne",
+        "fighter2": "Rob Broughton",
+        "winner": "Travis Browne",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 93,
+            "str_landed": 57,
+            "str_att": 106,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 408
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 57,
+            "str_landed": 65,
+            "str_att": 102,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 24
+        }
+    },
+    "Nate Diaz vs Takanori Gomi": {
+        "name": "Nate Diaz vs Takanori Gomi",
+        "fighter1": "Nate Diaz",
+        "fighter2": "Takanori Gomi",
+        "winner": "Nate Diaz",
+        "method": "Submission",
+        "time_end": "4:27",
+        "round_end": 1,
+        "fight_length": 267,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 36,
+            "sig_str_att": 73,
+            "str_landed": 42,
+            "str_att": 81,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 3,
+            "ctrl_time": 23
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 23,
+            "str_landed": 6,
+            "str_att": 25,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 37
+        }
+    },
+    "Tony Ferguson vs Aaron Riley": {
+        "name": "Tony Ferguson vs Aaron Riley",
+        "fighter1": "Tony Ferguson",
+        "fighter2": "Aaron Riley",
+        "winner": "Tony Ferguson",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "5:00",
+        "round_end": 1,
+        "fight_length": 300,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 82,
+            "str_landed": 31,
+            "str_att": 82,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 49,
+            "str_landed": 11,
+            "str_att": 49,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Nick Ring vs Tim Boetsch": {
+        "name": "Nick Ring vs Tim Boetsch",
+        "fighter1": "Nick Ring",
+        "fighter2": "Tim Boetsch",
+        "winner": "Tim Boetsch",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 82,
+            "str_landed": 39,
+            "str_att": 94,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 188
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 84,
+            "str_landed": 80,
+            "str_att": 120,
+            "td_comp": 4,
+            "td_att": 6,
+            "sub_att": 2,
+            "ctrl_time": 185
+        }
+    },
+    "Junior Assuncao vs Eddie Yagin": {
+        "name": "Junior Assuncao vs Eddie Yagin",
+        "fighter1": "Junior Assuncao",
+        "fighter2": "Eddie Yagin",
+        "winner": "Junior Assuncao",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            79,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 63,
+            "sig_str_att": 90,
+            "str_landed": 164,
+            "str_att": 204,
+            "td_comp": 3,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 426
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 26,
+            "str_landed": 20,
+            "str_att": 40,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 15
+        }
+    },
+    "Takeya Mizugaki vs Cole Escovedo": {
+        "name": "Takeya Mizugaki vs Cole Escovedo",
+        "fighter1": "Takeya Mizugaki",
+        "fighter2": "Cole Escovedo",
+        "winner": "Takeya Mizugaki",
+        "method": "KO/TKO",
+        "time_end": "4:30",
+        "round_end": 2,
+        "fight_length": 330,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 70,
+            "sig_str_att": 129,
+            "str_landed": 85,
+            "str_att": 146,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 155
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 51,
+            "str_landed": 33,
+            "str_att": 56,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 40
+        }
+    },
+    "James Te Huna vs Ricardo Romero": {
+        "name": "James Te Huna vs Ricardo Romero",
+        "fighter1": "James Te Huna",
+        "fighter2": "Ricardo Romero",
+        "winner": "James Te Huna",
+        "method": "KO/TKO",
+        "time_end": "0:47",
+        "round_end": 1,
+        "fight_length": 47,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 5,
+            "sig_str_att": 7,
+            "str_landed": 6,
+            "str_att": 9,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 10
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 3,
+            "str_landed": 0,
+            "str_att": 3,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

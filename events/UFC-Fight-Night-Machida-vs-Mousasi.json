@@ -1,0 +1,430 @@
+{
+    "event": "UFC Fight Night: Machida vs Mousasi",
+    "date": "February 15, 2014",
+    "Lyoto Machida vs Gegard Mousasi": {
+        "name": "Lyoto Machida vs Gegard Mousasi",
+        "fighter1": "Lyoto Machida",
+        "fighter2": "Gegard Mousasi",
+        "winner": "Lyoto Machida",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            136,
+            149
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 101,
+            "str_landed": 35,
+            "str_att": 108,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 190
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 106,
+            "str_landed": 66,
+            "str_att": 138,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 102
+        }
+    },
+    "Jacare Souza vs Francis Carmont": {
+        "name": "Jacare Souza vs Francis Carmont",
+        "fighter1": "Jacare Souza",
+        "fighter2": "Francis Carmont",
+        "winner": "Jacare Souza",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 47,
+            "str_landed": 51,
+            "str_att": 89,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 3,
+            "ctrl_time": 521
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 71,
+            "str_landed": 44,
+            "str_att": 107,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 14
+        }
+    },
+    "Erick Silva vs Takenori Sato": {
+        "name": "Erick Silva vs Takenori Sato",
+        "fighter1": "Erick Silva",
+        "fighter2": "Takenori Sato",
+        "winner": "Erick Silva",
+        "method": "KO/TKO",
+        "time_end": "0:52",
+        "round_end": 1,
+        "fight_length": 52,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 18,
+            "str_landed": 21,
+            "str_att": 21,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 0,
+            "str_landed": 0,
+            "str_att": 0,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Viscardi Andrade vs Nicholas Musoke": {
+        "name": "Viscardi Andrade vs Nicholas Musoke",
+        "fighter1": "Viscardi Andrade",
+        "fighter2": "Nicholas Musoke",
+        "winner": "Nicholas Musoke",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 24,
+            "sig_str_att": 69,
+            "str_landed": 68,
+            "str_att": 116,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 152
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 103,
+            "str_landed": 77,
+            "str_att": 140,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 477
+        }
+    },
+    "Charles Oliveira vs Andy Ogle": {
+        "name": "Charles Oliveira vs Andy Ogle",
+        "fighter1": "Charles Oliveira",
+        "fighter2": "Andy Ogle",
+        "winner": "Charles Oliveira",
+        "method": "Submission",
+        "time_end": "2:40",
+        "round_end": 3,
+        "fight_length": 280,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 43,
+            "str_landed": 57,
+            "str_att": 79,
+            "td_comp": 3,
+            "td_att": 8,
+            "sub_att": 2,
+            "ctrl_time": 369
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 49,
+            "str_landed": 34,
+            "str_att": 62,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 269
+        }
+    },
+    "Cristiano Marcello vs Joe Proctor": {
+        "name": "Cristiano Marcello vs Joe Proctor",
+        "fighter1": "Cristiano Marcello",
+        "fighter2": "Joe Proctor",
+        "winner": "Joe Proctor",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 100,
+            "str_landed": 44,
+            "str_att": 121,
+            "td_comp": 1,
+            "td_att": 10,
+            "sub_att": 1,
+            "ctrl_time": 202
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 67,
+            "sig_str_att": 174,
+            "str_landed": 72,
+            "str_att": 182,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 41
+        }
+    },
+    "Rodrigo Damm vs Ivan Jorge": {
+        "name": "Rodrigo Damm vs Ivan Jorge",
+        "fighter1": "Rodrigo Damm",
+        "fighter2": "Ivan Jorge",
+        "winner": "Rodrigo Damm",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 68,
+            "sig_str_att": 170,
+            "str_landed": 69,
+            "str_att": 171,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 11
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 63,
+            "sig_str_att": 159,
+            "str_landed": 68,
+            "str_att": 164,
+            "td_comp": 0,
+            "td_att": 9,
+            "sub_att": 1,
+            "ctrl_time": 118
+        }
+    },
+    "Francisco Trinaldo vs Jesse Ronson": {
+        "name": "Francisco Trinaldo vs Jesse Ronson",
+        "fighter1": "Francisco Trinaldo",
+        "fighter2": "Jesse Ronson",
+        "winner": "Francisco Trinaldo",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 55,
+            "sig_str_att": 148,
+            "str_landed": 61,
+            "str_att": 154,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 118
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 53,
+            "sig_str_att": 126,
+            "str_landed": 56,
+            "str_att": 129,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 36
+        }
+    },
+    "Iuri Alcantara vs Wilson Reis": {
+        "name": "Iuri Alcantara vs Wilson Reis",
+        "fighter1": "Iuri Alcantara",
+        "fighter2": "Wilson Reis",
+        "winner": "Iuri Alcantara",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 42,
+            "sig_str_att": 76,
+            "str_landed": 84,
+            "str_att": 128,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 222
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 61,
+            "str_landed": 66,
+            "str_att": 110,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 406
+        }
+    },
+    "Felipe Arantes vs Maximo Blanco": {
+        "name": "Felipe Arantes vs Maximo Blanco",
+        "fighter1": "Felipe Arantes",
+        "fighter2": "Maximo Blanco",
+        "winner": "Felipe Arantes",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 39,
+            "sig_str_att": 97,
+            "str_landed": 47,
+            "str_att": 105,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 177
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 108,
+            "str_landed": 73,
+            "str_att": 140,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 211
+        }
+    },
+    "Ildemar Alcantara vs Albert Tumenov": {
+        "name": "Ildemar Alcantara vs Albert Tumenov",
+        "fighter1": "Ildemar Alcantara",
+        "fighter2": "Albert Tumenov",
+        "winner": "Ildemar Alcantara",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 50,
+            "sig_str_att": 87,
+            "str_landed": 75,
+            "str_att": 115,
+            "td_comp": 4,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 321
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 71,
+            "str_landed": 50,
+            "str_att": 99,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 135
+        }
+    },
+    "Douglas Silva de Andrade vs Zubaira Tukhugov": {
+        "name": "Douglas Silva de Andrade vs Zubaira Tukhugov",
+        "fighter1": "Douglas Silva de Andrade",
+        "fighter2": "Zubaira Tukhugov",
+        "winner": "Zubaira Tukhugov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 97,
+            "str_landed": 27,
+            "str_att": 97,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 95,
+            "str_landed": 41,
+            "str_att": 102,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 43
+        }
+    }
+}

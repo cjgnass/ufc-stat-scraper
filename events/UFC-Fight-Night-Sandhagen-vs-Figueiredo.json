@@ -1,0 +1,418 @@
+{
+    "event": "UFC Fight Night: Sandhagen vs. Figueiredo",
+    "date": "May 03, 2025",
+    "Cory Sandhagen vs Deiveson Figueiredo": {
+        "name": "Cory Sandhagen vs Deiveson Figueiredo",
+        "fighter1": "Cory Sandhagen",
+        "fighter2": "Deiveson Figueiredo",
+        "winner": "Cory Sandhagen",
+        "method": "KO/TKO",
+        "time_end": "4:08",
+        "round_end": 2,
+        "fight_length": 308,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 54,
+            "sig_str_att": 87,
+            "str_landed": 92,
+            "str_att": 149,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 307
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 9,
+            "str_landed": 8,
+            "str_att": 11,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 31
+        }
+    },
+    "Reinier de Ridder vs Bo Nickal": {
+        "name": "Reinier de Ridder vs Bo Nickal",
+        "fighter1": "Reinier de Ridder",
+        "fighter2": "Bo Nickal",
+        "winner": "Reinier de Ridder",
+        "method": "KO/TKO",
+        "time_end": "1:53",
+        "round_end": 2,
+        "fight_length": 173,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 22,
+            "sig_str_att": 32,
+            "str_landed": 91,
+            "str_att": 104,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 129
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 21,
+            "str_landed": 24,
+            "str_att": 40,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 144
+        }
+    },
+    "Santiago Ponzinibbio vs Daniel Rodriguez": {
+        "name": "Santiago Ponzinibbio vs Daniel Rodriguez",
+        "fighter1": "Santiago Ponzinibbio",
+        "fighter2": "Daniel Rodriguez",
+        "winner": "Daniel Rodriguez",
+        "method": "KO/TKO",
+        "time_end": "1:12",
+        "round_end": 3,
+        "fight_length": 192,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 49,
+            "sig_str_att": 111,
+            "str_landed": 50,
+            "str_att": 115,
+            "td_comp": 1,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 44
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 66,
+            "sig_str_att": 166,
+            "str_landed": 70,
+            "str_att": 170,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 8
+        }
+    },
+    "Montel Jackson vs Daniel Marcos": {
+        "name": "Montel Jackson vs Daniel Marcos",
+        "fighter1": "Montel Jackson",
+        "fighter2": "Daniel Marcos",
+        "winner": "Montel Jackson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 30,
+            "sig_str_att": 66,
+            "str_landed": 67,
+            "str_att": 106,
+            "td_comp": 2,
+            "td_att": 8,
+            "sub_att": 1,
+            "ctrl_time": 217
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 32,
+            "str_landed": 24,
+            "str_att": 43,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 345
+        }
+    },
+    "Cameron Smotherman vs Serhiy Sidey": {
+        "name": "Cameron Smotherman vs Serhiy Sidey",
+        "fighter1": "Cameron Smotherman",
+        "fighter2": "Serhiy Sidey",
+        "winner": "Serhiy Sidey",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 134,
+            "str_landed": 61,
+            "str_att": 137,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 55,
+            "sig_str_att": 132,
+            "str_landed": 66,
+            "str_att": 149,
+            "td_comp": 5,
+            "td_att": 12,
+            "sub_att": 1,
+            "ctrl_time": 252
+        }
+    },
+    "Jeremy Stephens vs Mason Jones": {
+        "name": "Jeremy Stephens vs Mason Jones",
+        "fighter1": "Jeremy Stephens",
+        "fighter2": "Mason Jones",
+        "winner": "Mason Jones",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 108,
+            "str_landed": 54,
+            "str_att": 126,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 11
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 81,
+            "sig_str_att": 231,
+            "str_landed": 104,
+            "str_att": 261,
+            "td_comp": 8,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 363
+        }
+    },
+    "Yana Santos vs Miesha Tate": {
+        "name": "Yana Santos vs Miesha Tate",
+        "fighter1": "Yana Santos",
+        "fighter2": "Miesha Tate",
+        "winner": "Yana Santos",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 66,
+            "sig_str_att": 117,
+            "str_landed": 87,
+            "str_att": 143,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 46
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 115,
+            "str_landed": 108,
+            "str_att": 204,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 305
+        }
+    },
+    "Ryan Loder vs Azamat Bekoev": {
+        "name": "Ryan Loder vs Azamat Bekoev",
+        "fighter1": "Ryan Loder",
+        "fighter2": "Azamat Bekoev",
+        "winner": "Azamat Bekoev",
+        "method": "KO/TKO",
+        "time_end": "2:44",
+        "round_end": 1,
+        "fight_length": 164,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 25,
+            "str_landed": 15,
+            "str_att": 27,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 13
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 23,
+            "sig_str_att": 46,
+            "str_landed": 39,
+            "str_att": 66,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 64
+        }
+    },
+    "Marina Rodriguez vs Gillian Robertson": {
+        "name": "Marina Rodriguez vs Gillian Robertson",
+        "fighter1": "Marina Rodriguez",
+        "fighter2": "Gillian Robertson",
+        "winner": "Gillian Robertson",
+        "method": "KO/TKO",
+        "time_end": "2:07",
+        "round_end": 2,
+        "fight_length": 187,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 17,
+            "str_landed": 7,
+            "str_att": 20,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 41,
+            "str_landed": 73,
+            "str_att": 120,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 321
+        }
+    },
+    "Gaston Bolanos vs Quang Le": {
+        "name": "Gaston Bolanos vs Quang Le",
+        "fighter1": "Gaston Bolanos",
+        "fighter2": "Quang Le",
+        "winner": "Quang Le",
+        "method": "Submission",
+        "time_end": "1:54",
+        "round_end": 2,
+        "fight_length": 174,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 20,
+            "str_landed": 8,
+            "str_att": 23,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 14,
+            "str_landed": 33,
+            "str_att": 38,
+            "td_comp": 4,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 346
+        }
+    },
+    "Thomas Petersen vs Don'Tale Mayes": {
+        "name": "Thomas Petersen vs Don'Tale Mayes",
+        "fighter1": "Thomas Petersen",
+        "fighter2": "Don'Tale Mayes",
+        "winner": "Thomas Petersen",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            77,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 51,
+            "str_landed": 105,
+            "str_att": 166,
+            "td_comp": 9,
+            "td_att": 9,
+            "sub_att": 1,
+            "ctrl_time": 829
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 11,
+            "str_landed": 13,
+            "str_att": 23,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Juliana Miller vs Ivana Petrovic": {
+        "name": "Juliana Miller vs Ivana Petrovic",
+        "fighter1": "Juliana Miller",
+        "fighter2": "Ivana Petrovic",
+        "winner": "Juliana Miller",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 55,
+            "str_landed": 54,
+            "str_att": 101,
+            "td_comp": 3,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 490
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 53,
+            "str_landed": 57,
+            "str_att": 87,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 167
+        }
+    }
+}

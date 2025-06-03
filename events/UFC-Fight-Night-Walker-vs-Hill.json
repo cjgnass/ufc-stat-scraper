@@ -1,0 +1,415 @@
+{
+    "event": "UFC Fight Night: Walker vs. Hill",
+    "date": "February 19, 2022",
+    "Johnny Walker vs Jamahal Hill": {
+        "name": "Johnny Walker vs Jamahal Hill",
+        "fighter1": "Johnny Walker",
+        "fighter2": "Jamahal Hill",
+        "winner": "Jamahal Hill",
+        "method": "KO/TKO",
+        "time_end": "2:55",
+        "round_end": 1,
+        "fight_length": 175,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 25,
+            "str_landed": 12,
+            "str_att": 25,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 22
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 6,
+            "sig_str_att": 19,
+            "str_landed": 7,
+            "str_att": 20,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    },
+    "Kyle Daukaus vs Jamie Pickett": {
+        "name": "Kyle Daukaus vs Jamie Pickett",
+        "fighter1": "Kyle Daukaus",
+        "fighter2": "Jamie Pickett",
+        "winner": "Kyle Daukaus",
+        "method": "Submission",
+        "time_end": "4:59",
+        "round_end": 1,
+        "fight_length": 299,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 9,
+            "str_landed": 19,
+            "str_att": 29,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 2,
+            "ctrl_time": 252
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 9,
+            "str_landed": 5,
+            "str_att": 9,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 15
+        }
+    },
+    "Parker Porter vs Alan Baudot": {
+        "name": "Parker Porter vs Alan Baudot",
+        "fighter1": "Parker Porter",
+        "fighter2": "Alan Baudot",
+        "winner": "Parker Porter",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 43,
+            "sig_str_att": 106,
+            "str_landed": 82,
+            "str_att": 150,
+            "td_comp": 2,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 394
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 55,
+            "sig_str_att": 107,
+            "str_landed": 61,
+            "str_att": 113,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 24
+        }
+    },
+    "Jim Miller vs Nikolas Motta": {
+        "name": "Jim Miller vs Nikolas Motta",
+        "fighter1": "Jim Miller",
+        "fighter2": "Nikolas Motta",
+        "winner": "Jim Miller",
+        "method": "KO/TKO",
+        "time_end": "1:58",
+        "round_end": 2,
+        "fight_length": 178,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 48,
+            "sig_str_att": 92,
+            "str_landed": 49,
+            "str_att": 93,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 34
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 57,
+            "str_landed": 21,
+            "str_att": 57,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Joaquin Buckley vs Abdul Razak Alhassan": {
+        "name": "Joaquin Buckley vs Abdul Razak Alhassan",
+        "fighter1": "Joaquin Buckley",
+        "fighter2": "Abdul Razak Alhassan",
+        "winner": "Joaquin Buckley",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 51,
+            "sig_str_att": 153,
+            "str_landed": 57,
+            "str_att": 159,
+            "td_comp": 5,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 125
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 94,
+            "str_landed": 55,
+            "str_att": 103,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 214
+        }
+    },
+    "Gabriel Benitez vs David Onama": {
+        "name": "Gabriel Benitez vs David Onama",
+        "fighter1": "Gabriel Benitez",
+        "fighter2": "David Onama",
+        "winner": "David Onama",
+        "method": "KO/TKO",
+        "time_end": "4:24",
+        "round_end": 1,
+        "fight_length": 264,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 96,
+            "str_landed": 46,
+            "str_att": 96,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 36,
+            "sig_str_att": 94,
+            "str_landed": 36,
+            "str_att": 94,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 10
+        }
+    },
+    "Jessica-Rose Clark vs Stephanie Egger": {
+        "name": "Jessica-Rose Clark vs Stephanie Egger",
+        "fighter1": "Jessica-Rose Clark",
+        "fighter2": "Stephanie Egger",
+        "winner": "Stephanie Egger",
+        "method": "Submission",
+        "time_end": "3:44",
+        "round_end": 1,
+        "fight_length": 224,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 4,
+            "str_landed": 10,
+            "str_att": 13,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 121
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 10,
+            "str_landed": 29,
+            "str_att": 34,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 81
+        }
+    },
+    "Chas Skelly vs Mark Striegl": {
+        "name": "Chas Skelly vs Mark Striegl",
+        "fighter1": "Chas Skelly",
+        "fighter2": "Mark Striegl",
+        "winner": "Chas Skelly",
+        "method": "KO/TKO",
+        "time_end": "2:01",
+        "round_end": 2,
+        "fight_length": 181,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 14,
+            "sig_str_att": 30,
+            "str_landed": 45,
+            "str_att": 63,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 223
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 17,
+            "str_landed": 34,
+            "str_att": 44,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 82
+        }
+    },
+    "Diana Belbita vs Gloria de Paula": {
+        "name": "Diana Belbita vs Gloria de Paula",
+        "fighter1": "Diana Belbita",
+        "fighter2": "Gloria de Paula",
+        "winner": "Gloria de Paula",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 87,
+            "sig_str_att": 252,
+            "str_landed": 124,
+            "str_att": 295,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 44
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 88,
+            "sig_str_att": 175,
+            "str_landed": 113,
+            "str_att": 201,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 324
+        }
+    },
+    "Chad Anheliger vs Jesse Strader": {
+        "name": "Chad Anheliger vs Jesse Strader",
+        "fighter1": "Chad Anheliger",
+        "fighter2": "Jesse Strader",
+        "winner": "Chad Anheliger",
+        "method": "KO/TKO",
+        "time_end": "3:33",
+        "round_end": 3,
+        "fight_length": 333,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 67,
+            "sig_str_att": 130,
+            "str_landed": 92,
+            "str_att": 156,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 80
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 64,
+            "sig_str_att": 126,
+            "str_landed": 73,
+            "str_att": 135,
+            "td_comp": 4,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 200
+        }
+    },
+    "Jonathan Pearce vs Christian Rodriguez": {
+        "name": "Jonathan Pearce vs Christian Rodriguez",
+        "fighter1": "Jonathan Pearce",
+        "fighter2": "Christian Rodriguez",
+        "winner": "Jonathan Pearce",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 44,
+            "str_landed": 59,
+            "str_att": 102,
+            "td_comp": 6,
+            "td_att": 10,
+            "sub_att": 2,
+            "ctrl_time": 677
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 60,
+            "str_landed": 38,
+            "str_att": 77,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 3,
+            "ctrl_time": 65
+        }
+    },
+    "Mario Bautista vs Jay Perrin": {
+        "name": "Mario Bautista vs Jay Perrin",
+        "fighter1": "Mario Bautista",
+        "fighter2": "Jay Perrin",
+        "winner": "Mario Bautista",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 72,
+            "sig_str_att": 125,
+            "str_landed": 112,
+            "str_att": 173,
+            "td_comp": 4,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 390
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 107,
+            "str_landed": 57,
+            "str_att": 122,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 105
+        }
+    }
+}

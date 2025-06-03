@@ -1,0 +1,244 @@
+{
+    "event": "UFC 41: Onslaught",
+    "date": "February 28, 2003",
+    "Tim Sylvia vs Ricco Rodriguez": {
+        "name": "Tim Sylvia vs Ricco Rodriguez",
+        "fighter1": "Tim Sylvia",
+        "fighter2": "Ricco Rodriguez",
+        "winner": "Tim Sylvia",
+        "method": "KO/TKO",
+        "time_end": "3:09",
+        "round_end": 1,
+        "fight_length": 189,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 12,
+            "sig_str_att": 25,
+            "str_landed": 15,
+            "str_att": 28,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 78
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 10,
+            "str_landed": 10,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 0
+        }
+    },
+    "Frank Mir vs David Abbott": {
+        "name": "Frank Mir vs David Abbott",
+        "fighter1": "Frank Mir",
+        "fighter2": "David Abbott",
+        "winner": "Frank Mir",
+        "method": "Submission",
+        "time_end": "0:46",
+        "round_end": 1,
+        "fight_length": 46,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 1,
+            "str_landed": 0,
+            "str_att": 1,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 5,
+            "str_landed": 2,
+            "str_att": 6,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 38
+        }
+    },
+    "Matt Lindland vs Phil Baroni": {
+        "name": "Matt Lindland vs Phil Baroni",
+        "fighter1": "Matt Lindland",
+        "fighter2": "Phil Baroni",
+        "winner": "Matt Lindland",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 76,
+            "str_landed": 180,
+            "str_att": 230,
+            "td_comp": 4,
+            "td_att": 13,
+            "sub_att": 2,
+            "ctrl_time": 612
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 73,
+            "str_landed": 83,
+            "str_att": 113,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 48
+        }
+    },
+    "Vladimir Matyushenko vs Pedro Rizzo": {
+        "name": "Vladimir Matyushenko vs Pedro Rizzo",
+        "fighter1": "Vladimir Matyushenko",
+        "fighter2": "Pedro Rizzo",
+        "winner": "Vladimir Matyushenko",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 38,
+            "str_landed": 94,
+            "str_att": 113,
+            "td_comp": 5,
+            "td_att": 19,
+            "sub_att": 0,
+            "ctrl_time": 434
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 37,
+            "str_landed": 29,
+            "str_att": 54,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 79
+        }
+    },
+    "Din Thomas vs Matt Serra": {
+        "name": "Din Thomas vs Matt Serra",
+        "fighter1": "Din Thomas",
+        "fighter2": "Matt Serra",
+        "winner": "Din Thomas",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 61,
+            "str_landed": 59,
+            "str_att": 92,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 105
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 81,
+            "str_landed": 42,
+            "str_att": 97,
+            "td_comp": 1,
+            "td_att": 28,
+            "sub_att": 0,
+            "ctrl_time": 86
+        }
+    },
+    "Gan McGee vs Alexandre Dantas": {
+        "name": "Gan McGee vs Alexandre Dantas",
+        "fighter1": "Gan McGee",
+        "fighter2": "Alexandre Dantas",
+        "winner": "Gan McGee",
+        "method": "KO/TKO",
+        "time_end": "4:49",
+        "round_end": 1,
+        "fight_length": 289,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 23,
+            "str_landed": 13,
+            "str_att": 28,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 83
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 4,
+            "str_landed": 1,
+            "str_att": 4,
+            "td_comp": 0,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 116
+        }
+    },
+    "Yves Edwards vs Rich Clementi": {
+        "name": "Yves Edwards vs Rich Clementi",
+        "fighter1": "Yves Edwards",
+        "fighter2": "Rich Clementi",
+        "winner": "Yves Edwards",
+        "method": "Submission",
+        "time_end": "4:07",
+        "round_end": 3,
+        "fight_length": 367,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 51,
+            "sig_str_att": 96,
+            "str_landed": 79,
+            "str_att": 129,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 212
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 64,
+            "str_landed": 59,
+            "str_att": 95,
+            "td_comp": 2,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 207
+        }
+    }
+}

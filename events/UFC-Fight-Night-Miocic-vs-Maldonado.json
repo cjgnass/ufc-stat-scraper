@@ -1,0 +1,415 @@
+{
+    "event": "UFC Fight Night: Miocic vs Maldonado",
+    "date": "May 31, 2014",
+    "Stipe Miocic vs Fabio Maldonado": {
+        "name": "Stipe Miocic vs Fabio Maldonado",
+        "fighter1": "Stipe Miocic",
+        "fighter2": "Fabio Maldonado",
+        "winner": "Stipe Miocic",
+        "method": "KO/TKO",
+        "time_end": "0:35",
+        "round_end": 1,
+        "fight_length": 35,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 8,
+            "sig_str_att": 14,
+            "str_landed": 11,
+            "str_att": 18,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 4
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 8,
+            "str_landed": 2,
+            "str_att": 8,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Vitor Miranda vs Antonio Carlos Junior": {
+        "name": "Vitor Miranda vs Antonio Carlos Junior",
+        "fighter1": "Vitor Miranda",
+        "fighter2": "Antonio Carlos Junior",
+        "winner": "Antonio Carlos Junior",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 47,
+            "str_landed": 103,
+            "str_att": 136,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 120
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 70,
+            "str_landed": 33,
+            "str_att": 85,
+            "td_comp": 5,
+            "td_att": 6,
+            "sub_att": 1,
+            "ctrl_time": 511
+        }
+    },
+    "Marcio Alexandre Junior vs Warlley Alves": {
+        "name": "Marcio Alexandre Junior vs Warlley Alves",
+        "fighter1": "Marcio Alexandre Junior",
+        "fighter2": "Warlley Alves",
+        "winner": "Warlley Alves",
+        "method": "Submission",
+        "time_end": "0:25",
+        "round_end": 3,
+        "fight_length": 145,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 21,
+            "str_landed": 22,
+            "str_att": 36,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 19,
+            "sig_str_att": 39,
+            "str_landed": 44,
+            "str_att": 67,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 458
+        }
+    },
+    "Demian Maia vs Alexander Yakovlev": {
+        "name": "Demian Maia vs Alexander Yakovlev",
+        "fighter1": "Demian Maia",
+        "fighter2": "Alexander Yakovlev",
+        "winner": "Demian Maia",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 29,
+            "sig_str_att": 73,
+            "str_landed": 83,
+            "str_att": 128,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 488
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 43,
+            "str_landed": 24,
+            "str_att": 45,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 88
+        }
+    },
+    "Rony Jason vs Robert Peralta": {
+        "name": "Rony Jason vs Robert Peralta",
+        "fighter1": "Rony Jason",
+        "fighter2": "Robert Peralta",
+        "winner": "Robert Peralta",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 30,
+            "sig_str_att": 73,
+            "str_landed": 40,
+            "str_att": 83,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 1,
+            "ctrl_time": 104
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 51,
+            "sig_str_att": 126,
+            "str_landed": 81,
+            "str_att": 156,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 153
+        }
+    },
+    "Rodrigo Damm vs Rashid Magomedov": {
+        "name": "Rodrigo Damm vs Rashid Magomedov",
+        "fighter1": "Rodrigo Damm",
+        "fighter2": "Rashid Magomedov",
+        "winner": "Rashid Magomedov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 104,
+            "str_landed": 42,
+            "str_att": 117,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 108
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 63,
+            "sig_str_att": 161,
+            "str_landed": 66,
+            "str_att": 164,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 42
+        }
+    },
+    "Elias Silverio vs Ernest Chavez": {
+        "name": "Elias Silverio vs Ernest Chavez",
+        "fighter1": "Elias Silverio",
+        "fighter2": "Ernest Chavez",
+        "winner": "Elias Silverio",
+        "method": "Submission",
+        "time_end": "4:21",
+        "round_end": 3,
+        "fight_length": 381,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 65,
+            "sig_str_att": 172,
+            "str_landed": 65,
+            "str_att": 172,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 38
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 54,
+            "sig_str_att": 139,
+            "str_landed": 61,
+            "str_att": 146,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 156
+        }
+    },
+    "Paulo Thiago vs Gasan Umalatov": {
+        "name": "Paulo Thiago vs Gasan Umalatov",
+        "fighter1": "Paulo Thiago",
+        "fighter2": "Gasan Umalatov",
+        "winner": "Gasan Umalatov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 110,
+            "str_landed": 48,
+            "str_att": 119,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 54
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 62,
+            "str_landed": 46,
+            "str_att": 85,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 240
+        }
+    },
+    "Edimilson Souza vs Mark Eddiva": {
+        "name": "Edimilson Souza vs Mark Eddiva",
+        "fighter1": "Edimilson Souza",
+        "fighter2": "Mark Eddiva",
+        "winner": "Edimilson Souza",
+        "method": "KO/TKO",
+        "time_end": "4:52",
+        "round_end": 2,
+        "fight_length": 352,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 79,
+            "sig_str_att": 170,
+            "str_landed": 79,
+            "str_att": 172,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 54,
+            "sig_str_att": 131,
+            "str_landed": 57,
+            "str_att": 135,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 108
+        }
+    },
+    "Ricardo Abreu vs Wagner Silva": {
+        "name": "Ricardo Abreu vs Wagner Silva",
+        "fighter1": "Ricardo Abreu",
+        "fighter2": "Wagner Silva",
+        "winner": "Ricardo Abreu",
+        "method": "Submission",
+        "time_end": "1:06",
+        "round_end": 2,
+        "fight_length": 126,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 33,
+            "sig_str_att": 101,
+            "str_landed": 43,
+            "str_att": 111,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 75
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 52,
+            "str_landed": 20,
+            "str_att": 56,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Marcos Rogerio de Lima vs Richardson Moreira": {
+        "name": "Marcos Rogerio de Lima vs Richardson Moreira",
+        "fighter1": "Marcos Rogerio de Lima",
+        "fighter2": "Richardson Moreira",
+        "winner": "Marcos Rogerio de Lima",
+        "method": "KO/TKO",
+        "time_end": "0:20",
+        "round_end": 1,
+        "fight_length": 20,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 7,
+            "sig_str_att": 10,
+            "str_landed": 7,
+            "str_att": 10,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 4,
+            "str_landed": 4,
+            "str_att": 5,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Pedro Munhoz vs Matt Hobar": {
+        "name": "Pedro Munhoz vs Matt Hobar",
+        "fighter1": "Pedro Munhoz",
+        "fighter2": "Matt Hobar",
+        "winner": "Pedro Munhoz",
+        "method": "KO/TKO",
+        "time_end": "2:47",
+        "round_end": 1,
+        "fight_length": 167,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 43,
+            "str_landed": 27,
+            "str_att": 46,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 31
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 27,
+            "str_landed": 7,
+            "str_att": 27,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 16
+        }
+    }
+}

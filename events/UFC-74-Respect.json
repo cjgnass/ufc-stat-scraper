@@ -1,0 +1,310 @@
+{
+    "event": "UFC 74: Respect",
+    "date": "August 25, 2007",
+    "Randy Couture vs Gabriel Gonzaga": {
+        "name": "Randy Couture vs Gabriel Gonzaga",
+        "fighter1": "Randy Couture",
+        "fighter2": "Gabriel Gonzaga",
+        "winner": "Randy Couture",
+        "method": "KO/TKO",
+        "time_end": "1:37",
+        "round_end": 3,
+        "fight_length": 217,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 63,
+            "sig_str_att": 87,
+            "str_landed": 82,
+            "str_att": 106,
+            "td_comp": 3,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 541
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 38,
+            "str_landed": 12,
+            "str_att": 39,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 3
+        }
+    },
+    "Georges St-Pierre vs Josh Koscheck": {
+        "name": "Georges St-Pierre vs Josh Koscheck",
+        "fighter1": "Georges St-Pierre",
+        "fighter2": "Josh Koscheck",
+        "winner": "Georges St-Pierre",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 61,
+            "str_landed": 118,
+            "str_att": 145,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 5,
+            "ctrl_time": 558
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 41,
+            "str_landed": 14,
+            "str_att": 53,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 87
+        }
+    },
+    "Roger Huerta vs Alberto Crane": {
+        "name": "Roger Huerta vs Alberto Crane",
+        "fighter1": "Roger Huerta",
+        "fighter2": "Alberto Crane",
+        "winner": "Roger Huerta",
+        "method": "KO/TKO",
+        "time_end": "1:50",
+        "round_end": 3,
+        "fight_length": 230,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 64,
+            "str_landed": 97,
+            "str_att": 148,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 392
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 6,
+            "str_landed": 14,
+            "str_att": 16,
+            "td_comp": 0,
+            "td_att": 7,
+            "sub_att": 3,
+            "ctrl_time": 225
+        }
+    },
+    "Joe Stevenson vs Kurt Pellegrino": {
+        "name": "Joe Stevenson vs Kurt Pellegrino",
+        "fighter1": "Joe Stevenson",
+        "fighter2": "Kurt Pellegrino",
+        "winner": "Joe Stevenson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 84,
+            "str_landed": 80,
+            "str_att": 128,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 3,
+            "ctrl_time": 247
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 91,
+            "str_landed": 35,
+            "str_att": 99,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 369
+        }
+    },
+    "Patrick Cote vs Kendall Grove": {
+        "name": "Patrick Cote vs Kendall Grove",
+        "fighter1": "Patrick Cote",
+        "fighter2": "Kendall Grove",
+        "winner": "Patrick Cote",
+        "method": "KO/TKO",
+        "time_end": "4:45",
+        "round_end": 1,
+        "fight_length": 285,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 20,
+            "sig_str_att": 31,
+            "str_landed": 32,
+            "str_att": 44,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 161
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 27,
+            "str_landed": 25,
+            "str_att": 40,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 6
+        }
+    },
+    "Renato Sobral vs David Heath": {
+        "name": "Renato Sobral vs David Heath",
+        "fighter1": "Renato Sobral",
+        "fighter2": "David Heath",
+        "winner": "Renato Sobral",
+        "method": "Submission",
+        "time_end": "3:30",
+        "round_end": 2,
+        "fight_length": 270,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 60,
+            "sig_str_att": 95,
+            "str_landed": 126,
+            "str_att": 175,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 3,
+            "ctrl_time": 303
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 11,
+            "str_landed": 33,
+            "str_att": 41,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 144
+        }
+    },
+    "Frank Mir vs Antoni Hardonk": {
+        "name": "Frank Mir vs Antoni Hardonk",
+        "fighter1": "Frank Mir",
+        "fighter2": "Antoni Hardonk",
+        "winner": "Frank Mir",
+        "method": "Submission",
+        "time_end": "1:17",
+        "round_end": 1,
+        "fight_length": 77,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 5,
+            "str_landed": 7,
+            "str_att": 8,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 63
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 3,
+            "str_landed": 1,
+            "str_att": 3,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Thales Leites vs Ryan Jensen": {
+        "name": "Thales Leites vs Ryan Jensen",
+        "fighter1": "Thales Leites",
+        "fighter2": "Ryan Jensen",
+        "winner": "Thales Leites",
+        "method": "Submission",
+        "time_end": "3:47",
+        "round_end": 1,
+        "fight_length": 227,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 18,
+            "str_landed": 12,
+            "str_att": 20,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 2,
+            "ctrl_time": 73
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 26,
+            "str_landed": 14,
+            "str_att": 29,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 40
+        }
+    },
+    "Clay Guida vs Marcus Aurelio": {
+        "name": "Clay Guida vs Marcus Aurelio",
+        "fighter1": "Clay Guida",
+        "fighter2": "Marcus Aurelio",
+        "winner": "Clay Guida",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 44,
+            "sig_str_att": 181,
+            "str_landed": 71,
+            "str_att": 208,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 206
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 135,
+            "str_landed": 47,
+            "str_att": 142,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

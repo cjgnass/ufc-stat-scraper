@@ -1,0 +1,349 @@
+{
+    "event": "UFC 118: Edgar vs Penn 2",
+    "date": "August 28, 2010",
+    "Frankie Edgar vs BJ Penn": {
+        "name": "Frankie Edgar vs BJ Penn",
+        "fighter1": "Frankie Edgar",
+        "fighter2": "BJ Penn",
+        "winner": "Frankie Edgar",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            135,
+            150
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 94,
+            "sig_str_att": 234,
+            "str_landed": 142,
+            "str_att": 285,
+            "td_comp": 3,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 402
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 146,
+            "str_landed": 56,
+            "str_att": 167,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 85
+        }
+    },
+    "Randy Couture vs James Toney": {
+        "name": "Randy Couture vs James Toney",
+        "fighter1": "Randy Couture",
+        "fighter2": "James Toney",
+        "winner": "Randy Couture",
+        "method": "Submission",
+        "time_end": "3:19",
+        "round_end": 1,
+        "fight_length": 199,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 11,
+            "str_landed": 41,
+            "str_att": 50,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 182
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 0,
+            "str_landed": 4,
+            "str_att": 6,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Demian Maia vs Mario Miranda": {
+        "name": "Demian Maia vs Mario Miranda",
+        "fighter1": "Demian Maia",
+        "fighter2": "Mario Miranda",
+        "winner": "Demian Maia",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 30,
+            "sig_str_att": 49,
+            "str_landed": 104,
+            "str_att": 146,
+            "td_comp": 5,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 592
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 41,
+            "str_landed": 29,
+            "str_att": 60,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 81
+        }
+    },
+    "Kenny Florian vs Gray Maynard": {
+        "name": "Kenny Florian vs Gray Maynard",
+        "fighter1": "Kenny Florian",
+        "fighter2": "Gray Maynard",
+        "winner": "Gray Maynard",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 63,
+            "str_landed": 33,
+            "str_att": 85,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 53,
+            "str_landed": 47,
+            "str_att": 86,
+            "td_comp": 5,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 399
+        }
+    },
+    "Nate Diaz vs Marcus Davis": {
+        "name": "Nate Diaz vs Marcus Davis",
+        "fighter1": "Nate Diaz",
+        "fighter2": "Marcus Davis",
+        "winner": "Nate Diaz",
+        "method": "Submission",
+        "time_end": "4:02",
+        "round_end": 3,
+        "fight_length": 362,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 94,
+            "sig_str_att": 328,
+            "str_landed": 122,
+            "str_att": 358,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 144
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 52,
+            "sig_str_att": 203,
+            "str_landed": 61,
+            "str_att": 213,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 12
+        }
+    },
+    "Joe Lauzon vs Gabe Ruediger": {
+        "name": "Joe Lauzon vs Gabe Ruediger",
+        "fighter1": "Joe Lauzon",
+        "fighter2": "Gabe Ruediger",
+        "winner": "Joe Lauzon",
+        "method": "Submission",
+        "time_end": "2:01",
+        "round_end": 1,
+        "fight_length": 121,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 28,
+            "str_landed": 19,
+            "str_att": 29,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 93
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 8,
+            "str_landed": 1,
+            "str_att": 8,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Andre Winner vs Nik Lentz": {
+        "name": "Andre Winner vs Nik Lentz",
+        "fighter1": "Andre Winner",
+        "fighter2": "Nik Lentz",
+        "winner": "Nik Lentz",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 35,
+            "str_landed": 41,
+            "str_att": 56,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 25
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 32,
+            "str_landed": 80,
+            "str_att": 95,
+            "td_comp": 7,
+            "td_att": 18,
+            "sub_att": 1,
+            "ctrl_time": 780
+        }
+    },
+    "Dan Miller vs John Salter": {
+        "name": "Dan Miller vs John Salter",
+        "fighter1": "Dan Miller",
+        "fighter2": "John Salter",
+        "winner": "Dan Miller",
+        "method": "Submission",
+        "time_end": "1:53",
+        "round_end": 2,
+        "fight_length": 173,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 74,
+            "str_landed": 23,
+            "str_att": 74,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 8
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 52,
+            "str_landed": 29,
+            "str_att": 62,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 99
+        }
+    },
+    "Nick Osipczak vs Greg Soto": {
+        "name": "Nick Osipczak vs Greg Soto",
+        "fighter1": "Nick Osipczak",
+        "fighter2": "Greg Soto",
+        "winner": "Greg Soto",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 67,
+            "str_landed": 44,
+            "str_att": 83,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 57
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 70,
+            "sig_str_att": 100,
+            "str_landed": 152,
+            "str_att": 212,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 662
+        }
+    },
+    "Mike Pierce vs Amilcar Alves": {
+        "name": "Mike Pierce vs Amilcar Alves",
+        "fighter1": "Mike Pierce",
+        "fighter2": "Amilcar Alves",
+        "winner": "Mike Pierce",
+        "method": "Submission",
+        "time_end": "3:11",
+        "round_end": 3,
+        "fight_length": 311,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 47,
+            "str_landed": 87,
+            "str_att": 110,
+            "td_comp": 4,
+            "td_att": 6,
+            "sub_att": 2,
+            "ctrl_time": 719
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 10,
+            "str_landed": 12,
+            "str_att": 20,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

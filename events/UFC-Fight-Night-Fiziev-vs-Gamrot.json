@@ -1,0 +1,346 @@
+{
+    "event": "UFC Fight Night: Fiziev vs. Gamrot",
+    "date": "September 23, 2023",
+    "Rafael Fiziev vs Mateusz Gamrot": {
+        "name": "Rafael Fiziev vs Mateusz Gamrot",
+        "fighter1": "Rafael Fiziev",
+        "fighter2": "Mateusz Gamrot",
+        "winner": "Mateusz Gamrot",
+        "method": "KO/TKO",
+        "time_end": "2:03",
+        "round_end": 2,
+        "fight_length": 183,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 32,
+            "str_landed": 19,
+            "str_att": 34,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 40,
+            "str_landed": 17,
+            "str_att": 42,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 88
+        }
+    },
+    "Bryce Mitchell vs Dan Ige": {
+        "name": "Bryce Mitchell vs Dan Ige",
+        "fighter1": "Bryce Mitchell",
+        "fighter2": "Dan Ige",
+        "winner": "Bryce Mitchell",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 40,
+            "str_landed": 37,
+            "str_att": 59,
+            "td_comp": 5,
+            "td_att": 15,
+            "sub_att": 1,
+            "ctrl_time": 453
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 55,
+            "str_landed": 32,
+            "str_att": 72,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 131
+        }
+    },
+    "Marina Rodriguez vs Michelle Waterson-Gomez": {
+        "name": "Marina Rodriguez vs Michelle Waterson-Gomez",
+        "fighter1": "Marina Rodriguez",
+        "fighter2": "Michelle Waterson-Gomez",
+        "winner": "Marina Rodriguez",
+        "method": "KO/TKO",
+        "time_end": "2:42",
+        "round_end": 2,
+        "fight_length": 222,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 70,
+            "sig_str_att": 102,
+            "str_landed": 90,
+            "str_att": 130,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 123
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 32,
+            "str_landed": 16,
+            "str_att": 37,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 169
+        }
+    },
+    "Bryan Battle vs AJ Fletcher": {
+        "name": "Bryan Battle vs AJ Fletcher",
+        "fighter1": "Bryan Battle",
+        "fighter2": "AJ Fletcher",
+        "winner": "Bryan Battle",
+        "method": "Submission",
+        "time_end": "4:32",
+        "round_end": 2,
+        "fight_length": 332,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 80,
+            "str_landed": 63,
+            "str_att": 105,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 210
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 51,
+            "str_landed": 29,
+            "str_att": 57,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 33
+        }
+    },
+    "Ricardo Ramos vs Charles Jourdain": {
+        "name": "Ricardo Ramos vs Charles Jourdain",
+        "fighter1": "Ricardo Ramos",
+        "fighter2": "Charles Jourdain",
+        "winner": "Charles Jourdain",
+        "method": "Submission",
+        "time_end": "3:12",
+        "round_end": 1,
+        "fight_length": 192,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 9,
+            "str_landed": 0,
+            "str_att": 10,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 118
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 9,
+            "str_landed": 8,
+            "str_att": 10,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        }
+    },
+    "Tim Means vs Andre Fialho": {
+        "name": "Tim Means vs Andre Fialho",
+        "fighter1": "Tim Means",
+        "fighter2": "Andre Fialho",
+        "winner": "Tim Means",
+        "method": "KO/TKO",
+        "time_end": "1:15",
+        "round_end": 3,
+        "fight_length": 195,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 104,
+            "sig_str_att": 143,
+            "str_landed": 134,
+            "str_att": 178,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 171
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 51,
+            "sig_str_att": 103,
+            "str_landed": 56,
+            "str_att": 110,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 48
+        }
+    },
+    "Jacob Malkoun vs Cody Brundage": {
+        "name": "Jacob Malkoun vs Cody Brundage",
+        "fighter1": "Jacob Malkoun",
+        "fighter2": "Cody Brundage",
+        "winner": "Cody Brundage",
+        "method": "DQ",
+        "time_end": "4:15",
+        "round_end": 1,
+        "fight_length": 255,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 39,
+            "str_landed": 44,
+            "str_att": 60,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 219
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 4,
+            "str_landed": 3,
+            "str_att": 5,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 26
+        }
+    },
+    "Mohammed Usman vs Jake Collier": {
+        "name": "Mohammed Usman vs Jake Collier",
+        "fighter1": "Mohammed Usman",
+        "fighter2": "Jake Collier",
+        "winner": "Mohammed Usman",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 85,
+            "sig_str_att": 191,
+            "str_landed": 118,
+            "str_att": 234,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 187
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 87,
+            "sig_str_att": 183,
+            "str_landed": 100,
+            "str_att": 198,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 53
+        }
+    },
+    "Mizuki vs Hannah Goldy": {
+        "name": "Mizuki vs Hannah Goldy",
+        "fighter1": "Mizuki",
+        "fighter2": "Hannah Goldy",
+        "winner": "Mizuki",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 55,
+            "sig_str_att": 105,
+            "str_landed": 83,
+            "str_att": 140,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 211
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 95,
+            "str_landed": 64,
+            "str_att": 123,
+            "td_comp": 1,
+            "td_att": 14,
+            "sub_att": 0,
+            "ctrl_time": 171
+        }
+    },
+    "Tamires Vidal vs Montserrat Rendon": {
+        "name": "Tamires Vidal vs Montserrat Rendon",
+        "fighter1": "Tamires Vidal",
+        "fighter2": "Montserrat Rendon",
+        "winner": "Montserrat Rendon",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 60,
+            "sig_str_att": 109,
+            "str_landed": 78,
+            "str_att": 131,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 54
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 69,
+            "sig_str_att": 182,
+            "str_landed": 112,
+            "str_att": 240,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 291
+        }
+    }
+}

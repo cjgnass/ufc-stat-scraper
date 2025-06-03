@@ -1,0 +1,274 @@
+{
+    "event": "UFC 177: Dillashaw vs Soto",
+    "date": "August 30, 2014",
+    "TJ Dillashaw vs Joe Soto": {
+        "name": "TJ Dillashaw vs Joe Soto",
+        "fighter1": "TJ Dillashaw",
+        "fighter2": "Joe Soto",
+        "winner": "TJ Dillashaw",
+        "method": "KO/TKO",
+        "time_end": "2:20",
+        "round_end": 5,
+        "fight_length": 380,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 151,
+            "sig_str_att": 454,
+            "str_landed": 156,
+            "str_att": 461,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 112
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 62,
+            "sig_str_att": 197,
+            "str_landed": 63,
+            "str_att": 198,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Tony Ferguson vs Danny Castillo": {
+        "name": "Tony Ferguson vs Danny Castillo",
+        "fighter1": "Tony Ferguson",
+        "fighter2": "Danny Castillo",
+        "winner": "Tony Ferguson",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 80,
+            "str_landed": 71,
+            "str_att": 130,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 7
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 105,
+            "str_landed": 30,
+            "str_att": 114,
+            "td_comp": 2,
+            "td_att": 8,
+            "sub_att": 1,
+            "ctrl_time": 569
+        }
+    },
+    "Bethe Correia vs Shayna Baszler": {
+        "name": "Bethe Correia vs Shayna Baszler",
+        "fighter1": "Bethe Correia",
+        "fighter2": "Shayna Baszler",
+        "winner": "Bethe Correia",
+        "method": "KO/TKO",
+        "time_end": "1:56",
+        "round_end": 2,
+        "fight_length": 176,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 68,
+            "sig_str_att": 103,
+            "str_landed": 97,
+            "str_att": 132,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 156
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 30,
+            "str_landed": 19,
+            "str_att": 41,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 115
+        }
+    },
+    "Ramsey Nijem vs Diego Ferreira": {
+        "name": "Ramsey Nijem vs Diego Ferreira",
+        "fighter1": "Ramsey Nijem",
+        "fighter2": "Diego Ferreira",
+        "winner": "Diego Ferreira",
+        "method": "KO/TKO",
+        "time_end": "1:53",
+        "round_end": 2,
+        "fight_length": 173,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 58,
+            "str_landed": 27,
+            "str_att": 67,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 101
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 25,
+            "sig_str_att": 70,
+            "str_landed": 33,
+            "str_att": 79,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 47
+        }
+    },
+    "Yancy Medeiros vs Damon Jackson": {
+        "name": "Yancy Medeiros vs Damon Jackson",
+        "fighter1": "Yancy Medeiros",
+        "fighter2": "Damon Jackson",
+        "winner": "Yancy Medeiros",
+        "method": "Submission",
+        "time_end": "1:54",
+        "round_end": 2,
+        "fight_length": 174,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 55,
+            "str_landed": 36,
+            "str_att": 62,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 39
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 49,
+            "str_landed": 22,
+            "str_att": 51,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 139
+        }
+    },
+    "Lorenz Larkin vs Derek Brunson": {
+        "name": "Lorenz Larkin vs Derek Brunson",
+        "fighter1": "Lorenz Larkin",
+        "fighter2": "Derek Brunson",
+        "winner": "Derek Brunson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 40,
+            "str_landed": 32,
+            "str_att": 53,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 30,
+            "str_landed": 98,
+            "str_att": 125,
+            "td_comp": 4,
+            "td_att": 12,
+            "sub_att": 1,
+            "ctrl_time": 642
+        }
+    },
+    "Ruan Potts vs Anthony Hamilton": {
+        "name": "Ruan Potts vs Anthony Hamilton",
+        "fighter1": "Ruan Potts",
+        "fighter2": "Anthony Hamilton",
+        "winner": "Anthony Hamilton",
+        "method": "KO/TKO",
+        "time_end": "4:17",
+        "round_end": 2,
+        "fight_length": 317,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 29,
+            "str_landed": 24,
+            "str_att": 45,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 60,
+            "sig_str_att": 64,
+            "str_landed": 82,
+            "str_att": 87,
+            "td_comp": 5,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 350
+        }
+    },
+    "Chris Wade vs Cain Carrizosa": {
+        "name": "Chris Wade vs Cain Carrizosa",
+        "fighter1": "Chris Wade",
+        "fighter2": "Cain Carrizosa",
+        "winner": "Chris Wade",
+        "method": "Submission",
+        "time_end": "1:12",
+        "round_end": 1,
+        "fight_length": 72,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 1,
+            "str_landed": 5,
+            "str_att": 6,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 44
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 3,
+            "str_landed": 0,
+            "str_att": 3,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    }
+}

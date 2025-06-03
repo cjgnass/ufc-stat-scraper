@@ -1,0 +1,316 @@
+{
+    "event": "UFC Fight Night: Barnett vs Nelson",
+    "date": "September 26, 2015",
+    "Josh Barnett vs Roy Nelson": {
+        "name": "Josh Barnett vs Roy Nelson",
+        "fighter1": "Josh Barnett",
+        "fighter2": "Roy Nelson",
+        "winner": "Josh Barnett",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            139,
+            146
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 146,
+            "sig_str_att": 205,
+            "str_landed": 215,
+            "str_att": 276,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 502
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 60,
+            "sig_str_att": 114,
+            "str_landed": 92,
+            "str_att": 149,
+            "td_comp": 4,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 472
+        }
+    },
+    "Gegard Mousasi vs Uriah Hall": {
+        "name": "Gegard Mousasi vs Uriah Hall",
+        "fighter1": "Gegard Mousasi",
+        "fighter2": "Uriah Hall",
+        "winner": "Uriah Hall",
+        "method": "KO/TKO",
+        "time_end": "0:25",
+        "round_end": 2,
+        "fight_length": 85,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 24,
+            "str_landed": 35,
+            "str_att": 49,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 286
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 18,
+            "sig_str_att": 24,
+            "str_landed": 22,
+            "str_att": 28,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 12
+        }
+    },
+    "Kyoji Horiguchi vs Chico Camus": {
+        "name": "Kyoji Horiguchi vs Chico Camus",
+        "fighter1": "Kyoji Horiguchi",
+        "fighter2": "Chico Camus",
+        "winner": "Kyoji Horiguchi",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 78,
+            "sig_str_att": 224,
+            "str_landed": 80,
+            "str_att": 226,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 20
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 63,
+            "sig_str_att": 191,
+            "str_landed": 66,
+            "str_att": 196,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 24
+        }
+    },
+    "Takeya Mizugaki vs George Roop": {
+        "name": "Takeya Mizugaki vs George Roop",
+        "fighter1": "Takeya Mizugaki",
+        "fighter2": "George Roop",
+        "winner": "Takeya Mizugaki",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 70,
+            "sig_str_att": 160,
+            "str_landed": 88,
+            "str_att": 180,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 180
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 112,
+            "str_landed": 97,
+            "str_att": 165,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 352
+        }
+    },
+    "Katsunori Kikuno vs Diego Brandao": {
+        "name": "Katsunori Kikuno vs Diego Brandao",
+        "fighter1": "Katsunori Kikuno",
+        "fighter2": "Diego Brandao",
+        "winner": "Diego Brandao",
+        "method": "KO/TKO",
+        "time_end": "0:28",
+        "round_end": 1,
+        "fight_length": 28,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 1,
+            "str_landed": 1,
+            "str_att": 1,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 14,
+            "sig_str_att": 17,
+            "str_landed": 14,
+            "str_att": 19,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 8
+        }
+    },
+    "Keita Nakamura vs Li Jingliang": {
+        "name": "Keita Nakamura vs Li Jingliang",
+        "fighter1": "Keita Nakamura",
+        "fighter2": "Li Jingliang",
+        "winner": "Keita Nakamura",
+        "method": "Submission",
+        "time_end": "2:17",
+        "round_end": 3,
+        "fight_length": 257,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 40,
+            "sig_str_att": 87,
+            "str_landed": 85,
+            "str_att": 138,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 261
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 79,
+            "sig_str_att": 142,
+            "str_landed": 88,
+            "str_att": 151,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 95
+        }
+    },
+    "Nick Hein vs Yusuke Kasuya": {
+        "name": "Nick Hein vs Yusuke Kasuya",
+        "fighter1": "Nick Hein",
+        "fighter2": "Yusuke Kasuya",
+        "winner": "Nick Hein",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 112,
+            "str_landed": 50,
+            "str_att": 116,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 99,
+            "str_landed": 44,
+            "str_att": 99,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    },
+    "Naoyuki Kotani vs Kajan Johnson": {
+        "name": "Naoyuki Kotani vs Kajan Johnson",
+        "fighter1": "Naoyuki Kotani",
+        "fighter2": "Kajan Johnson",
+        "winner": "Kajan Johnson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 55,
+            "str_landed": 61,
+            "str_att": 95,
+            "td_comp": 1,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 162
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 57,
+            "sig_str_att": 104,
+            "str_landed": 59,
+            "str_att": 108,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 67
+        }
+    },
+    "Shinsho Anzai vs Roger Zapata": {
+        "name": "Shinsho Anzai vs Roger Zapata",
+        "fighter1": "Shinsho Anzai",
+        "fighter2": "Roger Zapata",
+        "winner": "Shinsho Anzai",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "0:47",
+        "round_end": 3,
+        "fight_length": 167,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 36,
+            "str_landed": 49,
+            "str_att": 68,
+            "td_comp": 2,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 415
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 54,
+            "str_landed": 53,
+            "str_att": 82,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 24
+        }
+    }
+}

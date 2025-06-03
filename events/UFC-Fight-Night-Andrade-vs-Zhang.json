@@ -1,0 +1,388 @@
+{
+    "event": "UFC Fight Night: Andrade vs. Zhang",
+    "date": "August 31, 2019",
+    "Jessica Andrade vs Zhang Weili": {
+        "name": "Jessica Andrade vs Zhang Weili",
+        "fighter1": "Jessica Andrade",
+        "fighter2": "Zhang Weili",
+        "winner": "Zhang Weili",
+        "method": "KO/TKO",
+        "time_end": "0:42",
+        "round_end": 1,
+        "fight_length": 42,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 12,
+            "str_landed": 4,
+            "str_att": 12,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 29,
+            "sig_str_att": 38,
+            "str_landed": 29,
+            "str_att": 38,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    },
+    "Li Jingliang vs Elizeu Zaleski dos Santos": {
+        "name": "Li Jingliang vs Elizeu Zaleski dos Santos",
+        "fighter1": "Li Jingliang",
+        "fighter2": "Elizeu Zaleski dos Santos",
+        "winner": "Li Jingliang",
+        "method": "KO/TKO",
+        "time_end": "4:51",
+        "round_end": 3,
+        "fight_length": 411,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 3,
+            "sig_str_landed": 59,
+            "sig_str_att": 128,
+            "str_landed": 59,
+            "str_att": 128,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 22
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 54,
+            "sig_str_att": 160,
+            "str_landed": 55,
+            "str_att": 162,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 24
+        }
+    },
+    "Kai Kara-France vs Mark De La Rosa": {
+        "name": "Kai Kara-France vs Mark De La Rosa",
+        "fighter1": "Kai Kara-France",
+        "fighter2": "Mark De La Rosa",
+        "winner": "Kai Kara-France",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 91,
+            "sig_str_att": 193,
+            "str_landed": 93,
+            "str_att": 195,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 20
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 60,
+            "sig_str_att": 195,
+            "str_landed": 63,
+            "str_att": 198,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 72
+        }
+    },
+    "Song Kenan vs Derrick Krantz": {
+        "name": "Song Kenan vs Derrick Krantz",
+        "fighter1": "Song Kenan",
+        "fighter2": "Derrick Krantz",
+        "winner": "Song Kenan",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 128,
+            "str_landed": 61,
+            "str_att": 131,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 36
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 85,
+            "str_landed": 52,
+            "str_att": 105,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 1,
+            "ctrl_time": 338
+        }
+    },
+    "Wu Yanan vs Mizuki": {
+        "name": "Wu Yanan vs Mizuki",
+        "fighter1": "Wu Yanan",
+        "fighter2": "Mizuki",
+        "winner": "Mizuki",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 123,
+            "sig_str_att": 270,
+            "str_landed": 136,
+            "str_att": 283,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 29
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 93,
+            "sig_str_att": 204,
+            "str_landed": 102,
+            "str_att": 214,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 36
+        }
+    },
+    "JunYong Park vs Anthony Hernandez": {
+        "name": "JunYong Park vs Anthony Hernandez",
+        "fighter1": "JunYong Park",
+        "fighter2": "Anthony Hernandez",
+        "winner": "Anthony Hernandez",
+        "method": "Submission",
+        "time_end": "4:39",
+        "round_end": 2,
+        "fight_length": 339,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 81,
+            "sig_str_att": 148,
+            "str_landed": 84,
+            "str_att": 152,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 16
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 59,
+            "sig_str_att": 110,
+            "str_landed": 74,
+            "str_att": 129,
+            "td_comp": 6,
+            "td_att": 9,
+            "sub_att": 1,
+            "ctrl_time": 272
+        }
+    },
+    "Sumudaerji vs Andre Soukhamthath": {
+        "name": "Sumudaerji vs Andre Soukhamthath",
+        "fighter1": "Sumudaerji",
+        "fighter2": "Andre Soukhamthath",
+        "winner": "Sumudaerji",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            77,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 93,
+            "sig_str_att": 157,
+            "str_landed": 103,
+            "str_att": 168,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 218
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 72,
+            "str_landed": 27,
+            "str_att": 76,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 87
+        }
+    },
+    "Da Woon Jung vs Khadis Ibragimov": {
+        "name": "Da Woon Jung vs Khadis Ibragimov",
+        "fighter1": "Da Woon Jung",
+        "fighter2": "Khadis Ibragimov",
+        "winner": "Da Woon Jung",
+        "method": "Submission",
+        "time_end": "1:59",
+        "round_end": 3,
+        "fight_length": 239,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 81,
+            "sig_str_att": 190,
+            "str_landed": 86,
+            "str_att": 195,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 88,
+            "sig_str_att": 167,
+            "str_landed": 95,
+            "str_att": 175,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 190
+        }
+    },
+    "Damir Ismagulov vs Thiago Moises": {
+        "name": "Damir Ismagulov vs Thiago Moises",
+        "fighter1": "Damir Ismagulov",
+        "fighter2": "Thiago Moises",
+        "winner": "Damir Ismagulov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 71,
+            "sig_str_att": 188,
+            "str_landed": 73,
+            "str_att": 191,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 76
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 114,
+            "str_landed": 37,
+            "str_att": 115,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 24
+        }
+    },
+    "Alatengheili vs Batgerel Danaa": {
+        "name": "Alatengheili vs Batgerel Danaa",
+        "fighter1": "Alatengheili",
+        "fighter2": "Batgerel Danaa",
+        "winner": "Alatengheili",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 89,
+            "str_landed": 63,
+            "str_att": 133,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 171
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 85,
+            "sig_str_att": 230,
+            "str_landed": 119,
+            "str_att": 269,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 6
+        }
+    },
+    "Karol Rosa vs Lara Procopio": {
+        "name": "Karol Rosa vs Lara Procopio",
+        "fighter1": "Karol Rosa",
+        "fighter2": "Lara Procopio",
+        "winner": "Karol Rosa",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 171,
+            "sig_str_att": 351,
+            "str_landed": 177,
+            "str_att": 358,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 64
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 165,
+            "sig_str_att": 290,
+            "str_landed": 169,
+            "str_att": 294,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 22
+        }
+    }
+}

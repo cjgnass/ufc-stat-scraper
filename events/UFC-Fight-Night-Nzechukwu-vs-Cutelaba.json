@@ -1,0 +1,388 @@
+{
+    "event": "UFC Fight Night: Nzechukwu vs. Cutelaba",
+    "date": "November 19, 2022",
+    "Kennedy Nzechukwu vs Ion Cutelaba": {
+        "name": "Kennedy Nzechukwu vs Ion Cutelaba",
+        "fighter1": "Kennedy Nzechukwu",
+        "fighter2": "Ion Cutelaba",
+        "winner": "Kennedy Nzechukwu",
+        "method": "KO/TKO",
+        "time_end": "1:02",
+        "round_end": 2,
+        "fight_length": 122,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 24,
+            "sig_str_att": 42,
+            "str_landed": 24,
+            "str_att": 42,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 74
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 26,
+            "str_landed": 30,
+            "str_att": 57,
+            "td_comp": 2,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 212
+        }
+    },
+    "Chase Sherman vs Waldo Cortes-Acosta": {
+        "name": "Chase Sherman vs Waldo Cortes-Acosta",
+        "fighter1": "Chase Sherman",
+        "fighter2": "Waldo Cortes-Acosta",
+        "winner": "Waldo Cortes-Acosta",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 66,
+            "sig_str_att": 177,
+            "str_landed": 73,
+            "str_att": 187,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 94
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 147,
+            "sig_str_att": 278,
+            "str_landed": 149,
+            "str_att": 282,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 13
+        }
+    },
+    "Andre Fialho vs Muslim Salikhov": {
+        "name": "Andre Fialho vs Muslim Salikhov",
+        "fighter1": "Andre Fialho",
+        "fighter2": "Muslim Salikhov",
+        "winner": "Muslim Salikhov",
+        "method": "KO/TKO",
+        "time_end": "1:03",
+        "round_end": 3,
+        "fight_length": 183,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 66,
+            "str_landed": 29,
+            "str_att": 80,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 20
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 56,
+            "sig_str_att": 95,
+            "str_landed": 77,
+            "str_att": 123,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 187
+        }
+    },
+    "Jack Della Maddalena vs Danny Roberts": {
+        "name": "Jack Della Maddalena vs Danny Roberts",
+        "fighter1": "Jack Della Maddalena",
+        "fighter2": "Danny Roberts",
+        "winner": "Jack Della Maddalena",
+        "method": "KO/TKO",
+        "time_end": "3:24",
+        "round_end": 1,
+        "fight_length": 204,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 33,
+            "sig_str_att": 60,
+            "str_landed": 41,
+            "str_att": 68,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 34
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 33,
+            "str_landed": 5,
+            "str_att": 33,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 15
+        }
+    },
+    "Charles Johnson vs Zhalgas Zhumagulov": {
+        "name": "Charles Johnson vs Zhalgas Zhumagulov",
+        "fighter1": "Charles Johnson",
+        "fighter2": "Zhalgas Zhumagulov",
+        "winner": "Charles Johnson",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 115,
+            "sig_str_att": 209,
+            "str_landed": 141,
+            "str_att": 237,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 57
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 119,
+            "sig_str_att": 234,
+            "str_landed": 141,
+            "str_att": 258,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 63
+        }
+    },
+    "Jennifer Maia vs Maryna Moroz": {
+        "name": "Jennifer Maia vs Maryna Moroz",
+        "fighter1": "Jennifer Maia",
+        "fighter2": "Maryna Moroz",
+        "winner": "Jennifer Maia",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 109,
+            "sig_str_att": 253,
+            "str_landed": 117,
+            "str_att": 261,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 104
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 80,
+            "sig_str_att": 272,
+            "str_landed": 84,
+            "str_att": 276,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Vince Morales vs Miles Johns": {
+        "name": "Vince Morales vs Miles Johns",
+        "fighter1": "Vince Morales",
+        "fighter2": "Miles Johns",
+        "winner": "Miles Johns",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 131,
+            "str_landed": 47,
+            "str_att": 139,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 103,
+            "str_landed": 45,
+            "str_att": 110,
+            "td_comp": 1,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 128
+        }
+    },
+    "Ricky Turcios vs Kevin Natividad": {
+        "name": "Ricky Turcios vs Kevin Natividad",
+        "fighter1": "Ricky Turcios",
+        "fighter2": "Kevin Natividad",
+        "winner": "Ricky Turcios",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 68,
+            "sig_str_att": 115,
+            "str_landed": 170,
+            "str_att": 224,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 377
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 41,
+            "sig_str_att": 81,
+            "str_landed": 61,
+            "str_att": 109,
+            "td_comp": 7,
+            "td_att": 13,
+            "sub_att": 0,
+            "ctrl_time": 300
+        }
+    },
+    "Vanessa Demopoulos vs Maria Oliveira": {
+        "name": "Vanessa Demopoulos vs Maria Oliveira",
+        "fighter1": "Vanessa Demopoulos",
+        "fighter2": "Maria Oliveira",
+        "winner": "Vanessa Demopoulos",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 55,
+            "sig_str_att": 80,
+            "str_landed": 121,
+            "str_att": 154,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 479
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 83,
+            "sig_str_att": 154,
+            "str_landed": 95,
+            "str_att": 166,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    },
+    "Brady Hiestand vs Fernie Garcia": {
+        "name": "Brady Hiestand vs Fernie Garcia",
+        "fighter1": "Brady Hiestand",
+        "fighter2": "Fernie Garcia",
+        "winner": "Brady Hiestand",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 34,
+            "str_landed": 56,
+            "str_att": 82,
+            "td_comp": 3,
+            "td_att": 8,
+            "sub_att": 1,
+            "ctrl_time": 554
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 44,
+            "str_landed": 86,
+            "str_att": 125,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 82
+        }
+    },
+    "Natalia Silva vs Tereza Bleda": {
+        "name": "Natalia Silva vs Tereza Bleda",
+        "fighter1": "Natalia Silva",
+        "fighter2": "Tereza Bleda",
+        "winner": "Natalia Silva",
+        "method": "KO/TKO",
+        "time_end": "1:27",
+        "round_end": 3,
+        "fight_length": 207,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 45,
+            "sig_str_att": 72,
+            "str_landed": 62,
+            "str_att": 89,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 133
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 47,
+            "str_landed": 25,
+            "str_att": 55,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 2,
+            "ctrl_time": 296
+        }
+    }
+}

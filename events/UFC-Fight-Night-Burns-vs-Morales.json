@@ -1,0 +1,379 @@
+{
+    "event": "UFC Fight Night: Burns vs. Morales",
+    "date": "May 17, 2025",
+    "Gilbert Burns vs Michael Morales": {
+        "name": "Gilbert Burns vs Michael Morales",
+        "fighter1": "Gilbert Burns",
+        "fighter2": "Michael Morales",
+        "winner": "Michael Morales",
+        "method": "KO/TKO",
+        "time_end": "3:39",
+        "round_end": 1,
+        "fight_length": 219,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 18,
+            "str_landed": 5,
+            "str_att": 18,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 30
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 33,
+            "sig_str_att": 56,
+            "str_landed": 35,
+            "str_att": 58,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 10
+        }
+    },
+    "Sodiq Yusuff vs Mairon Santos": {
+        "name": "Sodiq Yusuff vs Mairon Santos",
+        "fighter1": "Sodiq Yusuff",
+        "fighter2": "Mairon Santos",
+        "winner": "Mairon Santos",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 86,
+            "str_landed": 60,
+            "str_att": 115,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 122
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 83,
+            "str_landed": 71,
+            "str_att": 114,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 117
+        }
+    },
+    "Dustin Stoltzfus vs Nursulton Ruziboev": {
+        "name": "Dustin Stoltzfus vs Nursulton Ruziboev",
+        "fighter1": "Dustin Stoltzfus",
+        "fighter2": "Nursulton Ruziboev",
+        "winner": "Nursulton Ruziboev",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 37,
+            "str_landed": 41,
+            "str_att": 62,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 2,
+            "ctrl_time": 311
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 68,
+            "str_landed": 53,
+            "str_att": 94,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 201
+        }
+    },
+    "Julian Erosa vs Melquizael Costa": {
+        "name": "Julian Erosa vs Melquizael Costa",
+        "fighter1": "Julian Erosa",
+        "fighter2": "Melquizael Costa",
+        "winner": "Melquizael Costa",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 69,
+            "sig_str_att": 173,
+            "str_landed": 85,
+            "str_att": 202,
+            "td_comp": 3,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 214
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 102,
+            "sig_str_att": 204,
+            "str_landed": 128,
+            "str_att": 236,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 23
+        }
+    },
+    "Gabe Green vs Matheus Camilo": {
+        "name": "Gabe Green vs Matheus Camilo",
+        "fighter1": "Gabe Green",
+        "fighter2": "Matheus Camilo",
+        "winner": "Gabe Green",
+        "method": "Submission",
+        "time_end": "3:43",
+        "round_end": 2,
+        "fight_length": 283,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 27,
+            "str_landed": 36,
+            "str_att": 57,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 132
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 27,
+            "str_landed": 33,
+            "str_att": 48,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 150
+        }
+    },
+    "Jared Gordon vs Thiago Moises": {
+        "name": "Jared Gordon vs Thiago Moises",
+        "fighter1": "Jared Gordon",
+        "fighter2": "Thiago Moises",
+        "winner": "Jared Gordon",
+        "method": "KO/TKO",
+        "time_end": "3:37",
+        "round_end": 1,
+        "fight_length": 217,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 7,
+            "sig_str_att": 13,
+            "str_landed": 21,
+            "str_att": 36,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 156
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 9,
+            "str_landed": 11,
+            "str_att": 16,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Yadier del Valle vs Connor Matthews": {
+        "name": "Yadier del Valle vs Connor Matthews",
+        "fighter1": "Yadier del Valle",
+        "fighter2": "Connor Matthews",
+        "winner": "Yadier del Valle",
+        "method": "Submission",
+        "time_end": "2:54",
+        "round_end": 1,
+        "fight_length": 174,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 12,
+            "str_landed": 28,
+            "str_att": 34,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 81
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 10,
+            "str_landed": 3,
+            "str_att": 10,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Luana Santos vs Tainara Lisboa": {
+        "name": "Luana Santos vs Tainara Lisboa",
+        "fighter1": "Luana Santos",
+        "fighter2": "Tainara Lisboa",
+        "winner": "Luana Santos",
+        "method": "Submission",
+        "time_end": "4:59",
+        "round_end": 2,
+        "fight_length": 359,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 19,
+            "str_landed": 50,
+            "str_att": 57,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 477
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 34,
+            "str_landed": 7,
+            "str_att": 35,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Elise Reed vs Denise Gomes": {
+        "name": "Elise Reed vs Denise Gomes",
+        "fighter1": "Elise Reed",
+        "fighter2": "Denise Gomes",
+        "winner": "Denise Gomes",
+        "method": "KO/TKO",
+        "time_end": "0:30",
+        "round_end": 2,
+        "fight_length": 90,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 21,
+            "str_landed": 35,
+            "str_att": 47,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 28,
+            "sig_str_att": 42,
+            "str_landed": 69,
+            "str_att": 86,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 254
+        }
+    },
+    "HyunSung Park vs Carlos Hernandez": {
+        "name": "HyunSung Park vs Carlos Hernandez",
+        "fighter1": "HyunSung Park",
+        "fighter2": "Carlos Hernandez",
+        "winner": "HyunSung Park",
+        "method": "Submission",
+        "time_end": "2:26",
+        "round_end": 1,
+        "fight_length": 146,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 22,
+            "str_landed": 17,
+            "str_att": 27,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 33
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 17,
+            "str_landed": 4,
+            "str_att": 17,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Tecia Pennington vs Luana Pinheiro": {
+        "name": "Tecia Pennington vs Luana Pinheiro",
+        "fighter1": "Tecia Pennington",
+        "fighter2": "Luana Pinheiro",
+        "winner": "Tecia Pennington",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 63,
+            "sig_str_att": 127,
+            "str_landed": 78,
+            "str_att": 149,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 44
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 110,
+            "str_landed": 46,
+            "str_att": 118,
+            "td_comp": 5,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 102
+        }
+    }
+}

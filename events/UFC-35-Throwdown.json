@@ -1,0 +1,274 @@
+{
+    "event": "UFC 35: Throwdown",
+    "date": "January 11, 2002",
+    "Jens Pulver vs BJ Penn": {
+        "name": "Jens Pulver vs BJ Penn",
+        "fighter1": "Jens Pulver",
+        "fighter2": "BJ Penn",
+        "winner": "Jens Pulver",
+        "method": "Decision - Majority",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            139,
+            143
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 98,
+            "str_landed": 122,
+            "str_att": 186,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 501
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 49,
+            "sig_str_att": 93,
+            "str_landed": 161,
+            "str_att": 210,
+            "td_comp": 7,
+            "td_att": 10,
+            "sub_att": 2,
+            "ctrl_time": 384
+        }
+    },
+    "Ricco Rodriguez vs Jeff Monson": {
+        "name": "Ricco Rodriguez vs Jeff Monson",
+        "fighter1": "Ricco Rodriguez",
+        "fighter2": "Jeff Monson",
+        "winner": "Ricco Rodriguez",
+        "method": "KO/TKO",
+        "time_end": "3:00",
+        "round_end": 3,
+        "fight_length": 300,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 65,
+            "str_landed": 100,
+            "str_att": 126,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 400
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 20,
+            "str_landed": 45,
+            "str_att": 60,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 236
+        }
+    },
+    "Murilo Bustamante vs Dave Menne": {
+        "name": "Murilo Bustamante vs Dave Menne",
+        "fighter1": "Murilo Bustamante",
+        "fighter2": "Dave Menne",
+        "winner": "Murilo Bustamante",
+        "method": "KO/TKO",
+        "time_end": "0:44",
+        "round_end": 2,
+        "fight_length": 104,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 9,
+            "sig_str_att": 12,
+            "str_landed": 14,
+            "str_att": 17,
+            "td_comp": 2,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 187
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 33,
+            "str_landed": 23,
+            "str_att": 42,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Chuck Liddell vs Amar Suloev": {
+        "name": "Chuck Liddell vs Amar Suloev",
+        "fighter1": "Chuck Liddell",
+        "fighter2": "Amar Suloev",
+        "winner": "Chuck Liddell",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 144,
+            "str_landed": 46,
+            "str_att": 144,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 69,
+            "str_landed": 26,
+            "str_att": 69,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Andrei Semenov vs Ricardo Almeida": {
+        "name": "Andrei Semenov vs Ricardo Almeida",
+        "fighter1": "Andrei Semenov",
+        "fighter2": "Ricardo Almeida",
+        "winner": "Andrei Semenov",
+        "method": "KO/TKO",
+        "time_end": "2:01",
+        "round_end": 2,
+        "fight_length": 181,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 5,
+            "sig_str_att": 29,
+            "str_landed": 35,
+            "str_att": 59,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 147
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 35,
+            "str_landed": 12,
+            "str_att": 35,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 5,
+            "ctrl_time": 45
+        }
+    },
+    "Kevin Randleman vs Renato Sobral": {
+        "name": "Kevin Randleman vs Renato Sobral",
+        "fighter1": "Kevin Randleman",
+        "fighter2": "Renato Sobral",
+        "winner": "Kevin Randleman",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 39,
+            "str_landed": 72,
+            "str_att": 100,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 767
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 3,
+            "str_landed": 24,
+            "str_att": 26,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 5,
+            "ctrl_time": 0
+        }
+    },
+    "Gil Castillo vs Chris Brennan": {
+        "name": "Gil Castillo vs Chris Brennan",
+        "fighter1": "Gil Castillo",
+        "fighter2": "Chris Brennan",
+        "winner": "Gil Castillo",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 33,
+            "str_landed": 120,
+            "str_att": 150,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 782
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 23,
+            "str_landed": 97,
+            "str_att": 115,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 8
+        }
+    },
+    "Eugene Jackson vs Keith Rockel": {
+        "name": "Eugene Jackson vs Keith Rockel",
+        "fighter1": "Eugene Jackson",
+        "fighter2": "Keith Rockel",
+        "winner": "Eugene Jackson",
+        "method": "Submission",
+        "time_end": "1:14",
+        "round_end": 2,
+        "fight_length": 134,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 3,
+            "str_landed": 44,
+            "str_att": 47,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 4
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 10,
+            "str_landed": 21,
+            "str_att": 25,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 331
+        }
+    }
+}

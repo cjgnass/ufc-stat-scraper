@@ -1,0 +1,460 @@
+{
+    "event": "UFC Fight Night: Moreno vs. Albazi",
+    "date": "November 02, 2024",
+    "Brandon Moreno vs Amir Albazi": {
+        "name": "Brandon Moreno vs Amir Albazi",
+        "fighter1": "Brandon Moreno",
+        "fighter2": "Amir Albazi",
+        "winner": "Brandon Moreno",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            136,
+            149
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 132,
+            "sig_str_att": 317,
+            "str_landed": 132,
+            "str_att": 317,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 63,
+            "sig_str_att": 235,
+            "str_landed": 63,
+            "str_att": 236,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 9
+        }
+    },
+    "Erin Blanchfield vs Rose Namajunas": {
+        "name": "Erin Blanchfield vs Rose Namajunas",
+        "fighter1": "Erin Blanchfield",
+        "fighter2": "Rose Namajunas",
+        "winner": "Erin Blanchfield",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            141,
+            144
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 110,
+            "sig_str_att": 281,
+            "str_landed": 193,
+            "str_att": 387,
+            "td_comp": 2,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 534
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 94,
+            "sig_str_att": 245,
+            "str_landed": 101,
+            "str_att": 254,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 15
+        }
+    },
+    "Caio Machado vs Brendson Ribeiro": {
+        "name": "Caio Machado vs Brendson Ribeiro",
+        "fighter1": "Caio Machado",
+        "fighter2": "Brendson Ribeiro",
+        "winner": "Brendson Ribeiro",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 76,
+            "sig_str_att": 184,
+            "str_landed": 79,
+            "str_att": 187,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 49,
+            "sig_str_att": 131,
+            "str_landed": 49,
+            "str_att": 131,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Ariane da Silva vs Jasmine Jasudavicius": {
+        "name": "Ariane da Silva vs Jasmine Jasudavicius",
+        "fighter1": "Ariane da Silva",
+        "fighter2": "Jasmine Jasudavicius",
+        "winner": "Jasmine Jasudavicius",
+        "method": "Submission",
+        "time_end": "2:28",
+        "round_end": 3,
+        "fight_length": 268,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 92,
+            "str_landed": 43,
+            "str_att": 93,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 84,
+            "str_landed": 130,
+            "str_att": 218,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 344
+        }
+    },
+    "Marc-Andre Barriault vs Dustin Stoltzfus": {
+        "name": "Marc-Andre Barriault vs Dustin Stoltzfus",
+        "fighter1": "Marc-Andre Barriault",
+        "fighter2": "Dustin Stoltzfus",
+        "winner": "Dustin Stoltzfus",
+        "method": "KO/TKO",
+        "time_end": "4:28",
+        "round_end": 1,
+        "fight_length": 268,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 11,
+            "str_landed": 13,
+            "str_att": 17,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 13,
+            "sig_str_att": 20,
+            "str_landed": 23,
+            "str_att": 32,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 234
+        }
+    },
+    "Mike Malott vs Trevin Giles": {
+        "name": "Mike Malott vs Trevin Giles",
+        "fighter1": "Mike Malott",
+        "fighter2": "Trevin Giles",
+        "winner": "Mike Malott",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 59,
+            "sig_str_att": 130,
+            "str_landed": 59,
+            "str_att": 130,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 78,
+            "str_landed": 34,
+            "str_att": 78,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Aiemann Zahabi vs Pedro Munhoz": {
+        "name": "Aiemann Zahabi vs Pedro Munhoz",
+        "fighter1": "Aiemann Zahabi",
+        "fighter2": "Pedro Munhoz",
+        "winner": "Aiemann Zahabi",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 109,
+            "sig_str_att": 206,
+            "str_landed": 110,
+            "str_att": 208,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 95,
+            "sig_str_att": 327,
+            "str_landed": 95,
+            "str_att": 327,
+            "td_comp": 0,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Charles Jourdain vs Victor Henry": {
+        "name": "Charles Jourdain vs Victor Henry",
+        "fighter1": "Charles Jourdain",
+        "fighter2": "Victor Henry",
+        "winner": "Charles Jourdain",
+        "method": "Submission",
+        "time_end": "3:43",
+        "round_end": 2,
+        "fight_length": 283,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 73,
+            "str_landed": 50,
+            "str_att": 87,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 17
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 54,
+            "str_landed": 39,
+            "str_att": 75,
+            "td_comp": 4,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 229
+        }
+    },
+    "Jack Shore vs Youssef Zalal": {
+        "name": "Jack Shore vs Youssef Zalal",
+        "fighter1": "Jack Shore",
+        "fighter2": "Youssef Zalal",
+        "winner": "Youssef Zalal",
+        "method": "Submission",
+        "time_end": "0:59",
+        "round_end": 2,
+        "fight_length": 119,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 18,
+            "str_landed": 10,
+            "str_att": 21,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 109
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 13,
+            "sig_str_att": 27,
+            "str_landed": 21,
+            "str_att": 37,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 127
+        }
+    },
+    "Alexandr Romanov vs Rodrigo Nascimento": {
+        "name": "Alexandr Romanov vs Rodrigo Nascimento",
+        "fighter1": "Alexandr Romanov",
+        "fighter2": "Rodrigo Nascimento",
+        "winner": "Alexandr Romanov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 92,
+            "str_landed": 87,
+            "str_att": 135,
+            "td_comp": 6,
+            "td_att": 10,
+            "sub_att": 1,
+            "ctrl_time": 453
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 91,
+            "str_landed": 48,
+            "str_att": 108,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Serhiy Sidey vs Garrett Armfield": {
+        "name": "Serhiy Sidey vs Garrett Armfield",
+        "fighter1": "Serhiy Sidey",
+        "fighter2": "Garrett Armfield",
+        "winner": "Serhiy Sidey",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 68,
+            "sig_str_att": 144,
+            "str_landed": 75,
+            "str_att": 151,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 3,
+            "ctrl_time": 47
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 71,
+            "sig_str_att": 142,
+            "str_landed": 77,
+            "str_att": 148,
+            "td_comp": 4,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 293
+        }
+    },
+    "Chad Anheliger vs Cody Gibson": {
+        "name": "Chad Anheliger vs Cody Gibson",
+        "fighter1": "Chad Anheliger",
+        "fighter2": "Cody Gibson",
+        "winner": "Cody Gibson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 19,
+            "str_landed": 59,
+            "str_att": 77,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 34,
+            "str_landed": 59,
+            "str_att": 93,
+            "td_comp": 5,
+            "td_att": 6,
+            "sub_att": 2,
+            "ctrl_time": 745
+        }
+    },
+    "Jamey-Lyn Horth vs Ivana Petrovic": {
+        "name": "Jamey-Lyn Horth vs Ivana Petrovic",
+        "fighter1": "Jamey-Lyn Horth",
+        "fighter2": "Ivana Petrovic",
+        "winner": "Jamey-Lyn Horth",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 70,
+            "str_landed": 50,
+            "str_att": 94,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 150
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 75,
+            "str_landed": 67,
+            "str_att": 128,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 465
+        }
+    }
+}

@@ -1,0 +1,244 @@
+{
+    "event": "The Ultimate Fighter: Team Hughes vs. Team Franklin Finale",
+    "date": "November 05, 2005",
+    "Diego Sanchez vs Nick Diaz": {
+        "name": "Diego Sanchez vs Nick Diaz",
+        "fighter1": "Diego Sanchez",
+        "fighter2": "Nick Diaz",
+        "winner": "Diego Sanchez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 95,
+            "str_landed": 65,
+            "str_att": 123,
+            "td_comp": 5,
+            "td_att": 11,
+            "sub_att": 1,
+            "ctrl_time": 625
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 34,
+            "str_landed": 118,
+            "str_att": 144,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 138
+        }
+    },
+    "Rashad Evans vs Brad Imes": {
+        "name": "Rashad Evans vs Brad Imes",
+        "fighter1": "Rashad Evans",
+        "fighter2": "Brad Imes",
+        "winner": "Rashad Evans",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 48,
+            "sig_str_att": 96,
+            "str_landed": 53,
+            "str_att": 103,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 128
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 164,
+            "str_landed": 45,
+            "str_att": 168,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 95
+        }
+    },
+    "Joe Stevenson vs Luke Cummo": {
+        "name": "Joe Stevenson vs Luke Cummo",
+        "fighter1": "Joe Stevenson",
+        "fighter2": "Luke Cummo",
+        "winner": "Joe Stevenson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 33,
+            "str_landed": 58,
+            "str_att": 77,
+            "td_comp": 5,
+            "td_att": 9,
+            "sub_att": 2,
+            "ctrl_time": 583
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 39,
+            "str_landed": 66,
+            "str_att": 91,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 122
+        }
+    },
+    "Kenny Florian vs Kit Cope": {
+        "name": "Kenny Florian vs Kit Cope",
+        "fighter1": "Kenny Florian",
+        "fighter2": "Kit Cope",
+        "winner": "Kenny Florian",
+        "method": "Submission",
+        "time_end": "0:37",
+        "round_end": 2,
+        "fight_length": 97,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 20,
+            "str_landed": 37,
+            "str_att": 50,
+            "td_comp": 3,
+            "td_att": 8,
+            "sub_att": 2,
+            "ctrl_time": 259
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 15,
+            "str_landed": 11,
+            "str_att": 19,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 15
+        }
+    },
+    "Joshua Burkman vs Sammy Morgan": {
+        "name": "Joshua Burkman vs Sammy Morgan",
+        "fighter1": "Joshua Burkman",
+        "fighter2": "Sammy Morgan",
+        "winner": "Joshua Burkman",
+        "method": "KO/TKO",
+        "time_end": "0:21",
+        "round_end": 1,
+        "fight_length": 21,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 5,
+            "str_landed": 4,
+            "str_att": 5,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 2,
+            "str_landed": 1,
+            "str_att": 2,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Melvin Guillard vs Marcus Davis": {
+        "name": "Melvin Guillard vs Marcus Davis",
+        "fighter1": "Melvin Guillard",
+        "fighter2": "Marcus Davis",
+        "winner": "Melvin Guillard",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "2:55",
+        "round_end": 2,
+        "fight_length": 235,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 39,
+            "str_landed": 21,
+            "str_att": 41,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 195
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 16,
+            "str_landed": 67,
+            "str_att": 85,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 139
+        }
+    },
+    "Keith Jardine vs Kerry Schall": {
+        "name": "Keith Jardine vs Kerry Schall",
+        "fighter1": "Keith Jardine",
+        "fighter2": "Kerry Schall",
+        "winner": "Keith Jardine",
+        "method": "KO/TKO",
+        "time_end": "3:28",
+        "round_end": 2,
+        "fight_length": 268,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 41,
+            "sig_str_att": 111,
+            "str_landed": 41,
+            "str_att": 111,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 68,
+            "str_landed": 8,
+            "str_att": 68,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

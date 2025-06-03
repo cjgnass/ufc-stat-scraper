@@ -1,0 +1,424 @@
+{
+    "event": "The Ultimate Fighter: Tournament of Champions Finale",
+    "date": "December 03, 2016",
+    "Demetrious Johnson vs Tim Elliott": {
+        "name": "Demetrious Johnson vs Tim Elliott",
+        "fighter1": "Demetrious Johnson",
+        "fighter2": "Tim Elliott",
+        "winner": "Demetrious Johnson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            137,
+            147
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 58,
+            "str_landed": 86,
+            "str_att": 116,
+            "td_comp": 5,
+            "td_att": 7,
+            "sub_att": 3,
+            "ctrl_time": 998
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 61,
+            "str_landed": 110,
+            "str_att": 157,
+            "td_comp": 4,
+            "td_att": 4,
+            "sub_att": 2,
+            "ctrl_time": 218
+        }
+    },
+    "Joseph Benavidez vs Henry Cejudo": {
+        "name": "Joseph Benavidez vs Henry Cejudo",
+        "fighter1": "Joseph Benavidez",
+        "fighter2": "Henry Cejudo",
+        "winner": "Joseph Benavidez",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 69,
+            "sig_str_att": 232,
+            "str_landed": 69,
+            "str_att": 232,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 68,
+            "sig_str_att": 195,
+            "str_landed": 70,
+            "str_att": 197,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 13
+        }
+    },
+    "Jake Ellenberger vs Jorge Masvidal": {
+        "name": "Jake Ellenberger vs Jorge Masvidal",
+        "fighter1": "Jake Ellenberger",
+        "fighter2": "Jorge Masvidal",
+        "winner": "Jorge Masvidal",
+        "method": "KO/TKO",
+        "time_end": "4:05",
+        "round_end": 1,
+        "fight_length": 245,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 31,
+            "str_landed": 11,
+            "str_att": 31,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 63,
+            "str_landed": 50,
+            "str_att": 70,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 38
+        }
+    },
+    "Ion Cutelaba vs Jared Cannonier": {
+        "name": "Ion Cutelaba vs Jared Cannonier",
+        "fighter1": "Ion Cutelaba",
+        "fighter2": "Jared Cannonier",
+        "winner": "Jared Cannonier",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 142,
+            "str_landed": 50,
+            "str_att": 148,
+            "td_comp": 6,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 286
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 59,
+            "sig_str_att": 94,
+            "str_landed": 83,
+            "str_att": 121,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 189
+        }
+    },
+    "Sara McMann vs Alexis Davis": {
+        "name": "Sara McMann vs Alexis Davis",
+        "fighter1": "Sara McMann",
+        "fighter2": "Alexis Davis",
+        "winner": "Sara McMann",
+        "method": "Submission",
+        "time_end": "2:52",
+        "round_end": 2,
+        "fight_length": 232,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 36,
+            "str_landed": 25,
+            "str_att": 47,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 29,
+            "str_landed": 55,
+            "str_att": 66,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 370
+        }
+    },
+    "Brandon Moreno vs Ryan Benoit": {
+        "name": "Brandon Moreno vs Ryan Benoit",
+        "fighter1": "Brandon Moreno",
+        "fighter2": "Ryan Benoit",
+        "winner": "Brandon Moreno",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 54,
+            "sig_str_att": 143,
+            "str_landed": 78,
+            "str_att": 167,
+            "td_comp": 5,
+            "td_att": 13,
+            "sub_att": 0,
+            "ctrl_time": 290
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 23,
+            "sig_str_att": 93,
+            "str_landed": 25,
+            "str_att": 95,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 16
+        }
+    },
+    "Gray Maynard vs Ryan Hall": {
+        "name": "Gray Maynard vs Ryan Hall",
+        "fighter1": "Gray Maynard",
+        "fighter2": "Ryan Hall",
+        "winner": "Ryan Hall",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 42,
+            "str_landed": 17,
+            "str_att": 50,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 178
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 117,
+            "str_landed": 53,
+            "str_att": 124,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Rob Font vs Matt Schnell": {
+        "name": "Rob Font vs Matt Schnell",
+        "fighter1": "Rob Font",
+        "fighter2": "Matt Schnell",
+        "winner": "Rob Font",
+        "method": "KO/TKO",
+        "time_end": "3:47",
+        "round_end": 1,
+        "fight_length": 227,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 26,
+            "sig_str_att": 33,
+            "str_landed": 32,
+            "str_att": 40,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 130
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 33,
+            "str_landed": 25,
+            "str_att": 44,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Dong Hyun Ma vs Brendan O'Reilly": {
+        "name": "Dong Hyun Ma vs Brendan O'Reilly",
+        "fighter1": "Dong Hyun Ma",
+        "fighter2": "Brendan O'Reilly",
+        "winner": "Dong Hyun Ma",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 32,
+            "str_landed": 98,
+            "str_att": 116,
+            "td_comp": 4,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 595
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 38,
+            "str_landed": 70,
+            "str_att": 85,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 221
+        }
+    },
+    "Kailin Curran vs Jamie Moyle": {
+        "name": "Kailin Curran vs Jamie Moyle",
+        "fighter1": "Kailin Curran",
+        "fighter2": "Jamie Moyle",
+        "winner": "Jamie Moyle",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 134,
+            "str_landed": 89,
+            "str_att": 178,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 439
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 73,
+            "sig_str_att": 121,
+            "str_landed": 114,
+            "str_att": 175,
+            "td_comp": 3,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 86
+        }
+    },
+    "Elvis Mutapcic vs Anthony Smith": {
+        "name": "Elvis Mutapcic vs Anthony Smith",
+        "fighter1": "Elvis Mutapcic",
+        "fighter2": "Anthony Smith",
+        "winner": "Anthony Smith",
+        "method": "KO/TKO",
+        "time_end": "3:27",
+        "round_end": 2,
+        "fight_length": 267,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 81,
+            "str_landed": 39,
+            "str_att": 93,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 258
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 48,
+            "sig_str_att": 90,
+            "str_landed": 52,
+            "str_att": 94,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 3
+        }
+    },
+    "Josh Stansbury vs Devin Clark": {
+        "name": "Josh Stansbury vs Devin Clark",
+        "fighter1": "Josh Stansbury",
+        "fighter2": "Devin Clark",
+        "winner": "Devin Clark",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 66,
+            "str_landed": 83,
+            "str_att": 114,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 231
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 103,
+            "str_landed": 115,
+            "str_att": 176,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 280
+        }
+    }
+}

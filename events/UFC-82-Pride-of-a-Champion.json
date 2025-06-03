@@ -1,0 +1,346 @@
+{
+    "event": "UFC 82: Pride of a Champion",
+    "date": "March 01, 2008",
+    "Anderson Silva vs Dan Henderson": {
+        "name": "Anderson Silva vs Dan Henderson",
+        "fighter1": "Anderson Silva",
+        "fighter2": "Dan Henderson",
+        "winner": "Anderson Silva",
+        "method": "Submission",
+        "time_end": "4:52",
+        "round_end": 2,
+        "fight_length": 352,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 59,
+            "str_landed": 74,
+            "str_att": 88,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 156
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 40,
+            "str_landed": 52,
+            "str_att": 75,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 225
+        }
+    },
+    "Heath Herring vs Cheick Kongo": {
+        "name": "Heath Herring vs Cheick Kongo",
+        "fighter1": "Heath Herring",
+        "fighter2": "Cheick Kongo",
+        "winner": "Heath Herring",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 57,
+            "sig_str_att": 80,
+            "str_landed": 100,
+            "str_att": 125,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 351
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 60,
+            "str_landed": 93,
+            "str_att": 110,
+            "td_comp": 5,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 497
+        }
+    },
+    "Chris Leben vs Alessio Sakara": {
+        "name": "Chris Leben vs Alessio Sakara",
+        "fighter1": "Chris Leben",
+        "fighter2": "Alessio Sakara",
+        "winner": "Chris Leben",
+        "method": "KO/TKO",
+        "time_end": "3:16",
+        "round_end": 1,
+        "fight_length": 196,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 24,
+            "sig_str_att": 50,
+            "str_landed": 25,
+            "str_att": 52,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 26
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 33,
+            "str_landed": 15,
+            "str_att": 36,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Yushin Okami vs Evan Tanner": {
+        "name": "Yushin Okami vs Evan Tanner",
+        "fighter1": "Yushin Okami",
+        "fighter2": "Evan Tanner",
+        "winner": "Yushin Okami",
+        "method": "KO/TKO",
+        "time_end": "3:00",
+        "round_end": 2,
+        "fight_length": 240,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 26,
+            "sig_str_att": 58,
+            "str_landed": 31,
+            "str_att": 63,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 37
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 44,
+            "str_landed": 25,
+            "str_att": 50,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 117
+        }
+    },
+    "Jon Fitch vs Chris Wilson": {
+        "name": "Jon Fitch vs Chris Wilson",
+        "fighter1": "Jon Fitch",
+        "fighter2": "Chris Wilson",
+        "winner": "Jon Fitch",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 76,
+            "str_landed": 131,
+            "str_att": 169,
+            "td_comp": 4,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 478
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 52,
+            "str_landed": 32,
+            "str_att": 62,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 8
+        }
+    },
+    "Andrei Arlovski vs Jake O'Brien": {
+        "name": "Andrei Arlovski vs Jake O'Brien",
+        "fighter1": "Andrei Arlovski",
+        "fighter2": "Jake O'Brien",
+        "winner": "Andrei Arlovski",
+        "method": "KO/TKO",
+        "time_end": "4:17",
+        "round_end": 2,
+        "fight_length": 317,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 35,
+            "str_landed": 55,
+            "str_att": 86,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 119
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 12,
+            "str_landed": 37,
+            "str_att": 52,
+            "td_comp": 2,
+            "td_att": 14,
+            "sub_att": 0,
+            "ctrl_time": 284
+        }
+    },
+    "Luigi Fioravanti vs Luke Cummo": {
+        "name": "Luigi Fioravanti vs Luke Cummo",
+        "fighter1": "Luigi Fioravanti",
+        "fighter2": "Luke Cummo",
+        "winner": "Luigi Fioravanti",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 75,
+            "str_landed": 129,
+            "str_att": 197,
+            "td_comp": 13,
+            "td_att": 16,
+            "sub_att": 0,
+            "ctrl_time": 635
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 39,
+            "str_landed": 82,
+            "str_att": 109,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 40
+        }
+    },
+    "Josh Koscheck vs Dustin Hazelett": {
+        "name": "Josh Koscheck vs Dustin Hazelett",
+        "fighter1": "Josh Koscheck",
+        "fighter2": "Dustin Hazelett",
+        "winner": "Josh Koscheck",
+        "method": "KO/TKO",
+        "time_end": "1:24",
+        "round_end": 2,
+        "fight_length": 144,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 24,
+            "sig_str_att": 59,
+            "str_landed": 25,
+            "str_att": 60,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 72
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 59,
+            "str_landed": 24,
+            "str_att": 63,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 0
+        }
+    },
+    "Diego Sanchez vs David Bielkheden": {
+        "name": "Diego Sanchez vs David Bielkheden",
+        "fighter1": "Diego Sanchez",
+        "fighter2": "David Bielkheden",
+        "winner": "Diego Sanchez",
+        "method": "KO/TKO",
+        "time_end": "4:43",
+        "round_end": 1,
+        "fight_length": 283,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 50,
+            "str_landed": 49,
+            "str_att": 75,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 270
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 1,
+            "str_landed": 11,
+            "str_att": 11,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Jorge Gurgel vs John Halverson": {
+        "name": "Jorge Gurgel vs John Halverson",
+        "fighter1": "Jorge Gurgel",
+        "fighter2": "John Halverson",
+        "winner": "Jorge Gurgel",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 68,
+            "sig_str_att": 137,
+            "str_landed": 118,
+            "str_att": 192,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 521
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 102,
+            "str_landed": 118,
+            "str_att": 180,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 61
+        }
+    }
+}

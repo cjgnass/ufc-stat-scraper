@@ -1,0 +1,424 @@
+{
+    "event": "UFC 227: Dillashaw vs. Garbrandt 2",
+    "date": "August 04, 2018",
+    "TJ Dillashaw vs Cody Garbrandt": {
+        "name": "TJ Dillashaw vs Cody Garbrandt",
+        "fighter1": "TJ Dillashaw",
+        "fighter2": "Cody Garbrandt",
+        "winner": "TJ Dillashaw",
+        "method": "KO/TKO",
+        "time_end": "4:10",
+        "round_end": 1,
+        "fight_length": 250,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 45,
+            "sig_str_att": 72,
+            "str_landed": 51,
+            "str_att": 78,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 29
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 43,
+            "str_landed": 17,
+            "str_att": 43,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Demetrious Johnson vs Henry Cejudo": {
+        "name": "Demetrious Johnson vs Henry Cejudo",
+        "fighter1": "Demetrious Johnson",
+        "fighter2": "Henry Cejudo",
+        "winner": "Henry Cejudo",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            142,
+            143
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 81,
+            "sig_str_att": 134,
+            "str_landed": 121,
+            "str_att": 174,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 36
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 51,
+            "sig_str_att": 147,
+            "str_landed": 80,
+            "str_att": 178,
+            "td_comp": 3,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 278
+        }
+    },
+    "Cub Swanson vs Renato Moicano": {
+        "name": "Cub Swanson vs Renato Moicano",
+        "fighter1": "Cub Swanson",
+        "fighter2": "Renato Moicano",
+        "winner": "Renato Moicano",
+        "method": "Submission",
+        "time_end": "4:15",
+        "round_end": 1,
+        "fight_length": 255,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 38,
+            "str_landed": 20,
+            "str_att": 38,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 17,
+            "sig_str_att": 47,
+            "str_landed": 23,
+            "str_att": 53,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 81
+        }
+    },
+    "Polyana Viana vs JJ Aldrich": {
+        "name": "Polyana Viana vs JJ Aldrich",
+        "fighter1": "Polyana Viana",
+        "fighter2": "JJ Aldrich",
+        "winner": "JJ Aldrich",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 129,
+            "str_landed": 86,
+            "str_att": 175,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 62
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 83,
+            "str_landed": 50,
+            "str_att": 96,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 357
+        }
+    },
+    "Thiago Santos vs Kevin Holland": {
+        "name": "Thiago Santos vs Kevin Holland",
+        "fighter1": "Thiago Santos",
+        "fighter2": "Kevin Holland",
+        "winner": "Thiago Santos",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 69,
+            "sig_str_att": 153,
+            "str_landed": 81,
+            "str_att": 167,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 577
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 55,
+            "str_landed": 81,
+            "str_att": 110,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 70
+        }
+    },
+    "Pedro Munhoz vs Brett Johns": {
+        "name": "Pedro Munhoz vs Brett Johns",
+        "fighter1": "Pedro Munhoz",
+        "fighter2": "Brett Johns",
+        "winner": "Pedro Munhoz",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 3,
+            "sig_str_landed": 117,
+            "sig_str_att": 245,
+            "str_landed": 160,
+            "str_att": 292,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 271
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 73,
+            "sig_str_att": 168,
+            "str_landed": 82,
+            "str_att": 180,
+            "td_comp": 0,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 66
+        }
+    },
+    "Ricky Simon vs Montel Jackson": {
+        "name": "Ricky Simon vs Montel Jackson",
+        "fighter1": "Ricky Simon",
+        "fighter2": "Montel Jackson",
+        "winner": "Ricky Simon",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 53,
+            "str_landed": 44,
+            "str_att": 75,
+            "td_comp": 7,
+            "td_att": 20,
+            "sub_att": 0,
+            "ctrl_time": 337
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 94,
+            "str_landed": 55,
+            "str_att": 107,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 45
+        }
+    },
+    "Ricardo Ramos vs Kyung Ho Kang": {
+        "name": "Ricardo Ramos vs Kyung Ho Kang",
+        "fighter1": "Ricardo Ramos",
+        "fighter2": "Kyung Ho Kang",
+        "winner": "Ricardo Ramos",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 54,
+            "sig_str_att": 146,
+            "str_landed": 63,
+            "str_att": 157,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 58
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 65,
+            "sig_str_att": 157,
+            "str_landed": 101,
+            "str_att": 198,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 127
+        }
+    },
+    "Matt Sayles vs Sheymon Moraes": {
+        "name": "Matt Sayles vs Sheymon Moraes",
+        "fighter1": "Matt Sayles",
+        "fighter2": "Sheymon Moraes",
+        "winner": "Sheymon Moraes",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 77,
+            "sig_str_att": 235,
+            "str_landed": 79,
+            "str_att": 237,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 67
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 73,
+            "sig_str_att": 172,
+            "str_landed": 77,
+            "str_att": 177,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    },
+    "Alex Perez vs Jose Torres": {
+        "name": "Alex Perez vs Jose Torres",
+        "fighter1": "Alex Perez",
+        "fighter2": "Jose Torres",
+        "winner": "Alex Perez",
+        "method": "KO/TKO",
+        "time_end": "3:46",
+        "round_end": 1,
+        "fight_length": 226,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 84,
+            "sig_str_att": 162,
+            "str_landed": 88,
+            "str_att": 166,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 76,
+            "str_landed": 30,
+            "str_att": 77,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Danielle Taylor vs Zhang Weili": {
+        "name": "Danielle Taylor vs Zhang Weili",
+        "fighter1": "Danielle Taylor",
+        "fighter2": "Zhang Weili",
+        "winner": "Zhang Weili",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 123,
+            "str_landed": 35,
+            "str_att": 124,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 77,
+            "sig_str_att": 194,
+            "str_landed": 83,
+            "str_att": 200,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 48
+        }
+    },
+    "Marlon Vera vs Wulijiburen": {
+        "name": "Marlon Vera vs Wulijiburen",
+        "fighter1": "Marlon Vera",
+        "fighter2": "Wulijiburen",
+        "winner": "Marlon Vera",
+        "method": "KO/TKO",
+        "time_end": "4:53",
+        "round_end": 2,
+        "fight_length": 353,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 45,
+            "sig_str_att": 86,
+            "str_landed": 59,
+            "str_att": 102,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 62
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 61,
+            "str_landed": 49,
+            "str_att": 80,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 187
+        }
+    }
+}

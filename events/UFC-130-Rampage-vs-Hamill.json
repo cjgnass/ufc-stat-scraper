@@ -1,0 +1,355 @@
+{
+    "event": "UFC 130: Rampage vs Hamill",
+    "date": "May 28, 2011",
+    "Quinton Jackson vs Matt Hamill": {
+        "name": "Quinton Jackson vs Matt Hamill",
+        "fighter1": "Quinton Jackson",
+        "fighter2": "Matt Hamill",
+        "winner": "Quinton Jackson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 55,
+            "sig_str_att": 128,
+            "str_landed": 61,
+            "str_att": 135,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 62
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 85,
+            "str_landed": 34,
+            "str_att": 87,
+            "td_comp": 0,
+            "td_att": 17,
+            "sub_att": 0,
+            "ctrl_time": 75
+        }
+    },
+    "Frank Mir vs Roy Nelson": {
+        "name": "Frank Mir vs Roy Nelson",
+        "fighter1": "Frank Mir",
+        "fighter2": "Roy Nelson",
+        "winner": "Frank Mir",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 65,
+            "str_landed": 82,
+            "str_att": 103,
+            "td_comp": 6,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 444
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 51,
+            "str_landed": 46,
+            "str_att": 77,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 240
+        }
+    },
+    "Stefan Struve vs Travis Browne": {
+        "name": "Stefan Struve vs Travis Browne",
+        "fighter1": "Stefan Struve",
+        "fighter2": "Travis Browne",
+        "winner": "Travis Browne",
+        "method": "KO/TKO",
+        "time_end": "4:11",
+        "round_end": 1,
+        "fight_length": 251,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 23,
+            "str_landed": 10,
+            "str_att": 23,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 39
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 17,
+            "sig_str_att": 36,
+            "str_landed": 17,
+            "str_att": 37,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 73
+        }
+    },
+    "Thiago Alves vs Rick Story": {
+        "name": "Thiago Alves vs Rick Story",
+        "fighter1": "Thiago Alves",
+        "fighter2": "Rick Story",
+        "winner": "Rick Story",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 111,
+            "str_landed": 54,
+            "str_att": 125,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 60
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 62,
+            "sig_str_att": 169,
+            "str_landed": 79,
+            "str_att": 187,
+            "td_comp": 4,
+            "td_att": 14,
+            "sub_att": 0,
+            "ctrl_time": 459
+        }
+    },
+    "Brian Stann vs Jorge Santiago": {
+        "name": "Brian Stann vs Jorge Santiago",
+        "fighter1": "Brian Stann",
+        "fighter2": "Jorge Santiago",
+        "winner": "Brian Stann",
+        "method": "KO/TKO",
+        "time_end": "4:29",
+        "round_end": 2,
+        "fight_length": 329,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 47,
+            "sig_str_att": 99,
+            "str_landed": 77,
+            "str_att": 135,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 102
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 43,
+            "str_landed": 16,
+            "str_att": 45,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 15
+        }
+    },
+    "Miguel Torres vs Demetrious Johnson": {
+        "name": "Miguel Torres vs Demetrious Johnson",
+        "fighter1": "Miguel Torres",
+        "fighter2": "Demetrious Johnson",
+        "winner": "Demetrious Johnson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 19,
+            "str_landed": 95,
+            "str_att": 115,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 3,
+            "ctrl_time": 273
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 23,
+            "str_landed": 63,
+            "str_att": 92,
+            "td_comp": 5,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 520
+        }
+    },
+    "Kendall Grove vs Tim Boetsch": {
+        "name": "Kendall Grove vs Tim Boetsch",
+        "fighter1": "Kendall Grove",
+        "fighter2": "Tim Boetsch",
+        "winner": "Tim Boetsch",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 45,
+            "str_landed": 68,
+            "str_att": 95,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 108
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 22,
+            "str_landed": 90,
+            "str_att": 111,
+            "td_comp": 7,
+            "td_att": 14,
+            "sub_att": 0,
+            "ctrl_time": 600
+        }
+    },
+    "Gleison Tibau vs Rafaello Oliveira": {
+        "name": "Gleison Tibau vs Rafaello Oliveira",
+        "fighter1": "Gleison Tibau",
+        "fighter2": "Rafaello Oliveira",
+        "winner": "Gleison Tibau",
+        "method": "Submission",
+        "time_end": "3:28",
+        "round_end": 2,
+        "fight_length": 268,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 19,
+            "sig_str_att": 56,
+            "str_landed": 38,
+            "str_att": 77,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 2,
+            "ctrl_time": 141
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 48,
+            "str_landed": 15,
+            "str_att": 51,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 14
+        }
+    },
+    "Michael McDonald vs Chris Cariaso": {
+        "name": "Michael McDonald vs Chris Cariaso",
+        "fighter1": "Michael McDonald",
+        "fighter2": "Chris Cariaso",
+        "winner": "Michael McDonald",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            86,
+            85
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 67,
+            "str_landed": 37,
+            "str_att": 72,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 129
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 85,
+            "str_landed": 55,
+            "str_att": 98,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 98
+        }
+    },
+    "Cole Escovedo vs Renan Barao": {
+        "name": "Cole Escovedo vs Renan Barao",
+        "fighter1": "Cole Escovedo",
+        "fighter2": "Renan Barao",
+        "winner": "Renan Barao",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 65,
+            "str_landed": 48,
+            "str_att": 84,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 12
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 88,
+            "str_landed": 96,
+            "str_att": 139,
+            "td_comp": 6,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 513
+        }
+    }
+}

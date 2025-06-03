@@ -1,0 +1,421 @@
+{
+    "event": "UFC Fight Night: Blaydes vs. Dos Santos",
+    "date": "January 25, 2020",
+    "Curtis Blaydes vs Junior Dos Santos": {
+        "name": "Curtis Blaydes vs Junior Dos Santos",
+        "fighter1": "Curtis Blaydes",
+        "fighter2": "Junior Dos Santos",
+        "winner": "Curtis Blaydes",
+        "method": "KO/TKO",
+        "time_end": "1:06",
+        "round_end": 2,
+        "fight_length": 126,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 60,
+            "str_landed": 29,
+            "str_att": 62,
+            "td_comp": 0,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 19
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 30,
+            "str_landed": 7,
+            "str_att": 30,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Rafael Dos Anjos vs Michael Chiesa": {
+        "name": "Rafael Dos Anjos vs Michael Chiesa",
+        "fighter1": "Rafael Dos Anjos",
+        "fighter2": "Michael Chiesa",
+        "winner": "Michael Chiesa",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 36,
+            "str_landed": 23,
+            "str_att": 52,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 41
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 51,
+            "str_landed": 54,
+            "str_att": 107,
+            "td_comp": 6,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 613
+        }
+    },
+    "Jordan Espinosa vs Alex Perez": {
+        "name": "Jordan Espinosa vs Alex Perez",
+        "fighter1": "Jordan Espinosa",
+        "fighter2": "Alex Perez",
+        "winner": "Alex Perez",
+        "method": "Submission",
+        "time_end": "2:33",
+        "round_end": 1,
+        "fight_length": 153,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 13,
+            "str_landed": 2,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 9,
+            "str_landed": 16,
+            "str_att": 23,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 93
+        }
+    },
+    "Hannah Cifers vs Angela Hill": {
+        "name": "Hannah Cifers vs Angela Hill",
+        "fighter1": "Hannah Cifers",
+        "fighter2": "Angela Hill",
+        "winner": "Angela Hill",
+        "method": "KO/TKO",
+        "time_end": "4:26",
+        "round_end": 2,
+        "fight_length": 326,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 108,
+            "str_landed": 50,
+            "str_att": 114,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 70,
+            "sig_str_att": 155,
+            "str_landed": 80,
+            "str_att": 170,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 186
+        }
+    },
+    "Jamahal Hill vs Darko Stosic": {
+        "name": "Jamahal Hill vs Darko Stosic",
+        "fighter1": "Jamahal Hill",
+        "fighter2": "Darko Stosic",
+        "winner": "Jamahal Hill",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 101,
+            "sig_str_att": 233,
+            "str_landed": 102,
+            "str_att": 236,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 72,
+            "str_landed": 32,
+            "str_att": 81,
+            "td_comp": 6,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 139
+        }
+    },
+    "Bevon Lewis vs Dequan Townsend": {
+        "name": "Bevon Lewis vs Dequan Townsend",
+        "fighter1": "Bevon Lewis",
+        "fighter2": "Dequan Townsend",
+        "winner": "Bevon Lewis",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 82,
+            "str_landed": 94,
+            "str_att": 146,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 502
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 65,
+            "str_landed": 55,
+            "str_att": 99,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 4
+        }
+    },
+    "Arnold Allen vs Nik Lentz": {
+        "name": "Arnold Allen vs Nik Lentz",
+        "fighter1": "Arnold Allen",
+        "fighter2": "Nik Lentz",
+        "winner": "Arnold Allen",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 63,
+            "sig_str_att": 131,
+            "str_landed": 68,
+            "str_att": 137,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 81
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 49,
+            "sig_str_att": 172,
+            "str_landed": 63,
+            "str_att": 190,
+            "td_comp": 0,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 77
+        }
+    },
+    "Justine Kish vs Lucie Pudilova": {
+        "name": "Justine Kish vs Lucie Pudilova",
+        "fighter1": "Justine Kish",
+        "fighter2": "Lucie Pudilova",
+        "winner": "Justine Kish",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 62,
+            "sig_str_att": 129,
+            "str_landed": 66,
+            "str_att": 135,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 35
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 143,
+            "str_landed": 47,
+            "str_att": 165,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 9
+        }
+    },
+    "Montel Jackson vs Felipe Colares": {
+        "name": "Montel Jackson vs Felipe Colares",
+        "fighter1": "Montel Jackson",
+        "fighter2": "Felipe Colares",
+        "winner": "Montel Jackson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            77,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 75,
+            "sig_str_att": 103,
+            "str_landed": 96,
+            "str_att": 130,
+            "td_comp": 11,
+            "td_att": 15,
+            "sub_att": 0,
+            "ctrl_time": 637
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 28,
+            "str_landed": 8,
+            "str_att": 31,
+            "td_comp": 1,
+            "td_att": 8,
+            "sub_att": 3,
+            "ctrl_time": 82
+        }
+    },
+    "Sara McMann vs Lina Lansberg": {
+        "name": "Sara McMann vs Lina Lansberg",
+        "fighter1": "Sara McMann",
+        "fighter2": "Lina Lansberg",
+        "winner": "Sara McMann",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            78,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 50,
+            "str_landed": 62,
+            "str_att": 84,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 804
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 5,
+            "str_landed": 36,
+            "str_att": 51,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Brett Johns vs Tony Gravely": {
+        "name": "Brett Johns vs Tony Gravely",
+        "fighter1": "Brett Johns",
+        "fighter2": "Tony Gravely",
+        "winner": "Brett Johns",
+        "method": "Submission",
+        "time_end": "2:53",
+        "round_end": 3,
+        "fight_length": 293,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 47,
+            "str_landed": 65,
+            "str_att": 80,
+            "td_comp": 6,
+            "td_att": 9,
+            "sub_att": 3,
+            "ctrl_time": 441
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 44,
+            "str_landed": 43,
+            "str_att": 66,
+            "td_comp": 5,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 249
+        }
+    },
+    "Herbert Burns vs Nate Landwehr": {
+        "name": "Herbert Burns vs Nate Landwehr",
+        "fighter1": "Herbert Burns",
+        "fighter2": "Nate Landwehr",
+        "winner": "Herbert Burns",
+        "method": "KO/TKO",
+        "time_end": "2:43",
+        "round_end": 1,
+        "fight_length": 163,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 7,
+            "sig_str_att": 17,
+            "str_landed": 7,
+            "str_att": 17,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 95
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 9,
+            "str_landed": 6,
+            "str_att": 11,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 33
+        }
+    }
+}

@@ -1,0 +1,424 @@
+{
+    "event": "UFC Fight Night: Blaydes vs. Daukaus",
+    "date": "March 26, 2022",
+    "Curtis Blaydes vs Chris Daukaus": {
+        "name": "Curtis Blaydes vs Chris Daukaus",
+        "fighter1": "Curtis Blaydes",
+        "fighter2": "Chris Daukaus",
+        "winner": "Curtis Blaydes",
+        "method": "KO/TKO",
+        "time_end": "0:17",
+        "round_end": 2,
+        "fight_length": 77,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 30,
+            "sig_str_att": 63,
+            "str_landed": 30,
+            "str_att": 63,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 38,
+            "str_landed": 13,
+            "str_att": 38,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Joanne Wood vs Alexa Grasso": {
+        "name": "Joanne Wood vs Alexa Grasso",
+        "fighter1": "Joanne Wood",
+        "fighter2": "Alexa Grasso",
+        "winner": "Alexa Grasso",
+        "method": "Submission",
+        "time_end": "3:57",
+        "round_end": 1,
+        "fight_length": 237,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 49,
+            "str_landed": 61,
+            "str_att": 76,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 28,
+            "str_landed": 50,
+            "str_att": 65,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 135
+        }
+    },
+    "Matt Brown vs Bryan Barberena": {
+        "name": "Matt Brown vs Bryan Barberena",
+        "fighter1": "Matt Brown",
+        "fighter2": "Bryan Barberena",
+        "winner": "Bryan Barberena",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 81,
+            "sig_str_att": 129,
+            "str_landed": 95,
+            "str_att": 145,
+            "td_comp": 5,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 301
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 111,
+            "sig_str_att": 211,
+            "str_landed": 186,
+            "str_att": 289,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 57
+        }
+    },
+    "Askar Askarov vs Kai Kara-France": {
+        "name": "Askar Askarov vs Kai Kara-France",
+        "fighter1": "Askar Askarov",
+        "fighter2": "Kai Kara-France",
+        "winner": "Kai Kara-France",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 60,
+            "str_landed": 37,
+            "str_att": 76,
+            "td_comp": 2,
+            "td_att": 14,
+            "sub_att": 2,
+            "ctrl_time": 314
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 51,
+            "sig_str_att": 130,
+            "str_landed": 64,
+            "str_att": 145,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Neil Magny vs Max Griffin": {
+        "name": "Neil Magny vs Max Griffin",
+        "fighter1": "Neil Magny",
+        "fighter2": "Max Griffin",
+        "winner": "Neil Magny",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 54,
+            "sig_str_att": 144,
+            "str_landed": 104,
+            "str_att": 204,
+            "td_comp": 1,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 273
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 67,
+            "sig_str_att": 123,
+            "str_landed": 75,
+            "str_att": 132,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 39
+        }
+    },
+    "Marc Diakiese vs Viacheslav Borshchev": {
+        "name": "Marc Diakiese vs Viacheslav Borshchev",
+        "fighter1": "Marc Diakiese",
+        "fighter2": "Viacheslav Borshchev",
+        "winner": "Marc Diakiese",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 20,
+            "str_landed": 40,
+            "str_att": 50,
+            "td_comp": 11,
+            "td_att": 18,
+            "sub_att": 0,
+            "ctrl_time": 744
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 21,
+            "str_landed": 32,
+            "str_att": 44,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 35
+        }
+    },
+    "Sara McMann vs Karol Rosa": {
+        "name": "Sara McMann vs Karol Rosa",
+        "fighter1": "Sara McMann",
+        "fighter2": "Karol Rosa",
+        "winner": "Sara McMann",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 41,
+            "str_landed": 73,
+            "str_att": 100,
+            "td_comp": 4,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 627
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 43,
+            "str_landed": 92,
+            "str_att": 120,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 116
+        }
+    },
+    "Chris Gutierrez vs Batgerel Danaa": {
+        "name": "Chris Gutierrez vs Batgerel Danaa",
+        "fighter1": "Chris Gutierrez",
+        "fighter2": "Batgerel Danaa",
+        "winner": "Chris Gutierrez",
+        "method": "KO/TKO",
+        "time_end": "2:34",
+        "round_end": 2,
+        "fight_length": 214,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 41,
+            "sig_str_att": 79,
+            "str_landed": 42,
+            "str_att": 81,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 13
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 30,
+            "sig_str_att": 104,
+            "str_landed": 43,
+            "str_att": 119,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 24
+        }
+    },
+    "Aliaskhab Khizriev vs Denis Tiuliulin": {
+        "name": "Aliaskhab Khizriev vs Denis Tiuliulin",
+        "fighter1": "Aliaskhab Khizriev",
+        "fighter2": "Denis Tiuliulin",
+        "winner": "Aliaskhab Khizriev",
+        "method": "Submission",
+        "time_end": "1:58",
+        "round_end": 2,
+        "fight_length": 178,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 67,
+            "str_landed": 54,
+            "str_att": 79,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 166
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 82,
+            "str_landed": 43,
+            "str_att": 94,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Jennifer Maia vs Manon Fiorot": {
+        "name": "Jennifer Maia vs Manon Fiorot",
+        "fighter1": "Jennifer Maia",
+        "fighter2": "Manon Fiorot",
+        "winner": "Manon Fiorot",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 121,
+            "str_landed": 56,
+            "str_att": 141,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 76
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 83,
+            "sig_str_att": 138,
+            "str_landed": 101,
+            "str_att": 157,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 157
+        }
+    },
+    "Matheus Nicolau vs David Dvorak": {
+        "name": "Matheus Nicolau vs David Dvorak",
+        "fighter1": "Matheus Nicolau",
+        "fighter2": "David Dvorak",
+        "winner": "Matheus Nicolau",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 36,
+            "sig_str_att": 81,
+            "str_landed": 46,
+            "str_att": 94,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 48
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 110,
+            "str_landed": 60,
+            "str_att": 134,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 85
+        }
+    },
+    "Luis Saldana vs Bruno Souza": {
+        "name": "Luis Saldana vs Bruno Souza",
+        "fighter1": "Luis Saldana",
+        "fighter2": "Bruno Souza",
+        "winner": "Luis Saldana",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 84,
+            "sig_str_att": 168,
+            "str_landed": 88,
+            "str_att": 173,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 96
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 66,
+            "sig_str_att": 178,
+            "str_landed": 68,
+            "str_att": 180,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 12
+        }
+    }
+}

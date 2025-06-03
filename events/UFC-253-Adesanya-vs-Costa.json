@@ -1,0 +1,385 @@
+{
+    "event": "UFC 253: Adesanya vs. Costa",
+    "date": "September 26, 2020",
+    "Israel Adesanya vs Paulo Costa": {
+        "name": "Israel Adesanya vs Paulo Costa",
+        "fighter1": "Israel Adesanya",
+        "fighter2": "Paulo Costa",
+        "winner": "Israel Adesanya",
+        "method": "KO/TKO",
+        "time_end": "3:59",
+        "round_end": 2,
+        "fight_length": 299,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 55,
+            "sig_str_att": 84,
+            "str_landed": 55,
+            "str_att": 84,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 9
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 26,
+            "str_landed": 12,
+            "str_att": 26,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    },
+    "Dominick Reyes vs Jan Blachowicz": {
+        "name": "Dominick Reyes vs Jan Blachowicz",
+        "fighter1": "Dominick Reyes",
+        "fighter2": "Jan Blachowicz",
+        "winner": "Jan Blachowicz",
+        "method": "KO/TKO",
+        "time_end": "4:36",
+        "round_end": 2,
+        "fight_length": 336,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 51,
+            "str_landed": 21,
+            "str_att": 51,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 41,
+            "sig_str_att": 89,
+            "str_landed": 41,
+            "str_att": 89,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    },
+    "Kai Kara-France vs Brandon Royval": {
+        "name": "Kai Kara-France vs Brandon Royval",
+        "fighter1": "Kai Kara-France",
+        "fighter2": "Brandon Royval",
+        "winner": "Brandon Royval",
+        "method": "Submission",
+        "time_end": "0:48",
+        "round_end": 2,
+        "fight_length": 108,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 22,
+            "sig_str_att": 38,
+            "str_landed": 22,
+            "str_att": 39,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 91
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 39,
+            "sig_str_att": 71,
+            "str_landed": 51,
+            "str_att": 85,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 91
+        }
+    },
+    "Ketlen Vieira vs Sijara Eubanks": {
+        "name": "Ketlen Vieira vs Sijara Eubanks",
+        "fighter1": "Ketlen Vieira",
+        "fighter2": "Sijara Eubanks",
+        "winner": "Ketlen Vieira",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 68,
+            "sig_str_att": 171,
+            "str_landed": 93,
+            "str_att": 203,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 147
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 69,
+            "sig_str_att": 149,
+            "str_landed": 72,
+            "str_att": 152,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 39
+        }
+    },
+    "Hakeem Dawodu vs Zubaira Tukhugov": {
+        "name": "Hakeem Dawodu vs Zubaira Tukhugov",
+        "fighter1": "Hakeem Dawodu",
+        "fighter2": "Zubaira Tukhugov",
+        "winner": "Hakeem Dawodu",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 69,
+            "sig_str_att": 136,
+            "str_landed": 70,
+            "str_att": 137,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 93,
+            "str_landed": 40,
+            "str_att": 98,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 123
+        }
+    },
+    "Brad Riddell vs Alex Da Silva": {
+        "name": "Brad Riddell vs Alex Da Silva",
+        "fighter1": "Brad Riddell",
+        "fighter2": "Alex Da Silva",
+        "winner": "Brad Riddell",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 67,
+            "sig_str_att": 166,
+            "str_landed": 86,
+            "str_att": 185,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 84
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 54,
+            "sig_str_att": 112,
+            "str_landed": 70,
+            "str_att": 133,
+            "td_comp": 3,
+            "td_att": 9,
+            "sub_att": 1,
+            "ctrl_time": 317
+        }
+    },
+    "Diego Sanchez vs Jake Matthews": {
+        "name": "Diego Sanchez vs Jake Matthews",
+        "fighter1": "Diego Sanchez",
+        "fighter2": "Jake Matthews",
+        "winner": "Jake Matthews",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            78,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 81,
+            "str_landed": 38,
+            "str_att": 95,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 72,
+            "sig_str_att": 148,
+            "str_landed": 93,
+            "str_att": 174,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 292
+        }
+    },
+    "Shane Young vs Ludovit Klein": {
+        "name": "Shane Young vs Ludovit Klein",
+        "fighter1": "Shane Young",
+        "fighter2": "Ludovit Klein",
+        "winner": "Ludovit Klein",
+        "method": "KO/TKO",
+        "time_end": "1:16",
+        "round_end": 1,
+        "fight_length": 76,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 7,
+            "str_landed": 4,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 9,
+            "sig_str_att": 13,
+            "str_landed": 9,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    },
+    "William Knight vs Aleksa Camur": {
+        "name": "William Knight vs Aleksa Camur",
+        "fighter1": "William Knight",
+        "fighter2": "Aleksa Camur",
+        "winner": "William Knight",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 54,
+            "str_landed": 58,
+            "str_att": 77,
+            "td_comp": 4,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 399
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 30,
+            "str_landed": 59,
+            "str_att": 72,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 326
+        }
+    },
+    "Juan Espino vs Jeff Hughes": {
+        "name": "Juan Espino vs Jeff Hughes",
+        "fighter1": "Juan Espino",
+        "fighter2": "Jeff Hughes",
+        "winner": "Juan Espino",
+        "method": "Submission",
+        "time_end": "3:48",
+        "round_end": 1,
+        "fight_length": 228,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 17,
+            "str_landed": 21,
+            "str_att": 29,
+            "td_comp": 5,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 156
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 1,
+            "str_landed": 0,
+            "str_att": 1,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Khadis Ibragimov vs Danilo Marques": {
+        "name": "Khadis Ibragimov vs Danilo Marques",
+        "fighter1": "Khadis Ibragimov",
+        "fighter2": "Danilo Marques",
+        "winner": "Danilo Marques",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 46,
+            "str_landed": 36,
+            "str_att": 65,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 90
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 22,
+            "str_landed": 19,
+            "str_att": 26,
+            "td_comp": 4,
+            "td_att": 16,
+            "sub_att": 0,
+            "ctrl_time": 436
+        }
+    }
+}

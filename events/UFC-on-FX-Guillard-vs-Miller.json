@@ -1,0 +1,340 @@
+{
+    "event": "UFC on FX: Guillard vs Miller",
+    "date": "January 20, 2012",
+    "Melvin Guillard vs Jim Miller": {
+        "name": "Melvin Guillard vs Jim Miller",
+        "fighter1": "Melvin Guillard",
+        "fighter2": "Jim Miller",
+        "winner": "Jim Miller",
+        "method": "Submission",
+        "time_end": "3:04",
+        "round_end": 1,
+        "fight_length": 184,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 26,
+            "str_landed": 21,
+            "str_att": 31,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 12,
+            "str_landed": 5,
+            "str_att": 13,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 59
+        }
+    },
+    "Duane Ludwig vs Josh Neer": {
+        "name": "Duane Ludwig vs Josh Neer",
+        "fighter1": "Duane Ludwig",
+        "fighter2": "Josh Neer",
+        "winner": "Josh Neer",
+        "method": "Submission",
+        "time_end": "3:04",
+        "round_end": 1,
+        "fight_length": 184,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 46,
+            "str_landed": 30,
+            "str_att": 53,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 10
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 20,
+            "str_landed": 6,
+            "str_att": 21,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 69
+        }
+    },
+    "Mike Easton vs Jared Papazian": {
+        "name": "Mike Easton vs Jared Papazian",
+        "fighter1": "Mike Easton",
+        "fighter2": "Jared Papazian",
+        "winner": "Mike Easton",
+        "method": "Decision - Majority",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 85,
+            "sig_str_att": 152,
+            "str_landed": 122,
+            "str_att": 191,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 134
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 68,
+            "sig_str_att": 167,
+            "str_landed": 105,
+            "str_att": 220,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 183
+        }
+    },
+    "Pat Barry vs Christian Morecraft": {
+        "name": "Pat Barry vs Christian Morecraft",
+        "fighter1": "Pat Barry",
+        "fighter2": "Christian Morecraft",
+        "winner": "Pat Barry",
+        "method": "KO/TKO",
+        "time_end": "3:38",
+        "round_end": 1,
+        "fight_length": 218,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 12,
+            "sig_str_att": 13,
+            "str_landed": 12,
+            "str_att": 15,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 25
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 19,
+            "str_landed": 5,
+            "str_att": 21,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 81
+        }
+    },
+    "Jorge Rivera vs Eric Schafer": {
+        "name": "Jorge Rivera vs Eric Schafer",
+        "fighter1": "Jorge Rivera",
+        "fighter2": "Eric Schafer",
+        "winner": "Jorge Rivera",
+        "method": "KO/TKO",
+        "time_end": "1:31",
+        "round_end": 2,
+        "fight_length": 151,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 17,
+            "str_landed": 34,
+            "str_att": 48,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 58
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 9,
+            "str_landed": 47,
+            "str_att": 57,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 278
+        }
+    },
+    "Kamal Shalorus vs Khabib Nurmagomedov": {
+        "name": "Kamal Shalorus vs Khabib Nurmagomedov",
+        "fighter1": "Kamal Shalorus",
+        "fighter2": "Khabib Nurmagomedov",
+        "winner": "Khabib Nurmagomedov",
+        "method": "Submission",
+        "time_end": "2:08",
+        "round_end": 3,
+        "fight_length": 248,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 44,
+            "str_landed": 18,
+            "str_att": 51,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 35,
+            "sig_str_att": 77,
+            "str_landed": 59,
+            "str_att": 106,
+            "td_comp": 3,
+            "td_att": 9,
+            "sub_att": 1,
+            "ctrl_time": 358
+        }
+    },
+    "Charlie Brenneman vs Daniel Roberts": {
+        "name": "Charlie Brenneman vs Daniel Roberts",
+        "fighter1": "Charlie Brenneman",
+        "fighter2": "Daniel Roberts",
+        "winner": "Charlie Brenneman",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 26,
+            "str_landed": 156,
+            "str_att": 177,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 788
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 11,
+            "str_landed": 54,
+            "str_att": 63,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 3,
+            "ctrl_time": 19
+        }
+    },
+    "Fabricio Camoes vs Tommy Hayden": {
+        "name": "Fabricio Camoes vs Tommy Hayden",
+        "fighter1": "Fabricio Camoes",
+        "fighter2": "Tommy Hayden",
+        "winner": "Fabricio Camoes",
+        "method": "Submission",
+        "time_end": "4:03",
+        "round_end": 1,
+        "fight_length": 243,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 13,
+            "str_landed": 26,
+            "str_att": 33,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 67
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 21,
+            "str_landed": 9,
+            "str_att": 23,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 80
+        }
+    },
+    "Daniel Pineda vs Pat Schilling": {
+        "name": "Daniel Pineda vs Pat Schilling",
+        "fighter1": "Daniel Pineda",
+        "fighter2": "Pat Schilling",
+        "winner": "Daniel Pineda",
+        "method": "Submission",
+        "time_end": "1:37",
+        "round_end": 1,
+        "fight_length": 97,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 24,
+            "str_landed": 38,
+            "str_att": 44,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 45
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 7,
+            "str_landed": 4,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Joseph Sandoval vs Nick Denis": {
+        "name": "Joseph Sandoval vs Nick Denis",
+        "fighter1": "Joseph Sandoval",
+        "fighter2": "Nick Denis",
+        "winner": "Nick Denis",
+        "method": "KO/TKO",
+        "time_end": "0:22",
+        "round_end": 1,
+        "fight_length": 22,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 4,
+            "str_landed": 3,
+            "str_att": 4,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 11,
+            "sig_str_att": 23,
+            "str_landed": 11,
+            "str_att": 23,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    }
+}

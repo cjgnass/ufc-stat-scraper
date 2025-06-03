@@ -1,0 +1,385 @@
+{
+    "event": "UFC Fight Night: Korean Zombie vs. Rodriguez",
+    "date": "November 10, 2018",
+    "Chan Sung Jung vs Yair Rodriguez": {
+        "name": "Chan Sung Jung vs Yair Rodriguez",
+        "fighter1": "Chan Sung Jung",
+        "fighter2": "Yair Rodriguez",
+        "winner": "Yair Rodriguez",
+        "method": "KO/TKO",
+        "time_end": "4:59",
+        "round_end": 5,
+        "fight_length": 539,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 126,
+            "sig_str_att": 308,
+            "str_landed": 130,
+            "str_att": 312,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 60
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 119,
+            "sig_str_att": 271,
+            "str_landed": 129,
+            "str_att": 281,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 19
+        }
+    },
+    "Donald Cerrone vs Mike Perry": {
+        "name": "Donald Cerrone vs Mike Perry",
+        "fighter1": "Donald Cerrone",
+        "fighter2": "Mike Perry",
+        "winner": "Donald Cerrone",
+        "method": "Submission",
+        "time_end": "4:46",
+        "round_end": 1,
+        "fight_length": 286,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 13,
+            "str_landed": 10,
+            "str_att": 14,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 40
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 20,
+            "str_landed": 11,
+            "str_att": 20,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 58
+        }
+    },
+    "Raquel Pennington vs Germaine de Randamie": {
+        "name": "Raquel Pennington vs Germaine de Randamie",
+        "fighter1": "Raquel Pennington",
+        "fighter2": "Germaine de Randamie",
+        "winner": "Germaine de Randamie",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 84,
+            "str_landed": 52,
+            "str_att": 130,
+            "td_comp": 0,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 365
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 107,
+            "str_landed": 91,
+            "str_att": 159,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 66
+        }
+    },
+    "Beneil Dariush vs Thiago Moises": {
+        "name": "Beneil Dariush vs Thiago Moises",
+        "fighter1": "Beneil Dariush",
+        "fighter2": "Thiago Moises",
+        "winner": "Beneil Dariush",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            76,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 68,
+            "str_landed": 113,
+            "str_att": 161,
+            "td_comp": 4,
+            "td_att": 8,
+            "sub_att": 2,
+            "ctrl_time": 812
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 16,
+            "str_landed": 20,
+            "str_att": 30,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 4,
+            "ctrl_time": 0
+        }
+    },
+    "Maycee Barber vs Hannah Cifers": {
+        "name": "Maycee Barber vs Hannah Cifers",
+        "fighter1": "Maycee Barber",
+        "fighter2": "Hannah Cifers",
+        "winner": "Maycee Barber",
+        "method": "KO/TKO",
+        "time_end": "2:01",
+        "round_end": 2,
+        "fight_length": 181,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 68,
+            "sig_str_att": 97,
+            "str_landed": 78,
+            "str_att": 107,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 213
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 69,
+            "str_landed": 60,
+            "str_att": 88,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 28
+        }
+    },
+    "Michael Trizano vs Luis Pena": {
+        "name": "Michael Trizano vs Luis Pena",
+        "fighter1": "Michael Trizano",
+        "fighter2": "Luis Pena",
+        "winner": "Michael Trizano",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 51,
+            "sig_str_att": 100,
+            "str_landed": 55,
+            "str_att": 104,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 134
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 85,
+            "str_landed": 34,
+            "str_att": 97,
+            "td_comp": 1,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 326
+        }
+    },
+    "Ashley Yoder vs Amanda Cooper": {
+        "name": "Ashley Yoder vs Amanda Cooper",
+        "fighter1": "Ashley Yoder",
+        "fighter2": "Amanda Cooper",
+        "winner": "Ashley Yoder",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            86,
+            85
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 90,
+            "str_landed": 59,
+            "str_att": 113,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 3,
+            "ctrl_time": 201
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 51,
+            "sig_str_att": 105,
+            "str_landed": 67,
+            "str_att": 121,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 2,
+            "ctrl_time": 329
+        }
+    },
+    "Davi Ramos vs John Gunther": {
+        "name": "Davi Ramos vs John Gunther",
+        "fighter1": "Davi Ramos",
+        "fighter2": "John Gunther",
+        "winner": "Davi Ramos",
+        "method": "Submission",
+        "time_end": "1:57",
+        "round_end": 1,
+        "fight_length": 117,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 5,
+            "str_landed": 4,
+            "str_att": 5,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 105
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 3,
+            "str_landed": 1,
+            "str_att": 4,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Devonte Smith vs Julian Erosa": {
+        "name": "Devonte Smith vs Julian Erosa",
+        "fighter1": "Devonte Smith",
+        "fighter2": "Julian Erosa",
+        "winner": "Devonte Smith",
+        "method": "KO/TKO",
+        "time_end": "0:46",
+        "round_end": 1,
+        "fight_length": 46,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 13,
+            "sig_str_att": 19,
+            "str_landed": 13,
+            "str_att": 19,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 7,
+            "str_landed": 4,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Joseph Morales vs Eric Shelton": {
+        "name": "Joseph Morales vs Eric Shelton",
+        "fighter1": "Joseph Morales",
+        "fighter2": "Eric Shelton",
+        "winner": "Eric Shelton",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 67,
+            "str_landed": 28,
+            "str_att": 71,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 4,
+            "ctrl_time": 52
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 57,
+            "str_landed": 45,
+            "str_att": 90,
+            "td_comp": 7,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 406
+        }
+    },
+    "Mark De La Rosa vs Joby Sanchez": {
+        "name": "Mark De La Rosa vs Joby Sanchez",
+        "fighter1": "Mark De La Rosa",
+        "fighter2": "Joby Sanchez",
+        "winner": "Mark De La Rosa",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 66,
+            "sig_str_att": 167,
+            "str_landed": 68,
+            "str_att": 169,
+            "td_comp": 0,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 113
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 55,
+            "sig_str_att": 124,
+            "str_landed": 85,
+            "str_att": 155,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 80
+        }
+    }
+}

@@ -1,0 +1,358 @@
+{
+    "event": "UFC 306: Riyadh Season Noche UFC",
+    "date": "September 14, 2024",
+    "Sean O'Malley vs Merab Dvalishvili": {
+        "name": "Sean O'Malley vs Merab Dvalishvili",
+        "fighter1": "Sean O'Malley",
+        "fighter2": "Merab Dvalishvili",
+        "winner": "Merab Dvalishvili",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            140,
+            145
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 89,
+            "str_landed": 49,
+            "str_att": 91,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 82,
+            "sig_str_att": 164,
+            "str_landed": 214,
+            "str_att": 310,
+            "td_comp": 6,
+            "td_att": 15,
+            "sub_att": 0,
+            "ctrl_time": 603
+        }
+    },
+    "Alexa Grasso vs Valentina Shevchenko": {
+        "name": "Alexa Grasso vs Valentina Shevchenko",
+        "fighter1": "Alexa Grasso",
+        "fighter2": "Valentina Shevchenko",
+        "winner": "Valentina Shevchenko",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            135,
+            150
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 100,
+            "str_landed": 153,
+            "str_att": 245,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 2,
+            "ctrl_time": 49
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 80,
+            "str_landed": 193,
+            "str_att": 233,
+            "td_comp": 8,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 964
+        }
+    },
+    "Brian Ortega vs Diego Lopes": {
+        "name": "Brian Ortega vs Diego Lopes",
+        "fighter1": "Brian Ortega",
+        "fighter2": "Diego Lopes",
+        "winner": "Diego Lopes",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 63,
+            "sig_str_att": 195,
+            "str_landed": 69,
+            "str_att": 201,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 6
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 106,
+            "sig_str_att": 206,
+            "str_landed": 113,
+            "str_att": 214,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 165
+        }
+    },
+    "Daniel Zellhuber vs Esteban Ribovics": {
+        "name": "Daniel Zellhuber vs Esteban Ribovics",
+        "fighter1": "Daniel Zellhuber",
+        "fighter2": "Esteban Ribovics",
+        "winner": "Esteban Ribovics",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 121,
+            "sig_str_att": 308,
+            "str_landed": 121,
+            "str_att": 308,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 15
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 156,
+            "sig_str_att": 345,
+            "str_landed": 156,
+            "str_att": 345,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Ronaldo Rodriguez vs Ode Osbourne": {
+        "name": "Ronaldo Rodriguez vs Ode Osbourne",
+        "fighter1": "Ronaldo Rodriguez",
+        "fighter2": "Ode Osbourne",
+        "winner": "Ronaldo Rodriguez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 69,
+            "str_landed": 68,
+            "str_att": 117,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 554
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 37,
+            "sig_str_att": 68,
+            "str_landed": 55,
+            "str_att": 93,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 2,
+            "ctrl_time": 67
+        }
+    },
+    "Irene Aldana vs Norma Dumont": {
+        "name": "Irene Aldana vs Norma Dumont",
+        "fighter1": "Irene Aldana",
+        "fighter2": "Norma Dumont",
+        "winner": "Norma Dumont",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 69,
+            "sig_str_att": 183,
+            "str_landed": 69,
+            "str_att": 183,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 159,
+            "sig_str_att": 309,
+            "str_landed": 159,
+            "str_att": 309,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Manuel Torres vs Ignacio Bahamondes": {
+        "name": "Manuel Torres vs Ignacio Bahamondes",
+        "fighter1": "Manuel Torres",
+        "fighter2": "Ignacio Bahamondes",
+        "winner": "Ignacio Bahamondes",
+        "method": "KO/TKO",
+        "time_end": "4:02",
+        "round_end": 1,
+        "fight_length": 242,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 43,
+            "str_landed": 20,
+            "str_att": 43,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 20
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 31,
+            "sig_str_att": 58,
+            "str_landed": 36,
+            "str_att": 63,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 38
+        }
+    },
+    "Yazmin Jauregui vs Ketlen Souza": {
+        "name": "Yazmin Jauregui vs Ketlen Souza",
+        "fighter1": "Yazmin Jauregui",
+        "fighter2": "Ketlen Souza",
+        "winner": "Ketlen Souza",
+        "method": "Submission",
+        "time_end": "3:02",
+        "round_end": 1,
+        "fight_length": 182,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 73,
+            "str_landed": 35,
+            "str_att": 73,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 21,
+            "sig_str_att": 35,
+            "str_landed": 21,
+            "str_att": 35,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 15
+        }
+    },
+    "Edgar Chairez vs Joshua Van": {
+        "name": "Edgar Chairez vs Joshua Van",
+        "fighter1": "Edgar Chairez",
+        "fighter2": "Joshua Van",
+        "winner": "Joshua Van",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 79,
+            "sig_str_att": 189,
+            "str_landed": 87,
+            "str_att": 197,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 27
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 118,
+            "sig_str_att": 200,
+            "str_landed": 183,
+            "str_att": 276,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 266
+        }
+    },
+    "Raul Rosas Jr. vs Aoriqileng": {
+        "name": "Raul Rosas Jr. vs Aoriqileng",
+        "fighter1": "Raul Rosas Jr.",
+        "fighter2": "Aoriqileng",
+        "winner": "Raul Rosas Jr.",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 94,
+            "str_landed": 98,
+            "str_att": 158,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 452
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 54,
+            "str_landed": 80,
+            "str_att": 118,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

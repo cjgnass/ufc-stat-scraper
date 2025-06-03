@@ -1,0 +1,274 @@
+{
+    "event": "The Ultimate Fighter: The Comeback Finale",
+    "date": "November 11, 2006",
+    "Matt Serra vs Chris Lytle": {
+        "name": "Matt Serra vs Chris Lytle",
+        "fighter1": "Matt Serra",
+        "fighter2": "Chris Lytle",
+        "winner": "Matt Serra",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 39,
+            "str_landed": 91,
+            "str_att": 114,
+            "td_comp": 1,
+            "td_att": 16,
+            "sub_att": 0,
+            "ctrl_time": 493
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 58,
+            "str_landed": 195,
+            "str_att": 214,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 84
+        }
+    },
+    "Travis Lutter vs Patrick Cote": {
+        "name": "Travis Lutter vs Patrick Cote",
+        "fighter1": "Travis Lutter",
+        "fighter2": "Patrick Cote",
+        "winner": "Travis Lutter",
+        "method": "Submission",
+        "time_end": "2:18",
+        "round_end": 1,
+        "fight_length": 138,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 0,
+            "str_landed": 5,
+            "str_att": 5,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 117
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 1,
+            "str_landed": 0,
+            "str_att": 1,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Din Thomas vs Rich Clementi": {
+        "name": "Din Thomas vs Rich Clementi",
+        "fighter1": "Din Thomas",
+        "fighter2": "Rich Clementi",
+        "winner": "Din Thomas",
+        "method": "Submission",
+        "time_end": "3:11",
+        "round_end": 2,
+        "fight_length": 251,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 33,
+            "sig_str_att": 75,
+            "str_landed": 63,
+            "str_att": 107,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 135
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 72,
+            "str_landed": 27,
+            "str_att": 77,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 20
+        }
+    },
+    "Jorge Rivera vs Edwin DeWees": {
+        "name": "Jorge Rivera vs Edwin DeWees",
+        "fighter1": "Jorge Rivera",
+        "fighter2": "Edwin DeWees",
+        "winner": "Jorge Rivera",
+        "method": "KO/TKO",
+        "time_end": "2:37",
+        "round_end": 1,
+        "fight_length": 157,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 24,
+            "sig_str_att": 43,
+            "str_landed": 31,
+            "str_att": 56,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 15
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 25,
+            "str_landed": 7,
+            "str_att": 26,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 15
+        }
+    },
+    "Pete Spratt vs Jeremy Jackson": {
+        "name": "Pete Spratt vs Jeremy Jackson",
+        "fighter1": "Pete Spratt",
+        "fighter2": "Jeremy Jackson",
+        "winner": "Pete Spratt",
+        "method": "Submission",
+        "time_end": "1:11",
+        "round_end": 2,
+        "fight_length": 131,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 15,
+            "str_landed": 40,
+            "str_att": 43,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 66
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 14,
+            "str_landed": 20,
+            "str_att": 33,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 202
+        }
+    },
+    "Scott Smith vs Pete Sell": {
+        "name": "Scott Smith vs Pete Sell",
+        "fighter1": "Scott Smith",
+        "fighter2": "Pete Sell",
+        "winner": "Scott Smith",
+        "method": "KO/TKO",
+        "time_end": "3:25",
+        "round_end": 2,
+        "fight_length": 265,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 26,
+            "sig_str_att": 93,
+            "str_landed": 26,
+            "str_att": 93,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 8
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 90,
+            "str_landed": 44,
+            "str_att": 102,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 37
+        }
+    },
+    "Charles McCarthy vs Gideon Ray": {
+        "name": "Charles McCarthy vs Gideon Ray",
+        "fighter1": "Charles McCarthy",
+        "fighter2": "Gideon Ray",
+        "winner": "Charles McCarthy",
+        "method": "Submission",
+        "time_end": "4:43",
+        "round_end": 1,
+        "fight_length": 283,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 12,
+            "str_landed": 2,
+            "str_att": 12,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 38
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 26,
+            "str_landed": 9,
+            "str_att": 26,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Martin Kampmann vs Thales Leites": {
+        "name": "Martin Kampmann vs Thales Leites",
+        "fighter1": "Martin Kampmann",
+        "fighter2": "Thales Leites",
+        "winner": "Martin Kampmann",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 101,
+            "sig_str_att": 200,
+            "str_landed": 109,
+            "str_att": 208,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 100
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 46,
+            "sig_str_att": 171,
+            "str_landed": 53,
+            "str_att": 178,
+            "td_comp": 1,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 151
+        }
+    }
+}

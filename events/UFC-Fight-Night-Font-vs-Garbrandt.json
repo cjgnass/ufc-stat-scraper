@@ -1,0 +1,424 @@
+{
+    "event": "UFC Fight Night: Font vs. Garbrandt",
+    "date": "May 22, 2021",
+    "Rob Font vs Cody Garbrandt": {
+        "name": "Rob Font vs Cody Garbrandt",
+        "fighter1": "Rob Font",
+        "fighter2": "Cody Garbrandt",
+        "winner": "Rob Font",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            137,
+            148
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 176,
+            "sig_str_att": 365,
+            "str_landed": 183,
+            "str_att": 374,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 73
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 63,
+            "sig_str_att": 142,
+            "str_landed": 78,
+            "str_att": 159,
+            "td_comp": 3,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 182
+        }
+    },
+    "Yan Xiaonan vs Carla Esparza": {
+        "name": "Yan Xiaonan vs Carla Esparza",
+        "fighter1": "Yan Xiaonan",
+        "fighter2": "Carla Esparza",
+        "winner": "Carla Esparza",
+        "method": "KO/TKO",
+        "time_end": "2:58",
+        "round_end": 2,
+        "fight_length": 238,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 11,
+            "str_landed": 31,
+            "str_att": 41,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 33,
+            "str_landed": 170,
+            "str_att": 194,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 438
+        }
+    },
+    "Justin Tafa vs Jared Vanderaa": {
+        "name": "Justin Tafa vs Jared Vanderaa",
+        "fighter1": "Justin Tafa",
+        "fighter2": "Jared Vanderaa",
+        "winner": "Jared Vanderaa",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 74,
+            "sig_str_att": 147,
+            "str_landed": 74,
+            "str_att": 147,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 11
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 121,
+            "sig_str_att": 248,
+            "str_landed": 141,
+            "str_att": 269,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 24
+        }
+    },
+    "Felicia Spencer vs Norma Dumont": {
+        "name": "Felicia Spencer vs Norma Dumont",
+        "fighter1": "Felicia Spencer",
+        "fighter2": "Norma Dumont",
+        "winner": "Norma Dumont",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 114,
+            "str_landed": 70,
+            "str_att": 139,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 178
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 68,
+            "sig_str_att": 135,
+            "str_landed": 88,
+            "str_att": 155,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 81
+        }
+    },
+    "Ricardo Ramos vs Bill Algeo": {
+        "name": "Ricardo Ramos vs Bill Algeo",
+        "fighter1": "Ricardo Ramos",
+        "fighter2": "Bill Algeo",
+        "winner": "Ricardo Ramos",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 53,
+            "sig_str_att": 102,
+            "str_landed": 57,
+            "str_att": 106,
+            "td_comp": 8,
+            "td_att": 13,
+            "sub_att": 1,
+            "ctrl_time": 206
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 76,
+            "sig_str_att": 170,
+            "str_landed": 90,
+            "str_att": 187,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 41
+        }
+    },
+    "Jack Hermansson vs Edmen Shahbazyan": {
+        "name": "Jack Hermansson vs Edmen Shahbazyan",
+        "fighter1": "Jack Hermansson",
+        "fighter2": "Edmen Shahbazyan",
+        "winner": "Jack Hermansson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 55,
+            "sig_str_att": 100,
+            "str_landed": 141,
+            "str_att": 192,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 431
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 92,
+            "str_landed": 42,
+            "str_att": 94,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 111
+        }
+    },
+    "Ben Rothwell vs Chris Barnett": {
+        "name": "Ben Rothwell vs Chris Barnett",
+        "fighter1": "Ben Rothwell",
+        "fighter2": "Chris Barnett",
+        "winner": "Ben Rothwell",
+        "method": "Submission",
+        "time_end": "2:07",
+        "round_end": 2,
+        "fight_length": 187,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 60,
+            "sig_str_att": 101,
+            "str_landed": 72,
+            "str_att": 120,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 123
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 85,
+            "str_landed": 34,
+            "str_att": 86,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Court McGee vs Claudio Silva": {
+        "name": "Court McGee vs Claudio Silva",
+        "fighter1": "Court McGee",
+        "fighter2": "Claudio Silva",
+        "winner": "Court McGee",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            79,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 74,
+            "str_landed": 110,
+            "str_att": 157,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 483
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 56,
+            "str_landed": 81,
+            "str_att": 126,
+            "td_comp": 1,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 108
+        }
+    },
+    "Bruno Silva vs Victor Rodriguez": {
+        "name": "Bruno Silva vs Victor Rodriguez",
+        "fighter1": "Bruno Silva",
+        "fighter2": "Victor Rodriguez",
+        "winner": "Bruno Silva",
+        "method": "KO/TKO",
+        "time_end": "1:00",
+        "round_end": 1,
+        "fight_length": 60,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 6,
+            "sig_str_att": 12,
+            "str_landed": 6,
+            "str_att": 12,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 3,
+            "str_landed": 0,
+            "str_att": 3,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Josh Culibao vs Shayilan Nuerdanbieke": {
+        "name": "Josh Culibao vs Shayilan Nuerdanbieke",
+        "fighter1": "Josh Culibao",
+        "fighter2": "Shayilan Nuerdanbieke",
+        "winner": "Josh Culibao",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 53,
+            "sig_str_att": 104,
+            "str_landed": 87,
+            "str_att": 140,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 4
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 63,
+            "str_landed": 23,
+            "str_att": 71,
+            "td_comp": 2,
+            "td_att": 14,
+            "sub_att": 0,
+            "ctrl_time": 366
+        }
+    },
+    "David Dvorak vs Juancamilo Ronderos": {
+        "name": "David Dvorak vs Juancamilo Ronderos",
+        "fighter1": "David Dvorak",
+        "fighter2": "Juancamilo Ronderos",
+        "winner": "David Dvorak",
+        "method": "Submission",
+        "time_end": "2:18",
+        "round_end": 1,
+        "fight_length": 138,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 28,
+            "str_landed": 9,
+            "str_att": 28,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 23
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 32,
+            "str_landed": 12,
+            "str_att": 33,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Rafael Alves vs Damir Ismagulov": {
+        "name": "Rafael Alves vs Damir Ismagulov",
+        "fighter1": "Rafael Alves",
+        "fighter2": "Damir Ismagulov",
+        "winner": "Damir Ismagulov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 30,
+            "sig_str_att": 63,
+            "str_landed": 36,
+            "str_att": 69,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 16
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 56,
+            "sig_str_att": 126,
+            "str_landed": 141,
+            "str_att": 220,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 460
+        }
+    }
+}

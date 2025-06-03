@@ -1,0 +1,310 @@
+{
+    "event": "UFC Fight Night: Stout vs Fisher",
+    "date": "June 12, 2007",
+    "Spencer Fisher vs Sam Stout": {
+        "name": "Spencer Fisher vs Sam Stout",
+        "fighter1": "Spencer Fisher",
+        "fighter2": "Sam Stout",
+        "winner": "Spencer Fisher",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 88,
+            "sig_str_att": 239,
+            "str_landed": 89,
+            "str_att": 240,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 9
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 76,
+            "sig_str_att": 286,
+            "str_landed": 78,
+            "str_att": 288,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 10
+        }
+    },
+    "Jon Fitch vs Roan Carneiro": {
+        "name": "Jon Fitch vs Roan Carneiro",
+        "fighter1": "Jon Fitch",
+        "fighter2": "Roan Carneiro",
+        "winner": "Jon Fitch",
+        "method": "Submission",
+        "time_end": "1:07",
+        "round_end": 2,
+        "fight_length": 127,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 34,
+            "str_landed": 54,
+            "str_att": 70,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 74
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 10,
+            "str_landed": 5,
+            "str_att": 11,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 217
+        }
+    },
+    "Drew McFedries vs Jordan Radev": {
+        "name": "Drew McFedries vs Jordan Radev",
+        "fighter1": "Drew McFedries",
+        "fighter2": "Jordan Radev",
+        "winner": "Drew McFedries",
+        "method": "KO/TKO",
+        "time_end": "0:33",
+        "round_end": 1,
+        "fight_length": 33,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 6,
+            "sig_str_att": 10,
+            "str_landed": 6,
+            "str_att": 10,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 2,
+            "str_landed": 1,
+            "str_att": 2,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Thiago Tavares vs Jason Black": {
+        "name": "Thiago Tavares vs Jason Black",
+        "fighter1": "Thiago Tavares",
+        "fighter2": "Jason Black",
+        "winner": "Thiago Tavares",
+        "method": "Submission",
+        "time_end": "2:49",
+        "round_end": 2,
+        "fight_length": 229,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 18,
+            "str_landed": 52,
+            "str_att": 64,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 2,
+            "ctrl_time": 305
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 4,
+            "str_landed": 16,
+            "str_att": 20,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 88
+        }
+    },
+    "Forrest Petz vs Luigi Fioravanti": {
+        "name": "Forrest Petz vs Luigi Fioravanti",
+        "fighter1": "Forrest Petz",
+        "fighter2": "Luigi Fioravanti",
+        "winner": "Forrest Petz",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 272,
+            "str_landed": 40,
+            "str_att": 272,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 121,
+            "str_landed": 45,
+            "str_att": 121,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    },
+    "Tamdan McCrory vs Pete Spratt": {
+        "name": "Tamdan McCrory vs Pete Spratt",
+        "fighter1": "Tamdan McCrory",
+        "fighter2": "Pete Spratt",
+        "winner": "Tamdan McCrory",
+        "method": "Submission",
+        "time_end": "2:04",
+        "round_end": 2,
+        "fight_length": 184,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 14,
+            "str_landed": 13,
+            "str_att": 19,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 2,
+            "ctrl_time": 99
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 34,
+            "str_landed": 29,
+            "str_att": 44,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 270
+        }
+    },
+    "Gleison Tibau vs Jeff Cox": {
+        "name": "Gleison Tibau vs Jeff Cox",
+        "fighter1": "Gleison Tibau",
+        "fighter2": "Jeff Cox",
+        "winner": "Gleison Tibau",
+        "method": "Submission",
+        "time_end": "1:52",
+        "round_end": 1,
+        "fight_length": 112,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 5,
+            "str_landed": 4,
+            "str_att": 6,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 56
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 4,
+            "str_landed": 1,
+            "str_att": 5,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 12
+        }
+    },
+    "Anthony Johnson vs Chad Reiner": {
+        "name": "Anthony Johnson vs Chad Reiner",
+        "fighter1": "Anthony Johnson",
+        "fighter2": "Chad Reiner",
+        "winner": "Anthony Johnson",
+        "method": "KO/TKO",
+        "time_end": "0:13",
+        "round_end": 1,
+        "fight_length": 13,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 3,
+            "sig_str_att": 7,
+            "str_landed": 3,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 9,
+            "str_landed": 2,
+            "str_att": 9,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Nate Mohr vs Luke Caudillo": {
+        "name": "Nate Mohr vs Luke Caudillo",
+        "fighter1": "Nate Mohr",
+        "fighter2": "Luke Caudillo",
+        "winner": "Nate Mohr",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 70,
+            "sig_str_att": 185,
+            "str_landed": 71,
+            "str_att": 187,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 28,
+            "sig_str_att": 128,
+            "str_landed": 28,
+            "str_att": 128,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    }
+}

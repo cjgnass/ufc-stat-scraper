@@ -1,0 +1,412 @@
+{
+    "event": "UFC Fight Night: Bisping vs. Gastelum",
+    "date": "November 25, 2017",
+    "Michael Bisping vs Kelvin Gastelum": {
+        "name": "Michael Bisping vs Kelvin Gastelum",
+        "fighter1": "Michael Bisping",
+        "fighter2": "Kelvin Gastelum",
+        "winner": "Kelvin Gastelum",
+        "method": "KO/TKO",
+        "time_end": "2:30",
+        "round_end": 1,
+        "fight_length": 150,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 24,
+            "str_landed": 7,
+            "str_att": 24,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 14,
+            "sig_str_att": 27,
+            "str_landed": 14,
+            "str_att": 27,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 7
+        }
+    },
+    "Li Jingliang vs Zak Ottow": {
+        "name": "Li Jingliang vs Zak Ottow",
+        "fighter1": "Li Jingliang",
+        "fighter2": "Zak Ottow",
+        "winner": "Li Jingliang",
+        "method": "KO/TKO",
+        "time_end": "2:57",
+        "round_end": 1,
+        "fight_length": 177,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 26,
+            "sig_str_att": 50,
+            "str_landed": 27,
+            "str_att": 51,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 13
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 17,
+            "str_landed": 5,
+            "str_att": 17,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Wang Guan vs Alex Caceres": {
+        "name": "Wang Guan vs Alex Caceres",
+        "fighter1": "Wang Guan",
+        "fighter2": "Alex Caceres",
+        "winner": "Wang Guan",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 71,
+            "sig_str_att": 164,
+            "str_landed": 75,
+            "str_att": 169,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 24
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 49,
+            "sig_str_att": 123,
+            "str_landed": 49,
+            "str_att": 124,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 22
+        }
+    },
+    "Muslim Salikhov vs Alex Garcia": {
+        "name": "Muslim Salikhov vs Alex Garcia",
+        "fighter1": "Muslim Salikhov",
+        "fighter2": "Alex Garcia",
+        "winner": "Alex Garcia",
+        "method": "Submission",
+        "time_end": "3:22",
+        "round_end": 2,
+        "fight_length": 262,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 27,
+            "str_landed": 10,
+            "str_att": 27,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 24,
+            "str_landed": 21,
+            "str_att": 39,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 188
+        }
+    },
+    "Zabit Magomedsharipov vs Sheymon Moraes": {
+        "name": "Zabit Magomedsharipov vs Sheymon Moraes",
+        "fighter1": "Zabit Magomedsharipov",
+        "fighter2": "Sheymon Moraes",
+        "winner": "Zabit Magomedsharipov",
+        "method": "Submission",
+        "time_end": "4:30",
+        "round_end": 3,
+        "fight_length": 390,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 70,
+            "str_landed": 60,
+            "str_att": 101,
+            "td_comp": 11,
+            "td_att": 15,
+            "sub_att": 1,
+            "ctrl_time": 592
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 31,
+            "str_landed": 23,
+            "str_att": 38,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 8
+        }
+    },
+    "Song Kenan vs Bobby Nash": {
+        "name": "Song Kenan vs Bobby Nash",
+        "fighter1": "Song Kenan",
+        "fighter2": "Bobby Nash",
+        "winner": "Song Kenan",
+        "method": "KO/TKO",
+        "time_end": "0:15",
+        "round_end": 1,
+        "fight_length": 15,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 14,
+            "sig_str_att": 14,
+            "str_landed": 15,
+            "str_att": 15,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 6
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 3,
+            "str_landed": 1,
+            "str_att": 3,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Kailin Curran vs Yan Xiaonan": {
+        "name": "Kailin Curran vs Yan Xiaonan",
+        "fighter1": "Kailin Curran",
+        "fighter2": "Yan Xiaonan",
+        "winner": "Yan Xiaonan",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 52,
+            "sig_str_att": 134,
+            "str_landed": 139,
+            "str_att": 233,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 463
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 96,
+            "sig_str_att": 211,
+            "str_landed": 106,
+            "str_att": 222,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    },
+    "Song Yadong vs Bharat Kandare": {
+        "name": "Song Yadong vs Bharat Kandare",
+        "fighter1": "Song Yadong",
+        "fighter2": "Bharat Kandare",
+        "winner": "Song Yadong",
+        "method": "Submission",
+        "time_end": "4:16",
+        "round_end": 1,
+        "fight_length": 256,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 8,
+            "sig_str_att": 29,
+            "str_landed": 9,
+            "str_att": 30,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 8
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 30,
+            "str_landed": 3,
+            "str_att": 30,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Chase Sherman vs Shamil Abdurakhimov": {
+        "name": "Chase Sherman vs Shamil Abdurakhimov",
+        "fighter1": "Chase Sherman",
+        "fighter2": "Shamil Abdurakhimov",
+        "winner": "Shamil Abdurakhimov",
+        "method": "KO/TKO",
+        "time_end": "1:24",
+        "round_end": 1,
+        "fight_length": 84,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 13,
+            "str_landed": 5,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 6,
+            "sig_str_att": 10,
+            "str_landed": 6,
+            "str_att": 10,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    },
+    "Wu Yanan vs Gina Mazany": {
+        "name": "Wu Yanan vs Gina Mazany",
+        "fighter1": "Wu Yanan",
+        "fighter2": "Gina Mazany",
+        "winner": "Gina Mazany",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 51,
+            "str_landed": 41,
+            "str_att": 72,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 238
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 65,
+            "str_landed": 202,
+            "str_att": 255,
+            "td_comp": 5,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 492
+        }
+    },
+    "Wulijiburen vs Rolando Dy": {
+        "name": "Wulijiburen vs Rolando Dy",
+        "fighter1": "Wulijiburen",
+        "fighter2": "Rolando Dy",
+        "winner": "Rolando Dy",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 60,
+            "str_landed": 37,
+            "str_att": 81,
+            "td_comp": 4,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 203
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 26,
+            "sig_str_att": 99,
+            "str_landed": 35,
+            "str_att": 109,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 119
+        }
+    },
+    "Cyril Asker vs Hu Yaozong": {
+        "name": "Cyril Asker vs Hu Yaozong",
+        "fighter1": "Cyril Asker",
+        "fighter2": "Hu Yaozong",
+        "winner": "Cyril Asker",
+        "method": "Submission",
+        "time_end": "2:33",
+        "round_end": 2,
+        "fight_length": 213,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 35,
+            "str_landed": 91,
+            "str_att": 119,
+            "td_comp": 4,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 370
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 18,
+            "str_landed": 11,
+            "str_att": 22,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 14
+        }
+    }
+}

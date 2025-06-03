@@ -1,0 +1,238 @@
+{
+    "event": "UFC 43: Meltdown",
+    "date": "June 06, 2003",
+    "Randy Couture vs Chuck Liddell": {
+        "name": "Randy Couture vs Chuck Liddell",
+        "fighter1": "Randy Couture",
+        "fighter2": "Chuck Liddell",
+        "winner": "Randy Couture",
+        "method": "KO/TKO",
+        "time_end": "2:39",
+        "round_end": 3,
+        "fight_length": 279,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 87,
+            "str_landed": 56,
+            "str_att": 99,
+            "td_comp": 4,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 202
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 59,
+            "str_landed": 35,
+            "str_att": 72,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 124
+        }
+    },
+    "Kimo Leopoldo vs David Abbott": {
+        "name": "Kimo Leopoldo vs David Abbott",
+        "fighter1": "Kimo Leopoldo",
+        "fighter2": "David Abbott",
+        "winner": "Kimo Leopoldo",
+        "method": "Submission",
+        "time_end": "1:59",
+        "round_end": 1,
+        "fight_length": 119,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 1,
+            "str_landed": 1,
+            "str_att": 1,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 112
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 0,
+            "str_landed": 3,
+            "str_att": 3,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    },
+    "Vitor Belfort vs Marvin Eastman": {
+        "name": "Vitor Belfort vs Marvin Eastman",
+        "fighter1": "Vitor Belfort",
+        "fighter2": "Marvin Eastman",
+        "winner": "Vitor Belfort",
+        "method": "KO/TKO",
+        "time_end": "1:07",
+        "round_end": 1,
+        "fight_length": 67,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 9,
+            "sig_str_att": 12,
+            "str_landed": 9,
+            "str_att": 12,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 5,
+            "str_landed": 1,
+            "str_att": 5,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Frank Mir vs Wes Sims": {
+        "name": "Frank Mir vs Wes Sims",
+        "fighter1": "Frank Mir",
+        "fighter2": "Wes Sims",
+        "winner": "Frank Mir",
+        "method": "DQ",
+        "time_end": "2:55",
+        "round_end": 1,
+        "fight_length": 175,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 7,
+            "str_landed": 18,
+            "str_att": 21,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 4,
+            "ctrl_time": 158
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 1,
+            "str_landed": 8,
+            "str_att": 11,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 11
+        }
+    },
+    "Yves Edwards vs Eddie Ruiz": {
+        "name": "Yves Edwards vs Eddie Ruiz",
+        "fighter1": "Yves Edwards",
+        "fighter2": "Eddie Ruiz",
+        "winner": "Yves Edwards",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 21,
+            "sig_str_att": 40,
+            "str_landed": 57,
+            "str_att": 79,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 3,
+            "ctrl_time": 419
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 12,
+            "str_landed": 30,
+            "str_att": 43,
+            "td_comp": 2,
+            "td_att": 16,
+            "sub_att": 0,
+            "ctrl_time": 285
+        }
+    },
+    "Falaniko Vitale vs Matt Lindland": {
+        "name": "Falaniko Vitale vs Matt Lindland",
+        "fighter1": "Falaniko Vitale",
+        "fighter2": "Matt Lindland",
+        "winner": "Falaniko Vitale",
+        "method": "KO/TKO",
+        "time_end": "1:56",
+        "round_end": 1,
+        "fight_length": 116,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 7,
+            "str_landed": 6,
+            "str_att": 11,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 27
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 9,
+            "str_landed": 6,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 55
+        }
+    },
+    "Pedro Rizzo vs Tra Telligman": {
+        "name": "Pedro Rizzo vs Tra Telligman",
+        "fighter1": "Pedro Rizzo",
+        "fighter2": "Tra Telligman",
+        "winner": "Pedro Rizzo",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "4:24",
+        "round_end": 2,
+        "fight_length": 324,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 91,
+            "str_landed": 67,
+            "str_att": 121,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 205
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 34,
+            "sig_str_att": 67,
+            "str_landed": 42,
+            "str_att": 77,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 23
+        }
+    }
+}

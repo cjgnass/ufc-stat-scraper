@@ -1,0 +1,490 @@
+{
+    "event": "UFC Fight Night: Moicano vs. Saint Denis",
+    "date": "September 28, 2024",
+    "Renato Moicano vs Benoit Saint Denis": {
+        "name": "Renato Moicano vs Benoit Saint Denis",
+        "fighter1": "Renato Moicano",
+        "fighter2": "Benoit Saint Denis",
+        "winner": "Renato Moicano",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "5:00",
+        "round_end": 2,
+        "fight_length": 360,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 50,
+            "sig_str_att": 72,
+            "str_landed": 72,
+            "str_att": 98,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 293
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 60,
+            "str_landed": 35,
+            "str_att": 70,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        }
+    },
+    "Nassourdine Imavov vs Brendan Allen": {
+        "name": "Nassourdine Imavov vs Brendan Allen",
+        "fighter1": "Nassourdine Imavov",
+        "fighter2": "Brendan Allen",
+        "winner": "Nassourdine Imavov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 57,
+            "sig_str_att": 86,
+            "str_landed": 79,
+            "str_att": 114,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 347
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 30,
+            "sig_str_att": 52,
+            "str_landed": 56,
+            "str_att": 82,
+            "td_comp": 1,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 366
+        }
+    },
+    "William Gomis vs Joanderson Brito": {
+        "name": "William Gomis vs Joanderson Brito",
+        "fighter1": "William Gomis",
+        "fighter2": "Joanderson Brito",
+        "winner": "William Gomis",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 43,
+            "sig_str_att": 71,
+            "str_landed": 69,
+            "str_att": 101,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 232
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 67,
+            "str_landed": 57,
+            "str_att": 105,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 2,
+            "ctrl_time": 400
+        }
+    },
+    "Kevin Jousset vs Bryan Battle": {
+        "name": "Kevin Jousset vs Bryan Battle",
+        "fighter1": "Kevin Jousset",
+        "fighter2": "Bryan Battle",
+        "winner": "Bryan Battle",
+        "method": "KO/TKO",
+        "time_end": "3:47",
+        "round_end": 2,
+        "fight_length": 287,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 97,
+            "str_landed": 63,
+            "str_att": 107,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 12
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 97,
+            "sig_str_att": 170,
+            "str_landed": 118,
+            "str_att": 194,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 211
+        }
+    },
+    "Morgan Charriere vs Gabriel Miranda": {
+        "name": "Morgan Charriere vs Gabriel Miranda",
+        "fighter1": "Morgan Charriere",
+        "fighter2": "Gabriel Miranda",
+        "winner": "Morgan Charriere",
+        "method": "KO/TKO",
+        "time_end": "0:27",
+        "round_end": 2,
+        "fight_length": 87,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 19,
+            "sig_str_att": 28,
+            "str_landed": 28,
+            "str_att": 37,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 132
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 38,
+            "str_landed": 17,
+            "str_att": 45,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 67
+        }
+    },
+    "Fares Ziam vs Matt Frevola": {
+        "name": "Fares Ziam vs Matt Frevola",
+        "fighter1": "Fares Ziam",
+        "fighter2": "Matt Frevola",
+        "winner": "Fares Ziam",
+        "method": "KO/TKO",
+        "time_end": "2:59",
+        "round_end": 3,
+        "fight_length": 299,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 58,
+            "sig_str_att": 94,
+            "str_landed": 69,
+            "str_att": 107,
+            "td_comp": 4,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 283
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 59,
+            "str_landed": 25,
+            "str_att": 72,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 167
+        }
+    },
+    "Ion Cutelaba vs Ivan Erslan": {
+        "name": "Ion Cutelaba vs Ivan Erslan",
+        "fighter1": "Ion Cutelaba",
+        "fighter2": "Ivan Erslan",
+        "winner": "Ion Cutelaba",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 120,
+            "str_landed": 80,
+            "str_att": 161,
+            "td_comp": 3,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 119
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 69,
+            "str_landed": 63,
+            "str_att": 101,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 319
+        }
+    },
+    "Oumar Sy vs Da Woon Jung": {
+        "name": "Oumar Sy vs Da Woon Jung",
+        "fighter1": "Oumar Sy",
+        "fighter2": "Da Woon Jung",
+        "winner": "Oumar Sy",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 90,
+            "sig_str_att": 150,
+            "str_landed": 97,
+            "str_att": 160,
+            "td_comp": 2,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 182
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 117,
+            "str_landed": 36,
+            "str_att": 124,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 9
+        }
+    },
+    "Ludovit Klein vs Roosevelt Roberts": {
+        "name": "Ludovit Klein vs Roosevelt Roberts",
+        "fighter1": "Ludovit Klein",
+        "fighter2": "Roosevelt Roberts",
+        "winner": "Ludovit Klein",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 95,
+            "str_landed": 107,
+            "str_att": 181,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 531
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 60,
+            "str_landed": 58,
+            "str_att": 104,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 43
+        }
+    },
+    "Taylor Lapilus vs Vince Morales": {
+        "name": "Taylor Lapilus vs Vince Morales",
+        "fighter1": "Taylor Lapilus",
+        "fighter2": "Vince Morales",
+        "winner": "Taylor Lapilus",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 94,
+            "sig_str_att": 202,
+            "str_landed": 99,
+            "str_att": 208,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 10
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 141,
+            "str_landed": 49,
+            "str_att": 154,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 182
+        }
+    },
+    "Ailin Perez vs Daria Zhelezniakova": {
+        "name": "Ailin Perez vs Daria Zhelezniakova",
+        "fighter1": "Ailin Perez",
+        "fighter2": "Daria Zhelezniakova",
+        "winner": "Ailin Perez",
+        "method": "Submission",
+        "time_end": "3:52",
+        "round_end": 1,
+        "fight_length": 232,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 12,
+            "str_landed": 22,
+            "str_att": 27,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 102
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 12,
+            "str_landed": 12,
+            "str_att": 21,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 39
+        }
+    },
+    "Daniel Barez vs Victor Altamirano": {
+        "name": "Daniel Barez vs Victor Altamirano",
+        "fighter1": "Daniel Barez",
+        "fighter2": "Victor Altamirano",
+        "winner": "Daniel Barez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 67,
+            "sig_str_att": 130,
+            "str_landed": 78,
+            "str_att": 142,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 69
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 71,
+            "sig_str_att": 177,
+            "str_landed": 76,
+            "str_att": 184,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Nora Cornolle vs Jacqueline Cavalcanti": {
+        "name": "Nora Cornolle vs Jacqueline Cavalcanti",
+        "fighter1": "Nora Cornolle",
+        "fighter2": "Jacqueline Cavalcanti",
+        "winner": "Jacqueline Cavalcanti",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 54,
+            "sig_str_att": 114,
+            "str_landed": 80,
+            "str_att": 156,
+            "td_comp": 1,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 236
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 54,
+            "sig_str_att": 154,
+            "str_landed": 87,
+            "str_att": 194,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 69
+        }
+    },
+    "Bolaji Oki vs Chris Duncan": {
+        "name": "Bolaji Oki vs Chris Duncan",
+        "fighter1": "Bolaji Oki",
+        "fighter2": "Chris Duncan",
+        "winner": "Chris Duncan",
+        "method": "Submission",
+        "time_end": "3:34",
+        "round_end": 1,
+        "fight_length": 214,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 50,
+            "str_landed": 29,
+            "str_att": 51,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 71
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 25,
+            "str_landed": 12,
+            "str_att": 29,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 0
+        }
+    }
+}

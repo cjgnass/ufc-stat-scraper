@@ -1,0 +1,382 @@
+{
+    "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+    "date": "March 02, 2024",
+    "Jairzinho Rozenstruik vs Shamil Gaziev": {
+        "name": "Jairzinho Rozenstruik vs Shamil Gaziev",
+        "fighter1": "Jairzinho Rozenstruik",
+        "fighter2": "Shamil Gaziev",
+        "winner": "Jairzinho Rozenstruik",
+        "method": "KO/TKO",
+        "time_end": "5:00",
+        "round_end": 4,
+        "fight_length": 480,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 127,
+            "sig_str_att": 215,
+            "str_landed": 140,
+            "str_att": 230,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 68,
+            "str_landed": 27,
+            "str_att": 75,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 272
+        }
+    },
+    "Vitor Petrino vs Tyson Pedro": {
+        "name": "Vitor Petrino vs Tyson Pedro",
+        "fighter1": "Vitor Petrino",
+        "fighter2": "Tyson Pedro",
+        "winner": "Vitor Petrino",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 75,
+            "str_landed": 33,
+            "str_att": 82,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 324
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 30,
+            "sig_str_att": 60,
+            "str_landed": 33,
+            "str_att": 64,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 10
+        }
+    },
+    "Alex Perez vs Muhammad Mokaev": {
+        "name": "Alex Perez vs Muhammad Mokaev",
+        "fighter1": "Alex Perez",
+        "fighter2": "Muhammad Mokaev",
+        "winner": "Muhammad Mokaev",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 30,
+            "sig_str_att": 87,
+            "str_landed": 47,
+            "str_att": 114,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 224
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 104,
+            "str_landed": 56,
+            "str_att": 119,
+            "td_comp": 3,
+            "td_att": 20,
+            "sub_att": 0,
+            "ctrl_time": 269
+        }
+    },
+    "Umar Nurmagomedov vs Bekzat Almakhan": {
+        "name": "Umar Nurmagomedov vs Bekzat Almakhan",
+        "fighter1": "Umar Nurmagomedov",
+        "fighter2": "Bekzat Almakhan",
+        "winner": "Umar Nurmagomedov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            77,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 68,
+            "sig_str_att": 98,
+            "str_landed": 145,
+            "str_att": 197,
+            "td_comp": 5,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 686
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 3,
+            "sig_str_att": 16,
+            "str_landed": 5,
+            "str_att": 25,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 34
+        }
+    },
+    "Matt Schnell vs Steve Erceg": {
+        "name": "Matt Schnell vs Steve Erceg",
+        "fighter1": "Matt Schnell",
+        "fighter2": "Steve Erceg",
+        "winner": "Steve Erceg",
+        "method": "KO/TKO",
+        "time_end": "0:26",
+        "round_end": 2,
+        "fight_length": 86,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 78,
+            "str_landed": 25,
+            "str_att": 84,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 34,
+            "sig_str_att": 72,
+            "str_landed": 34,
+            "str_att": 72,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 5
+        }
+    },
+    "Eryk Anders vs Jamie Pickett": {
+        "name": "Eryk Anders vs Jamie Pickett",
+        "fighter1": "Eryk Anders",
+        "fighter2": "Jamie Pickett",
+        "winner": "Eryk Anders",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 59,
+            "str_landed": 83,
+            "str_att": 147,
+            "td_comp": 5,
+            "td_att": 13,
+            "sub_att": 0,
+            "ctrl_time": 608
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 20,
+            "sig_str_att": 55,
+            "str_landed": 26,
+            "str_att": 64,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 16
+        }
+    },
+    "Vinicius Oliveira vs Benardo Sopaj": {
+        "name": "Vinicius Oliveira vs Benardo Sopaj",
+        "fighter1": "Vinicius Oliveira",
+        "fighter2": "Benardo Sopaj",
+        "winner": "Vinicius Oliveira",
+        "method": "KO/TKO",
+        "time_end": "4:41",
+        "round_end": 3,
+        "fight_length": 401,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 67,
+            "sig_str_att": 144,
+            "str_landed": 88,
+            "str_att": 170,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 97
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 86,
+            "str_landed": 92,
+            "str_att": 146,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 268
+        }
+    },
+    "Aiemann Zahabi vs Javid Basharat": {
+        "name": "Aiemann Zahabi vs Javid Basharat",
+        "fighter1": "Aiemann Zahabi",
+        "fighter2": "Javid Basharat",
+        "winner": "Aiemann Zahabi",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 75,
+            "sig_str_att": 174,
+            "str_landed": 77,
+            "str_att": 176,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 13
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 67,
+            "sig_str_att": 205,
+            "str_landed": 67,
+            "str_att": 205,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Christian Leroy Duncan vs Claudio Ribeiro": {
+        "name": "Christian Leroy Duncan vs Claudio Ribeiro",
+        "fighter1": "Christian Leroy Duncan",
+        "fighter2": "Claudio Ribeiro",
+        "winner": "Christian Leroy Duncan",
+        "method": "KO/TKO",
+        "time_end": "1:57",
+        "round_end": 2,
+        "fight_length": 177,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 65,
+            "sig_str_att": 92,
+            "str_landed": 75,
+            "str_att": 105,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 135
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 26,
+            "str_landed": 13,
+            "str_att": 39,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 63
+        }
+    },
+    "Ludovit Klein vs AJ Cunningham": {
+        "name": "Ludovit Klein vs AJ Cunningham",
+        "fighter1": "Ludovit Klein",
+        "fighter2": "AJ Cunningham",
+        "winner": "Ludovit Klein",
+        "method": "KO/TKO",
+        "time_end": "4:36",
+        "round_end": 1,
+        "fight_length": 276,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 60,
+            "sig_str_att": 91,
+            "str_landed": 63,
+            "str_att": 95,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 27
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 75,
+            "str_landed": 36,
+            "str_att": 77,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 26
+        }
+    },
+    "Abdul-Kareem Al-Selwady vs Loik Radzhabov": {
+        "name": "Abdul-Kareem Al-Selwady vs Loik Radzhabov",
+        "fighter1": "Abdul-Kareem Al-Selwady",
+        "fighter2": "Loik Radzhabov",
+        "winner": "Loik Radzhabov",
+        "method": "KO/TKO",
+        "time_end": "0:49",
+        "round_end": 3,
+        "fight_length": 169,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 68,
+            "str_landed": 50,
+            "str_att": 84,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 164
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 39,
+            "sig_str_att": 90,
+            "str_landed": 57,
+            "str_att": 115,
+            "td_comp": 4,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 87
+        }
+    }
+}

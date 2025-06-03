@@ -1,0 +1,322 @@
+{
+    "event": "UFC 223: Khabib vs. Iaquinta",
+    "date": "April 07, 2018",
+    "Khabib Nurmagomedov vs Al Iaquinta": {
+        "name": "Khabib Nurmagomedov vs Al Iaquinta",
+        "fighter1": "Khabib Nurmagomedov",
+        "fighter2": "Al Iaquinta",
+        "winner": "Khabib Nurmagomedov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            130,
+            150
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 134,
+            "sig_str_att": 304,
+            "str_landed": 172,
+            "str_att": 352,
+            "td_comp": 6,
+            "td_att": 15,
+            "sub_att": 1,
+            "ctrl_time": 633
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 141,
+            "str_landed": 43,
+            "str_att": 143,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Rose Namajunas vs Joanna Jedrzejczyk": {
+        "name": "Rose Namajunas vs Joanna Jedrzejczyk",
+        "fighter1": "Rose Namajunas",
+        "fighter2": "Joanna Jedrzejczyk",
+        "winner": "Rose Namajunas",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            138,
+            147
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 105,
+            "sig_str_att": 301,
+            "str_landed": 108,
+            "str_att": 304,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 56
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 145,
+            "sig_str_att": 356,
+            "str_landed": 160,
+            "str_att": 372,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Renato Moicano vs Calvin Kattar": {
+        "name": "Renato Moicano vs Calvin Kattar",
+        "fighter1": "Renato Moicano",
+        "fighter2": "Calvin Kattar",
+        "winner": "Renato Moicano",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 116,
+            "sig_str_att": 206,
+            "str_landed": 117,
+            "str_att": 207,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 140,
+            "str_landed": 41,
+            "str_att": 140,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    },
+    "Zabit Magomedsharipov vs Kyle Bochniak": {
+        "name": "Zabit Magomedsharipov vs Kyle Bochniak",
+        "fighter1": "Zabit Magomedsharipov",
+        "fighter2": "Kyle Bochniak",
+        "winner": "Zabit Magomedsharipov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 97,
+            "sig_str_att": 217,
+            "str_landed": 114,
+            "str_att": 237,
+            "td_comp": 5,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 228
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 43,
+            "sig_str_att": 163,
+            "str_landed": 44,
+            "str_att": 164,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 40
+        }
+    },
+    "Joe Lauzon vs Chris Gruetzemacher": {
+        "name": "Joe Lauzon vs Chris Gruetzemacher",
+        "fighter1": "Joe Lauzon",
+        "fighter2": "Chris Gruetzemacher",
+        "winner": "Chris Gruetzemacher",
+        "method": "KO/TKO",
+        "time_end": "5:00",
+        "round_end": 2,
+        "fight_length": 360,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 48,
+            "sig_str_att": 137,
+            "str_landed": 49,
+            "str_att": 138,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 128,
+            "sig_str_att": 196,
+            "str_landed": 135,
+            "str_att": 203,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 98
+        }
+    },
+    "Karolina Kowalkiewicz vs Felice Herrig": {
+        "name": "Karolina Kowalkiewicz vs Felice Herrig",
+        "fighter1": "Karolina Kowalkiewicz",
+        "fighter2": "Felice Herrig",
+        "winner": "Karolina Kowalkiewicz",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 126,
+            "sig_str_att": 248,
+            "str_landed": 140,
+            "str_att": 262,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 71
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 86,
+            "sig_str_att": 216,
+            "str_landed": 97,
+            "str_att": 228,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 105
+        }
+    },
+    "Evan Dunham vs Olivier Aubin-Mercier": {
+        "name": "Evan Dunham vs Olivier Aubin-Mercier",
+        "fighter1": "Evan Dunham",
+        "fighter2": "Olivier Aubin-Mercier",
+        "winner": "Olivier Aubin-Mercier",
+        "method": "KO/TKO",
+        "time_end": "0:53",
+        "round_end": 1,
+        "fight_length": 53,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 14,
+            "str_landed": 4,
+            "str_att": 14,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 13,
+            "sig_str_att": 18,
+            "str_landed": 13,
+            "str_att": 18,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 7
+        }
+    },
+    "Bec Rawlings vs Ashlee Evans-Smith": {
+        "name": "Bec Rawlings vs Ashlee Evans-Smith",
+        "fighter1": "Bec Rawlings",
+        "fighter2": "Ashlee Evans-Smith",
+        "winner": "Ashlee Evans-Smith",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 88,
+            "sig_str_att": 195,
+            "str_landed": 89,
+            "str_att": 196,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 9
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 116,
+            "sig_str_att": 331,
+            "str_landed": 121,
+            "str_att": 337,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 7
+        }
+    },
+    "Devin Clark vs Mike Rodriguez": {
+        "name": "Devin Clark vs Mike Rodriguez",
+        "fighter1": "Devin Clark",
+        "fighter2": "Mike Rodriguez",
+        "winner": "Devin Clark",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 50,
+            "sig_str_att": 64,
+            "str_landed": 167,
+            "str_att": 200,
+            "td_comp": 7,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 685
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 66,
+            "str_landed": 66,
+            "str_att": 95,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 38
+        }
+    }
+}

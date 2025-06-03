@@ -1,0 +1,388 @@
+{
+    "event": "UFC Fight Night: Yusuff vs. Barboza",
+    "date": "October 14, 2023",
+    "Sodiq Yusuff vs Edson Barboza": {
+        "name": "Sodiq Yusuff vs Edson Barboza",
+        "fighter1": "Sodiq Yusuff",
+        "fighter2": "Edson Barboza",
+        "winner": "Edson Barboza",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            138,
+            145
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 178,
+            "sig_str_att": 351,
+            "str_landed": 206,
+            "str_att": 397,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 236
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 164,
+            "sig_str_att": 324,
+            "str_landed": 178,
+            "str_att": 347,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 184
+        }
+    },
+    "Jennifer Maia vs Viviane Araujo": {
+        "name": "Jennifer Maia vs Viviane Araujo",
+        "fighter1": "Jennifer Maia",
+        "fighter2": "Viviane Araujo",
+        "winner": "Viviane Araujo",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 101,
+            "str_landed": 60,
+            "str_att": 126,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 85
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 46,
+            "str_landed": 64,
+            "str_att": 100,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 1,
+            "ctrl_time": 423
+        }
+    },
+    "Jonathan Martinez vs Adrian Yanez": {
+        "name": "Jonathan Martinez vs Adrian Yanez",
+        "fighter1": "Jonathan Martinez",
+        "fighter2": "Adrian Yanez",
+        "winner": "Jonathan Martinez",
+        "method": "KO/TKO",
+        "time_end": "2:26",
+        "round_end": 2,
+        "fight_length": 206,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 36,
+            "sig_str_att": 58,
+            "str_landed": 36,
+            "str_att": 60,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 19
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 72,
+            "str_landed": 20,
+            "str_att": 73,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 10
+        }
+    },
+    "Andre Petroski vs Michel Pereira": {
+        "name": "Andre Petroski vs Michel Pereira",
+        "fighter1": "Andre Petroski",
+        "fighter2": "Michel Pereira",
+        "winner": "Michel Pereira",
+        "method": "KO/TKO",
+        "time_end": "1:06",
+        "round_end": 1,
+        "fight_length": 66,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 1,
+            "str_landed": 0,
+            "str_att": 1,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 6,
+            "sig_str_att": 18,
+            "str_landed": 6,
+            "str_att": 18,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 4
+        }
+    },
+    "Christian Rodriguez vs Cameron Saaiman": {
+        "name": "Christian Rodriguez vs Cameron Saaiman",
+        "fighter1": "Christian Rodriguez",
+        "fighter2": "Cameron Saaiman",
+        "winner": "Christian Rodriguez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 83,
+            "sig_str_att": 161,
+            "str_landed": 92,
+            "str_att": 173,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 2,
+            "ctrl_time": 192
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 73,
+            "sig_str_att": 175,
+            "str_landed": 87,
+            "str_att": 192,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 86
+        }
+    },
+    "Darren Elkins vs TJ Brown": {
+        "name": "Darren Elkins vs TJ Brown",
+        "fighter1": "Darren Elkins",
+        "fighter2": "TJ Brown",
+        "winner": "Darren Elkins",
+        "method": "Submission",
+        "time_end": "2:23",
+        "round_end": 3,
+        "fight_length": 263,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 33,
+            "str_landed": 95,
+            "str_att": 146,
+            "td_comp": 5,
+            "td_att": 8,
+            "sub_att": 2,
+            "ctrl_time": 489
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 50,
+            "str_landed": 45,
+            "str_att": 86,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 89
+        }
+    },
+    "Tainara Lisboa vs Ravena Oliveira": {
+        "name": "Tainara Lisboa vs Ravena Oliveira",
+        "fighter1": "Tainara Lisboa",
+        "fighter2": "Ravena Oliveira",
+        "winner": "Tainara Lisboa",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 35,
+            "str_landed": 77,
+            "str_att": 106,
+            "td_comp": 3,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 415
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 31,
+            "str_landed": 61,
+            "str_att": 87,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 322
+        }
+    },
+    "Terrance McKinney vs Brendon Marotte": {
+        "name": "Terrance McKinney vs Brendon Marotte",
+        "fighter1": "Terrance McKinney",
+        "fighter2": "Brendon Marotte",
+        "winner": "Terrance McKinney",
+        "method": "KO/TKO",
+        "time_end": "0:20",
+        "round_end": 1,
+        "fight_length": 20,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 14,
+            "sig_str_att": 21,
+            "str_landed": 14,
+            "str_att": 21,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 15
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 1,
+            "str_landed": 1,
+            "str_att": 1,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Irina Alekseeva vs Melissa Mullins": {
+        "name": "Irina Alekseeva vs Melissa Mullins",
+        "fighter1": "Irina Alekseeva",
+        "fighter2": "Melissa Mullins",
+        "winner": "Melissa Mullins",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 48,
+            "sig_str_att": 108,
+            "str_landed": 60,
+            "str_att": 126,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 50
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 52,
+            "sig_str_att": 95,
+            "str_landed": 87,
+            "str_att": 148,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 495
+        }
+    },
+    "Chris Gutierrez vs Alatengheili": {
+        "name": "Chris Gutierrez vs Alatengheili",
+        "fighter1": "Chris Gutierrez",
+        "fighter2": "Alatengheili",
+        "winner": "Chris Gutierrez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 110,
+            "sig_str_att": 197,
+            "str_landed": 115,
+            "str_att": 203,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 8
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 133,
+            "str_landed": 39,
+            "str_att": 134,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 51
+        }
+    },
+    "Ashley Yoder vs Emily Ducote": {
+        "name": "Ashley Yoder vs Emily Ducote",
+        "fighter1": "Ashley Yoder",
+        "fighter2": "Emily Ducote",
+        "winner": "Emily Ducote",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 102,
+            "sig_str_att": 269,
+            "str_landed": 105,
+            "str_att": 276,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 9
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 117,
+            "sig_str_att": 210,
+            "str_landed": 119,
+            "str_att": 213,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    }
+}

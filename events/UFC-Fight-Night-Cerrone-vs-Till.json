@@ -1,0 +1,388 @@
+{
+    "event": "UFC Fight Night: Cerrone vs. Till",
+    "date": "October 21, 2017",
+    "Donald Cerrone vs Darren Till": {
+        "name": "Donald Cerrone vs Darren Till",
+        "fighter1": "Donald Cerrone",
+        "fighter2": "Darren Till",
+        "winner": "Darren Till",
+        "method": "KO/TKO",
+        "time_end": "4:20",
+        "round_end": 1,
+        "fight_length": 260,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 24,
+            "str_landed": 14,
+            "str_att": 24,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 29
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 24,
+            "sig_str_att": 55,
+            "str_landed": 24,
+            "str_att": 55,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 4
+        }
+    },
+    "Karolina Kowalkiewicz vs Jodie Esquibel": {
+        "name": "Karolina Kowalkiewicz vs Jodie Esquibel",
+        "fighter1": "Karolina Kowalkiewicz",
+        "fighter2": "Jodie Esquibel",
+        "winner": "Karolina Kowalkiewicz",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 127,
+            "sig_str_att": 333,
+            "str_landed": 142,
+            "str_att": 348,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 10
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 65,
+            "sig_str_att": 175,
+            "str_landed": 66,
+            "str_att": 176,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 72
+        }
+    },
+    "Jan Blachowicz vs Devin Clark": {
+        "name": "Jan Blachowicz vs Devin Clark",
+        "fighter1": "Jan Blachowicz",
+        "fighter2": "Devin Clark",
+        "winner": "Jan Blachowicz",
+        "method": "Submission",
+        "time_end": "3:02",
+        "round_end": 2,
+        "fight_length": 242,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 44,
+            "str_landed": 50,
+            "str_att": 63,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 161
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 43,
+            "str_landed": 31,
+            "str_att": 60,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 25
+        }
+    },
+    "Oskar Piechota vs Jonathan Wilson": {
+        "name": "Oskar Piechota vs Jonathan Wilson",
+        "fighter1": "Oskar Piechota",
+        "fighter2": "Jonathan Wilson",
+        "winner": "Oskar Piechota",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 56,
+            "sig_str_att": 93,
+            "str_landed": 80,
+            "str_att": 121,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 3,
+            "ctrl_time": 259
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 60,
+            "str_landed": 17,
+            "str_att": 60,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 22
+        }
+    },
+    "Marcin Held vs Nasrat Haqparast": {
+        "name": "Marcin Held vs Nasrat Haqparast",
+        "fighter1": "Marcin Held",
+        "fighter2": "Nasrat Haqparast",
+        "winner": "Marcin Held",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 89,
+            "str_landed": 59,
+            "str_att": 137,
+            "td_comp": 3,
+            "td_att": 10,
+            "sub_att": 1,
+            "ctrl_time": 445
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 27,
+            "sig_str_att": 75,
+            "str_landed": 43,
+            "str_att": 94,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 81
+        }
+    },
+    "Damian Stasiak vs Brian Kelleher": {
+        "name": "Damian Stasiak vs Brian Kelleher",
+        "fighter1": "Damian Stasiak",
+        "fighter2": "Brian Kelleher",
+        "winner": "Brian Kelleher",
+        "method": "KO/TKO",
+        "time_end": "3:39",
+        "round_end": 3,
+        "fight_length": 339,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 43,
+            "sig_str_att": 112,
+            "str_landed": 45,
+            "str_att": 114,
+            "td_comp": 1,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 105
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 79,
+            "sig_str_att": 147,
+            "str_landed": 116,
+            "str_att": 194,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 273
+        }
+    },
+    "Sam Alvey vs Ramazan Emeev": {
+        "name": "Sam Alvey vs Ramazan Emeev",
+        "fighter1": "Sam Alvey",
+        "fighter2": "Ramazan Emeev",
+        "winner": "Ramazan Emeev",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 70,
+            "str_landed": 56,
+            "str_att": 99,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 71,
+            "str_landed": 51,
+            "str_att": 84,
+            "td_comp": 1,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 252
+        }
+    },
+    "Artem Lobov vs Andre Fili": {
+        "name": "Artem Lobov vs Andre Fili",
+        "fighter1": "Artem Lobov",
+        "fighter2": "Andre Fili",
+        "winner": "Andre Fili",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 55,
+            "sig_str_att": 116,
+            "str_landed": 77,
+            "str_att": 140,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 22
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 55,
+            "sig_str_att": 145,
+            "str_landed": 76,
+            "str_att": 166,
+            "td_comp": 5,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 268
+        }
+    },
+    "Salim Touahri vs Warlley Alves": {
+        "name": "Salim Touahri vs Warlley Alves",
+        "fighter1": "Salim Touahri",
+        "fighter2": "Warlley Alves",
+        "winner": "Warlley Alves",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 74,
+            "str_landed": 49,
+            "str_att": 88,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 17
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 95,
+            "str_landed": 55,
+            "str_att": 113,
+            "td_comp": 2,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 225
+        }
+    },
+    "Lina Lansberg vs Aspen Ladd": {
+        "name": "Lina Lansberg vs Aspen Ladd",
+        "fighter1": "Lina Lansberg",
+        "fighter2": "Aspen Ladd",
+        "winner": "Aspen Ladd",
+        "method": "KO/TKO",
+        "time_end": "2:33",
+        "round_end": 2,
+        "fight_length": 213,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 64,
+            "str_landed": 50,
+            "str_att": 73,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 163
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 60,
+            "str_landed": 45,
+            "str_att": 84,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 204
+        }
+    },
+    "Felipe Arantes vs Josh Emmett": {
+        "name": "Felipe Arantes vs Josh Emmett",
+        "fighter1": "Felipe Arantes",
+        "fighter2": "Josh Emmett",
+        "winner": "Josh Emmett",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            77,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 43,
+            "sig_str_att": 134,
+            "str_landed": 44,
+            "str_att": 136,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 4,
+            "sig_str_landed": 67,
+            "sig_str_att": 211,
+            "str_landed": 78,
+            "str_att": 231,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 165
+        }
+    }
+}

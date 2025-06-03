@@ -1,0 +1,346 @@
+{
+    "event": "UFC 172: Jones vs Teixeira",
+    "date": "April 26, 2014",
+    "Jon Jones vs Glover Teixeira": {
+        "name": "Jon Jones vs Glover Teixeira",
+        "fighter1": "Jon Jones",
+        "fighter2": "Glover Teixeira",
+        "winner": "Jon Jones",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            135,
+            150
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 138,
+            "sig_str_att": 236,
+            "str_landed": 158,
+            "str_att": 256,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 2,
+            "ctrl_time": 351
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 53,
+            "sig_str_att": 192,
+            "str_landed": 65,
+            "str_att": 204,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Phil Davis vs Anthony Johnson": {
+        "name": "Phil Davis vs Anthony Johnson",
+        "fighter1": "Phil Davis",
+        "fighter2": "Anthony Johnson",
+        "winner": "Anthony Johnson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 127,
+            "str_landed": 27,
+            "str_att": 133,
+            "td_comp": 0,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 32
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 132,
+            "str_landed": 47,
+            "str_att": 134,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 15
+        }
+    },
+    "Luke Rockhold vs Tim Boetsch": {
+        "name": "Luke Rockhold vs Tim Boetsch",
+        "fighter1": "Luke Rockhold",
+        "fighter2": "Tim Boetsch",
+        "winner": "Luke Rockhold",
+        "method": "Submission",
+        "time_end": "2:08",
+        "round_end": 1,
+        "fight_length": 128,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 4,
+            "str_landed": 9,
+            "str_att": 9,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 95
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 2,
+            "str_landed": 1,
+            "str_att": 2,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 4
+        }
+    },
+    "Jim Miller vs Yancy Medeiros": {
+        "name": "Jim Miller vs Yancy Medeiros",
+        "fighter1": "Jim Miller",
+        "fighter2": "Yancy Medeiros",
+        "winner": "Jim Miller",
+        "method": "Submission",
+        "time_end": "3:18",
+        "round_end": 1,
+        "fight_length": 198,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 19,
+            "str_landed": 6,
+            "str_att": 20,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 29
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 27,
+            "str_landed": 9,
+            "str_att": 27,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 24
+        }
+    },
+    "Max Holloway vs Andre Fili": {
+        "name": "Max Holloway vs Andre Fili",
+        "fighter1": "Max Holloway",
+        "fighter2": "Andre Fili",
+        "winner": "Max Holloway",
+        "method": "Submission",
+        "time_end": "3:39",
+        "round_end": 3,
+        "fight_length": 339,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 149,
+            "str_landed": 57,
+            "str_att": 161,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 139,
+            "str_landed": 46,
+            "str_att": 141,
+            "td_comp": 3,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 192
+        }
+    },
+    "Joseph Benavidez vs Tim Elliott": {
+        "name": "Joseph Benavidez vs Tim Elliott",
+        "fighter1": "Joseph Benavidez",
+        "fighter2": "Tim Elliott",
+        "winner": "Joseph Benavidez",
+        "method": "Submission",
+        "time_end": "4:08",
+        "round_end": 1,
+        "fight_length": 248,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 23,
+            "str_landed": 14,
+            "str_att": 28,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 93
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 21,
+            "str_landed": 27,
+            "str_att": 35,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 76
+        }
+    },
+    "Takanori Gomi vs Isaac Vallie-Flagg": {
+        "name": "Takanori Gomi vs Isaac Vallie-Flagg",
+        "fighter1": "Takanori Gomi",
+        "fighter2": "Isaac Vallie-Flagg",
+        "winner": "Takanori Gomi",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 130,
+            "sig_str_att": 240,
+            "str_landed": 153,
+            "str_att": 263,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 232
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 107,
+            "sig_str_att": 217,
+            "str_landed": 211,
+            "str_att": 322,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 71
+        }
+    },
+    "Jessamyn Duke vs Bethe Correia": {
+        "name": "Jessamyn Duke vs Bethe Correia",
+        "fighter1": "Jessamyn Duke",
+        "fighter2": "Bethe Correia",
+        "winner": "Bethe Correia",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 54,
+            "sig_str_att": 130,
+            "str_landed": 70,
+            "str_att": 148,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 12
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 91,
+            "sig_str_att": 186,
+            "str_landed": 118,
+            "str_att": 216,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 209
+        }
+    },
+    "Danny Castillo vs Charlie Brenneman": {
+        "name": "Danny Castillo vs Charlie Brenneman",
+        "fighter1": "Danny Castillo",
+        "fighter2": "Charlie Brenneman",
+        "winner": "Danny Castillo",
+        "method": "KO/TKO",
+        "time_end": "0:21",
+        "round_end": 2,
+        "fight_length": 81,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 16,
+            "sig_str_att": 21,
+            "str_landed": 20,
+            "str_att": 25,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 58
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 21,
+            "str_landed": 35,
+            "str_att": 44,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 130
+        }
+    },
+    "Chris Beal vs Patrick Williams": {
+        "name": "Chris Beal vs Patrick Williams",
+        "fighter1": "Chris Beal",
+        "fighter2": "Patrick Williams",
+        "winner": "Chris Beal",
+        "method": "KO/TKO",
+        "time_end": "1:51",
+        "round_end": 2,
+        "fight_length": 171,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 19,
+            "sig_str_att": 49,
+            "str_landed": 19,
+            "str_att": 50,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 4
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 35,
+            "str_landed": 15,
+            "str_att": 37,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 36
+        }
+    }
+}

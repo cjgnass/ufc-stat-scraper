@@ -1,0 +1,349 @@
+{
+    "event": "UFC Fight Night: Ladd vs. Dumont",
+    "date": "October 16, 2021",
+    "Aspen Ladd vs Norma Dumont": {
+        "name": "Aspen Ladd vs Norma Dumont",
+        "fighter1": "Aspen Ladd",
+        "fighter2": "Norma Dumont",
+        "winner": "Norma Dumont",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            139,
+            146
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 110,
+            "str_landed": 86,
+            "str_att": 166,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 452
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 65,
+            "sig_str_att": 149,
+            "str_landed": 113,
+            "str_att": 201,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 107
+        }
+    },
+    "Andrei Arlovski vs Carlos Felipe": {
+        "name": "Andrei Arlovski vs Carlos Felipe",
+        "fighter1": "Andrei Arlovski",
+        "fighter2": "Carlos Felipe",
+        "winner": "Andrei Arlovski",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 83,
+            "sig_str_att": 172,
+            "str_landed": 84,
+            "str_att": 173,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 73,
+            "sig_str_att": 172,
+            "str_landed": 73,
+            "str_att": 172,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 82
+        }
+    },
+    "Jim Miller vs Erick Gonzalez": {
+        "name": "Jim Miller vs Erick Gonzalez",
+        "fighter1": "Jim Miller",
+        "fighter2": "Erick Gonzalez",
+        "winner": "Jim Miller",
+        "method": "KO/TKO",
+        "time_end": "0:14",
+        "round_end": 2,
+        "fight_length": 74,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 32,
+            "sig_str_att": 48,
+            "str_landed": 43,
+            "str_att": 60,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 115
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 37,
+            "str_landed": 22,
+            "str_att": 45,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 62
+        }
+    },
+    "Manon Fiorot vs Mayra Bueno Silva": {
+        "name": "Manon Fiorot vs Mayra Bueno Silva",
+        "fighter1": "Manon Fiorot",
+        "fighter2": "Mayra Bueno Silva",
+        "winner": "Manon Fiorot",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 91,
+            "sig_str_att": 267,
+            "str_landed": 112,
+            "str_att": 291,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 245
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 48,
+            "sig_str_att": 111,
+            "str_landed": 92,
+            "str_att": 156,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 4
+        }
+    },
+    "Nate Landwehr vs Ludovit Klein": {
+        "name": "Nate Landwehr vs Ludovit Klein",
+        "fighter1": "Nate Landwehr",
+        "fighter2": "Ludovit Klein",
+        "winner": "Nate Landwehr",
+        "method": "Submission",
+        "time_end": "2:22",
+        "round_end": 3,
+        "fight_length": 262,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 71,
+            "sig_str_att": 130,
+            "str_landed": 103,
+            "str_att": 163,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 226
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 85,
+            "str_landed": 44,
+            "str_att": 87,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 32
+        }
+    },
+    "Andrew Sanchez vs Bruno Silva": {
+        "name": "Andrew Sanchez vs Bruno Silva",
+        "fighter1": "Andrew Sanchez",
+        "fighter2": "Bruno Silva",
+        "winner": "Bruno Silva",
+        "method": "KO/TKO",
+        "time_end": "2:35",
+        "round_end": 3,
+        "fight_length": 275,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 53,
+            "str_landed": 86,
+            "str_att": 117,
+            "td_comp": 7,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 473
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 70,
+            "sig_str_att": 123,
+            "str_landed": 100,
+            "str_att": 155,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 15
+        }
+    },
+    "Danny Roberts vs Ramazan Emeev": {
+        "name": "Danny Roberts vs Ramazan Emeev",
+        "fighter1": "Danny Roberts",
+        "fighter2": "Ramazan Emeev",
+        "winner": "Danny Roberts",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 94,
+            "str_landed": 42,
+            "str_att": 102,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 158
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 79,
+            "str_landed": 67,
+            "str_att": 112,
+            "td_comp": 2,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 177
+        }
+    },
+    "Loopy Godinez vs Luana Carolina": {
+        "name": "Loopy Godinez vs Luana Carolina",
+        "fighter1": "Loopy Godinez",
+        "fighter2": "Luana Carolina",
+        "winner": "Luana Carolina",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 54,
+            "str_landed": 45,
+            "str_att": 76,
+            "td_comp": 2,
+            "td_att": 15,
+            "sub_att": 0,
+            "ctrl_time": 457
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 53,
+            "sig_str_att": 107,
+            "str_landed": 86,
+            "str_att": 141,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 52
+        }
+    },
+    "Batgerel Danaa vs Brandon Davis": {
+        "name": "Batgerel Danaa vs Brandon Davis",
+        "fighter1": "Batgerel Danaa",
+        "fighter2": "Brandon Davis",
+        "winner": "Batgerel Danaa",
+        "method": "KO/TKO",
+        "time_end": "2:01",
+        "round_end": 1,
+        "fight_length": 121,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 22,
+            "sig_str_att": 51,
+            "str_landed": 22,
+            "str_att": 51,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 27,
+            "str_landed": 7,
+            "str_att": 27,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Istela Nunes vs Ariane Carnelossi": {
+        "name": "Istela Nunes vs Ariane Carnelossi",
+        "fighter1": "Istela Nunes",
+        "fighter2": "Ariane Carnelossi",
+        "winner": "Ariane Carnelossi",
+        "method": "Submission",
+        "time_end": "2:57",
+        "round_end": 3,
+        "fight_length": 297,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 62,
+            "sig_str_att": 119,
+            "str_landed": 98,
+            "str_att": 156,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 108,
+            "str_landed": 76,
+            "str_att": 158,
+            "td_comp": 5,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 424
+        }
+    }
+}

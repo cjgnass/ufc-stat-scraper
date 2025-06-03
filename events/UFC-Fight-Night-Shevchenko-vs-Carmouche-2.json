@@ -1,0 +1,457 @@
+{
+    "event": "UFC Fight Night: Shevchenko vs. Carmouche 2",
+    "date": "August 10, 2019",
+    "Valentina Shevchenko vs Liz Carmouche": {
+        "name": "Valentina Shevchenko vs Liz Carmouche",
+        "fighter1": "Valentina Shevchenko",
+        "fighter2": "Liz Carmouche",
+        "winner": "Valentina Shevchenko",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            135,
+            150
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 115,
+            "str_landed": 84,
+            "str_att": 159,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 470
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 76,
+            "str_landed": 132,
+            "str_att": 191,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Vicente Luque vs Mike Perry": {
+        "name": "Vicente Luque vs Mike Perry",
+        "fighter1": "Vicente Luque",
+        "fighter2": "Mike Perry",
+        "winner": "Vicente Luque",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 84,
+            "sig_str_att": 179,
+            "str_landed": 85,
+            "str_att": 180,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 87,
+            "sig_str_att": 175,
+            "str_landed": 116,
+            "str_att": 204,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 200
+        }
+    },
+    "Eduardo Garagorri vs Humberto Bandenay": {
+        "name": "Eduardo Garagorri vs Humberto Bandenay",
+        "fighter1": "Eduardo Garagorri",
+        "fighter2": "Humberto Bandenay",
+        "winner": "Eduardo Garagorri",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 65,
+            "sig_str_att": 115,
+            "str_landed": 69,
+            "str_att": 120,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 129
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 71,
+            "str_landed": 59,
+            "str_att": 98,
+            "td_comp": 4,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 213
+        }
+    },
+    "Volkan Oezdemir vs Ilir Latifi": {
+        "name": "Volkan Oezdemir vs Ilir Latifi",
+        "fighter1": "Volkan Oezdemir",
+        "fighter2": "Ilir Latifi",
+        "winner": "Volkan Oezdemir",
+        "method": "KO/TKO",
+        "time_end": "4:31",
+        "round_end": 2,
+        "fight_length": 331,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 64,
+            "sig_str_att": 137,
+            "str_landed": 92,
+            "str_att": 166,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 25
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 60,
+            "str_landed": 20,
+            "str_att": 62,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 66
+        }
+    },
+    "Rodolfo Vieira vs Oskar Piechota": {
+        "name": "Rodolfo Vieira vs Oskar Piechota",
+        "fighter1": "Rodolfo Vieira",
+        "fighter2": "Oskar Piechota",
+        "winner": "Rodolfo Vieira",
+        "method": "Submission",
+        "time_end": "4:26",
+        "round_end": 2,
+        "fight_length": 326,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 39,
+            "str_landed": 37,
+            "str_att": 62,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 330
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 43,
+            "str_landed": 51,
+            "str_att": 76,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Enrique Barzola vs Bobby Moffett": {
+        "name": "Enrique Barzola vs Bobby Moffett",
+        "fighter1": "Enrique Barzola",
+        "fighter2": "Bobby Moffett",
+        "winner": "Enrique Barzola",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 83,
+            "sig_str_att": 239,
+            "str_landed": 88,
+            "str_att": 244,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 39
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 90,
+            "sig_str_att": 236,
+            "str_landed": 98,
+            "str_att": 247,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 24
+        }
+    },
+    "Gilbert Burns vs Aleksei Kunchenko": {
+        "name": "Gilbert Burns vs Aleksei Kunchenko",
+        "fighter1": "Gilbert Burns",
+        "fighter2": "Aleksei Kunchenko",
+        "winner": "Gilbert Burns",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 83,
+            "str_landed": 63,
+            "str_att": 107,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 418
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 102,
+            "str_landed": 115,
+            "str_att": 172,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 28
+        }
+    },
+    "Ciryl Gane vs Raphael Pessoa": {
+        "name": "Ciryl Gane vs Raphael Pessoa",
+        "fighter1": "Ciryl Gane",
+        "fighter2": "Raphael Pessoa",
+        "winner": "Ciryl Gane",
+        "method": "Submission",
+        "time_end": "4:12",
+        "round_end": 1,
+        "fight_length": 252,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 22,
+            "str_landed": 20,
+            "str_att": 28,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 33
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 41,
+            "str_landed": 9,
+            "str_att": 43,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    },
+    "Tecia Pennington vs Marina Rodriguez": {
+        "name": "Tecia Pennington vs Marina Rodriguez",
+        "fighter1": "Tecia Pennington",
+        "fighter2": "Marina Rodriguez",
+        "winner": "Marina Rodriguez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 108,
+            "str_landed": 58,
+            "str_att": 126,
+            "td_comp": 0,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 88
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 84,
+            "sig_str_att": 167,
+            "str_landed": 98,
+            "str_att": 186,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 144
+        }
+    },
+    "Rogerio Bontorin vs Raulian Paiva": {
+        "name": "Rogerio Bontorin vs Raulian Paiva",
+        "fighter1": "Rogerio Bontorin",
+        "fighter2": "Raulian Paiva",
+        "winner": "Rogerio Bontorin",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "2:56",
+        "round_end": 1,
+        "fight_length": 176,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 15,
+            "str_landed": 8,
+            "str_att": 16,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 79
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 15,
+            "str_landed": 7,
+            "str_att": 19,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Geraldo de Freitas vs Chris Gutierrez": {
+        "name": "Geraldo de Freitas vs Chris Gutierrez",
+        "fighter1": "Geraldo de Freitas",
+        "fighter2": "Chris Gutierrez",
+        "winner": "Chris Gutierrez",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            86,
+            85
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 112,
+            "str_landed": 57,
+            "str_att": 134,
+            "td_comp": 2,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 128
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 48,
+            "sig_str_att": 86,
+            "str_landed": 49,
+            "str_att": 87,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 176
+        }
+    },
+    "Kazula Vargas vs Alex Da Silva": {
+        "name": "Kazula Vargas vs Alex Da Silva",
+        "fighter1": "Kazula Vargas",
+        "fighter2": "Alex Da Silva",
+        "winner": "Alex Da Silva",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 42,
+            "str_landed": 59,
+            "str_att": 92,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 18
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 39,
+            "str_landed": 88,
+            "str_att": 130,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 721
+        }
+    },
+    "Veronica Hardy vs Polyana Viana": {
+        "name": "Veronica Hardy vs Polyana Viana",
+        "fighter1": "Veronica Hardy",
+        "fighter2": "Polyana Viana",
+        "winner": "Veronica Hardy",
+        "method": "Submission",
+        "time_end": "1:09",
+        "round_end": 1,
+        "fight_length": 69,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 1,
+            "str_landed": 1,
+            "str_att": 1,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 4
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 3,
+            "str_landed": 1,
+            "str_att": 3,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 43
+        }
+    }
+}

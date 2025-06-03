@@ -1,0 +1,319 @@
+{
+    "event": "UFC Fight Night 4",
+    "date": "April 06, 2006",
+    "Stephan Bonnar vs Keith Jardine": {
+        "name": "Stephan Bonnar vs Keith Jardine",
+        "fighter1": "Stephan Bonnar",
+        "fighter2": "Keith Jardine",
+        "winner": "Stephan Bonnar",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 33,
+            "sig_str_att": 93,
+            "str_landed": 52,
+            "str_att": 113,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 1,
+            "ctrl_time": 234
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 64,
+            "sig_str_att": 118,
+            "str_landed": 90,
+            "str_att": 146,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 28
+        }
+    },
+    "Rashad Evans vs Sam Hoger": {
+        "name": "Rashad Evans vs Sam Hoger",
+        "fighter1": "Rashad Evans",
+        "fighter2": "Sam Hoger",
+        "winner": "Rashad Evans",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 72,
+            "str_landed": 46,
+            "str_att": 95,
+            "td_comp": 9,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 563
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 72,
+            "str_landed": 59,
+            "str_att": 113,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 3
+        }
+    },
+    "Josh Neer vs Joe Stevenson": {
+        "name": "Josh Neer vs Joe Stevenson",
+        "fighter1": "Josh Neer",
+        "fighter2": "Joe Stevenson",
+        "winner": "Josh Neer",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 46,
+            "sig_str_att": 126,
+            "str_landed": 68,
+            "str_att": 150,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 476
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 56,
+            "str_landed": 80,
+            "str_att": 117,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 3,
+            "ctrl_time": 164
+        }
+    },
+    "Chris Leben vs Luigi Fioravanti": {
+        "name": "Chris Leben vs Luigi Fioravanti",
+        "fighter1": "Chris Leben",
+        "fighter2": "Luigi Fioravanti",
+        "winner": "Chris Leben",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 90,
+            "str_landed": 200,
+            "str_att": 259,
+            "td_comp": 5,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 573
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 39,
+            "str_landed": 41,
+            "str_att": 60,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 121
+        }
+    },
+    "Luke Cummo vs Jason Von Flue": {
+        "name": "Luke Cummo vs Jason Von Flue",
+        "fighter1": "Luke Cummo",
+        "fighter2": "Jason Von Flue",
+        "winner": "Luke Cummo",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 43,
+            "sig_str_att": 108,
+            "str_landed": 97,
+            "str_att": 165,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 3,
+            "ctrl_time": 245
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 57,
+            "str_landed": 29,
+            "str_att": 69,
+            "td_comp": 2,
+            "td_att": 9,
+            "sub_att": 1,
+            "ctrl_time": 247
+        }
+    },
+    "Jon Fitch vs Joshua Burkman": {
+        "name": "Jon Fitch vs Joshua Burkman",
+        "fighter1": "Jon Fitch",
+        "fighter2": "Joshua Burkman",
+        "winner": "Jon Fitch",
+        "method": "Submission",
+        "time_end": "4:57",
+        "round_end": 2,
+        "fight_length": 357,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 25,
+            "sig_str_att": 50,
+            "str_landed": 122,
+            "str_att": 149,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 312
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 35,
+            "str_landed": 20,
+            "str_att": 35,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 174
+        }
+    },
+    "Dan Christison vs Brad Imes": {
+        "name": "Dan Christison vs Brad Imes",
+        "fighter1": "Dan Christison",
+        "fighter2": "Brad Imes",
+        "winner": "Dan Christison",
+        "method": "Submission",
+        "time_end": "3:37",
+        "round_end": 3,
+        "fight_length": 337,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 73,
+            "sig_str_att": 148,
+            "str_landed": 91,
+            "str_att": 167,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 108
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 157,
+            "str_landed": 80,
+            "str_att": 183,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 218
+        }
+    },
+    "Josh Koscheck vs Ansar Chalangov": {
+        "name": "Josh Koscheck vs Ansar Chalangov",
+        "fighter1": "Josh Koscheck",
+        "fighter2": "Ansar Chalangov",
+        "winner": "Josh Koscheck",
+        "method": "Submission",
+        "time_end": "3:29",
+        "round_end": 1,
+        "fight_length": 209,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 11,
+            "str_landed": 6,
+            "str_att": 15,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 165
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 4,
+            "str_landed": 2,
+            "str_att": 4,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 8
+        }
+    },
+    "Chael Sonnen vs Trevor Prangley": {
+        "name": "Chael Sonnen vs Trevor Prangley",
+        "fighter1": "Chael Sonnen",
+        "fighter2": "Trevor Prangley",
+        "winner": "Chael Sonnen",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 59,
+            "str_landed": 109,
+            "str_att": 174,
+            "td_comp": 7,
+            "td_att": 17,
+            "sub_att": 0,
+            "ctrl_time": 662
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 22,
+            "str_landed": 29,
+            "str_att": 45,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 70
+        }
+    }
+}

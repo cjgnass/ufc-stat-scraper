@@ -1,0 +1,421 @@
+{
+    "event": "UFC Fight Night: Royval vs. Taira",
+    "date": "October 12, 2024",
+    "Brandon Royval vs Tatsuro Taira": {
+        "name": "Brandon Royval vs Tatsuro Taira",
+        "fighter1": "Brandon Royval",
+        "fighter2": "Tatsuro Taira",
+        "winner": "Brandon Royval",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            142,
+            143
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 124,
+            "sig_str_att": 232,
+            "str_landed": 172,
+            "str_att": 287,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 3,
+            "ctrl_time": 143
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 99,
+            "str_landed": 80,
+            "str_att": 143,
+            "td_comp": 6,
+            "td_att": 15,
+            "sub_att": 1,
+            "ctrl_time": 733
+        }
+    },
+    "Brad Tavares vs JunYong Park": {
+        "name": "Brad Tavares vs JunYong Park",
+        "fighter1": "Brad Tavares",
+        "fighter2": "JunYong Park",
+        "winner": "JunYong Park",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 65,
+            "sig_str_att": 149,
+            "str_landed": 73,
+            "str_att": 159,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 42
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 99,
+            "sig_str_att": 177,
+            "str_landed": 124,
+            "str_att": 210,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 392
+        }
+    },
+    "Chidi Njokuani vs Jared Gooden": {
+        "name": "Chidi Njokuani vs Jared Gooden",
+        "fighter1": "Chidi Njokuani",
+        "fighter2": "Jared Gooden",
+        "winner": "Chidi Njokuani",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 105,
+            "sig_str_att": 148,
+            "str_landed": 162,
+            "str_att": 207,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 556
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 50,
+            "str_landed": 81,
+            "str_att": 121,
+            "td_comp": 2,
+            "td_att": 8,
+            "sub_att": 1,
+            "ctrl_time": 149
+        }
+    },
+    "Grant Dawson vs Rafa Garcia": {
+        "name": "Grant Dawson vs Rafa Garcia",
+        "fighter1": "Grant Dawson",
+        "fighter2": "Rafa Garcia",
+        "winner": "Grant Dawson",
+        "method": "KO/TKO",
+        "time_end": "1:42",
+        "round_end": 2,
+        "fight_length": 162,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 90,
+            "str_landed": 80,
+            "str_att": 144,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 309
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 12,
+            "str_landed": 29,
+            "str_att": 38,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Daniel Rodriguez vs Alex Morono": {
+        "name": "Daniel Rodriguez vs Alex Morono",
+        "fighter1": "Daniel Rodriguez",
+        "fighter2": "Alex Morono",
+        "winner": "Daniel Rodriguez",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 123,
+            "sig_str_att": 257,
+            "str_landed": 126,
+            "str_att": 260,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 56
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 74,
+            "sig_str_att": 257,
+            "str_landed": 91,
+            "str_att": 276,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "CJ Vergara vs Ramazan Temirov": {
+        "name": "CJ Vergara vs Ramazan Temirov",
+        "fighter1": "CJ Vergara",
+        "fighter2": "Ramazan Temirov",
+        "winner": "Ramazan Temirov",
+        "method": "KO/TKO",
+        "time_end": "2:50",
+        "round_end": 1,
+        "fight_length": 170,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 16,
+            "str_landed": 4,
+            "str_att": 16,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 3,
+            "sig_str_landed": 23,
+            "sig_str_att": 55,
+            "str_landed": 23,
+            "str_att": 55,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        }
+    },
+    "Jonathan Pearce vs Pat Sabatini": {
+        "name": "Jonathan Pearce vs Pat Sabatini",
+        "fighter1": "Jonathan Pearce",
+        "fighter2": "Pat Sabatini",
+        "winner": "Pat Sabatini",
+        "method": "Submission",
+        "time_end": "4:06",
+        "round_end": 1,
+        "fight_length": 246,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 2,
+            "str_landed": 32,
+            "str_att": 32,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 5,
+            "str_landed": 19,
+            "str_att": 25,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 236
+        }
+    },
+    "Themba Gorimbo vs Niko Price": {
+        "name": "Themba Gorimbo vs Niko Price",
+        "fighter1": "Themba Gorimbo",
+        "fighter2": "Niko Price",
+        "winner": "Themba Gorimbo",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 68,
+            "sig_str_att": 127,
+            "str_landed": 141,
+            "str_att": 223,
+            "td_comp": 7,
+            "td_att": 9,
+            "sub_att": 2,
+            "ctrl_time": 554
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 53,
+            "str_landed": 58,
+            "str_att": 100,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 60
+        }
+    },
+    "Junior Tafa vs Sean Sharaf": {
+        "name": "Junior Tafa vs Sean Sharaf",
+        "fighter1": "Junior Tafa",
+        "fighter2": "Sean Sharaf",
+        "winner": "Junior Tafa",
+        "method": "KO/TKO",
+        "time_end": "2:15",
+        "round_end": 2,
+        "fight_length": 195,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 71,
+            "sig_str_att": 128,
+            "str_landed": 71,
+            "str_att": 128,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 53,
+            "sig_str_att": 118,
+            "str_landed": 54,
+            "str_att": 122,
+            "td_comp": 1,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 46
+        }
+    },
+    "Julia Polastri vs Cory McKenna": {
+        "name": "Julia Polastri vs Cory McKenna",
+        "fighter1": "Julia Polastri",
+        "fighter2": "Cory McKenna",
+        "winner": "Julia Polastri",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 88,
+            "sig_str_att": 145,
+            "str_landed": 142,
+            "str_att": 203,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 193
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 124,
+            "str_landed": 98,
+            "str_att": 198,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 320
+        }
+    },
+    "Dan Argueta vs Cody Haddon": {
+        "name": "Dan Argueta vs Cody Haddon",
+        "fighter1": "Dan Argueta",
+        "fighter2": "Cody Haddon",
+        "winner": "Cody Haddon",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 54,
+            "sig_str_att": 140,
+            "str_landed": 65,
+            "str_att": 151,
+            "td_comp": 4,
+            "td_att": 24,
+            "sub_att": 1,
+            "ctrl_time": 263
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 140,
+            "sig_str_att": 280,
+            "str_landed": 148,
+            "str_att": 288,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 91
+        }
+    },
+    "Clayton Carpenter vs Lucas Rocha": {
+        "name": "Clayton Carpenter vs Lucas Rocha",
+        "fighter1": "Clayton Carpenter",
+        "fighter2": "Lucas Rocha",
+        "winner": "Clayton Carpenter",
+        "method": "Submission",
+        "time_end": "2:12",
+        "round_end": 2,
+        "fight_length": 192,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 60,
+            "str_landed": 36,
+            "str_att": 62,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 278
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 41,
+            "str_landed": 21,
+            "str_att": 45,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

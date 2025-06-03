@@ -1,0 +1,421 @@
+{
+    "event": "UFC 222: Cyborg vs. Kunitskaya",
+    "date": "March 03, 2018",
+    "Cristiane Justino vs Yana Santos": {
+        "name": "Cristiane Justino vs Yana Santos",
+        "fighter1": "Cristiane Justino",
+        "fighter2": "Yana Santos",
+        "winner": "Cristiane Justino",
+        "method": "KO/TKO",
+        "time_end": "3:25",
+        "round_end": 1,
+        "fight_length": 205,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 43,
+            "str_landed": 42,
+            "str_att": 54,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 21
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 11,
+            "str_landed": 17,
+            "str_att": 24,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 141
+        }
+    },
+    "Frankie Edgar vs Brian Ortega": {
+        "name": "Frankie Edgar vs Brian Ortega",
+        "fighter1": "Frankie Edgar",
+        "fighter2": "Brian Ortega",
+        "winner": "Brian Ortega",
+        "method": "KO/TKO",
+        "time_end": "4:44",
+        "round_end": 1,
+        "fight_length": 284,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 77,
+            "str_landed": 27,
+            "str_att": 77,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 25,
+            "sig_str_att": 76,
+            "str_landed": 25,
+            "str_att": 77,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Sean O'Malley vs Andre Soukhamthath": {
+        "name": "Sean O'Malley vs Andre Soukhamthath",
+        "fighter1": "Sean O'Malley",
+        "fighter2": "Andre Soukhamthath",
+        "winner": "Sean O'Malley",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 63,
+            "sig_str_att": 111,
+            "str_landed": 73,
+            "str_att": 121,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 3,
+            "ctrl_time": 55
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 60,
+            "str_landed": 42,
+            "str_att": 79,
+            "td_comp": 4,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 361
+        }
+    },
+    "Stefan Struve vs Andrei Arlovski": {
+        "name": "Stefan Struve vs Andrei Arlovski",
+        "fighter1": "Stefan Struve",
+        "fighter2": "Andrei Arlovski",
+        "winner": "Andrei Arlovski",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 74,
+            "str_landed": 37,
+            "str_att": 78,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 77
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 88,
+            "str_landed": 76,
+            "str_att": 121,
+            "td_comp": 4,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 271
+        }
+    },
+    "Cat Zingano vs Ketlen Vieira": {
+        "name": "Cat Zingano vs Ketlen Vieira",
+        "fighter1": "Cat Zingano",
+        "fighter2": "Ketlen Vieira",
+        "winner": "Ketlen Vieira",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 59,
+            "sig_str_att": 106,
+            "str_landed": 77,
+            "str_att": 128,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 14
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 71,
+            "str_landed": 96,
+            "str_att": 139,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 609
+        }
+    },
+    "Ashley Yoder vs Mackenzie Dern": {
+        "name": "Ashley Yoder vs Mackenzie Dern",
+        "fighter1": "Ashley Yoder",
+        "fighter2": "Mackenzie Dern",
+        "winner": "Mackenzie Dern",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 52,
+            "sig_str_att": 142,
+            "str_landed": 73,
+            "str_att": 165,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 42
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 70,
+            "sig_str_att": 143,
+            "str_landed": 76,
+            "str_att": 149,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 1,
+            "ctrl_time": 350
+        }
+    },
+    "Beneil Dariush vs Alexander Hernandez": {
+        "name": "Beneil Dariush vs Alexander Hernandez",
+        "fighter1": "Beneil Dariush",
+        "fighter2": "Alexander Hernandez",
+        "winner": "Alexander Hernandez",
+        "method": "KO/TKO",
+        "time_end": "0:42",
+        "round_end": 1,
+        "fight_length": 42,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 11,
+            "str_landed": 4,
+            "str_att": 11,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 8,
+            "sig_str_att": 13,
+            "str_landed": 9,
+            "str_att": 14,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    },
+    "John Dodson vs Pedro Munhoz": {
+        "name": "John Dodson vs Pedro Munhoz",
+        "fighter1": "John Dodson",
+        "fighter2": "Pedro Munhoz",
+        "winner": "John Dodson",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 76,
+            "sig_str_att": 184,
+            "str_landed": 76,
+            "str_att": 184,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 69,
+            "sig_str_att": 172,
+            "str_landed": 73,
+            "str_att": 176,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 62
+        }
+    },
+    "CB Dollaway vs Hector Lombard": {
+        "name": "CB Dollaway vs Hector Lombard",
+        "fighter1": "CB Dollaway",
+        "fighter2": "Hector Lombard",
+        "winner": "CB Dollaway",
+        "method": "DQ",
+        "time_end": "5:00",
+        "round_end": 1,
+        "fight_length": 300,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 19,
+            "str_landed": 13,
+            "str_att": 19,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 19,
+            "sig_str_att": 33,
+            "str_landed": 19,
+            "str_att": 33,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Mike Pyle vs Zak Ottow": {
+        "name": "Mike Pyle vs Zak Ottow",
+        "fighter1": "Mike Pyle",
+        "fighter2": "Zak Ottow",
+        "winner": "Zak Ottow",
+        "method": "KO/TKO",
+        "time_end": "2:34",
+        "round_end": 1,
+        "fight_length": 154,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 20,
+            "str_landed": 4,
+            "str_att": 20,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 22,
+            "sig_str_att": 50,
+            "str_landed": 26,
+            "str_att": 56,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 20
+        }
+    },
+    "Bryan Caraway vs Cody Stamann": {
+        "name": "Bryan Caraway vs Cody Stamann",
+        "fighter1": "Bryan Caraway",
+        "fighter2": "Cody Stamann",
+        "winner": "Cody Stamann",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 59,
+            "sig_str_att": 168,
+            "str_landed": 116,
+            "str_att": 236,
+            "td_comp": 1,
+            "td_att": 23,
+            "sub_att": 0,
+            "ctrl_time": 299
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 95,
+            "sig_str_att": 166,
+            "str_landed": 115,
+            "str_att": 186,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Jordan Johnson vs Adam Milstead": {
+        "name": "Jordan Johnson vs Adam Milstead",
+        "fighter1": "Jordan Johnson",
+        "fighter2": "Adam Milstead",
+        "winner": "Jordan Johnson",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            86,
+            85
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 59,
+            "sig_str_att": 106,
+            "str_landed": 176,
+            "str_att": 239,
+            "td_comp": 2,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 433
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 133,
+            "str_landed": 70,
+            "str_att": 145,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

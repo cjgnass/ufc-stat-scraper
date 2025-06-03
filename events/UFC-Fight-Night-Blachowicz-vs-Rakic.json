@@ -1,0 +1,382 @@
+{
+    "event": "UFC Fight Night: Blachowicz vs. Rakic",
+    "date": "May 14, 2022",
+    "Jan Blachowicz vs Aleksandar Rakic": {
+        "name": "Jan Blachowicz vs Aleksandar Rakic",
+        "fighter1": "Jan Blachowicz",
+        "fighter2": "Aleksandar Rakic",
+        "winner": "Jan Blachowicz",
+        "method": "KO/TKO",
+        "time_end": "1:11",
+        "round_end": 3,
+        "fight_length": 191,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 71,
+            "str_landed": 53,
+            "str_att": 94,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 85,
+            "str_landed": 61,
+            "str_att": 125,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 273
+        }
+    },
+    "Ryan Spann vs Ion Cutelaba": {
+        "name": "Ryan Spann vs Ion Cutelaba",
+        "fighter1": "Ryan Spann",
+        "fighter2": "Ion Cutelaba",
+        "winner": "Ryan Spann",
+        "method": "Submission",
+        "time_end": "2:22",
+        "round_end": 1,
+        "fight_length": 142,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 11,
+            "str_landed": 5,
+            "str_att": 12,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 4
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 9,
+            "str_landed": 2,
+            "str_att": 9,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 71
+        }
+    },
+    "Davey Grant vs Louis Smolka": {
+        "name": "Davey Grant vs Louis Smolka",
+        "fighter1": "Davey Grant",
+        "fighter2": "Louis Smolka",
+        "winner": "Davey Grant",
+        "method": "KO/TKO",
+        "time_end": "0:49",
+        "round_end": 3,
+        "fight_length": 169,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 81,
+            "sig_str_att": 197,
+            "str_landed": 84,
+            "str_att": 200,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 35
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 71,
+            "sig_str_att": 139,
+            "str_landed": 75,
+            "str_att": 145,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 35
+        }
+    },
+    "Katlyn Cerminara vs Amanda Ribas": {
+        "name": "Katlyn Cerminara vs Amanda Ribas",
+        "fighter1": "Katlyn Cerminara",
+        "fighter2": "Amanda Ribas",
+        "winner": "Katlyn Cerminara",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 63,
+            "sig_str_att": 222,
+            "str_landed": 71,
+            "str_att": 230,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 6
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 55,
+            "sig_str_att": 169,
+            "str_landed": 84,
+            "str_att": 204,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 289
+        }
+    },
+    "Frank Camacho vs Manuel Torres": {
+        "name": "Frank Camacho vs Manuel Torres",
+        "fighter1": "Frank Camacho",
+        "fighter2": "Manuel Torres",
+        "winner": "Manuel Torres",
+        "method": "KO/TKO",
+        "time_end": "3:27",
+        "round_end": 1,
+        "fight_length": 207,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 31,
+            "str_landed": 24,
+            "str_att": 40,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 14
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 34,
+            "sig_str_att": 64,
+            "str_landed": 34,
+            "str_att": 64,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 16
+        }
+    },
+    "Jake Hadley vs Allan Nascimento": {
+        "name": "Jake Hadley vs Allan Nascimento",
+        "fighter1": "Jake Hadley",
+        "fighter2": "Allan Nascimento",
+        "winner": "Allan Nascimento",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 29,
+            "str_landed": 26,
+            "str_att": 47,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 230
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 52,
+            "str_landed": 36,
+            "str_att": 69,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 567
+        }
+    },
+    "Viviane Araujo vs Andrea Lee": {
+        "name": "Viviane Araujo vs Andrea Lee",
+        "fighter1": "Viviane Araujo",
+        "fighter2": "Andrea Lee",
+        "winner": "Viviane Araujo",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 79,
+            "str_landed": 96,
+            "str_att": 160,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 2,
+            "ctrl_time": 640
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 47,
+            "sig_str_att": 82,
+            "str_landed": 64,
+            "str_att": 103,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 48
+        }
+    },
+    "Michael Johnson vs Alan Patrick": {
+        "name": "Michael Johnson vs Alan Patrick",
+        "fighter1": "Michael Johnson",
+        "fighter2": "Alan Patrick",
+        "winner": "Michael Johnson",
+        "method": "KO/TKO",
+        "time_end": "3:22",
+        "round_end": 2,
+        "fight_length": 262,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 30,
+            "sig_str_att": 48,
+            "str_landed": 40,
+            "str_att": 61,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 121
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 47,
+            "str_landed": 30,
+            "str_att": 56,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 12
+        }
+    },
+    "Virna Jandiroba vs Angela Hill": {
+        "name": "Virna Jandiroba vs Angela Hill",
+        "fighter1": "Virna Jandiroba",
+        "fighter2": "Angela Hill",
+        "winner": "Virna Jandiroba",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 60,
+            "str_landed": 92,
+            "str_att": 151,
+            "td_comp": 3,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 424
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 55,
+            "str_landed": 44,
+            "str_att": 86,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 128
+        }
+    },
+    "Tatsuro Taira vs Carlos Candelario": {
+        "name": "Tatsuro Taira vs Carlos Candelario",
+        "fighter1": "Tatsuro Taira",
+        "fighter2": "Carlos Candelario",
+        "winner": "Tatsuro Taira",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 57,
+            "sig_str_att": 87,
+            "str_landed": 89,
+            "str_att": 132,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 3,
+            "ctrl_time": 417
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 34,
+            "str_landed": 21,
+            "str_att": 47,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 208
+        }
+    },
+    "Nick Maximov vs Andre Petroski": {
+        "name": "Nick Maximov vs Andre Petroski",
+        "fighter1": "Nick Maximov",
+        "fighter2": "Andre Petroski",
+        "winner": "Andre Petroski",
+        "method": "Submission",
+        "time_end": "1:16",
+        "round_end": 1,
+        "fight_length": 76,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 11,
+            "str_landed": 4,
+            "str_att": 11,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 10,
+            "str_landed": 1,
+            "str_att": 10,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 23
+        }
+    }
+}

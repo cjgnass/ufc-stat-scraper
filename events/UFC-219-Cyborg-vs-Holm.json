@@ -1,0 +1,286 @@
+{
+    "event": "UFC 219: Cyborg vs. Holm",
+    "date": "December 30, 2017",
+    "Cristiane Justino vs Holly Holm": {
+        "name": "Cristiane Justino vs Holly Holm",
+        "fighter1": "Cristiane Justino",
+        "fighter2": "Holly Holm",
+        "winner": "Cristiane Justino",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            140,
+            145
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 118,
+            "sig_str_att": 223,
+            "str_landed": 131,
+            "str_att": 237,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 44
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 227,
+            "str_landed": 48,
+            "str_att": 232,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 204
+        }
+    },
+    "Khabib Nurmagomedov vs Edson Barboza": {
+        "name": "Khabib Nurmagomedov vs Edson Barboza",
+        "fighter1": "Khabib Nurmagomedov",
+        "fighter2": "Edson Barboza",
+        "winner": "Khabib Nurmagomedov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            74,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 89,
+            "sig_str_att": 177,
+            "str_landed": 154,
+            "str_att": 246,
+            "td_comp": 4,
+            "td_att": 13,
+            "sub_att": 0,
+            "ctrl_time": 632
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 76,
+            "str_landed": 25,
+            "str_att": 77,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Dan Hooker vs Marc Diakiese": {
+        "name": "Dan Hooker vs Marc Diakiese",
+        "fighter1": "Dan Hooker",
+        "fighter2": "Marc Diakiese",
+        "winner": "Dan Hooker",
+        "method": "Submission",
+        "time_end": "0:42",
+        "round_end": 3,
+        "fight_length": 162,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 40,
+            "str_landed": 24,
+            "str_att": 48,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 192
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 69,
+            "str_landed": 41,
+            "str_att": 87,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 23
+        }
+    },
+    "Cynthia Calvillo vs Carla Esparza": {
+        "name": "Cynthia Calvillo vs Carla Esparza",
+        "fighter1": "Cynthia Calvillo",
+        "fighter2": "Carla Esparza",
+        "winner": "Carla Esparza",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 112,
+            "str_landed": 57,
+            "str_att": 131,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 263
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 48,
+            "sig_str_att": 138,
+            "str_landed": 62,
+            "str_att": 153,
+            "td_comp": 2,
+            "td_att": 9,
+            "sub_att": 1,
+            "ctrl_time": 21
+        }
+    },
+    "Carlos Condit vs Neil Magny": {
+        "name": "Carlos Condit vs Neil Magny",
+        "fighter1": "Carlos Condit",
+        "fighter2": "Neil Magny",
+        "winner": "Neil Magny",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 112,
+            "str_landed": 64,
+            "str_att": 140,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 44
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 114,
+            "str_landed": 64,
+            "str_att": 150,
+            "td_comp": 6,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 309
+        }
+    },
+    "Myles Jury vs Ricky Glenn": {
+        "name": "Myles Jury vs Ricky Glenn",
+        "fighter1": "Myles Jury",
+        "fighter2": "Ricky Glenn",
+        "winner": "Myles Jury",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 83,
+            "str_landed": 56,
+            "str_att": 100,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 285
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 83,
+            "str_landed": 29,
+            "str_att": 102,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 127
+        }
+    },
+    "Louis Smolka vs Matheus Nicolau": {
+        "name": "Louis Smolka vs Matheus Nicolau",
+        "fighter1": "Louis Smolka",
+        "fighter2": "Matheus Nicolau",
+        "winner": "Matheus Nicolau",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            77,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 49,
+            "sig_str_att": 159,
+            "str_landed": 53,
+            "str_att": 163,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 3,
+            "sig_str_landed": 87,
+            "sig_str_att": 172,
+            "str_landed": 107,
+            "str_att": 196,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 2,
+            "ctrl_time": 259
+        }
+    },
+    "Tim Elliott vs Mark De La Rosa": {
+        "name": "Tim Elliott vs Mark De La Rosa",
+        "fighter1": "Tim Elliott",
+        "fighter2": "Mark De La Rosa",
+        "winner": "Tim Elliott",
+        "method": "Submission",
+        "time_end": "1:41",
+        "round_end": 2,
+        "fight_length": 161,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 24,
+            "str_landed": 54,
+            "str_att": 75,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 334
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 4,
+            "str_landed": 4,
+            "str_att": 6,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 31
+        }
+    }
+}

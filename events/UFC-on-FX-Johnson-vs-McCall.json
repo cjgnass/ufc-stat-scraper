@@ -1,0 +1,421 @@
+{
+    "event": "UFC on FX: Johnson vs McCall",
+    "date": "June 08, 2012",
+    "Demetrious Johnson vs Ian McCall": {
+        "name": "Demetrious Johnson vs Ian McCall",
+        "fighter1": "Demetrious Johnson",
+        "fighter2": "Ian McCall",
+        "winner": "Demetrious Johnson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 90,
+            "sig_str_att": 153,
+            "str_landed": 105,
+            "str_att": 169,
+            "td_comp": 2,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 123
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 57,
+            "sig_str_att": 132,
+            "str_landed": 94,
+            "str_att": 172,
+            "td_comp": 1,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 185
+        }
+    },
+    "Erick Silva vs Charlie Brenneman": {
+        "name": "Erick Silva vs Charlie Brenneman",
+        "fighter1": "Erick Silva",
+        "fighter2": "Charlie Brenneman",
+        "winner": "Erick Silva",
+        "method": "Submission",
+        "time_end": "4:33",
+        "round_end": 1,
+        "fight_length": 273,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 14,
+            "str_landed": 11,
+            "str_att": 15,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 33
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 12,
+            "str_landed": 14,
+            "str_att": 30,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 120
+        }
+    },
+    "Mike Pyle vs Josh Neer": {
+        "name": "Mike Pyle vs Josh Neer",
+        "fighter1": "Mike Pyle",
+        "fighter2": "Josh Neer",
+        "winner": "Mike Pyle",
+        "method": "KO/TKO",
+        "time_end": "4:56",
+        "round_end": 1,
+        "fight_length": 296,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 18,
+            "sig_str_att": 28,
+            "str_landed": 38,
+            "str_att": 57,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 175
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 35,
+            "str_landed": 39,
+            "str_att": 59,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 9
+        }
+    },
+    "Eddie Wineland vs Scott Jorgensen": {
+        "name": "Eddie Wineland vs Scott Jorgensen",
+        "fighter1": "Eddie Wineland",
+        "fighter2": "Scott Jorgensen",
+        "winner": "Eddie Wineland",
+        "method": "KO/TKO",
+        "time_end": "4:10",
+        "round_end": 2,
+        "fight_length": 310,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 61,
+            "sig_str_att": 188,
+            "str_landed": 66,
+            "str_att": 193,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 24
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 48,
+            "sig_str_att": 144,
+            "str_landed": 49,
+            "str_att": 145,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Mike Pierce vs Carlos Eduardo Rocha": {
+        "name": "Mike Pierce vs Carlos Eduardo Rocha",
+        "fighter1": "Mike Pierce",
+        "fighter2": "Carlos Eduardo Rocha",
+        "winner": "Mike Pierce",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 51,
+            "str_landed": 117,
+            "str_att": 149,
+            "td_comp": 3,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 680
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 37,
+            "str_landed": 38,
+            "str_att": 66,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Seth Baczynski vs Lance Benoist": {
+        "name": "Seth Baczynski vs Lance Benoist",
+        "fighter1": "Seth Baczynski",
+        "fighter2": "Lance Benoist",
+        "winner": "Seth Baczynski",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            86,
+            85
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 70,
+            "str_landed": 50,
+            "str_att": 109,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 227
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 64,
+            "str_landed": 114,
+            "str_att": 150,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 390
+        }
+    },
+    "Leonard Garcia vs Matt Grice": {
+        "name": "Leonard Garcia vs Matt Grice",
+        "fighter1": "Leonard Garcia",
+        "fighter2": "Matt Grice",
+        "winner": "Matt Grice",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 69,
+            "str_landed": 30,
+            "str_att": 101,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 61,
+            "sig_str_att": 113,
+            "str_landed": 136,
+            "str_att": 194,
+            "td_comp": 4,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 579
+        }
+    },
+    "Dustin Pague vs Jared Papazian": {
+        "name": "Dustin Pague vs Jared Papazian",
+        "fighter1": "Dustin Pague",
+        "fighter2": "Jared Papazian",
+        "winner": "Dustin Pague",
+        "method": "Submission",
+        "time_end": "3:21",
+        "round_end": 1,
+        "fight_length": 201,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 9,
+            "str_landed": 9,
+            "str_att": 12,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 155
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 17,
+            "str_landed": 12,
+            "str_att": 22,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Tim Means vs Justin Salas": {
+        "name": "Tim Means vs Justin Salas",
+        "fighter1": "Tim Means",
+        "fighter2": "Justin Salas",
+        "winner": "Tim Means",
+        "method": "KO/TKO",
+        "time_end": "1:06",
+        "round_end": 1,
+        "fight_length": 66,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 26,
+            "sig_str_att": 42,
+            "str_landed": 30,
+            "str_att": 46,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 19
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 8,
+            "str_landed": 5,
+            "str_att": 8,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Buddy Roberts vs Caio Magalhaes": {
+        "name": "Buddy Roberts vs Caio Magalhaes",
+        "fighter1": "Buddy Roberts",
+        "fighter2": "Caio Magalhaes",
+        "winner": "Buddy Roberts",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 111,
+            "str_landed": 81,
+            "str_att": 158,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 6
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 92,
+            "str_landed": 27,
+            "str_att": 98,
+            "td_comp": 2,
+            "td_att": 15,
+            "sub_att": 0,
+            "ctrl_time": 227
+        }
+    },
+    "Henry Martinez vs Bernardo Magalhaes": {
+        "name": "Henry Martinez vs Bernardo Magalhaes",
+        "fighter1": "Henry Martinez",
+        "fighter2": "Bernardo Magalhaes",
+        "winner": "Henry Martinez",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 146,
+            "str_landed": 18,
+            "str_att": 146,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 14
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 132,
+            "str_landed": 26,
+            "str_att": 132,
+            "td_comp": 0,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 1
+        }
+    },
+    "Jake Hecht vs Sean Pierson": {
+        "name": "Jake Hecht vs Sean Pierson",
+        "fighter1": "Jake Hecht",
+        "fighter2": "Sean Pierson",
+        "winner": "Sean Pierson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 99,
+            "str_landed": 48,
+            "str_att": 111,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 172
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 109,
+            "str_landed": 89,
+            "str_att": 158,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 239
+        }
+    }
+}

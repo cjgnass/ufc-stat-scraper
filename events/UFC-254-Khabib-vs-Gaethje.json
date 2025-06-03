@@ -1,0 +1,373 @@
+{
+    "event": "UFC 254: Khabib vs. Gaethje",
+    "date": "October 24, 2020",
+    "Khabib Nurmagomedov vs Justin Gaethje": {
+        "name": "Khabib Nurmagomedov vs Justin Gaethje",
+        "fighter1": "Khabib Nurmagomedov",
+        "fighter2": "Justin Gaethje",
+        "winner": "Khabib Nurmagomedov",
+        "method": "Submission",
+        "time_end": "1:34",
+        "round_end": 2,
+        "fight_length": 154,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 80,
+            "str_landed": 26,
+            "str_att": 80,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 55
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 45,
+            "str_landed": 29,
+            "str_att": 46,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 14
+        }
+    },
+    "Robert Whittaker vs Jared Cannonier": {
+        "name": "Robert Whittaker vs Jared Cannonier",
+        "fighter1": "Robert Whittaker",
+        "fighter2": "Jared Cannonier",
+        "winner": "Robert Whittaker",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 69,
+            "sig_str_att": 151,
+            "str_landed": 75,
+            "str_att": 158,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 130
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 53,
+            "sig_str_att": 89,
+            "str_landed": 58,
+            "str_att": 94,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 30
+        }
+    },
+    "Alexander Volkov vs Walt Harris": {
+        "name": "Alexander Volkov vs Walt Harris",
+        "fighter1": "Alexander Volkov",
+        "fighter2": "Walt Harris",
+        "winner": "Alexander Volkov",
+        "method": "KO/TKO",
+        "time_end": "1:15",
+        "round_end": 2,
+        "fight_length": 135,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 73,
+            "str_landed": 45,
+            "str_att": 73,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 58,
+            "str_landed": 16,
+            "str_att": 58,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Jacob Malkoun vs Phil Hawes": {
+        "name": "Jacob Malkoun vs Phil Hawes",
+        "fighter1": "Jacob Malkoun",
+        "fighter2": "Phil Hawes",
+        "winner": "Phil Hawes",
+        "method": "KO/TKO",
+        "time_end": "0:18",
+        "round_end": 1,
+        "fight_length": 18,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 2,
+            "str_landed": 0,
+            "str_att": 2,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 7,
+            "sig_str_att": 11,
+            "str_landed": 7,
+            "str_att": 11,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    },
+    "Lauren Murphy vs Liliya Shakirova": {
+        "name": "Lauren Murphy vs Liliya Shakirova",
+        "fighter1": "Lauren Murphy",
+        "fighter2": "Liliya Shakirova",
+        "winner": "Lauren Murphy",
+        "method": "Submission",
+        "time_end": "3:31",
+        "round_end": 2,
+        "fight_length": 271,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 85,
+            "str_landed": 32,
+            "str_att": 96,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 70
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 75,
+            "str_landed": 27,
+            "str_att": 80,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 29
+        }
+    },
+    "Magomed Ankalaev vs Ion Cutelaba": {
+        "name": "Magomed Ankalaev vs Ion Cutelaba",
+        "fighter1": "Magomed Ankalaev",
+        "fighter2": "Ion Cutelaba",
+        "winner": "Magomed Ankalaev",
+        "method": "KO/TKO",
+        "time_end": "4:19",
+        "round_end": 1,
+        "fight_length": 259,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 21,
+            "sig_str_att": 41,
+            "str_landed": 21,
+            "str_att": 41,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 36,
+            "str_landed": 11,
+            "str_att": 36,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Stefan Struve vs Tai Tuivasa": {
+        "name": "Stefan Struve vs Tai Tuivasa",
+        "fighter1": "Stefan Struve",
+        "fighter2": "Tai Tuivasa",
+        "winner": "Tai Tuivasa",
+        "method": "KO/TKO",
+        "time_end": "4:59",
+        "round_end": 1,
+        "fight_length": 299,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 19,
+            "str_landed": 13,
+            "str_att": 19,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 27,
+            "sig_str_att": 42,
+            "str_landed": 48,
+            "str_att": 63,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 104
+        }
+    },
+    "Nathaniel Wood vs Casey Kenney": {
+        "name": "Nathaniel Wood vs Casey Kenney",
+        "fighter1": "Nathaniel Wood",
+        "fighter2": "Casey Kenney",
+        "winner": "Casey Kenney",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 136,
+            "sig_str_att": 321,
+            "str_landed": 138,
+            "str_att": 325,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 123,
+            "sig_str_att": 247,
+            "str_landed": 125,
+            "str_att": 249,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 90
+        }
+    },
+    "Alex Oliveira vs Shavkat Rakhmonov": {
+        "name": "Alex Oliveira vs Shavkat Rakhmonov",
+        "fighter1": "Alex Oliveira",
+        "fighter2": "Shavkat Rakhmonov",
+        "winner": "Shavkat Rakhmonov",
+        "method": "Submission",
+        "time_end": "4:40",
+        "round_end": 1,
+        "fight_length": 280,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 18,
+            "str_landed": 16,
+            "str_att": 26,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 124
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 25,
+            "str_landed": 32,
+            "str_att": 44,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 44
+        }
+    },
+    "Liana Jojua vs Miranda Maverick": {
+        "name": "Liana Jojua vs Miranda Maverick",
+        "fighter1": "Liana Jojua",
+        "fighter2": "Miranda Maverick",
+        "winner": "Miranda Maverick",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "5:00",
+        "round_end": 1,
+        "fight_length": 300,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 30,
+            "sig_str_att": 80,
+            "str_landed": 30,
+            "str_att": 80,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 49,
+            "sig_str_att": 95,
+            "str_landed": 49,
+            "str_att": 95,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Joel Alvarez vs Alexander Yakovlev": {
+        "name": "Joel Alvarez vs Alexander Yakovlev",
+        "fighter1": "Joel Alvarez",
+        "fighter2": "Alexander Yakovlev",
+        "winner": "Joel Alvarez",
+        "method": "Submission",
+        "time_end": "3:00",
+        "round_end": 1,
+        "fight_length": 180,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 6,
+            "str_landed": 10,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 1,
+            "str_landed": 15,
+            "str_att": 16,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 117
+        }
+    }
+}

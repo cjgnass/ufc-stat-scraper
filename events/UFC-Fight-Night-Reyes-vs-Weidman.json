@@ -1,0 +1,418 @@
+{
+    "event": "UFC Fight Night: Reyes vs. Weidman",
+    "date": "October 18, 2019",
+    "Dominick Reyes vs Chris Weidman": {
+        "name": "Dominick Reyes vs Chris Weidman",
+        "fighter1": "Dominick Reyes",
+        "fighter2": "Chris Weidman",
+        "winner": "Dominick Reyes",
+        "method": "KO/TKO",
+        "time_end": "1:43",
+        "round_end": 1,
+        "fight_length": 103,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 8,
+            "sig_str_att": 11,
+            "str_landed": 9,
+            "str_att": 12,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 9
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 6,
+            "str_landed": 10,
+            "str_att": 13,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 70
+        }
+    },
+    "Yair Rodriguez vs Jeremy Stephens": {
+        "name": "Yair Rodriguez vs Jeremy Stephens",
+        "fighter1": "Yair Rodriguez",
+        "fighter2": "Jeremy Stephens",
+        "winner": "Yair Rodriguez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 96,
+            "sig_str_att": 170,
+            "str_landed": 136,
+            "str_att": 213,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 190
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 50,
+            "sig_str_att": 95,
+            "str_landed": 99,
+            "str_att": 156,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 334
+        }
+    },
+    "Joe Lauzon vs Jonathan Pearce": {
+        "name": "Joe Lauzon vs Jonathan Pearce",
+        "fighter1": "Joe Lauzon",
+        "fighter2": "Jonathan Pearce",
+        "winner": "Joe Lauzon",
+        "method": "KO/TKO",
+        "time_end": "1:33",
+        "round_end": 1,
+        "fight_length": 93,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 36,
+            "str_landed": 28,
+            "str_att": 39,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 42
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 19,
+            "str_landed": 8,
+            "str_att": 19,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Maycee Barber vs Gillian Robertson": {
+        "name": "Maycee Barber vs Gillian Robertson",
+        "fighter1": "Maycee Barber",
+        "fighter2": "Gillian Robertson",
+        "winner": "Maycee Barber",
+        "method": "KO/TKO",
+        "time_end": "3:04",
+        "round_end": 1,
+        "fight_length": 184,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 68,
+            "str_landed": 40,
+            "str_att": 74,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 22
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 28,
+            "str_landed": 15,
+            "str_att": 31,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 44
+        }
+    },
+    "Deron Winn vs Darren Stewart": {
+        "name": "Deron Winn vs Darren Stewart",
+        "fighter1": "Deron Winn",
+        "fighter2": "Darren Stewart",
+        "winner": "Darren Stewart",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 53,
+            "str_landed": 66,
+            "str_att": 98,
+            "td_comp": 6,
+            "td_att": 15,
+            "sub_att": 0,
+            "ctrl_time": 482
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 57,
+            "sig_str_att": 119,
+            "str_landed": 77,
+            "str_att": 140,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 30
+        }
+    },
+    "Charles Rosa vs Manny Bermudez": {
+        "name": "Charles Rosa vs Manny Bermudez",
+        "fighter1": "Charles Rosa",
+        "fighter2": "Manny Bermudez",
+        "winner": "Charles Rosa",
+        "method": "Submission",
+        "time_end": "2:46",
+        "round_end": 1,
+        "fight_length": 166,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 8,
+            "str_landed": 8,
+            "str_att": 11,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 38,
+            "str_landed": 37,
+            "str_att": 49,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 137
+        }
+    },
+    "Molly McCann vs Diana Belbita": {
+        "name": "Molly McCann vs Diana Belbita",
+        "fighter1": "Molly McCann",
+        "fighter2": "Diana Belbita",
+        "winner": "Molly McCann",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            75,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 113,
+            "sig_str_att": 238,
+            "str_landed": 126,
+            "str_att": 252,
+            "td_comp": 5,
+            "td_att": 14,
+            "sub_att": 1,
+            "ctrl_time": 219
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 98,
+            "sig_str_att": 252,
+            "str_landed": 104,
+            "str_att": 260,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 86
+        }
+    },
+    "Kyle Bochniak vs Sean Woodson": {
+        "name": "Kyle Bochniak vs Sean Woodson",
+        "fighter1": "Kyle Bochniak",
+        "fighter2": "Sean Woodson",
+        "winner": "Sean Woodson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 151,
+            "str_landed": 52,
+            "str_att": 161,
+            "td_comp": 1,
+            "td_att": 15,
+            "sub_att": 0,
+            "ctrl_time": 268
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 111,
+            "sig_str_att": 251,
+            "str_landed": 150,
+            "str_att": 290,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Randy Costa vs Boston Salmon": {
+        "name": "Randy Costa vs Boston Salmon",
+        "fighter1": "Randy Costa",
+        "fighter2": "Boston Salmon",
+        "winner": "Randy Costa",
+        "method": "KO/TKO",
+        "time_end": "2:15",
+        "round_end": 1,
+        "fight_length": 135,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 22,
+            "sig_str_att": 44,
+            "str_landed": 23,
+            "str_att": 45,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 7
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 22,
+            "str_landed": 16,
+            "str_att": 26,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 43
+        }
+    },
+    "Court McGee vs Sean Brady": {
+        "name": "Court McGee vs Sean Brady",
+        "fighter1": "Court McGee",
+        "fighter2": "Sean Brady",
+        "winner": "Sean Brady",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 107,
+            "sig_str_att": 291,
+            "str_landed": 128,
+            "str_att": 313,
+            "td_comp": 0,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 84
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 119,
+            "sig_str_att": 210,
+            "str_landed": 148,
+            "str_att": 240,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 42
+        }
+    },
+    "Brendan Allen vs Kevin Holland": {
+        "name": "Brendan Allen vs Kevin Holland",
+        "fighter1": "Brendan Allen",
+        "fighter2": "Kevin Holland",
+        "winner": "Brendan Allen",
+        "method": "Submission",
+        "time_end": "3:38",
+        "round_end": 2,
+        "fight_length": 278,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 22,
+            "str_landed": 23,
+            "str_att": 41,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 4,
+            "ctrl_time": 173
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 38,
+            "str_landed": 37,
+            "str_att": 55,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 283
+        }
+    },
+    "Daniel Spitz vs Tanner Boser": {
+        "name": "Daniel Spitz vs Tanner Boser",
+        "fighter1": "Daniel Spitz",
+        "fighter2": "Tanner Boser",
+        "winner": "Tanner Boser",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 108,
+            "str_landed": 32,
+            "str_att": 108,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 93,
+            "sig_str_att": 151,
+            "str_landed": 93,
+            "str_att": 151,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

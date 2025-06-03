@@ -1,0 +1,382 @@
+{
+    "event": "UFC Fight Night: Gane vs. Spivac",
+    "date": "September 02, 2023",
+    "Ciryl Gane vs Serghei Spivac": {
+        "name": "Ciryl Gane vs Serghei Spivac",
+        "fighter1": "Ciryl Gane",
+        "fighter2": "Serghei Spivac",
+        "winner": "Ciryl Gane",
+        "method": "KO/TKO",
+        "time_end": "3:44",
+        "round_end": 2,
+        "fight_length": 284,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 109,
+            "sig_str_att": 156,
+            "str_landed": 110,
+            "str_att": 157,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 9
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 44,
+            "str_landed": 11,
+            "str_att": 44,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Manon Fiorot vs Rose Namajunas": {
+        "name": "Manon Fiorot vs Rose Namajunas",
+        "fighter1": "Manon Fiorot",
+        "fighter2": "Rose Namajunas",
+        "winner": "Manon Fiorot",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 225,
+            "str_landed": 62,
+            "str_att": 232,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 24
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 60,
+            "sig_str_att": 150,
+            "str_landed": 60,
+            "str_att": 152,
+            "td_comp": 0,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 25
+        }
+    },
+    "Benoit Saint Denis vs Thiago Moises": {
+        "name": "Benoit Saint Denis vs Thiago Moises",
+        "fighter1": "Benoit Saint Denis",
+        "fighter2": "Thiago Moises",
+        "winner": "Benoit Saint Denis",
+        "method": "KO/TKO",
+        "time_end": "4:44",
+        "round_end": 2,
+        "fight_length": 344,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 101,
+            "sig_str_att": 182,
+            "str_landed": 123,
+            "str_att": 210,
+            "td_comp": 5,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 320
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 62,
+            "str_landed": 27,
+            "str_att": 67,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 14
+        }
+    },
+    "Volkan Oezdemir vs Bogdan Guskov": {
+        "name": "Volkan Oezdemir vs Bogdan Guskov",
+        "fighter1": "Volkan Oezdemir",
+        "fighter2": "Bogdan Guskov",
+        "winner": "Volkan Oezdemir",
+        "method": "Submission",
+        "time_end": "3:46",
+        "round_end": 1,
+        "fight_length": 226,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 26,
+            "sig_str_att": 46,
+            "str_landed": 36,
+            "str_att": 64,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 83
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 25,
+            "str_landed": 10,
+            "str_att": 27,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "William Gomis vs Yanis Ghemmouri": {
+        "name": "William Gomis vs Yanis Ghemmouri",
+        "fighter1": "William Gomis",
+        "fighter2": "Yanis Ghemmouri",
+        "winner": "William Gomis",
+        "method": "KO/TKO",
+        "time_end": "2:20",
+        "round_end": 3,
+        "fight_length": 260,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 52,
+            "sig_str_att": 88,
+            "str_landed": 61,
+            "str_att": 99,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 55
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 73,
+            "str_landed": 40,
+            "str_att": 88,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 162
+        }
+    },
+    "Morgan Charriere vs Manolo Zecchini": {
+        "name": "Morgan Charriere vs Manolo Zecchini",
+        "fighter1": "Morgan Charriere",
+        "fighter2": "Manolo Zecchini",
+        "winner": "Morgan Charriere",
+        "method": "KO/TKO",
+        "time_end": "3:51",
+        "round_end": 1,
+        "fight_length": 231,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 26,
+            "sig_str_att": 49,
+            "str_landed": 26,
+            "str_att": 49,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 41,
+            "str_landed": 9,
+            "str_att": 41,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Taylor Lapilus vs Caolan Loughran": {
+        "name": "Taylor Lapilus vs Caolan Loughran",
+        "fighter1": "Taylor Lapilus",
+        "fighter2": "Caolan Loughran",
+        "winner": "Taylor Lapilus",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 84,
+            "sig_str_att": 163,
+            "str_landed": 87,
+            "str_att": 166,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 18
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 48,
+            "sig_str_att": 132,
+            "str_landed": 70,
+            "str_att": 166,
+            "td_comp": 2,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 386
+        }
+    },
+    "Ange Loosa vs Rhys McKee": {
+        "name": "Ange Loosa vs Rhys McKee",
+        "fighter1": "Ange Loosa",
+        "fighter2": "Rhys McKee",
+        "winner": "Ange Loosa",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 98,
+            "sig_str_att": 182,
+            "str_landed": 124,
+            "str_att": 220,
+            "td_comp": 6,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 367
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 77,
+            "sig_str_att": 183,
+            "str_landed": 90,
+            "str_att": 198,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        }
+    },
+    "Nora Cornolle vs Joselyne Edwards": {
+        "name": "Nora Cornolle vs Joselyne Edwards",
+        "fighter1": "Nora Cornolle",
+        "fighter2": "Joselyne Edwards",
+        "winner": "Nora Cornolle",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 77,
+            "str_landed": 85,
+            "str_att": 134,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 131
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 42,
+            "str_landed": 75,
+            "str_att": 120,
+            "td_comp": 5,
+            "td_att": 8,
+            "sub_att": 1,
+            "ctrl_time": 522
+        }
+    },
+    "Farid Basharat vs Kleydson Rodrigues": {
+        "name": "Farid Basharat vs Kleydson Rodrigues",
+        "fighter1": "Farid Basharat",
+        "fighter2": "Kleydson Rodrigues",
+        "winner": "Farid Basharat",
+        "method": "Submission",
+        "time_end": "4:15",
+        "round_end": 1,
+        "fight_length": 255,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 6,
+            "str_landed": 25,
+            "str_att": 36,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 195
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 8,
+            "str_landed": 25,
+            "str_att": 26,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 30
+        }
+    },
+    "Zarah Fairn vs Jacqueline Cavalcanti": {
+        "name": "Zarah Fairn vs Jacqueline Cavalcanti",
+        "fighter1": "Zarah Fairn",
+        "fighter2": "Jacqueline Cavalcanti",
+        "winner": "Jacqueline Cavalcanti",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 259,
+            "str_landed": 39,
+            "str_att": 259,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 4
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 126,
+            "sig_str_att": 221,
+            "str_landed": 127,
+            "str_att": 222,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 8
+        }
+    }
+}

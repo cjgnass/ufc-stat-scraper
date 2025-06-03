@@ -1,0 +1,388 @@
+{
+    "event": "UFC Fight Night: Blaydes vs. Volkov",
+    "date": "June 20, 2020",
+    "Curtis Blaydes vs Alexander Volkov": {
+        "name": "Curtis Blaydes vs Alexander Volkov",
+        "fighter1": "Curtis Blaydes",
+        "fighter2": "Alexander Volkov",
+        "winner": "Curtis Blaydes",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            139,
+            145
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 69,
+            "sig_str_att": 99,
+            "str_landed": 116,
+            "str_att": 163,
+            "td_comp": 14,
+            "td_att": 25,
+            "sub_att": 0,
+            "ctrl_time": 1192
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 77,
+            "str_landed": 127,
+            "str_att": 177,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 46
+        }
+    },
+    "Josh Emmett vs Shane Burgos": {
+        "name": "Josh Emmett vs Shane Burgos",
+        "fighter1": "Josh Emmett",
+        "fighter2": "Shane Burgos",
+        "winner": "Josh Emmett",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 127,
+            "sig_str_att": 266,
+            "str_landed": 136,
+            "str_att": 275,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 84
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 128,
+            "sig_str_att": 250,
+            "str_landed": 148,
+            "str_att": 270,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Raquel Pennington vs Marion Reneau": {
+        "name": "Raquel Pennington vs Marion Reneau",
+        "fighter1": "Raquel Pennington",
+        "fighter2": "Marion Reneau",
+        "winner": "Raquel Pennington",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 107,
+            "sig_str_att": 154,
+            "str_landed": 118,
+            "str_att": 165,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 329
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 117,
+            "str_landed": 81,
+            "str_att": 154,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 228
+        }
+    },
+    "Belal Muhammad vs Lyman Good": {
+        "name": "Belal Muhammad vs Lyman Good",
+        "fighter1": "Belal Muhammad",
+        "fighter2": "Lyman Good",
+        "winner": "Belal Muhammad",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 82,
+            "sig_str_att": 172,
+            "str_landed": 86,
+            "str_att": 176,
+            "td_comp": 2,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 104
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 81,
+            "sig_str_att": 172,
+            "str_landed": 84,
+            "str_att": 175,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 7
+        }
+    },
+    "Jim Miller vs Roosevelt Roberts": {
+        "name": "Jim Miller vs Roosevelt Roberts",
+        "fighter1": "Jim Miller",
+        "fighter2": "Roosevelt Roberts",
+        "winner": "Jim Miller",
+        "method": "Submission",
+        "time_end": "2:25",
+        "round_end": 1,
+        "fight_length": 145,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 3,
+            "str_landed": 9,
+            "str_att": 10,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 108
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 2,
+            "str_landed": 7,
+            "str_att": 8,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 26
+        }
+    },
+    "Clay Guida vs King Green": {
+        "name": "Clay Guida vs King Green",
+        "fighter1": "Clay Guida",
+        "fighter2": "King Green",
+        "winner": "King Green",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 65,
+            "str_landed": 27,
+            "str_att": 69,
+            "td_comp": 3,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 272
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 85,
+            "sig_str_att": 150,
+            "str_landed": 90,
+            "str_att": 158,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 2,
+            "ctrl_time": 71
+        }
+    },
+    "Tecia Pennington vs Brianna Fortino": {
+        "name": "Tecia Pennington vs Brianna Fortino",
+        "fighter1": "Tecia Pennington",
+        "fighter2": "Brianna Fortino",
+        "winner": "Tecia Pennington",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 74,
+            "sig_str_att": 160,
+            "str_landed": 111,
+            "str_att": 199,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 129
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 68,
+            "str_landed": 37,
+            "str_att": 71,
+            "td_comp": 2,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 274
+        }
+    },
+    "Cortney Casey vs Gillian Robertson": {
+        "name": "Cortney Casey vs Gillian Robertson",
+        "fighter1": "Cortney Casey",
+        "fighter2": "Gillian Robertson",
+        "winner": "Gillian Robertson",
+        "method": "Submission",
+        "time_end": "4:36",
+        "round_end": 3,
+        "fight_length": 396,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 55,
+            "str_landed": 113,
+            "str_att": 153,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 50,
+            "str_landed": 41,
+            "str_att": 72,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 665
+        }
+    },
+    "Frank Camacho vs Justin Jaynes": {
+        "name": "Frank Camacho vs Justin Jaynes",
+        "fighter1": "Frank Camacho",
+        "fighter2": "Justin Jaynes",
+        "winner": "Justin Jaynes",
+        "method": "KO/TKO",
+        "time_end": "0:41",
+        "round_end": 1,
+        "fight_length": 41,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 15,
+            "str_landed": 4,
+            "str_att": 15,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 16,
+            "sig_str_att": 30,
+            "str_landed": 16,
+            "str_att": 30,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    },
+    "Roxanne Modafferi vs Lauren Murphy": {
+        "name": "Roxanne Modafferi vs Lauren Murphy",
+        "fighter1": "Roxanne Modafferi",
+        "fighter2": "Lauren Murphy",
+        "winner": "Lauren Murphy",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 174,
+            "str_landed": 71,
+            "str_att": 206,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 248
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 72,
+            "sig_str_att": 158,
+            "str_landed": 92,
+            "str_att": 178,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 53
+        }
+    },
+    "Austin Hubbard vs Max Rohskopf": {
+        "name": "Austin Hubbard vs Max Rohskopf",
+        "fighter1": "Austin Hubbard",
+        "fighter2": "Max Rohskopf",
+        "winner": "Austin Hubbard",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "5:00",
+        "round_end": 2,
+        "fight_length": 360,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 101,
+            "str_landed": 59,
+            "str_att": 102,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 54,
+            "str_landed": 17,
+            "str_att": 55,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 1,
+            "ctrl_time": 67
+        }
+    }
+}

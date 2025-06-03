@@ -1,0 +1,388 @@
+{
+    "event": "UFC on FOX: Holm vs. Shevchenko",
+    "date": "July 23, 2016",
+    "Holly Holm vs Valentina Shevchenko": {
+        "name": "Holly Holm vs Valentina Shevchenko",
+        "fighter1": "Holly Holm",
+        "fighter2": "Valentina Shevchenko",
+        "winner": "Valentina Shevchenko",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            138,
+            147
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 54,
+            "sig_str_att": 211,
+            "str_landed": 73,
+            "str_att": 231,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 105
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 87,
+            "sig_str_att": 185,
+            "str_landed": 119,
+            "str_att": 217,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 163
+        }
+    },
+    "Edson Barboza vs Gilbert Melendez": {
+        "name": "Edson Barboza vs Gilbert Melendez",
+        "fighter1": "Edson Barboza",
+        "fighter2": "Gilbert Melendez",
+        "winner": "Edson Barboza",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 56,
+            "sig_str_att": 136,
+            "str_landed": 63,
+            "str_att": 144,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 38
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 129,
+            "str_landed": 42,
+            "str_att": 135,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 4
+        }
+    },
+    "Francis Ngannou vs Bojan Mihajlovic": {
+        "name": "Francis Ngannou vs Bojan Mihajlovic",
+        "fighter1": "Francis Ngannou",
+        "fighter2": "Bojan Mihajlovic",
+        "winner": "Francis Ngannou",
+        "method": "KO/TKO",
+        "time_end": "1:34",
+        "round_end": 1,
+        "fight_length": 94,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 20,
+            "str_landed": 9,
+            "str_att": 21,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 6
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 6,
+            "str_landed": 3,
+            "str_att": 6,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Felice Herrig vs Kailin Curran": {
+        "name": "Felice Herrig vs Kailin Curran",
+        "fighter1": "Felice Herrig",
+        "fighter2": "Kailin Curran",
+        "winner": "Felice Herrig",
+        "method": "Submission",
+        "time_end": "1:59",
+        "round_end": 1,
+        "fight_length": 119,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 30,
+            "str_landed": 15,
+            "str_att": 32,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 60
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 17,
+            "str_landed": 7,
+            "str_att": 19,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Frankie Saenz vs Eddie Wineland": {
+        "name": "Frankie Saenz vs Eddie Wineland",
+        "fighter1": "Frankie Saenz",
+        "fighter2": "Eddie Wineland",
+        "winner": "Eddie Wineland",
+        "method": "KO/TKO",
+        "time_end": "1:54",
+        "round_end": 3,
+        "fight_length": 234,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 116,
+            "str_landed": 59,
+            "str_att": 132,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 82
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 42,
+            "sig_str_att": 129,
+            "str_landed": 52,
+            "str_att": 139,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 5
+        }
+    },
+    "Darren Elkins vs Godofredo Pepey": {
+        "name": "Darren Elkins vs Godofredo Pepey",
+        "fighter1": "Darren Elkins",
+        "fighter2": "Godofredo Pepey",
+        "winner": "Darren Elkins",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 57,
+            "str_landed": 206,
+            "str_att": 256,
+            "td_comp": 5,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 705
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 38,
+            "str_landed": 67,
+            "str_att": 99,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 61
+        }
+    },
+    "Kamaru Usman vs Alexander Yakovlev": {
+        "name": "Kamaru Usman vs Alexander Yakovlev",
+        "fighter1": "Kamaru Usman",
+        "fighter2": "Alexander Yakovlev",
+        "winner": "Kamaru Usman",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            75,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 67,
+            "str_landed": 155,
+            "str_att": 195,
+            "td_comp": 5,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 782
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 15,
+            "str_landed": 11,
+            "str_att": 18,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Michel Prazeres vs JC Cottrell": {
+        "name": "Michel Prazeres vs JC Cottrell",
+        "fighter1": "Michel Prazeres",
+        "fighter2": "JC Cottrell",
+        "winner": "Michel Prazeres",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 48,
+            "sig_str_att": 77,
+            "str_landed": 70,
+            "str_att": 101,
+            "td_comp": 7,
+            "td_att": 14,
+            "sub_att": 1,
+            "ctrl_time": 403
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 53,
+            "str_landed": 39,
+            "str_att": 78,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 86
+        }
+    },
+    "Alex Oliveira vs James Moontasri": {
+        "name": "Alex Oliveira vs James Moontasri",
+        "fighter1": "Alex Oliveira",
+        "fighter2": "James Moontasri",
+        "winner": "Alex Oliveira",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            77,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 78,
+            "str_landed": 156,
+            "str_att": 196,
+            "td_comp": 2,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 680
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 26,
+            "str_landed": 30,
+            "str_att": 48,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 79
+        }
+    },
+    "Jim Alers vs Jason Knight": {
+        "name": "Jim Alers vs Jason Knight",
+        "fighter1": "Jim Alers",
+        "fighter2": "Jason Knight",
+        "winner": "Jason Knight",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 100,
+            "str_landed": 49,
+            "str_att": 110,
+            "td_comp": 4,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 202
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 76,
+            "sig_str_att": 225,
+            "str_landed": 95,
+            "str_att": 245,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 46
+        }
+    },
+    "Luis Henrique vs Dmitrii Smoliakov": {
+        "name": "Luis Henrique vs Dmitrii Smoliakov",
+        "fighter1": "Luis Henrique",
+        "fighter2": "Dmitrii Smoliakov",
+        "winner": "Luis Henrique",
+        "method": "Submission",
+        "time_end": "3:58",
+        "round_end": 2,
+        "fight_length": 298,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 43,
+            "str_landed": 77,
+            "str_att": 141,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 361
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 34,
+            "str_landed": 66,
+            "str_att": 95,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

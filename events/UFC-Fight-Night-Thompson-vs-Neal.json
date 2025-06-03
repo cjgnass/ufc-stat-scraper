@@ -1,0 +1,427 @@
+{
+    "event": "UFC Fight Night: Thompson vs. Neal",
+    "date": "December 19, 2020",
+    "Stephen Thompson vs Geoff Neal": {
+        "name": "Stephen Thompson vs Geoff Neal",
+        "fighter1": "Stephen Thompson",
+        "fighter2": "Geoff Neal",
+        "winner": "Stephen Thompson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            135,
+            150
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 171,
+            "sig_str_att": 406,
+            "str_landed": 191,
+            "str_att": 428,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 85,
+            "sig_str_att": 179,
+            "str_landed": 110,
+            "str_att": 205,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 226
+        }
+    },
+    "Jose Aldo vs Marlon Vera": {
+        "name": "Jose Aldo vs Marlon Vera",
+        "fighter1": "Jose Aldo",
+        "fighter2": "Marlon Vera",
+        "winner": "Jose Aldo",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 70,
+            "str_landed": 60,
+            "str_att": 86,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 297
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 82,
+            "str_landed": 92,
+            "str_att": 133,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 171
+        }
+    },
+    "Michel Pereira vs Khaos Williams": {
+        "name": "Michel Pereira vs Khaos Williams",
+        "fighter1": "Michel Pereira",
+        "fighter2": "Khaos Williams",
+        "winner": "Michel Pereira",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 79,
+            "str_landed": 56,
+            "str_att": 94,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 81
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 55,
+            "sig_str_att": 127,
+            "str_landed": 62,
+            "str_att": 134,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 36
+        }
+    },
+    "Marlon Moraes vs Rob Font": {
+        "name": "Marlon Moraes vs Rob Font",
+        "fighter1": "Marlon Moraes",
+        "fighter2": "Rob Font",
+        "winner": "Rob Font",
+        "method": "KO/TKO",
+        "time_end": "3:47",
+        "round_end": 1,
+        "fight_length": 227,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 12,
+            "str_landed": 12,
+            "str_att": 16,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 151
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 30,
+            "sig_str_att": 37,
+            "str_landed": 33,
+            "str_att": 41,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 38
+        }
+    },
+    "Marcin Tybura vs Greg Hardy": {
+        "name": "Marcin Tybura vs Greg Hardy",
+        "fighter1": "Marcin Tybura",
+        "fighter2": "Greg Hardy",
+        "winner": "Marcin Tybura",
+        "method": "KO/TKO",
+        "time_end": "4:31",
+        "round_end": 2,
+        "fight_length": 331,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 51,
+            "sig_str_att": 101,
+            "str_landed": 60,
+            "str_att": 111,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 87
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 50,
+            "sig_str_att": 91,
+            "str_landed": 50,
+            "str_att": 91,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Anthony Pettis vs Alex Morono": {
+        "name": "Anthony Pettis vs Alex Morono",
+        "fighter1": "Anthony Pettis",
+        "fighter2": "Alex Morono",
+        "winner": "Anthony Pettis",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 50,
+            "sig_str_att": 80,
+            "str_landed": 80,
+            "str_att": 115,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 272
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 78,
+            "str_landed": 50,
+            "str_att": 102,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 150
+        }
+    },
+    "Sijara Eubanks vs Pannie Kianzad": {
+        "name": "Sijara Eubanks vs Pannie Kianzad",
+        "fighter1": "Sijara Eubanks",
+        "fighter2": "Pannie Kianzad",
+        "winner": "Pannie Kianzad",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 49,
+            "sig_str_att": 104,
+            "str_landed": 70,
+            "str_att": 131,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 393
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 92,
+            "sig_str_att": 143,
+            "str_landed": 132,
+            "str_att": 187,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 134
+        }
+    },
+    "Deron Winn vs Antonio Arroyo": {
+        "name": "Deron Winn vs Antonio Arroyo",
+        "fighter1": "Deron Winn",
+        "fighter2": "Antonio Arroyo",
+        "winner": "Deron Winn",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 38,
+            "str_landed": 64,
+            "str_att": 89,
+            "td_comp": 12,
+            "td_att": 16,
+            "sub_att": 0,
+            "ctrl_time": 569
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 62,
+            "str_landed": 70,
+            "str_att": 87,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 28
+        }
+    },
+    "Gillian Robertson vs Taila Santos": {
+        "name": "Gillian Robertson vs Taila Santos",
+        "fighter1": "Gillian Robertson",
+        "fighter2": "Taila Santos",
+        "winner": "Taila Santos",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 14,
+            "str_landed": 42,
+            "str_att": 48,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 61
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 37,
+            "str_landed": 72,
+            "str_att": 85,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 767
+        }
+    },
+    "Tafon Nchukwi vs Jamie Pickett": {
+        "name": "Tafon Nchukwi vs Jamie Pickett",
+        "fighter1": "Tafon Nchukwi",
+        "fighter2": "Jamie Pickett",
+        "winner": "Tafon Nchukwi",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            77,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 120,
+            "sig_str_att": 187,
+            "str_landed": 159,
+            "str_att": 234,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 171
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 81,
+            "str_landed": 40,
+            "str_att": 81,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 34
+        }
+    },
+    "Jimmy Flick vs Cody Durden": {
+        "name": "Jimmy Flick vs Cody Durden",
+        "fighter1": "Jimmy Flick",
+        "fighter2": "Cody Durden",
+        "winner": "Jimmy Flick",
+        "method": "Submission",
+        "time_end": "3:18",
+        "round_end": 1,
+        "fight_length": 198,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 14,
+            "str_landed": 7,
+            "str_att": 15,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 32,
+            "str_landed": 30,
+            "str_att": 43,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 81
+        }
+    },
+    "Christos Giagos vs Carlton Minus": {
+        "name": "Christos Giagos vs Carlton Minus",
+        "fighter1": "Christos Giagos",
+        "fighter2": "Carlton Minus",
+        "winner": "Christos Giagos",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 67,
+            "str_landed": 76,
+            "str_att": 124,
+            "td_comp": 5,
+            "td_att": 15,
+            "sub_att": 0,
+            "ctrl_time": 537
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 80,
+            "str_landed": 29,
+            "str_att": 81,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

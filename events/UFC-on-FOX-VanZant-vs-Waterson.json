@@ -1,0 +1,460 @@
+{
+    "event": "UFC on FOX: VanZant vs. Waterson",
+    "date": "December 17, 2016",
+    "Paige VanZant vs Michelle Waterson-Gomez": {
+        "name": "Paige VanZant vs Michelle Waterson-Gomez",
+        "fighter1": "Paige VanZant",
+        "fighter2": "Michelle Waterson-Gomez",
+        "winner": "Michelle Waterson-Gomez",
+        "method": "Submission",
+        "time_end": "3:21",
+        "round_end": 1,
+        "fight_length": 201,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 12,
+            "str_landed": 9,
+            "str_att": 16,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 17,
+            "str_landed": 13,
+            "str_att": 18,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 107
+        }
+    },
+    "Sage Northcutt vs Mickey Gall": {
+        "name": "Sage Northcutt vs Mickey Gall",
+        "fighter1": "Sage Northcutt",
+        "fighter2": "Mickey Gall",
+        "winner": "Mickey Gall",
+        "method": "Submission",
+        "time_end": "1:40",
+        "round_end": 2,
+        "fight_length": 160,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 13,
+            "sig_str_att": 23,
+            "str_landed": 22,
+            "str_att": 32,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 63
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 9,
+            "sig_str_att": 18,
+            "str_landed": 29,
+            "str_att": 40,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 3,
+            "ctrl_time": 205
+        }
+    },
+    "Urijah Faber vs Brad Pickett": {
+        "name": "Urijah Faber vs Brad Pickett",
+        "fighter1": "Urijah Faber",
+        "fighter2": "Brad Pickett",
+        "winner": "Urijah Faber",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            78,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 70,
+            "sig_str_att": 126,
+            "str_landed": 89,
+            "str_att": 151,
+            "td_comp": 5,
+            "td_att": 10,
+            "sub_att": 1,
+            "ctrl_time": 381
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 65,
+            "str_landed": 20,
+            "str_att": 67,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 31
+        }
+    },
+    "Alan Jouban vs Mike Perry": {
+        "name": "Alan Jouban vs Mike Perry",
+        "fighter1": "Alan Jouban",
+        "fighter2": "Mike Perry",
+        "winner": "Alan Jouban",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 69,
+            "sig_str_att": 133,
+            "str_landed": 69,
+            "str_att": 133,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 66
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 90,
+            "str_landed": 37,
+            "str_att": 90,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Henrique da Silva vs Paul Craig": {
+        "name": "Henrique da Silva vs Paul Craig",
+        "fighter1": "Henrique da Silva",
+        "fighter2": "Paul Craig",
+        "winner": "Paul Craig",
+        "method": "Submission",
+        "time_end": "1:59",
+        "round_end": 2,
+        "fight_length": 179,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 24,
+            "str_landed": 23,
+            "str_att": 33,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 201
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 49,
+            "str_landed": 57,
+            "str_att": 75,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 3,
+            "ctrl_time": 128
+        }
+    },
+    "Cole Miller vs Mizuto Hirota": {
+        "name": "Cole Miller vs Mizuto Hirota",
+        "fighter1": "Cole Miller",
+        "fighter2": "Mizuto Hirota",
+        "winner": "Mizuto Hirota",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 60,
+            "str_landed": 22,
+            "str_att": 61,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 63
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 57,
+            "sig_str_att": 114,
+            "str_landed": 165,
+            "str_att": 242,
+            "td_comp": 6,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 588
+        }
+    },
+    "Bryan Barberena vs Colby Covington": {
+        "name": "Bryan Barberena vs Colby Covington",
+        "fighter1": "Bryan Barberena",
+        "fighter2": "Colby Covington",
+        "winner": "Colby Covington",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 111,
+            "str_landed": 100,
+            "str_att": 172,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 76,
+            "sig_str_att": 141,
+            "str_landed": 96,
+            "str_att": 167,
+            "td_comp": 12,
+            "td_att": 17,
+            "sub_att": 0,
+            "ctrl_time": 547
+        }
+    },
+    "James Moontasri vs Alex Morono": {
+        "name": "James Moontasri vs Alex Morono",
+        "fighter1": "James Moontasri",
+        "fighter2": "Alex Morono",
+        "winner": "Alex Morono",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 95,
+            "str_landed": 48,
+            "str_att": 97,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 19
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 111,
+            "sig_str_att": 186,
+            "str_landed": 112,
+            "str_att": 187,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 54
+        }
+    },
+    "Josh Emmett vs Scott Holtzman": {
+        "name": "Josh Emmett vs Scott Holtzman",
+        "fighter1": "Josh Emmett",
+        "fighter2": "Scott Holtzman",
+        "winner": "Josh Emmett",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 87,
+            "sig_str_att": 160,
+            "str_landed": 99,
+            "str_att": 175,
+            "td_comp": 8,
+            "td_att": 12,
+            "sub_att": 1,
+            "ctrl_time": 239
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 65,
+            "sig_str_att": 179,
+            "str_landed": 96,
+            "str_att": 215,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 195
+        }
+    },
+    "Leslie Smith vs Irene Aldana": {
+        "name": "Leslie Smith vs Irene Aldana",
+        "fighter1": "Leslie Smith",
+        "fighter2": "Irene Aldana",
+        "winner": "Leslie Smith",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 169,
+            "sig_str_att": 401,
+            "str_landed": 172,
+            "str_att": 404,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 17
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 108,
+            "sig_str_att": 256,
+            "str_landed": 108,
+            "str_att": 256,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 6
+        }
+    },
+    "Eddie Wineland vs Takeya Mizugaki": {
+        "name": "Eddie Wineland vs Takeya Mizugaki",
+        "fighter1": "Eddie Wineland",
+        "fighter2": "Takeya Mizugaki",
+        "winner": "Eddie Wineland",
+        "method": "KO/TKO",
+        "time_end": "3:04",
+        "round_end": 1,
+        "fight_length": 184,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 9,
+            "sig_str_att": 32,
+            "str_landed": 9,
+            "str_att": 32,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 6
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 40,
+            "str_landed": 13,
+            "str_att": 40,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Hector Sandoval vs Fredy Serrano": {
+        "name": "Hector Sandoval vs Fredy Serrano",
+        "fighter1": "Hector Sandoval",
+        "fighter2": "Fredy Serrano",
+        "winner": "Hector Sandoval",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 67,
+            "str_landed": 42,
+            "str_att": 76,
+            "td_comp": 2,
+            "td_att": 12,
+            "sub_att": 2,
+            "ctrl_time": 160
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 87,
+            "str_landed": 22,
+            "str_att": 87,
+            "td_comp": 0,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 8
+        }
+    },
+    "Bojan Velickovic vs Sultan Aliev": {
+        "name": "Bojan Velickovic vs Sultan Aliev",
+        "fighter1": "Bojan Velickovic",
+        "fighter2": "Sultan Aliev",
+        "winner": "Sultan Aliev",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 53,
+            "str_landed": 126,
+            "str_att": 160,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 24
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 26,
+            "str_landed": 86,
+            "str_att": 105,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 552
+        }
+    }
+}

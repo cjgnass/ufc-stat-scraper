@@ -1,0 +1,394 @@
+{
+    "event": "UFC Fight Night: Hernandez vs. Pereira",
+    "date": "October 19, 2024",
+    "Anthony Hernandez vs Michel Pereira": {
+        "name": "Anthony Hernandez vs Michel Pereira",
+        "fighter1": "Anthony Hernandez",
+        "fighter2": "Michel Pereira",
+        "winner": "Anthony Hernandez",
+        "method": "KO/TKO",
+        "time_end": "2:22",
+        "round_end": 5,
+        "fight_length": 382,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 152,
+            "sig_str_att": 212,
+            "str_landed": 219,
+            "str_att": 293,
+            "td_comp": 10,
+            "td_att": 29,
+            "sub_att": 0,
+            "ctrl_time": 942
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 53,
+            "str_landed": 29,
+            "str_att": 62,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 56
+        }
+    },
+    "Rob Font vs Kyler Phillips": {
+        "name": "Rob Font vs Kyler Phillips",
+        "fighter1": "Rob Font",
+        "fighter2": "Kyler Phillips",
+        "winner": "Rob Font",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 61,
+            "sig_str_att": 137,
+            "str_landed": 65,
+            "str_att": 144,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 79
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 125,
+            "str_landed": 50,
+            "str_att": 143,
+            "td_comp": 4,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 282
+        }
+    },
+    "Charles Johnson vs Sumudaerji": {
+        "name": "Charles Johnson vs Sumudaerji",
+        "fighter1": "Charles Johnson",
+        "fighter2": "Sumudaerji",
+        "winner": "Charles Johnson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 65,
+            "sig_str_att": 150,
+            "str_landed": 84,
+            "str_att": 177,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 178
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 75,
+            "sig_str_att": 144,
+            "str_landed": 78,
+            "str_att": 149,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 2,
+            "ctrl_time": 50
+        }
+    },
+    "Jake Hadley vs Cameron Smotherman": {
+        "name": "Jake Hadley vs Cameron Smotherman",
+        "fighter1": "Jake Hadley",
+        "fighter2": "Cameron Smotherman",
+        "winner": "Cameron Smotherman",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 60,
+            "sig_str_att": 165,
+            "str_landed": 70,
+            "str_att": 176,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 113
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 96,
+            "sig_str_att": 259,
+            "str_landed": 97,
+            "str_att": 260,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Darren Elkins vs Daniel Pineda": {
+        "name": "Darren Elkins vs Daniel Pineda",
+        "fighter1": "Darren Elkins",
+        "fighter2": "Daniel Pineda",
+        "winner": "Darren Elkins",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 88,
+            "str_landed": 102,
+            "str_att": 170,
+            "td_comp": 3,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 393
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 53,
+            "str_landed": 61,
+            "str_att": 85,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 182
+        }
+    },
+    "Matheus Nicolau vs Asu Almabayev": {
+        "name": "Matheus Nicolau vs Asu Almabayev",
+        "fighter1": "Matheus Nicolau",
+        "fighter2": "Asu Almabayev",
+        "winner": "Asu Almabayev",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 42,
+            "str_landed": 38,
+            "str_att": 68,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 22,
+            "sig_str_att": 54,
+            "str_landed": 55,
+            "str_att": 112,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 317
+        }
+    },
+    "Brad Katona vs Jean Matsumoto": {
+        "name": "Brad Katona vs Jean Matsumoto",
+        "fighter1": "Brad Katona",
+        "fighter2": "Jean Matsumoto",
+        "winner": "Jean Matsumoto",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 89,
+            "sig_str_att": 141,
+            "str_landed": 117,
+            "str_att": 171,
+            "td_comp": 3,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 215
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 89,
+            "sig_str_att": 201,
+            "str_landed": 109,
+            "str_att": 223,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 124
+        }
+    },
+    "Joselyne Edwards vs Tamires Vidal": {
+        "name": "Joselyne Edwards vs Tamires Vidal",
+        "fighter1": "Joselyne Edwards",
+        "fighter2": "Tamires Vidal",
+        "winner": "Joselyne Edwards",
+        "method": "Submission",
+        "time_end": "4:33",
+        "round_end": 3,
+        "fight_length": 393,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 81,
+            "sig_str_att": 134,
+            "str_landed": 151,
+            "str_att": 212,
+            "td_comp": 4,
+            "td_att": 7,
+            "sub_att": 2,
+            "ctrl_time": 270
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 69,
+            "str_landed": 53,
+            "str_att": 91,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 155
+        }
+    },
+    "Jessica Penne vs Elise Reed": {
+        "name": "Jessica Penne vs Elise Reed",
+        "fighter1": "Jessica Penne",
+        "fighter2": "Elise Reed",
+        "winner": "Elise Reed",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 54,
+            "sig_str_att": 125,
+            "str_landed": 98,
+            "str_att": 174,
+            "td_comp": 1,
+            "td_att": 13,
+            "sub_att": 0,
+            "ctrl_time": 196
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 117,
+            "sig_str_att": 188,
+            "str_landed": 229,
+            "str_att": 306,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 30
+        }
+    },
+    "Melissa Martinez vs Alice Ardelean": {
+        "name": "Melissa Martinez vs Alice Ardelean",
+        "fighter1": "Melissa Martinez",
+        "fighter2": "Alice Ardelean",
+        "winner": "Melissa Martinez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 72,
+            "sig_str_att": 145,
+            "str_landed": 78,
+            "str_att": 151,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 92,
+            "sig_str_att": 224,
+            "str_landed": 103,
+            "str_att": 240,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 41
+        }
+    },
+    "Austen Lane vs Robelis Despaigne": {
+        "name": "Austen Lane vs Robelis Despaigne",
+        "fighter1": "Austen Lane",
+        "fighter2": "Robelis Despaigne",
+        "winner": "Austen Lane",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 38,
+            "str_landed": 78,
+            "str_att": 110,
+            "td_comp": 3,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 538
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 46,
+            "str_landed": 48,
+            "str_att": 68,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

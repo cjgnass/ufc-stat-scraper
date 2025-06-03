@@ -1,0 +1,421 @@
+{
+    "event": "UFC Fight Night: Jacare vs. Brunson 2",
+    "date": "January 27, 2018",
+    "Jacare Souza vs Derek Brunson": {
+        "name": "Jacare Souza vs Derek Brunson",
+        "fighter1": "Jacare Souza",
+        "fighter2": "Derek Brunson",
+        "winner": "Jacare Souza",
+        "method": "KO/TKO",
+        "time_end": "3:50",
+        "round_end": 1,
+        "fight_length": 230,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 9,
+            "sig_str_att": 21,
+            "str_landed": 9,
+            "str_att": 21,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 4
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 34,
+            "str_landed": 8,
+            "str_att": 34,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Dennis Bermudez vs Andre Fili": {
+        "name": "Dennis Bermudez vs Andre Fili",
+        "fighter1": "Dennis Bermudez",
+        "fighter2": "Andre Fili",
+        "winner": "Andre Fili",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            86,
+            85
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 103,
+            "sig_str_att": 196,
+            "str_landed": 133,
+            "str_att": 227,
+            "td_comp": 1,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 191
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 80,
+            "sig_str_att": 229,
+            "str_landed": 93,
+            "str_att": 242,
+            "td_comp": 4,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 50
+        }
+    },
+    "Jordan Rinaldi vs Gregor Gillespie": {
+        "name": "Jordan Rinaldi vs Gregor Gillespie",
+        "fighter1": "Jordan Rinaldi",
+        "fighter2": "Gregor Gillespie",
+        "winner": "Gregor Gillespie",
+        "method": "KO/TKO",
+        "time_end": "4:46",
+        "round_end": 1,
+        "fight_length": 286,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 16,
+            "str_landed": 7,
+            "str_att": 16,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 55,
+            "str_landed": 42,
+            "str_att": 63,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 223
+        }
+    },
+    "Drew Dober vs Frank Camacho": {
+        "name": "Drew Dober vs Frank Camacho",
+        "fighter1": "Drew Dober",
+        "fighter2": "Frank Camacho",
+        "winner": "Drew Dober",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 145,
+            "sig_str_att": 322,
+            "str_landed": 161,
+            "str_att": 338,
+            "td_comp": 0,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 25
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 106,
+            "sig_str_att": 223,
+            "str_landed": 148,
+            "str_att": 269,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 184
+        }
+    },
+    "Erik Koch vs King Green": {
+        "name": "Erik Koch vs King Green",
+        "fighter1": "Erik Koch",
+        "fighter2": "King Green",
+        "winner": "King Green",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 56,
+            "sig_str_att": 146,
+            "str_landed": 60,
+            "str_att": 150,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 116
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 110,
+            "sig_str_att": 194,
+            "str_landed": 134,
+            "str_att": 220,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 197
+        }
+    },
+    "Mirsad Bektic vs Godofredo Pepey": {
+        "name": "Mirsad Bektic vs Godofredo Pepey",
+        "fighter1": "Mirsad Bektic",
+        "fighter2": "Godofredo Pepey",
+        "winner": "Mirsad Bektic",
+        "method": "KO/TKO",
+        "time_end": "2:47",
+        "round_end": 1,
+        "fight_length": 167,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 12,
+            "sig_str_att": 33,
+            "str_landed": 12,
+            "str_att": 34,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 4
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 17,
+            "str_landed": 5,
+            "str_att": 17,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Katlyn Cerminara vs Mara Romero Borella": {
+        "name": "Katlyn Cerminara vs Mara Romero Borella",
+        "fighter1": "Katlyn Cerminara",
+        "fighter2": "Mara Romero Borella",
+        "winner": "Katlyn Cerminara",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 68,
+            "sig_str_att": 252,
+            "str_landed": 71,
+            "str_att": 257,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 79,
+            "sig_str_att": 211,
+            "str_landed": 80,
+            "str_att": 214,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 35
+        }
+    },
+    "Randa Markos vs Juliana Lima": {
+        "name": "Randa Markos vs Juliana Lima",
+        "fighter1": "Randa Markos",
+        "fighter2": "Juliana Lima",
+        "winner": "Randa Markos",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 65,
+            "str_landed": 114,
+            "str_att": 149,
+            "td_comp": 2,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 552
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 37,
+            "str_landed": 34,
+            "str_att": 56,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 190
+        }
+    },
+    "Justine Kish vs Ji Yeon Kim": {
+        "name": "Justine Kish vs Ji Yeon Kim",
+        "fighter1": "Justine Kish",
+        "fighter2": "Ji Yeon Kim",
+        "winner": "Ji Yeon Kim",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 96,
+            "sig_str_att": 203,
+            "str_landed": 96,
+            "str_att": 203,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 68,
+            "sig_str_att": 215,
+            "str_landed": 68,
+            "str_att": 216,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Vinc Pichel vs Joaquim Silva": {
+        "name": "Vinc Pichel vs Joaquim Silva",
+        "fighter1": "Vinc Pichel",
+        "fighter2": "Joaquim Silva",
+        "winner": "Vinc Pichel",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 60,
+            "sig_str_att": 186,
+            "str_landed": 62,
+            "str_att": 188,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 49
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 100,
+            "str_landed": 54,
+            "str_att": 109,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Niko Price vs George Sullivan": {
+        "name": "Niko Price vs George Sullivan",
+        "fighter1": "Niko Price",
+        "fighter2": "George Sullivan",
+        "winner": "Niko Price",
+        "method": "Submission",
+        "time_end": "4:21",
+        "round_end": 2,
+        "fight_length": 321,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 47,
+            "str_landed": 35,
+            "str_att": 67,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 3,
+            "ctrl_time": 178
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 61,
+            "str_landed": 42,
+            "str_att": 88,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 184
+        }
+    },
+    "Austin Arnett vs Cory Sandhagen": {
+        "name": "Austin Arnett vs Cory Sandhagen",
+        "fighter1": "Austin Arnett",
+        "fighter2": "Cory Sandhagen",
+        "winner": "Cory Sandhagen",
+        "method": "KO/TKO",
+        "time_end": "3:48",
+        "round_end": 2,
+        "fight_length": 288,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 90,
+            "str_landed": 35,
+            "str_att": 95,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 68
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 80,
+            "sig_str_att": 147,
+            "str_landed": 108,
+            "str_att": 179,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 115
+        }
+    }
+}

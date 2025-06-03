@@ -1,0 +1,415 @@
+{
+    "event": "UFC Fight Night: Pettis vs. Moreno",
+    "date": "August 05, 2017",
+    "Sergio Pettis vs Brandon Moreno": {
+        "name": "Sergio Pettis vs Brandon Moreno",
+        "fighter1": "Sergio Pettis",
+        "fighter2": "Brandon Moreno",
+        "winner": "Sergio Pettis",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            138,
+            145
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 76,
+            "sig_str_att": 235,
+            "str_landed": 84,
+            "str_att": 244,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 13
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 161,
+            "str_landed": 70,
+            "str_att": 193,
+            "td_comp": 4,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 468
+        }
+    },
+    "Randa Markos vs Alexa Grasso": {
+        "name": "Randa Markos vs Alexa Grasso",
+        "fighter1": "Randa Markos",
+        "fighter2": "Alexa Grasso",
+        "winner": "Alexa Grasso",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 113,
+            "str_landed": 71,
+            "str_att": 141,
+            "td_comp": 4,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 239
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 64,
+            "sig_str_att": 157,
+            "str_landed": 121,
+            "str_att": 224,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 130
+        }
+    },
+    "Alan Jouban vs Niko Price": {
+        "name": "Alan Jouban vs Niko Price",
+        "fighter1": "Alan Jouban",
+        "fighter2": "Niko Price",
+        "winner": "Niko Price",
+        "method": "KO/TKO",
+        "time_end": "1:44",
+        "round_end": 1,
+        "fight_length": 104,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 9,
+            "str_landed": 5,
+            "str_att": 9,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 10,
+            "sig_str_att": 19,
+            "str_landed": 10,
+            "str_att": 19,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        }
+    },
+    "Martin Bravo vs Humberto Bandenay": {
+        "name": "Martin Bravo vs Humberto Bandenay",
+        "fighter1": "Martin Bravo",
+        "fighter2": "Humberto Bandenay",
+        "winner": "Humberto Bandenay",
+        "method": "KO/TKO",
+        "time_end": "0:26",
+        "round_end": 1,
+        "fight_length": 26,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 3,
+            "str_landed": 1,
+            "str_att": 3,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 5,
+            "sig_str_att": 7,
+            "str_landed": 5,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Sam Alvey vs Rashad Evans": {
+        "name": "Sam Alvey vs Rashad Evans",
+        "fighter1": "Sam Alvey",
+        "fighter2": "Rashad Evans",
+        "winner": "Sam Alvey",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 87,
+            "str_landed": 51,
+            "str_att": 99,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 45,
+            "str_landed": 28,
+            "str_att": 58,
+            "td_comp": 2,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 269
+        }
+    },
+    "Alejandro Perez vs Andre Soukhamthath": {
+        "name": "Alejandro Perez vs Andre Soukhamthath",
+        "fighter1": "Alejandro Perez",
+        "fighter2": "Andre Soukhamthath",
+        "winner": "Alejandro Perez",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 141,
+            "str_landed": 97,
+            "str_att": 195,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 132
+        },
+        "fighter2_fight_data": {
+            "kd": 3,
+            "sig_str_landed": 43,
+            "sig_str_att": 107,
+            "str_landed": 44,
+            "str_att": 108,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 9
+        }
+    },
+    "Brad Scott vs Jack Hermansson": {
+        "name": "Brad Scott vs Jack Hermansson",
+        "fighter1": "Brad Scott",
+        "fighter2": "Jack Hermansson",
+        "winner": "Jack Hermansson",
+        "method": "KO/TKO",
+        "time_end": "3:50",
+        "round_end": 1,
+        "fight_length": 230,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 4,
+            "str_landed": 0,
+            "str_att": 4,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 54,
+            "str_landed": 49,
+            "str_att": 65,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 152
+        }
+    },
+    "Dustin Ortiz vs Hector Sandoval": {
+        "name": "Dustin Ortiz vs Hector Sandoval",
+        "fighter1": "Dustin Ortiz",
+        "fighter2": "Hector Sandoval",
+        "winner": "Dustin Ortiz",
+        "method": "KO/TKO",
+        "time_end": "0:15",
+        "round_end": 1,
+        "fight_length": 15,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 8,
+            "sig_str_att": 10,
+            "str_landed": 8,
+            "str_att": 10,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 6,
+            "str_landed": 1,
+            "str_att": 6,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Henry Briones vs Rani Yahya": {
+        "name": "Henry Briones vs Rani Yahya",
+        "fighter1": "Henry Briones",
+        "fighter2": "Rani Yahya",
+        "winner": "Rani Yahya",
+        "method": "Submission",
+        "time_end": "2:01",
+        "round_end": 1,
+        "fight_length": 121,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 0,
+            "str_landed": 9,
+            "str_att": 10,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 4,
+            "str_landed": 14,
+            "str_att": 15,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 99
+        }
+    },
+    "Jose Quinonez vs Diego Rivas": {
+        "name": "Jose Quinonez vs Diego Rivas",
+        "fighter1": "Jose Quinonez",
+        "fighter2": "Diego Rivas",
+        "winner": "Jose Quinonez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 59,
+            "sig_str_att": 112,
+            "str_landed": 70,
+            "str_att": 125,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 176
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 76,
+            "str_landed": 29,
+            "str_att": 78,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 16
+        }
+    },
+    "Joseph Morales vs Robert Sanchez": {
+        "name": "Joseph Morales vs Robert Sanchez",
+        "fighter1": "Joseph Morales",
+        "fighter2": "Robert Sanchez",
+        "winner": "Joseph Morales",
+        "method": "Submission",
+        "time_end": "3:56",
+        "round_end": 1,
+        "fight_length": 236,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 12,
+            "sig_str_att": 22,
+            "str_landed": 15,
+            "str_att": 26,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 61
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 6,
+            "str_landed": 12,
+            "str_att": 19,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 142
+        }
+    },
+    "Alvaro Herrera Mendoza vs Jordan Rinaldi": {
+        "name": "Alvaro Herrera Mendoza vs Jordan Rinaldi",
+        "fighter1": "Alvaro Herrera Mendoza",
+        "fighter2": "Jordan Rinaldi",
+        "winner": "Jordan Rinaldi",
+        "method": "Submission",
+        "time_end": "2:01",
+        "round_end": 1,
+        "fight_length": 121,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 7,
+            "str_landed": 2,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 12,
+            "str_landed": 7,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 23
+        }
+    }
+}

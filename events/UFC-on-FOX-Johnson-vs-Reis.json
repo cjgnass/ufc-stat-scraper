@@ -1,0 +1,454 @@
+{
+    "event": "UFC on FOX: Johnson vs. Reis",
+    "date": "April 15, 2017",
+    "Demetrious Johnson vs Wilson Reis": {
+        "name": "Demetrious Johnson vs Wilson Reis",
+        "fighter1": "Demetrious Johnson",
+        "fighter2": "Wilson Reis",
+        "winner": "Demetrious Johnson",
+        "method": "Submission",
+        "time_end": "4:49",
+        "round_end": 3,
+        "fight_length": 409,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 108,
+            "sig_str_att": 186,
+            "str_landed": 135,
+            "str_att": 216,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 139
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 168,
+            "str_landed": 18,
+            "str_att": 170,
+            "td_comp": 0,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    },
+    "Rose Namajunas vs Michelle Waterson-Gomez": {
+        "name": "Rose Namajunas vs Michelle Waterson-Gomez",
+        "fighter1": "Rose Namajunas",
+        "fighter2": "Michelle Waterson-Gomez",
+        "winner": "Rose Namajunas",
+        "method": "Submission",
+        "time_end": "2:47",
+        "round_end": 2,
+        "fight_length": 227,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 47,
+            "sig_str_att": 72,
+            "str_landed": 56,
+            "str_att": 86,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 273
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 33,
+            "str_landed": 31,
+            "str_att": 44,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 50
+        }
+    },
+    "Jacare Souza vs Robert Whittaker": {
+        "name": "Jacare Souza vs Robert Whittaker",
+        "fighter1": "Jacare Souza",
+        "fighter2": "Robert Whittaker",
+        "winner": "Robert Whittaker",
+        "method": "KO/TKO",
+        "time_end": "3:28",
+        "round_end": 2,
+        "fight_length": 268,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 36,
+            "str_landed": 13,
+            "str_att": 40,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 49
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 55,
+            "sig_str_att": 110,
+            "str_landed": 57,
+            "str_att": 112,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 25
+        }
+    },
+    "Jeremy Stephens vs Renato Moicano": {
+        "name": "Jeremy Stephens vs Renato Moicano",
+        "fighter1": "Jeremy Stephens",
+        "fighter2": "Renato Moicano",
+        "winner": "Renato Moicano",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 56,
+            "sig_str_att": 207,
+            "str_landed": 73,
+            "str_att": 224,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 70,
+            "sig_str_att": 116,
+            "str_landed": 76,
+            "str_att": 123,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 136
+        }
+    },
+    "Alexander Volkov vs Roy Nelson": {
+        "name": "Alexander Volkov vs Roy Nelson",
+        "fighter1": "Alexander Volkov",
+        "fighter2": "Roy Nelson",
+        "winner": "Alexander Volkov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 122,
+            "sig_str_att": 182,
+            "str_landed": 125,
+            "str_att": 185,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 23
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 67,
+            "str_landed": 40,
+            "str_att": 75,
+            "td_comp": 1,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 272
+        }
+    },
+    "Patrick Williams vs Tom Duquesnoy": {
+        "name": "Patrick Williams vs Tom Duquesnoy",
+        "fighter1": "Patrick Williams",
+        "fighter2": "Tom Duquesnoy",
+        "winner": "Tom Duquesnoy",
+        "method": "KO/TKO",
+        "time_end": "0:28",
+        "round_end": 2,
+        "fight_length": 88,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 73,
+            "str_landed": 42,
+            "str_att": 80,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 38
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 36,
+            "sig_str_att": 49,
+            "str_landed": 36,
+            "str_att": 49,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 14
+        }
+    },
+    "King Green vs Rashid Magomedov": {
+        "name": "King Green vs Rashid Magomedov",
+        "fighter1": "King Green",
+        "fighter2": "Rashid Magomedov",
+        "winner": "Rashid Magomedov",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 75,
+            "sig_str_att": 143,
+            "str_landed": 104,
+            "str_att": 176,
+            "td_comp": 0,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 148
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 75,
+            "sig_str_att": 189,
+            "str_landed": 88,
+            "str_att": 202,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Louis Smolka vs Tim Elliott": {
+        "name": "Louis Smolka vs Tim Elliott",
+        "fighter1": "Louis Smolka",
+        "fighter2": "Tim Elliott",
+        "winner": "Tim Elliott",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 97,
+            "str_landed": 47,
+            "str_att": 105,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 2,
+            "ctrl_time": 159
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 57,
+            "sig_str_att": 91,
+            "str_landed": 98,
+            "str_att": 136,
+            "td_comp": 12,
+            "td_att": 14,
+            "sub_att": 1,
+            "ctrl_time": 483
+        }
+    },
+    "Aljamain Sterling vs Augusto Mendes": {
+        "name": "Aljamain Sterling vs Augusto Mendes",
+        "fighter1": "Aljamain Sterling",
+        "fighter2": "Augusto Mendes",
+        "winner": "Aljamain Sterling",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 83,
+            "sig_str_att": 161,
+            "str_landed": 162,
+            "str_att": 246,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 359
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 30,
+            "sig_str_att": 91,
+            "str_landed": 76,
+            "str_att": 145,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 193
+        }
+    },
+    "Devin Clark vs Jake Collier": {
+        "name": "Devin Clark vs Jake Collier",
+        "fighter1": "Devin Clark",
+        "fighter2": "Jake Collier",
+        "winner": "Devin Clark",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 68,
+            "sig_str_att": 105,
+            "str_landed": 159,
+            "str_att": 207,
+            "td_comp": 4,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 465
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 72,
+            "str_landed": 52,
+            "str_att": 91,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 132
+        }
+    },
+    "Anthony Smith vs Andrew Sanchez": {
+        "name": "Anthony Smith vs Andrew Sanchez",
+        "fighter1": "Anthony Smith",
+        "fighter2": "Andrew Sanchez",
+        "winner": "Anthony Smith",
+        "method": "KO/TKO",
+        "time_end": "3:52",
+        "round_end": 3,
+        "fight_length": 352,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 49,
+            "sig_str_att": 100,
+            "str_landed": 58,
+            "str_att": 111,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 67
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 63,
+            "sig_str_att": 104,
+            "str_landed": 104,
+            "str_att": 151,
+            "td_comp": 4,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 274
+        }
+    },
+    "Zak Cummings vs Nathan Coy": {
+        "name": "Zak Cummings vs Nathan Coy",
+        "fighter1": "Zak Cummings",
+        "fighter2": "Nathan Coy",
+        "winner": "Zak Cummings",
+        "method": "Submission",
+        "time_end": "4:21",
+        "round_end": 1,
+        "fight_length": 261,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 72,
+            "str_landed": 25,
+            "str_att": 72,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 11
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 41,
+            "str_landed": 23,
+            "str_att": 41,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 5
+        }
+    },
+    "Ashlee Evans-Smith vs Ketlen Vieira": {
+        "name": "Ashlee Evans-Smith vs Ketlen Vieira",
+        "fighter1": "Ashlee Evans-Smith",
+        "fighter2": "Ketlen Vieira",
+        "winner": "Ketlen Vieira",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 68,
+            "sig_str_att": 189,
+            "str_landed": 100,
+            "str_att": 228,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 71,
+            "sig_str_att": 235,
+            "str_landed": 89,
+            "str_att": 256,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 246
+        }
+    }
+}

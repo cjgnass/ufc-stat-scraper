@@ -1,0 +1,274 @@
+{
+    "event": "UFC 45: Revolution",
+    "date": "November 21, 2003",
+    "Matt Hughes vs Frank Trigg": {
+        "name": "Matt Hughes vs Frank Trigg",
+        "fighter1": "Matt Hughes",
+        "fighter2": "Frank Trigg",
+        "winner": "Matt Hughes",
+        "method": "Submission",
+        "time_end": "3:54",
+        "round_end": 1,
+        "fight_length": 234,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 0,
+            "str_landed": 0,
+            "str_att": 0,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 103
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 3,
+            "str_landed": 1,
+            "str_att": 4,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 119
+        }
+    },
+    "Matt Lindland vs Falaniko Vitale": {
+        "name": "Matt Lindland vs Falaniko Vitale",
+        "fighter1": "Matt Lindland",
+        "fighter2": "Falaniko Vitale",
+        "winner": "Matt Lindland",
+        "method": "KO/TKO",
+        "time_end": "4:23",
+        "round_end": 3,
+        "fight_length": 383,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 62,
+            "str_landed": 93,
+            "str_att": 121,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 497
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 18,
+            "str_landed": 10,
+            "str_att": 27,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 199
+        }
+    },
+    "Wesley Correira vs David Abbott": {
+        "name": "Wesley Correira vs David Abbott",
+        "fighter1": "Wesley Correira",
+        "fighter2": "David Abbott",
+        "winner": "Wesley Correira",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "2:14",
+        "round_end": 1,
+        "fight_length": 134,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 13,
+            "sig_str_att": 24,
+            "str_landed": 19,
+            "str_att": 30,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 7
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 26,
+            "str_landed": 17,
+            "str_att": 33,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 84
+        }
+    },
+    "Evan Tanner vs Phil Baroni": {
+        "name": "Evan Tanner vs Phil Baroni",
+        "fighter1": "Evan Tanner",
+        "fighter2": "Phil Baroni",
+        "winner": "Evan Tanner",
+        "method": "KO/TKO",
+        "time_end": "4:42",
+        "round_end": 1,
+        "fight_length": 282,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 34,
+            "str_landed": 40,
+            "str_att": 46,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 147
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 17,
+            "sig_str_att": 32,
+            "str_landed": 29,
+            "str_att": 45,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 14
+        }
+    },
+    "Robbie Lawler vs Chris Lytle": {
+        "name": "Robbie Lawler vs Chris Lytle",
+        "fighter1": "Robbie Lawler",
+        "fighter2": "Chris Lytle",
+        "winner": "Robbie Lawler",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 30,
+            "sig_str_att": 72,
+            "str_landed": 51,
+            "str_att": 93,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 291
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 97,
+            "str_landed": 64,
+            "str_att": 125,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 24
+        }
+    },
+    "Pedro Rizzo vs Ricco Rodriguez": {
+        "name": "Pedro Rizzo vs Ricco Rodriguez",
+        "fighter1": "Pedro Rizzo",
+        "fighter2": "Ricco Rodriguez",
+        "winner": "Pedro Rizzo",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 30,
+            "sig_str_att": 93,
+            "str_landed": 45,
+            "str_att": 110,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 352
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 33,
+            "str_landed": 27,
+            "str_att": 47,
+            "td_comp": 0,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Keith Rockel vs Chris Liguori": {
+        "name": "Keith Rockel vs Chris Liguori",
+        "fighter1": "Keith Rockel",
+        "fighter2": "Chris Liguori",
+        "winner": "Keith Rockel",
+        "method": "Submission",
+        "time_end": "3:29",
+        "round_end": 1,
+        "fight_length": 209,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 5,
+            "str_landed": 17,
+            "str_att": 19,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 184
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 3,
+            "str_landed": 12,
+            "str_att": 14,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 8
+        }
+    },
+    "Yves Edwards vs Nick Agallar": {
+        "name": "Yves Edwards vs Nick Agallar",
+        "fighter1": "Yves Edwards",
+        "fighter2": "Nick Agallar",
+        "winner": "Yves Edwards",
+        "method": "KO/TKO",
+        "time_end": "2:14",
+        "round_end": 2,
+        "fight_length": 194,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 33,
+            "sig_str_att": 57,
+            "str_landed": 39,
+            "str_att": 63,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 11
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 43,
+            "str_landed": 10,
+            "str_att": 48,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 67
+        }
+    }
+}

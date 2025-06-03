@@ -1,0 +1,379 @@
+{
+    "event": "The Ultimate Fighter: American Top Team vs. Blackzilians Finale",
+    "date": "July 12, 2015",
+    "Jake Ellenberger vs Stephen Thompson": {
+        "name": "Jake Ellenberger vs Stephen Thompson",
+        "fighter1": "Jake Ellenberger",
+        "fighter2": "Stephen Thompson",
+        "winner": "Stephen Thompson",
+        "method": "KO/TKO",
+        "time_end": "4:29",
+        "round_end": 1,
+        "fight_length": 269,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 5,
+            "sig_str_att": 14,
+            "str_landed": 14,
+            "str_att": 23,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 20,
+            "sig_str_att": 35,
+            "str_landed": 29,
+            "str_att": 47,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 116
+        }
+    },
+    "Kamaru Usman vs Hayder Hassan": {
+        "name": "Kamaru Usman vs Hayder Hassan",
+        "fighter1": "Kamaru Usman",
+        "fighter2": "Hayder Hassan",
+        "winner": "Kamaru Usman",
+        "method": "Submission",
+        "time_end": "1:19",
+        "round_end": 2,
+        "fight_length": 139,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 26,
+            "str_landed": 31,
+            "str_att": 43,
+            "td_comp": 6,
+            "td_att": 8,
+            "sub_att": 1,
+            "ctrl_time": 311
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 11,
+            "str_landed": 7,
+            "str_att": 15,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Michael Graves vs Vicente Luque": {
+        "name": "Michael Graves vs Vicente Luque",
+        "fighter1": "Michael Graves",
+        "fighter2": "Vicente Luque",
+        "winner": "Michael Graves",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 45,
+            "str_landed": 53,
+            "str_att": 72,
+            "td_comp": 7,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 537
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 57,
+            "str_landed": 50,
+            "str_att": 79,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 208
+        }
+    },
+    "Jorge Masvidal vs Cezar Ferreira": {
+        "name": "Jorge Masvidal vs Cezar Ferreira",
+        "fighter1": "Jorge Masvidal",
+        "fighter2": "Cezar Ferreira",
+        "winner": "Jorge Masvidal",
+        "method": "KO/TKO",
+        "time_end": "4:22",
+        "round_end": 1,
+        "fight_length": 262,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 12,
+            "sig_str_att": 23,
+            "str_landed": 14,
+            "str_att": 25,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 18,
+            "str_landed": 9,
+            "str_att": 20,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 91
+        }
+    },
+    "Angela Magana vs Michelle Waterson-Gomez": {
+        "name": "Angela Magana vs Michelle Waterson-Gomez",
+        "fighter1": "Angela Magana",
+        "fighter2": "Michelle Waterson-Gomez",
+        "winner": "Michelle Waterson-Gomez",
+        "method": "Submission",
+        "time_end": "2:38",
+        "round_end": 3,
+        "fight_length": 278,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 24,
+            "str_landed": 19,
+            "str_att": 36,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 475
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 60,
+            "str_landed": 102,
+            "str_att": 120,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 4,
+            "ctrl_time": 117
+        }
+    },
+    "Maximo Blanco vs Mike de la Torre": {
+        "name": "Maximo Blanco vs Mike de la Torre",
+        "fighter1": "Maximo Blanco",
+        "fighter2": "Mike de la Torre",
+        "winner": "Maximo Blanco",
+        "method": "KO/TKO",
+        "time_end": "0:16",
+        "round_end": 1,
+        "fight_length": 16,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 4,
+            "sig_str_att": 7,
+            "str_landed": 4,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 5,
+            "str_landed": 1,
+            "str_att": 5,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Josh Samman vs Caio Magalhaes": {
+        "name": "Josh Samman vs Caio Magalhaes",
+        "fighter1": "Josh Samman",
+        "fighter2": "Caio Magalhaes",
+        "winner": "Josh Samman",
+        "method": "Submission",
+        "time_end": "2:52",
+        "round_end": 1,
+        "fight_length": 172,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 19,
+            "str_landed": 21,
+            "str_att": 28,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 70
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 8,
+            "str_landed": 5,
+            "str_att": 10,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Russell Doane vs Jerrod Sanders": {
+        "name": "Russell Doane vs Jerrod Sanders",
+        "fighter1": "Russell Doane",
+        "fighter2": "Jerrod Sanders",
+        "winner": "Jerrod Sanders",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 13,
+            "sig_str_att": 26,
+            "str_landed": 34,
+            "str_att": 51,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 3,
+            "ctrl_time": 385
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 22,
+            "str_landed": 47,
+            "str_att": 57,
+            "td_comp": 3,
+            "td_att": 8,
+            "sub_att": 3,
+            "ctrl_time": 402
+        }
+    },
+    "Dan Miller vs Trevor Smith": {
+        "name": "Dan Miller vs Trevor Smith",
+        "fighter1": "Dan Miller",
+        "fighter2": "Trevor Smith",
+        "winner": "Trevor Smith",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            76,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 59,
+            "str_landed": 29,
+            "str_att": 63,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 51,
+            "sig_str_att": 76,
+            "str_landed": 149,
+            "str_att": 180,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 716
+        }
+    },
+    "George Sullivan vs Dominic Waters": {
+        "name": "George Sullivan vs Dominic Waters",
+        "fighter1": "George Sullivan",
+        "fighter2": "Dominic Waters",
+        "winner": "George Sullivan",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 54,
+            "sig_str_att": 96,
+            "str_landed": 103,
+            "str_att": 145,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 3,
+            "ctrl_time": 363
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 53,
+            "str_landed": 32,
+            "str_att": 72,
+            "td_comp": 5,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 325
+        }
+    },
+    "Darrell Montague vs Willie Gates": {
+        "name": "Darrell Montague vs Willie Gates",
+        "fighter1": "Darrell Montague",
+        "fighter2": "Willie Gates",
+        "winner": "Willie Gates",
+        "method": "KO/TKO",
+        "time_end": "1:36",
+        "round_end": 1,
+        "fight_length": 96,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 13,
+            "str_landed": 4,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 19,
+            "sig_str_att": 33,
+            "str_landed": 21,
+            "str_att": 35,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 13
+        }
+    }
+}

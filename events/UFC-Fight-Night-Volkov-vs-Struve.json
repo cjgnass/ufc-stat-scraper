@@ -1,0 +1,412 @@
+{
+    "event": "UFC Fight Night: Volkov vs. Struve",
+    "date": "September 02, 2017",
+    "Alexander Volkov vs Stefan Struve": {
+        "name": "Alexander Volkov vs Stefan Struve",
+        "fighter1": "Alexander Volkov",
+        "fighter2": "Stefan Struve",
+        "winner": "Alexander Volkov",
+        "method": "KO/TKO",
+        "time_end": "3:30",
+        "round_end": 3,
+        "fight_length": 330,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 135,
+            "sig_str_att": 253,
+            "str_landed": 144,
+            "str_att": 264,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 58
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 162,
+            "str_landed": 41,
+            "str_att": 162,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Siyar Bahadurzada vs Rob Wilkinson": {
+        "name": "Siyar Bahadurzada vs Rob Wilkinson",
+        "fighter1": "Siyar Bahadurzada",
+        "fighter2": "Rob Wilkinson",
+        "winner": "Siyar Bahadurzada",
+        "method": "KO/TKO",
+        "time_end": "3:10",
+        "round_end": 2,
+        "fight_length": 250,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 3,
+            "sig_str_landed": 43,
+            "sig_str_att": 81,
+            "str_landed": 44,
+            "str_att": 82,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 29
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 46,
+            "str_landed": 34,
+            "str_att": 58,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 138
+        }
+    },
+    "Marion Reneau vs Talita Bernardo": {
+        "name": "Marion Reneau vs Talita Bernardo",
+        "fighter1": "Marion Reneau",
+        "fighter2": "Talita Bernardo",
+        "winner": "Marion Reneau",
+        "method": "KO/TKO",
+        "time_end": "4:54",
+        "round_end": 3,
+        "fight_length": 414,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 57,
+            "sig_str_att": 127,
+            "str_landed": 118,
+            "str_att": 192,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 5,
+            "ctrl_time": 208
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 88,
+            "str_landed": 38,
+            "str_att": 112,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 385
+        }
+    },
+    "Leon Edwards vs Bryan Barberena": {
+        "name": "Leon Edwards vs Bryan Barberena",
+        "fighter1": "Leon Edwards",
+        "fighter2": "Bryan Barberena",
+        "winner": "Leon Edwards",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 51,
+            "str_landed": 58,
+            "str_att": 87,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 3,
+            "ctrl_time": 488
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 44,
+            "sig_str_att": 87,
+            "str_landed": 115,
+            "str_att": 163,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 85
+        }
+    },
+    "Darren Till vs Bojan Velickovic": {
+        "name": "Darren Till vs Bojan Velickovic",
+        "fighter1": "Darren Till",
+        "fighter2": "Bojan Velickovic",
+        "winner": "Darren Till",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 49,
+            "sig_str_att": 87,
+            "str_landed": 50,
+            "str_att": 88,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 171
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 144,
+            "str_landed": 69,
+            "str_att": 181,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Mairbek Taisumov vs Felipe Silva": {
+        "name": "Mairbek Taisumov vs Felipe Silva",
+        "fighter1": "Mairbek Taisumov",
+        "fighter2": "Felipe Silva",
+        "winner": "Mairbek Taisumov",
+        "method": "KO/TKO",
+        "time_end": "1:24",
+        "round_end": 1,
+        "fight_length": 84,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 2,
+            "sig_str_att": 4,
+            "str_landed": 2,
+            "str_att": 4,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 7,
+            "str_landed": 0,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Michel Prazeres vs Mads Burnell": {
+        "name": "Michel Prazeres vs Mads Burnell",
+        "fighter1": "Michel Prazeres",
+        "fighter2": "Mads Burnell",
+        "winner": "Michel Prazeres",
+        "method": "Submission",
+        "time_end": "1:26",
+        "round_end": 3,
+        "fight_length": 206,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 48,
+            "str_landed": 43,
+            "str_att": 69,
+            "td_comp": 4,
+            "td_att": 6,
+            "sub_att": 1,
+            "ctrl_time": 531
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 30,
+            "str_landed": 12,
+            "str_att": 32,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 20
+        }
+    },
+    "Rustam Khabilov vs Desmond Green": {
+        "name": "Rustam Khabilov vs Desmond Green",
+        "fighter1": "Rustam Khabilov",
+        "fighter2": "Desmond Green",
+        "winner": "Rustam Khabilov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 108,
+            "str_landed": 35,
+            "str_att": 109,
+            "td_comp": 3,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 65
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 111,
+            "str_landed": 53,
+            "str_att": 119,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 20
+        }
+    },
+    "Francimar Barroso vs Aleksandar Rakic": {
+        "name": "Francimar Barroso vs Aleksandar Rakic",
+        "fighter1": "Francimar Barroso",
+        "fighter2": "Aleksandar Rakic",
+        "winner": "Aleksandar Rakic",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 55,
+            "str_landed": 36,
+            "str_att": 69,
+            "td_comp": 2,
+            "td_att": 14,
+            "sub_att": 0,
+            "ctrl_time": 96
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 150,
+            "str_landed": 75,
+            "str_att": 179,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 13
+        }
+    },
+    "Mike Santiago vs Zabit Magomedsharipov": {
+        "name": "Mike Santiago vs Zabit Magomedsharipov",
+        "fighter1": "Mike Santiago",
+        "fighter2": "Zabit Magomedsharipov",
+        "winner": "Zabit Magomedsharipov",
+        "method": "Submission",
+        "time_end": "4:22",
+        "round_end": 2,
+        "fight_length": 322,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 67,
+            "str_landed": 32,
+            "str_att": 77,
+            "td_comp": 2,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 145
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 65,
+            "str_landed": 70,
+            "str_att": 97,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 2,
+            "ctrl_time": 244
+        }
+    },
+    "Bojan Mihajlovic vs Abdul-Kerim Edilov": {
+        "name": "Bojan Mihajlovic vs Abdul-Kerim Edilov",
+        "fighter1": "Bojan Mihajlovic",
+        "fighter2": "Abdul-Kerim Edilov",
+        "winner": "Abdul-Kerim Edilov",
+        "method": "KO/TKO",
+        "time_end": "2:32",
+        "round_end": 2,
+        "fight_length": 212,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 13,
+            "str_landed": 7,
+            "str_att": 21,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 77,
+            "sig_str_att": 125,
+            "str_landed": 150,
+            "str_att": 210,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 331
+        }
+    },
+    "Thibault Gouti vs Andrew Holbrook": {
+        "name": "Thibault Gouti vs Andrew Holbrook",
+        "fighter1": "Thibault Gouti",
+        "fighter2": "Andrew Holbrook",
+        "winner": "Thibault Gouti",
+        "method": "KO/TKO",
+        "time_end": "4:28",
+        "round_end": 1,
+        "fight_length": 268,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 41,
+            "sig_str_att": 86,
+            "str_landed": 43,
+            "str_att": 88,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 30
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 54,
+            "str_landed": 22,
+            "str_att": 54,
+            "td_comp": 0,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

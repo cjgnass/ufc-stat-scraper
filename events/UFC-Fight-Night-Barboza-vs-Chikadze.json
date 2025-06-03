@@ -1,0 +1,415 @@
+{
+    "event": "UFC Fight Night: Barboza vs. Chikadze",
+    "date": "August 28, 2021",
+    "Edson Barboza vs Giga Chikadze": {
+        "name": "Edson Barboza vs Giga Chikadze",
+        "fighter1": "Edson Barboza",
+        "fighter2": "Giga Chikadze",
+        "winner": "Giga Chikadze",
+        "method": "KO/TKO",
+        "time_end": "1:44",
+        "round_end": 3,
+        "fight_length": 224,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 95,
+            "str_landed": 33,
+            "str_att": 95,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 60,
+            "sig_str_att": 117,
+            "str_landed": 70,
+            "str_att": 128,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 41
+        }
+    },
+    "Bryan Battle vs Gilbert Urbina": {
+        "name": "Bryan Battle vs Gilbert Urbina",
+        "fighter1": "Bryan Battle",
+        "fighter2": "Gilbert Urbina",
+        "winner": "Bryan Battle",
+        "method": "Submission",
+        "time_end": "2:15",
+        "round_end": 2,
+        "fight_length": 195,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 87,
+            "str_landed": 54,
+            "str_att": 96,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 82
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 76,
+            "str_landed": 63,
+            "str_att": 95,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 160
+        }
+    },
+    "Ricky Turcios vs Brady Hiestand": {
+        "name": "Ricky Turcios vs Brady Hiestand",
+        "fighter1": "Ricky Turcios",
+        "fighter2": "Brady Hiestand",
+        "winner": "Ricky Turcios",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 100,
+            "sig_str_att": 171,
+            "str_landed": 201,
+            "str_att": 281,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 152
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 66,
+            "sig_str_att": 134,
+            "str_landed": 82,
+            "str_att": 152,
+            "td_comp": 6,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 460
+        }
+    },
+    "Kevin Lee vs Daniel Rodriguez": {
+        "name": "Kevin Lee vs Daniel Rodriguez",
+        "fighter1": "Kevin Lee",
+        "fighter2": "Daniel Rodriguez",
+        "winner": "Daniel Rodriguez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 56,
+            "sig_str_att": 160,
+            "str_landed": 74,
+            "str_att": 181,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 214
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 120,
+            "sig_str_att": 210,
+            "str_landed": 137,
+            "str_att": 229,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 45
+        }
+    },
+    "Andre Petroski vs Micheal Gillmore": {
+        "name": "Andre Petroski vs Micheal Gillmore",
+        "fighter1": "Andre Petroski",
+        "fighter2": "Micheal Gillmore",
+        "winner": "Andre Petroski",
+        "method": "KO/TKO",
+        "time_end": "3:12",
+        "round_end": 3,
+        "fight_length": 312,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 80,
+            "str_landed": 91,
+            "str_att": 131,
+            "td_comp": 4,
+            "td_att": 9,
+            "sub_att": 1,
+            "ctrl_time": 458
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 52,
+            "str_landed": 38,
+            "str_att": 59,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    },
+    "Makhmud Muradov vs Gerald Meerschaert": {
+        "name": "Makhmud Muradov vs Gerald Meerschaert",
+        "fighter1": "Makhmud Muradov",
+        "fighter2": "Gerald Meerschaert",
+        "winner": "Gerald Meerschaert",
+        "method": "Submission",
+        "time_end": "1:49",
+        "round_end": 2,
+        "fight_length": 169,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 99,
+            "str_landed": 41,
+            "str_att": 100,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 16
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 56,
+            "str_landed": 39,
+            "str_att": 65,
+            "td_comp": 3,
+            "td_att": 10,
+            "sub_att": 1,
+            "ctrl_time": 55
+        }
+    },
+    "Alessio Di Chirico vs Abdul Razak Alhassan": {
+        "name": "Alessio Di Chirico vs Abdul Razak Alhassan",
+        "fighter1": "Alessio Di Chirico",
+        "fighter2": "Abdul Razak Alhassan",
+        "winner": "Abdul Razak Alhassan",
+        "method": "KO/TKO",
+        "time_end": "0:17",
+        "round_end": 1,
+        "fight_length": 17,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 2,
+            "str_landed": 1,
+            "str_att": 2,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 1,
+            "sig_str_att": 1,
+            "str_landed": 1,
+            "str_att": 1,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Sam Alvey vs Wellington Turman": {
+        "name": "Sam Alvey vs Wellington Turman",
+        "fighter1": "Sam Alvey",
+        "fighter2": "Wellington Turman",
+        "winner": "Wellington Turman",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            83
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 68,
+            "sig_str_att": 122,
+            "str_landed": 114,
+            "str_att": 169,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 114
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 69,
+            "sig_str_att": 119,
+            "str_landed": 75,
+            "str_att": 126,
+            "td_comp": 2,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 174
+        }
+    },
+    "Dustin Jacoby vs Darren Stewart": {
+        "name": "Dustin Jacoby vs Darren Stewart",
+        "fighter1": "Dustin Jacoby",
+        "fighter2": "Darren Stewart",
+        "winner": "Dustin Jacoby",
+        "method": "KO/TKO",
+        "time_end": "3:04",
+        "round_end": 1,
+        "fight_length": 184,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 61,
+            "str_landed": 38,
+            "str_att": 63,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 23
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 33,
+            "str_landed": 22,
+            "str_att": 37,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 43
+        }
+    },
+    "JJ Aldrich vs Vanessa Demopoulos": {
+        "name": "JJ Aldrich vs Vanessa Demopoulos",
+        "fighter1": "JJ Aldrich",
+        "fighter2": "Vanessa Demopoulos",
+        "winner": "JJ Aldrich",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 93,
+            "sig_str_att": 134,
+            "str_landed": 121,
+            "str_att": 165,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 259
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 70,
+            "sig_str_att": 162,
+            "str_landed": 87,
+            "str_att": 185,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 113
+        }
+    },
+    "Jamall Emmers vs Pat Sabatini": {
+        "name": "Jamall Emmers vs Pat Sabatini",
+        "fighter1": "Jamall Emmers",
+        "fighter2": "Pat Sabatini",
+        "winner": "Pat Sabatini",
+        "method": "Submission",
+        "time_end": "1:53",
+        "round_end": 1,
+        "fight_length": 113,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 14,
+            "str_landed": 12,
+            "str_att": 17,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 49
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 9,
+            "str_landed": 1,
+            "str_att": 9,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 0
+        }
+    },
+    "Mana Martinez vs Guido Cannetti": {
+        "name": "Mana Martinez vs Guido Cannetti",
+        "fighter1": "Mana Martinez",
+        "fighter2": "Guido Cannetti",
+        "winner": "Mana Martinez",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 79,
+            "sig_str_att": 157,
+            "str_landed": 88,
+            "str_att": 169,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 67
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 66,
+            "sig_str_att": 109,
+            "str_landed": 68,
+            "str_att": 111,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 28
+        }
+    }
+}

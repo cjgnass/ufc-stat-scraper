@@ -1,0 +1,310 @@
+{
+    "event": "UFC 256: Figueiredo vs. Moreno",
+    "date": "December 12, 2020",
+    "Tony Ferguson vs Charles Oliveira": {
+        "name": "Tony Ferguson vs Charles Oliveira",
+        "fighter1": "Tony Ferguson",
+        "fighter2": "Charles Oliveira",
+        "winner": "Charles Oliveira",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            78,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 42,
+            "str_landed": 26,
+            "str_att": 49,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 63,
+            "str_landed": 86,
+            "str_att": 112,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 3,
+            "ctrl_time": 699
+        }
+    },
+    "Mackenzie Dern vs Virna Jandiroba": {
+        "name": "Mackenzie Dern vs Virna Jandiroba",
+        "fighter1": "Mackenzie Dern",
+        "fighter2": "Virna Jandiroba",
+        "winner": "Mackenzie Dern",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 82,
+            "sig_str_att": 174,
+            "str_landed": 101,
+            "str_att": 195,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 154
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 63,
+            "sig_str_att": 134,
+            "str_landed": 80,
+            "str_att": 152,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 164
+        }
+    },
+    "Kevin Holland vs Jacare Souza": {
+        "name": "Kevin Holland vs Jacare Souza",
+        "fighter1": "Kevin Holland",
+        "fighter2": "Jacare Souza",
+        "winner": "Kevin Holland",
+        "method": "KO/TKO",
+        "time_end": "1:45",
+        "round_end": 1,
+        "fight_length": 105,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 18,
+            "str_landed": 21,
+            "str_att": 24,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 2,
+            "str_landed": 2,
+            "str_att": 2,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 87
+        }
+    },
+    "Junior Dos Santos vs Ciryl Gane": {
+        "name": "Junior Dos Santos vs Ciryl Gane",
+        "fighter1": "Junior Dos Santos",
+        "fighter2": "Ciryl Gane",
+        "winner": "Ciryl Gane",
+        "method": "KO/TKO",
+        "time_end": "2:34",
+        "round_end": 2,
+        "fight_length": 214,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 35,
+            "str_landed": 11,
+            "str_att": 36,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 59,
+            "sig_str_att": 80,
+            "str_landed": 61,
+            "str_att": 82,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 25
+        }
+    },
+    "Cub Swanson vs Daniel Pineda": {
+        "name": "Cub Swanson vs Daniel Pineda",
+        "fighter1": "Cub Swanson",
+        "fighter2": "Daniel Pineda",
+        "winner": "Cub Swanson",
+        "method": "KO/TKO",
+        "time_end": "1:52",
+        "round_end": 2,
+        "fight_length": 172,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 46,
+            "sig_str_att": 66,
+            "str_landed": 51,
+            "str_att": 71,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 94
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 45,
+            "str_landed": 40,
+            "str_att": 65,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 35
+        }
+    },
+    "Renato Moicano vs Rafael Fiziev": {
+        "name": "Renato Moicano vs Rafael Fiziev",
+        "fighter1": "Renato Moicano",
+        "fighter2": "Rafael Fiziev",
+        "winner": "Rafael Fiziev",
+        "method": "KO/TKO",
+        "time_end": "4:05",
+        "round_end": 1,
+        "fight_length": 245,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 37,
+            "str_landed": 15,
+            "str_att": 37,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 21,
+            "sig_str_att": 35,
+            "str_landed": 21,
+            "str_att": 35,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 4
+        }
+    },
+    "Gavin Tucker vs Billy Quarantillo": {
+        "name": "Gavin Tucker vs Billy Quarantillo",
+        "fighter1": "Gavin Tucker",
+        "fighter2": "Billy Quarantillo",
+        "winner": "Gavin Tucker",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 106,
+            "sig_str_att": 166,
+            "str_landed": 123,
+            "str_att": 183,
+            "td_comp": 7,
+            "td_att": 13,
+            "sub_att": 0,
+            "ctrl_time": 314
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 84,
+            "sig_str_att": 178,
+            "str_landed": 136,
+            "str_att": 233,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 25
+        }
+    },
+    "Tecia Pennington vs Sam Hughes": {
+        "name": "Tecia Pennington vs Sam Hughes",
+        "fighter1": "Tecia Pennington",
+        "fighter2": "Sam Hughes",
+        "winner": "Tecia Pennington",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "5:00",
+        "round_end": 1,
+        "fight_length": 300,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 52,
+            "sig_str_att": 103,
+            "str_landed": 52,
+            "str_att": 103,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 15
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 53,
+            "str_landed": 26,
+            "str_att": 59,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 51
+        }
+    },
+    "Chase Hooper vs Peter Barrett": {
+        "name": "Chase Hooper vs Peter Barrett",
+        "fighter1": "Chase Hooper",
+        "fighter2": "Peter Barrett",
+        "winner": "Chase Hooper",
+        "method": "Submission",
+        "time_end": "3:02",
+        "round_end": 3,
+        "fight_length": 302,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 57,
+            "sig_str_att": 117,
+            "str_landed": 81,
+            "str_att": 144,
+            "td_comp": 0,
+            "td_att": 6,
+            "sub_att": 2,
+            "ctrl_time": 44
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 48,
+            "sig_str_att": 87,
+            "str_landed": 61,
+            "str_att": 100,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 65
+        }
+    }
+}

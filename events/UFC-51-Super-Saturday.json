@@ -1,0 +1,307 @@
+{
+    "event": "UFC 51: Super Saturday",
+    "date": "February 05, 2005",
+    "Tito Ortiz vs Vitor Belfort": {
+        "name": "Tito Ortiz vs Vitor Belfort",
+        "fighter1": "Tito Ortiz",
+        "fighter2": "Vitor Belfort",
+        "winner": "Tito Ortiz",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 47,
+            "str_landed": 101,
+            "str_att": 130,
+            "td_comp": 4,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 563
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 38,
+            "str_landed": 44,
+            "str_att": 65,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 186
+        }
+    },
+    "Pete Sell vs Phil Baroni": {
+        "name": "Pete Sell vs Phil Baroni",
+        "fighter1": "Pete Sell",
+        "fighter2": "Phil Baroni",
+        "winner": "Pete Sell",
+        "method": "Submission",
+        "time_end": "4:19",
+        "round_end": 3,
+        "fight_length": 379,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 49,
+            "str_landed": 90,
+            "str_att": 136,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 262
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 40,
+            "str_landed": 73,
+            "str_att": 102,
+            "td_comp": 4,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 376
+        }
+    },
+    "Andrei Arlovski vs Tim Sylvia": {
+        "name": "Andrei Arlovski vs Tim Sylvia",
+        "fighter1": "Andrei Arlovski",
+        "fighter2": "Tim Sylvia",
+        "winner": "Andrei Arlovski",
+        "method": "Submission",
+        "time_end": "0:47",
+        "round_end": 1,
+        "fight_length": 47,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 5,
+            "sig_str_att": 10,
+            "str_landed": 5,
+            "str_att": 10,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 8
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 4,
+            "str_landed": 2,
+            "str_att": 4,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Evan Tanner vs David Terrell": {
+        "name": "Evan Tanner vs David Terrell",
+        "fighter1": "Evan Tanner",
+        "fighter2": "David Terrell",
+        "winner": "Evan Tanner",
+        "method": "KO/TKO",
+        "time_end": "4:35",
+        "round_end": 1,
+        "fight_length": 275,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 28,
+            "str_landed": 62,
+            "str_att": 77,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 189
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 9,
+            "str_landed": 4,
+            "str_att": 11,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 21
+        }
+    },
+    "Paul Buentello vs Justin Eilers": {
+        "name": "Paul Buentello vs Justin Eilers",
+        "fighter1": "Paul Buentello",
+        "fighter2": "Justin Eilers",
+        "winner": "Paul Buentello",
+        "method": "KO/TKO",
+        "time_end": "3:34",
+        "round_end": 1,
+        "fight_length": 214,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 22,
+            "sig_str_att": 50,
+            "str_landed": 24,
+            "str_att": 52,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 28,
+            "str_landed": 15,
+            "str_att": 37,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 78
+        }
+    },
+    "Mike Kyle vs James Irvin": {
+        "name": "Mike Kyle vs James Irvin",
+        "fighter1": "Mike Kyle",
+        "fighter2": "James Irvin",
+        "winner": "Mike Kyle",
+        "method": "KO/TKO",
+        "time_end": "1:55",
+        "round_end": 1,
+        "fight_length": 115,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 10,
+            "sig_str_att": 15,
+            "str_landed": 30,
+            "str_att": 39,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 83
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 6,
+            "str_landed": 3,
+            "str_att": 6,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 6
+        }
+    },
+    "David Loiseau vs Gideon Ray": {
+        "name": "David Loiseau vs Gideon Ray",
+        "fighter1": "David Loiseau",
+        "fighter2": "Gideon Ray",
+        "winner": "David Loiseau",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "5:00",
+        "round_end": 1,
+        "fight_length": 300,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 17,
+            "sig_str_att": 34,
+            "str_landed": 25,
+            "str_att": 43,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 159
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 23,
+            "str_landed": 12,
+            "str_att": 24,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 35
+        }
+    },
+    "Karo Parisyan vs Chris Lytle": {
+        "name": "Karo Parisyan vs Chris Lytle",
+        "fighter1": "Karo Parisyan",
+        "fighter2": "Chris Lytle",
+        "winner": "Karo Parisyan",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 66,
+            "str_landed": 81,
+            "str_att": 124,
+            "td_comp": 7,
+            "td_att": 9,
+            "sub_att": 2,
+            "ctrl_time": 773
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 16,
+            "str_landed": 58,
+            "str_att": 67,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 33
+        }
+    },
+    "Nick Diaz vs Drew Fickett": {
+        "name": "Nick Diaz vs Drew Fickett",
+        "fighter1": "Nick Diaz",
+        "fighter2": "Drew Fickett",
+        "winner": "Nick Diaz",
+        "method": "KO/TKO",
+        "time_end": "4:40",
+        "round_end": 1,
+        "fight_length": 280,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 28,
+            "str_landed": 136,
+            "str_att": 153,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 146
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 8,
+            "str_landed": 4,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 101
+        }
+    }
+}

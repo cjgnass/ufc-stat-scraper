@@ -1,0 +1,271 @@
+{
+    "event": "UFC 34: High Voltage",
+    "date": "November 02, 2001",
+    "Randy Couture vs Pedro Rizzo": {
+        "name": "Randy Couture vs Pedro Rizzo",
+        "fighter1": "Randy Couture",
+        "fighter2": "Pedro Rizzo",
+        "winner": "Randy Couture",
+        "method": "KO/TKO",
+        "time_end": "3:22",
+        "round_end": 3,
+        "fight_length": 322,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 52,
+            "str_landed": 98,
+            "str_att": 111,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 348
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 34,
+            "str_landed": 20,
+            "str_att": 42,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    },
+    "Ricco Rodriguez vs Pete Williams": {
+        "name": "Ricco Rodriguez vs Pete Williams",
+        "fighter1": "Ricco Rodriguez",
+        "fighter2": "Pete Williams",
+        "winner": "Ricco Rodriguez",
+        "method": "KO/TKO",
+        "time_end": "4:02",
+        "round_end": 2,
+        "fight_length": 302,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 43,
+            "str_landed": 86,
+            "str_att": 107,
+            "td_comp": 5,
+            "td_att": 6,
+            "sub_att": 1,
+            "ctrl_time": 436
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 6,
+            "str_landed": 10,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 46
+        }
+    },
+    "Matt Hughes vs Carlos Newton": {
+        "name": "Matt Hughes vs Carlos Newton",
+        "fighter1": "Matt Hughes",
+        "fighter2": "Carlos Newton",
+        "winner": "Matt Hughes",
+        "method": "KO/TKO",
+        "time_end": "1:27",
+        "round_end": 2,
+        "fight_length": 147,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 14,
+            "str_landed": 14,
+            "str_att": 20,
+            "td_comp": 4,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 244
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 7,
+            "str_landed": 18,
+            "str_att": 23,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 93
+        }
+    },
+    "BJ Penn vs Caol Uno": {
+        "name": "BJ Penn vs Caol Uno",
+        "fighter1": "BJ Penn",
+        "fighter2": "Caol Uno",
+        "winner": "BJ Penn",
+        "method": "KO/TKO",
+        "time_end": "0:11",
+        "round_end": 1,
+        "fight_length": 11,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 5,
+            "sig_str_att": 6,
+            "str_landed": 5,
+            "str_att": 6,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 1,
+            "str_landed": 0,
+            "str_att": 1,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Josh Barnett vs Bobby Hoffman": {
+        "name": "Josh Barnett vs Bobby Hoffman",
+        "fighter1": "Josh Barnett",
+        "fighter2": "Bobby Hoffman",
+        "winner": "Josh Barnett",
+        "method": "KO/TKO",
+        "time_end": "4:25",
+        "round_end": 2,
+        "fight_length": 325,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 20,
+            "str_landed": 83,
+            "str_att": 88,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 328
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 14,
+            "str_landed": 21,
+            "str_att": 31,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 202
+        }
+    },
+    "Evan Tanner vs Homer Moore": {
+        "name": "Evan Tanner vs Homer Moore",
+        "fighter1": "Evan Tanner",
+        "fighter2": "Homer Moore",
+        "winner": "Evan Tanner",
+        "method": "Submission",
+        "time_end": "0:55",
+        "round_end": 2,
+        "fight_length": 115,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 4,
+            "str_landed": 6,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 4,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 8,
+            "str_landed": 12,
+            "str_att": 16,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 273
+        }
+    },
+    "Matt Lindland vs Phil Baroni": {
+        "name": "Matt Lindland vs Phil Baroni",
+        "fighter1": "Matt Lindland",
+        "fighter2": "Phil Baroni",
+        "winner": "Matt Lindland",
+        "method": "Decision - Majority",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 71,
+            "sig_str_att": 94,
+            "str_landed": 215,
+            "str_att": 242,
+            "td_comp": 4,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 623
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 32,
+            "sig_str_att": 54,
+            "str_landed": 80,
+            "str_att": 103,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 148
+        }
+    },
+    "Frank Mir vs Roberto Traven": {
+        "name": "Frank Mir vs Roberto Traven",
+        "fighter1": "Frank Mir",
+        "fighter2": "Roberto Traven",
+        "winner": "Frank Mir",
+        "method": "Submission",
+        "time_end": "1:05",
+        "round_end": 1,
+        "fight_length": 65,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 7,
+            "str_landed": 6,
+            "str_att": 11,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 37
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 2,
+            "str_landed": 1,
+            "str_att": 2,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

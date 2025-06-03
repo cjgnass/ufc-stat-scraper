@@ -1,0 +1,319 @@
+{
+    "event": "UFC 76: Knockout",
+    "date": "September 22, 2007",
+    "Keith Jardine vs Chuck Liddell": {
+        "name": "Keith Jardine vs Chuck Liddell",
+        "fighter1": "Keith Jardine",
+        "fighter2": "Chuck Liddell",
+        "winner": "Keith Jardine",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 83,
+            "sig_str_att": 176,
+            "str_landed": 83,
+            "str_att": 176,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 6
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 138,
+            "str_landed": 31,
+            "str_att": 138,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Forrest Griffin vs Mauricio Rua": {
+        "name": "Forrest Griffin vs Mauricio Rua",
+        "fighter1": "Forrest Griffin",
+        "fighter2": "Mauricio Rua",
+        "winner": "Forrest Griffin",
+        "method": "Submission",
+        "time_end": "4:45",
+        "round_end": 3,
+        "fight_length": 405,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 66,
+            "sig_str_att": 130,
+            "str_landed": 146,
+            "str_att": 214,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 3,
+            "ctrl_time": 337
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 75,
+            "str_landed": 53,
+            "str_att": 105,
+            "td_comp": 5,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 291
+        }
+    },
+    "Jon Fitch vs Diego Sanchez": {
+        "name": "Jon Fitch vs Diego Sanchez",
+        "fighter1": "Jon Fitch",
+        "fighter2": "Diego Sanchez",
+        "winner": "Jon Fitch",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 40,
+            "str_landed": 144,
+            "str_att": 178,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 580
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 18,
+            "str_landed": 25,
+            "str_att": 34,
+            "td_comp": 2,
+            "td_att": 9,
+            "sub_att": 5,
+            "ctrl_time": 216
+        }
+    },
+    "Lyoto Machida vs Kazuhiro Nakamura": {
+        "name": "Lyoto Machida vs Kazuhiro Nakamura",
+        "fighter1": "Lyoto Machida",
+        "fighter2": "Kazuhiro Nakamura",
+        "winner": "Lyoto Machida",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 70,
+            "sig_str_att": 89,
+            "str_landed": 134,
+            "str_att": 153,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 548
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 31,
+            "str_landed": 27,
+            "str_att": 44,
+            "td_comp": 2,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 107
+        }
+    },
+    "Tyson Griffin vs Thiago Tavares": {
+        "name": "Tyson Griffin vs Thiago Tavares",
+        "fighter1": "Tyson Griffin",
+        "fighter2": "Thiago Tavares",
+        "winner": "Tyson Griffin",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 66,
+            "str_landed": 89,
+            "str_att": 134,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 1,
+            "ctrl_time": 475
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 21,
+            "str_landed": 32,
+            "str_att": 49,
+            "td_comp": 4,
+            "td_att": 9,
+            "sub_att": 4,
+            "ctrl_time": 236
+        }
+    },
+    "Rich Clementi vs Anthony Johnson": {
+        "name": "Rich Clementi vs Anthony Johnson",
+        "fighter1": "Rich Clementi",
+        "fighter2": "Anthony Johnson",
+        "winner": "Rich Clementi",
+        "method": "Submission",
+        "time_end": "3:05",
+        "round_end": 2,
+        "fight_length": 245,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 24,
+            "str_landed": 43,
+            "str_att": 57,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 162
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 22,
+            "sig_str_att": 50,
+            "str_landed": 25,
+            "str_att": 54,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 3,
+            "ctrl_time": 143
+        }
+    },
+    "Jeremy Stephens vs Diego Saraiva": {
+        "name": "Jeremy Stephens vs Diego Saraiva",
+        "fighter1": "Jeremy Stephens",
+        "fighter2": "Diego Saraiva",
+        "winner": "Jeremy Stephens",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 50,
+            "sig_str_att": 90,
+            "str_landed": 109,
+            "str_att": 154,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 591
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 29,
+            "str_landed": 71,
+            "str_att": 93,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 131
+        }
+    },
+    "Christian Wellisch vs Scott Junk": {
+        "name": "Christian Wellisch vs Scott Junk",
+        "fighter1": "Christian Wellisch",
+        "fighter2": "Scott Junk",
+        "winner": "Christian Wellisch",
+        "method": "Submission",
+        "time_end": "3:19",
+        "round_end": 1,
+        "fight_length": 199,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 11,
+            "str_landed": 7,
+            "str_att": 12,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 48
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 28,
+            "str_landed": 30,
+            "str_att": 42,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 74
+        }
+    },
+    "Matt Wiman vs Michihiro Omigawa": {
+        "name": "Matt Wiman vs Michihiro Omigawa",
+        "fighter1": "Matt Wiman",
+        "fighter2": "Michihiro Omigawa",
+        "winner": "Matt Wiman",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 59,
+            "sig_str_att": 108,
+            "str_landed": 109,
+            "str_att": 167,
+            "td_comp": 4,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 686
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 64,
+            "str_landed": 78,
+            "str_att": 114,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 111
+        }
+    }
+}

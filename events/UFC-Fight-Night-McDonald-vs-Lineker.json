@@ -1,0 +1,409 @@
+{
+    "event": "UFC Fight Night: McDonald vs. Lineker",
+    "date": "July 13, 2016",
+    "Michael McDonald vs John Lineker": {
+        "name": "Michael McDonald vs John Lineker",
+        "fighter1": "Michael McDonald",
+        "fighter2": "John Lineker",
+        "winner": "John Lineker",
+        "method": "KO/TKO",
+        "time_end": "2:43",
+        "round_end": 1,
+        "fight_length": 163,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 30,
+            "str_landed": 14,
+            "str_att": 30,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 26,
+            "sig_str_att": 55,
+            "str_landed": 28,
+            "str_att": 57,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 8
+        }
+    },
+    "Tony Ferguson vs Lando Vannata": {
+        "name": "Tony Ferguson vs Lando Vannata",
+        "fighter1": "Tony Ferguson",
+        "fighter2": "Lando Vannata",
+        "winner": "Tony Ferguson",
+        "method": "Submission",
+        "time_end": "2:22",
+        "round_end": 2,
+        "fight_length": 202,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 66,
+            "sig_str_att": 119,
+            "str_landed": 69,
+            "str_att": 122,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 3,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 40,
+            "sig_str_att": 110,
+            "str_landed": 42,
+            "str_att": 112,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 70
+        }
+    },
+    "Tim Boetsch vs Josh Samman": {
+        "name": "Tim Boetsch vs Josh Samman",
+        "fighter1": "Tim Boetsch",
+        "fighter2": "Josh Samman",
+        "winner": "Tim Boetsch",
+        "method": "KO/TKO",
+        "time_end": "3:49",
+        "round_end": 2,
+        "fight_length": 289,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 58,
+            "str_landed": 98,
+            "str_att": 119,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 261
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 39,
+            "str_landed": 23,
+            "str_att": 47,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 127
+        }
+    },
+    "Aleksei Oleinik vs Daniel Omielanczuk": {
+        "name": "Aleksei Oleinik vs Daniel Omielanczuk",
+        "fighter1": "Aleksei Oleinik",
+        "fighter2": "Daniel Omielanczuk",
+        "winner": "Daniel Omielanczuk",
+        "method": "Decision - Majority",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 28,
+            "str_landed": 60,
+            "str_att": 84,
+            "td_comp": 4,
+            "td_att": 7,
+            "sub_att": 2,
+            "ctrl_time": 563
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 37,
+            "str_landed": 100,
+            "str_att": 111,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 237
+        }
+    },
+    "Kyle Noke vs Keita Nakamura": {
+        "name": "Kyle Noke vs Keita Nakamura",
+        "fighter1": "Kyle Noke",
+        "fighter2": "Keita Nakamura",
+        "winner": "Keita Nakamura",
+        "method": "Submission",
+        "time_end": "4:59",
+        "round_end": 2,
+        "fight_length": 359,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 77,
+            "str_landed": 48,
+            "str_att": 81,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 33
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 41,
+            "sig_str_att": 113,
+            "str_landed": 45,
+            "str_att": 117,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 32
+        }
+    },
+    "Louis Smolka vs Ben Nguyen": {
+        "name": "Louis Smolka vs Ben Nguyen",
+        "fighter1": "Louis Smolka",
+        "fighter2": "Ben Nguyen",
+        "winner": "Louis Smolka",
+        "method": "KO/TKO",
+        "time_end": "4:41",
+        "round_end": 2,
+        "fight_length": 341,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 82,
+            "sig_str_att": 113,
+            "str_landed": 138,
+            "str_att": 178,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 7,
+            "ctrl_time": 423
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 8,
+            "str_landed": 8,
+            "str_att": 12,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 109
+        }
+    },
+    "Lauren Murphy vs Katlyn Cerminara": {
+        "name": "Lauren Murphy vs Katlyn Cerminara",
+        "fighter1": "Lauren Murphy",
+        "fighter2": "Katlyn Cerminara",
+        "winner": "Katlyn Cerminara",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 143,
+            "str_landed": 87,
+            "str_att": 200,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 342
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 139,
+            "str_landed": 67,
+            "str_att": 162,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 7
+        }
+    },
+    "Eric Spicely vs Sam Alvey": {
+        "name": "Eric Spicely vs Sam Alvey",
+        "fighter1": "Eric Spicely",
+        "fighter2": "Sam Alvey",
+        "winner": "Sam Alvey",
+        "method": "Submission",
+        "time_end": "2:43",
+        "round_end": 1,
+        "fight_length": 163,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 9,
+            "str_landed": 8,
+            "str_att": 10,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 74
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 15,
+            "str_landed": 13,
+            "str_att": 20,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 20
+        }
+    },
+    "Cortney Casey vs Cristina Stanciu": {
+        "name": "Cortney Casey vs Cristina Stanciu",
+        "fighter1": "Cortney Casey",
+        "fighter2": "Cristina Stanciu",
+        "winner": "Cortney Casey",
+        "method": "KO/TKO",
+        "time_end": "2:36",
+        "round_end": 1,
+        "fight_length": 156,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 28,
+            "str_landed": 31,
+            "str_att": 42,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 58
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 12,
+            "str_landed": 5,
+            "str_att": 12,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Scott Holtzman vs Cody Pfister": {
+        "name": "Scott Holtzman vs Cody Pfister",
+        "fighter1": "Scott Holtzman",
+        "fighter2": "Cody Pfister",
+        "winner": "Scott Holtzman",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 53,
+            "sig_str_att": 99,
+            "str_landed": 120,
+            "str_att": 177,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 381
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 93,
+            "str_landed": 55,
+            "str_att": 124,
+            "td_comp": 1,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 212
+        }
+    },
+    "Rani Yahya vs Matthew Lopez": {
+        "name": "Rani Yahya vs Matthew Lopez",
+        "fighter1": "Rani Yahya",
+        "fighter2": "Matthew Lopez",
+        "winner": "Rani Yahya",
+        "method": "Submission",
+        "time_end": "4:19",
+        "round_end": 3,
+        "fight_length": 379,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 75,
+            "str_landed": 109,
+            "str_att": 148,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 1,
+            "ctrl_time": 459
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 34,
+            "str_landed": 26,
+            "str_att": 46,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 125
+        }
+    },
+    "Devin Clark vs Alex Nicholson": {
+        "name": "Devin Clark vs Alex Nicholson",
+        "fighter1": "Devin Clark",
+        "fighter2": "Alex Nicholson",
+        "winner": "Alex Nicholson",
+        "method": "KO/TKO",
+        "time_end": "4:57",
+        "round_end": 1,
+        "fight_length": 297,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 14,
+            "sig_str_att": 20,
+            "str_landed": 30,
+            "str_att": 37,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 165
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 18,
+            "sig_str_att": 31,
+            "str_landed": 20,
+            "str_att": 33,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    }
+}

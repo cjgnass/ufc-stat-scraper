@@ -1,0 +1,271 @@
+{
+    "event": "UFC 47: It's On!",
+    "date": "April 02, 2004",
+    "Chuck Liddell vs Tito Ortiz": {
+        "name": "Chuck Liddell vs Tito Ortiz",
+        "fighter1": "Chuck Liddell",
+        "fighter2": "Tito Ortiz",
+        "winner": "Chuck Liddell",
+        "method": "KO/TKO",
+        "time_end": "0:38",
+        "round_end": 2,
+        "fight_length": 98,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 23,
+            "sig_str_att": 65,
+            "str_landed": 23,
+            "str_att": 65,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 32,
+            "str_landed": 13,
+            "str_att": 32,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Chris Lytle vs Tiki Ghosn": {
+        "name": "Chris Lytle vs Tiki Ghosn",
+        "fighter1": "Chris Lytle",
+        "fighter2": "Tiki Ghosn",
+        "winner": "Chris Lytle",
+        "method": "Submission",
+        "time_end": "1:55",
+        "round_end": 2,
+        "fight_length": 175,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 80,
+            "str_landed": 50,
+            "str_att": 96,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 49
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 49,
+            "str_landed": 32,
+            "str_att": 54,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 27
+        }
+    },
+    "Yves Edwards vs Hermes Franca": {
+        "name": "Yves Edwards vs Hermes Franca",
+        "fighter1": "Yves Edwards",
+        "fighter2": "Hermes Franca",
+        "winner": "Yves Edwards",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 43,
+            "str_landed": 66,
+            "str_att": 92,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 291
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 44,
+            "str_landed": 63,
+            "str_att": 104,
+            "td_comp": 4,
+            "td_att": 10,
+            "sub_att": 2,
+            "ctrl_time": 227
+        }
+    },
+    "Andrei Arlovski vs Wesley Correira": {
+        "name": "Andrei Arlovski vs Wesley Correira",
+        "fighter1": "Andrei Arlovski",
+        "fighter2": "Wesley Correira",
+        "winner": "Andrei Arlovski",
+        "method": "KO/TKO",
+        "time_end": "1:15",
+        "round_end": 2,
+        "fight_length": 135,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 51,
+            "sig_str_att": 83,
+            "str_landed": 51,
+            "str_att": 83,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 6
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 29,
+            "str_landed": 4,
+            "str_att": 29,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Nick Diaz vs Robbie Lawler": {
+        "name": "Nick Diaz vs Robbie Lawler",
+        "fighter1": "Nick Diaz",
+        "fighter2": "Robbie Lawler",
+        "winner": "Nick Diaz",
+        "method": "KO/TKO",
+        "time_end": "1:31",
+        "round_end": 2,
+        "fight_length": 151,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 22,
+            "sig_str_att": 75,
+            "str_landed": 29,
+            "str_att": 83,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 49
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 64,
+            "str_landed": 18,
+            "str_att": 66,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Mike Kyle vs Wes Sims": {
+        "name": "Mike Kyle vs Wes Sims",
+        "fighter1": "Mike Kyle",
+        "fighter2": "Wes Sims",
+        "winner": "Mike Kyle",
+        "method": "KO/TKO",
+        "time_end": "4:59",
+        "round_end": 1,
+        "fight_length": 299,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 13,
+            "sig_str_att": 15,
+            "str_landed": 48,
+            "str_att": 55,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 240
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 2,
+            "str_landed": 6,
+            "str_att": 8,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 3,
+            "ctrl_time": 12
+        }
+    },
+    "Jonathan Wiezorek vs Wade Shipp": {
+        "name": "Jonathan Wiezorek vs Wade Shipp",
+        "fighter1": "Jonathan Wiezorek",
+        "fighter2": "Wade Shipp",
+        "winner": "Jonathan Wiezorek",
+        "method": "KO/TKO",
+        "time_end": "4:40",
+        "round_end": 1,
+        "fight_length": 280,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 10,
+            "str_landed": 37,
+            "str_att": 37,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 111
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 23,
+            "str_landed": 42,
+            "str_att": 48,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 44
+        }
+    },
+    "Genki Sudo vs Mike Brown": {
+        "name": "Genki Sudo vs Mike Brown",
+        "fighter1": "Genki Sudo",
+        "fighter2": "Mike Brown",
+        "winner": "Genki Sudo",
+        "method": "Submission",
+        "time_end": "3:31",
+        "round_end": 1,
+        "fight_length": 211,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 8,
+            "str_landed": 10,
+            "str_att": 12,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 4,
+            "ctrl_time": 12
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 15,
+            "str_landed": 36,
+            "str_att": 41,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 179
+        }
+    }
+}

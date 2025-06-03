@@ -1,0 +1,391 @@
+{
+    "event": "The Ultimate Fighter: Team GSP vs Team Koscheck Finale",
+    "date": "December 04, 2010",
+    "Jonathan Brookins vs Michael Johnson": {
+        "name": "Jonathan Brookins vs Michael Johnson",
+        "fighter1": "Jonathan Brookins",
+        "fighter2": "Michael Johnson",
+        "winner": "Jonathan Brookins",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 67,
+            "str_landed": 57,
+            "str_att": 95,
+            "td_comp": 3,
+            "td_att": 13,
+            "sub_att": 0,
+            "ctrl_time": 586
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 30,
+            "sig_str_att": 62,
+            "str_landed": 38,
+            "str_att": 70,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 74
+        }
+    },
+    "Stephan Bonnar vs Igor Pokrajac": {
+        "name": "Stephan Bonnar vs Igor Pokrajac",
+        "fighter1": "Stephan Bonnar",
+        "fighter2": "Igor Pokrajac",
+        "winner": "Stephan Bonnar",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            78,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 80,
+            "str_landed": 147,
+            "str_att": 199,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 718
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 55,
+            "str_landed": 40,
+            "str_att": 73,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 83
+        }
+    },
+    "Kendall Grove vs Demian Maia": {
+        "name": "Kendall Grove vs Demian Maia",
+        "fighter1": "Kendall Grove",
+        "fighter2": "Demian Maia",
+        "winner": "Demian Maia",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 68,
+            "str_landed": 50,
+            "str_att": 106,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 79,
+            "str_landed": 71,
+            "str_att": 111,
+            "td_comp": 5,
+            "td_att": 13,
+            "sub_att": 1,
+            "ctrl_time": 496
+        }
+    },
+    "Johny Hendricks vs Rick Story": {
+        "name": "Johny Hendricks vs Rick Story",
+        "fighter1": "Johny Hendricks",
+        "fighter2": "Rick Story",
+        "winner": "Rick Story",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 58,
+            "str_landed": 45,
+            "str_att": 79,
+            "td_comp": 6,
+            "td_att": 13,
+            "sub_att": 1,
+            "ctrl_time": 377
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 55,
+            "sig_str_att": 125,
+            "str_landed": 98,
+            "str_att": 170,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 171
+        }
+    },
+    "Nam Phan vs Leonard Garcia": {
+        "name": "Nam Phan vs Leonard Garcia",
+        "fighter1": "Nam Phan",
+        "fighter2": "Leonard Garcia",
+        "winner": "Leonard Garcia",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            86,
+            85
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 102,
+            "sig_str_att": 227,
+            "str_landed": 116,
+            "str_att": 241,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 161
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 64,
+            "sig_str_att": 282,
+            "str_landed": 70,
+            "str_att": 288,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 56
+        }
+    },
+    "Cody McKenzie vs Aaron Wilkinson": {
+        "name": "Cody McKenzie vs Aaron Wilkinson",
+        "fighter1": "Cody McKenzie",
+        "fighter2": "Aaron Wilkinson",
+        "winner": "Cody McKenzie",
+        "method": "Submission",
+        "time_end": "2:03",
+        "round_end": 1,
+        "fight_length": 123,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 2,
+            "str_landed": 8,
+            "str_att": 10,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 52
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 1,
+            "str_landed": 0,
+            "str_att": 1,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 64
+        }
+    },
+    "Ian Loveland vs Tyler Toner": {
+        "name": "Ian Loveland vs Tyler Toner",
+        "fighter1": "Ian Loveland",
+        "fighter2": "Tyler Toner",
+        "winner": "Ian Loveland",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 44,
+            "sig_str_att": 112,
+            "str_landed": 75,
+            "str_att": 149,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 382
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 78,
+            "str_landed": 30,
+            "str_att": 87,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Sako Chivitchian vs Kyle Watson": {
+        "name": "Sako Chivitchian vs Kyle Watson",
+        "fighter1": "Sako Chivitchian",
+        "fighter2": "Kyle Watson",
+        "winner": "Kyle Watson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 132,
+            "str_landed": 54,
+            "str_att": 153,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 178
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 72,
+            "sig_str_att": 135,
+            "str_landed": 88,
+            "str_att": 159,
+            "td_comp": 0,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 147
+        }
+    },
+    "Will Campuzano vs Nick Pace": {
+        "name": "Will Campuzano vs Nick Pace",
+        "fighter1": "Will Campuzano",
+        "fighter2": "Nick Pace",
+        "winner": "Nick Pace",
+        "method": "Submission",
+        "time_end": "4:33",
+        "round_end": 3,
+        "fight_length": 393,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 51,
+            "str_landed": 37,
+            "str_att": 74,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 194
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 44,
+            "str_landed": 57,
+            "str_att": 89,
+            "td_comp": 7,
+            "td_att": 9,
+            "sub_att": 1,
+            "ctrl_time": 485
+        }
+    },
+    "Fredson Paixao vs Pablo Garza": {
+        "name": "Fredson Paixao vs Pablo Garza",
+        "fighter1": "Fredson Paixao",
+        "fighter2": "Pablo Garza",
+        "winner": "Pablo Garza",
+        "method": "KO/TKO",
+        "time_end": "0:51",
+        "round_end": 1,
+        "fight_length": 51,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 1,
+            "str_landed": 1,
+            "str_att": 1,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 3,
+            "sig_str_att": 7,
+            "str_landed": 3,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    },
+    "Rich Attonito vs David Branch": {
+        "name": "Rich Attonito vs David Branch",
+        "fighter1": "Rich Attonito",
+        "fighter2": "David Branch",
+        "winner": "David Branch",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 15,
+            "str_landed": 17,
+            "str_att": 32,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 28
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 27,
+            "str_landed": 53,
+            "str_att": 79,
+            "td_comp": 4,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 739
+        }
+    }
+}

@@ -1,0 +1,397 @@
+{
+    "event": "UFC Fight Night: Vieira vs. Tate",
+    "date": "November 20, 2021",
+    "Ketlen Vieira vs Miesha Tate": {
+        "name": "Ketlen Vieira vs Miesha Tate",
+        "fighter1": "Ketlen Vieira",
+        "fighter2": "Miesha Tate",
+        "winner": "Ketlen Vieira",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            140,
+            145
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 113,
+            "sig_str_att": 263,
+            "str_landed": 156,
+            "str_att": 313,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 122,
+            "sig_str_att": 276,
+            "str_landed": 145,
+            "str_att": 302,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 172
+        }
+    },
+    "Michael Chiesa vs Sean Brady": {
+        "name": "Michael Chiesa vs Sean Brady",
+        "fighter1": "Michael Chiesa",
+        "fighter2": "Sean Brady",
+        "winner": "Sean Brady",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 57,
+            "str_landed": 71,
+            "str_att": 107,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 53
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 42,
+            "str_landed": 51,
+            "str_att": 80,
+            "td_comp": 5,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 465
+        }
+    },
+    "Joanne Wood vs Taila Santos": {
+        "name": "Joanne Wood vs Taila Santos",
+        "fighter1": "Joanne Wood",
+        "fighter2": "Taila Santos",
+        "winner": "Taila Santos",
+        "method": "Submission",
+        "time_end": "4:49",
+        "round_end": 1,
+        "fight_length": 289,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 68,
+            "str_landed": 30,
+            "str_att": 72,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 30,
+            "sig_str_att": 60,
+            "str_landed": 36,
+            "str_att": 67,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 77
+        }
+    },
+    "Rani Yahya vs Kyung Ho Kang": {
+        "name": "Rani Yahya vs Kyung Ho Kang",
+        "fighter1": "Rani Yahya",
+        "fighter2": "Kyung Ho Kang",
+        "winner": "Rani Yahya",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 48,
+            "str_landed": 152,
+            "str_att": 218,
+            "td_comp": 3,
+            "td_att": 8,
+            "sub_att": 1,
+            "ctrl_time": 636
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 43,
+            "sig_str_att": 82,
+            "str_landed": 103,
+            "str_att": 154,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 65
+        }
+    },
+    "Davey Grant vs Adrian Yanez": {
+        "name": "Davey Grant vs Adrian Yanez",
+        "fighter1": "Davey Grant",
+        "fighter2": "Adrian Yanez",
+        "winner": "Adrian Yanez",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            86,
+            85
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 98,
+            "sig_str_att": 273,
+            "str_landed": 98,
+            "str_att": 274,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 10
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 100,
+            "sig_str_att": 255,
+            "str_landed": 100,
+            "str_att": 255,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Pat Sabatini vs Tucker Lutz": {
+        "name": "Pat Sabatini vs Tucker Lutz",
+        "fighter1": "Pat Sabatini",
+        "fighter2": "Tucker Lutz",
+        "winner": "Pat Sabatini",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 24,
+            "str_landed": 111,
+            "str_att": 132,
+            "td_comp": 5,
+            "td_att": 11,
+            "sub_att": 3,
+            "ctrl_time": 655
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 35,
+            "str_landed": 36,
+            "str_att": 55,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 76
+        }
+    },
+    "Rafa Garcia vs Natan Levy": {
+        "name": "Rafa Garcia vs Natan Levy",
+        "fighter1": "Rafa Garcia",
+        "fighter2": "Natan Levy",
+        "winner": "Rafa Garcia",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 91,
+            "str_landed": 55,
+            "str_att": 117,
+            "td_comp": 7,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 337
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 127,
+            "str_landed": 56,
+            "str_att": 136,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 48
+        }
+    },
+    "Loma Lookboonmee vs Loopy Godinez": {
+        "name": "Loma Lookboonmee vs Loopy Godinez",
+        "fighter1": "Loma Lookboonmee",
+        "fighter2": "Loopy Godinez",
+        "winner": "Loopy Godinez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 39,
+            "str_landed": 72,
+            "str_att": 125,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 173
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 45,
+            "str_landed": 64,
+            "str_att": 98,
+            "td_comp": 5,
+            "td_att": 12,
+            "sub_att": 1,
+            "ctrl_time": 452
+        }
+    },
+    "Cody Durden vs Aoriqileng": {
+        "name": "Cody Durden vs Aoriqileng",
+        "fighter1": "Cody Durden",
+        "fighter2": "Aoriqileng",
+        "winner": "Cody Durden",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 60,
+            "sig_str_att": 133,
+            "str_landed": 80,
+            "str_att": 158,
+            "td_comp": 5,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 339
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 65,
+            "sig_str_att": 142,
+            "str_landed": 78,
+            "str_att": 161,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 77
+        }
+    },
+    "Shayilan Nuerdanbieke vs Sean Soriano": {
+        "name": "Shayilan Nuerdanbieke vs Sean Soriano",
+        "fighter1": "Shayilan Nuerdanbieke",
+        "fighter2": "Sean Soriano",
+        "winner": "Shayilan Nuerdanbieke",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 49,
+            "str_landed": 111,
+            "str_att": 190,
+            "td_comp": 4,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 445
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 56,
+            "str_landed": 49,
+            "str_att": 76,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 105
+        }
+    },
+    "Luana Pinheiro vs Sam Hughes": {
+        "name": "Luana Pinheiro vs Sam Hughes",
+        "fighter1": "Luana Pinheiro",
+        "fighter2": "Sam Hughes",
+        "winner": "Luana Pinheiro",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 60,
+            "sig_str_att": 159,
+            "str_landed": 67,
+            "str_att": 170,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 127
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 53,
+            "sig_str_att": 130,
+            "str_landed": 65,
+            "str_att": 147,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 19
+        }
+    }
+}

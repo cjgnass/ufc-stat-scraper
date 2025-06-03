@@ -1,0 +1,277 @@
+{
+    "event": "UFC 39: The Warriors Return",
+    "date": "September 27, 2002",
+    "Ricco Rodriguez vs Randy Couture": {
+        "name": "Ricco Rodriguez vs Randy Couture",
+        "fighter1": "Ricco Rodriguez",
+        "fighter2": "Randy Couture",
+        "winner": "Ricco Rodriguez",
+        "method": "KO/TKO",
+        "time_end": "3:04",
+        "round_end": 5,
+        "fight_length": 424,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 80,
+            "str_landed": 128,
+            "str_att": 172,
+            "td_comp": 4,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 665
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 78,
+            "str_landed": 75,
+            "str_att": 114,
+            "td_comp": 5,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 530
+        }
+    },
+    "Tim Sylvia vs Wesley Correira": {
+        "name": "Tim Sylvia vs Wesley Correira",
+        "fighter1": "Tim Sylvia",
+        "fighter2": "Wesley Correira",
+        "winner": "Tim Sylvia",
+        "method": "KO/TKO",
+        "time_end": "1:43",
+        "round_end": 2,
+        "fight_length": 163,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 138,
+            "sig_str_att": 214,
+            "str_landed": 155,
+            "str_att": 232,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 65,
+            "str_landed": 26,
+            "str_att": 65,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "BJ Penn vs Matt Serra": {
+        "name": "BJ Penn vs Matt Serra",
+        "fighter1": "BJ Penn",
+        "fighter2": "Matt Serra",
+        "winner": "BJ Penn",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 52,
+            "str_landed": 71,
+            "str_att": 92,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 55
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 49,
+            "str_landed": 22,
+            "str_att": 63,
+            "td_comp": 1,
+            "td_att": 17,
+            "sub_att": 1,
+            "ctrl_time": 258
+        }
+    },
+    "Caol Uno vs Din Thomas": {
+        "name": "Caol Uno vs Din Thomas",
+        "fighter1": "Caol Uno",
+        "fighter2": "Din Thomas",
+        "winner": "Caol Uno",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 56,
+            "str_landed": 85,
+            "str_att": 112,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 553
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 24,
+            "str_landed": 59,
+            "str_att": 78,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 4,
+            "ctrl_time": 210
+        }
+    },
+    "Gan McGee vs Pedro Rizzo": {
+        "name": "Gan McGee vs Pedro Rizzo",
+        "fighter1": "Gan McGee",
+        "fighter2": "Pedro Rizzo",
+        "winner": "Gan McGee",
+        "method": "KO/TKO",
+        "time_end": "5:00",
+        "round_end": 1,
+        "fight_length": 300,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 58,
+            "str_landed": 17,
+            "str_att": 58,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 11
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 28,
+            "str_landed": 14,
+            "str_att": 28,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Phil Baroni vs Dave Menne": {
+        "name": "Phil Baroni vs Dave Menne",
+        "fighter1": "Phil Baroni",
+        "fighter2": "Dave Menne",
+        "winner": "Phil Baroni",
+        "method": "KO/TKO",
+        "time_end": "0:18",
+        "round_end": 1,
+        "fight_length": 18,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 8,
+            "sig_str_att": 13,
+            "str_landed": 8,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 7,
+            "str_landed": 1,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Matt Lindland vs Ivan Salaverry": {
+        "name": "Matt Lindland vs Ivan Salaverry",
+        "fighter1": "Matt Lindland",
+        "fighter2": "Ivan Salaverry",
+        "winner": "Matt Lindland",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 63,
+            "str_landed": 85,
+            "str_att": 145,
+            "td_comp": 6,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 478
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 70,
+            "str_landed": 50,
+            "str_att": 89,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 36
+        }
+    },
+    "Sean Sherk vs Benji Radach": {
+        "name": "Sean Sherk vs Benji Radach",
+        "fighter1": "Sean Sherk",
+        "fighter2": "Benji Radach",
+        "winner": "Sean Sherk",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "4:16",
+        "round_end": 1,
+        "fight_length": 256,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 8,
+            "str_landed": 15,
+            "str_att": 17,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 188
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 18,
+            "str_landed": 36,
+            "str_att": 47,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 7
+        }
+    }
+}

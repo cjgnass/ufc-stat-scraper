@@ -1,0 +1,427 @@
+{
+    "event": "UFC 241: Cormier vs. Miocic 2",
+    "date": "August 17, 2019",
+    "Daniel Cormier vs Stipe Miocic": {
+        "name": "Daniel Cormier vs Stipe Miocic",
+        "fighter1": "Daniel Cormier",
+        "fighter2": "Stipe Miocic",
+        "winner": "Stipe Miocic",
+        "method": "KO/TKO",
+        "time_end": "4:09",
+        "round_end": 4,
+        "fight_length": 429,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 181,
+            "sig_str_att": 263,
+            "str_landed": 230,
+            "str_att": 317,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 181
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 123,
+            "sig_str_att": 229,
+            "str_landed": 135,
+            "str_att": 244,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 91
+        }
+    },
+    "Anthony Pettis vs Nate Diaz": {
+        "name": "Anthony Pettis vs Nate Diaz",
+        "fighter1": "Anthony Pettis",
+        "fighter2": "Nate Diaz",
+        "winner": "Nate Diaz",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 69,
+            "sig_str_att": 133,
+            "str_landed": 86,
+            "str_att": 153,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 109
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 114,
+            "sig_str_att": 201,
+            "str_landed": 205,
+            "str_att": 306,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 358
+        }
+    },
+    "Yoel Romero vs Paulo Costa": {
+        "name": "Yoel Romero vs Paulo Costa",
+        "fighter1": "Yoel Romero",
+        "fighter2": "Paulo Costa",
+        "winner": "Paulo Costa",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 125,
+            "sig_str_att": 284,
+            "str_landed": 125,
+            "str_att": 284,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 13
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 118,
+            "sig_str_att": 213,
+            "str_landed": 118,
+            "str_att": 213,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 6
+        }
+    },
+    "Gabriel Benitez vs Sodiq Yusuff": {
+        "name": "Gabriel Benitez vs Sodiq Yusuff",
+        "fighter1": "Gabriel Benitez",
+        "fighter2": "Sodiq Yusuff",
+        "winner": "Sodiq Yusuff",
+        "method": "KO/TKO",
+        "time_end": "4:14",
+        "round_end": 1,
+        "fight_length": 254,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 72,
+            "str_landed": 24,
+            "str_att": 72,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 34,
+            "sig_str_att": 79,
+            "str_landed": 34,
+            "str_att": 79,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 4
+        }
+    },
+    "Derek Brunson vs Ian Heinisch": {
+        "name": "Derek Brunson vs Ian Heinisch",
+        "fighter1": "Derek Brunson",
+        "fighter2": "Ian Heinisch",
+        "winner": "Derek Brunson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 81,
+            "sig_str_att": 185,
+            "str_landed": 102,
+            "str_att": 207,
+            "td_comp": 2,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 132
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 143,
+            "str_landed": 65,
+            "str_att": 150,
+            "td_comp": 0,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Devonte Smith vs Khama Worthy": {
+        "name": "Devonte Smith vs Khama Worthy",
+        "fighter1": "Devonte Smith",
+        "fighter2": "Khama Worthy",
+        "winner": "Khama Worthy",
+        "method": "KO/TKO",
+        "time_end": "4:15",
+        "round_end": 1,
+        "fight_length": 255,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 27,
+            "str_landed": 15,
+            "str_att": 27,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 21,
+            "sig_str_att": 51,
+            "str_landed": 21,
+            "str_att": 51,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Raphael Assuncao vs Cory Sandhagen": {
+        "name": "Raphael Assuncao vs Cory Sandhagen",
+        "fighter1": "Raphael Assuncao",
+        "fighter2": "Cory Sandhagen",
+        "winner": "Cory Sandhagen",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 81,
+            "str_landed": 65,
+            "str_att": 103,
+            "td_comp": 4,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 131
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 62,
+            "sig_str_att": 116,
+            "str_landed": 78,
+            "str_att": 135,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 226
+        }
+    },
+    "Christos Giagos vs Drakkar Klose": {
+        "name": "Christos Giagos vs Drakkar Klose",
+        "fighter1": "Christos Giagos",
+        "fighter2": "Drakkar Klose",
+        "winner": "Drakkar Klose",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 87,
+            "sig_str_att": 155,
+            "str_landed": 113,
+            "str_att": 186,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 199
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 99,
+            "sig_str_att": 160,
+            "str_landed": 159,
+            "str_att": 223,
+            "td_comp": 2,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 223
+        }
+    },
+    "Manny Bermudez vs Casey Kenney": {
+        "name": "Manny Bermudez vs Casey Kenney",
+        "fighter1": "Manny Bermudez",
+        "fighter2": "Casey Kenney",
+        "winner": "Casey Kenney",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 59,
+            "str_landed": 59,
+            "str_att": 83,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 370
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 43,
+            "sig_str_att": 69,
+            "str_landed": 56,
+            "str_att": 85,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 317
+        }
+    },
+    "Hannah Cifers vs Jodie Esquibel": {
+        "name": "Hannah Cifers vs Jodie Esquibel",
+        "fighter1": "Hannah Cifers",
+        "fighter2": "Jodie Esquibel",
+        "winner": "Hannah Cifers",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 70,
+            "sig_str_att": 164,
+            "str_landed": 112,
+            "str_att": 207,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 11
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 43,
+            "sig_str_att": 130,
+            "str_landed": 69,
+            "str_att": 157,
+            "td_comp": 3,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 195
+        }
+    },
+    "Kyung Ho Kang vs Brandon Davis": {
+        "name": "Kyung Ho Kang vs Brandon Davis",
+        "fighter1": "Kyung Ho Kang",
+        "fighter2": "Brandon Davis",
+        "winner": "Kyung Ho Kang",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 50,
+            "sig_str_att": 101,
+            "str_landed": 120,
+            "str_att": 180,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 381
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 77,
+            "sig_str_att": 187,
+            "str_landed": 114,
+            "str_att": 231,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 24
+        }
+    },
+    "Sabina Mazo vs Shana Dobson": {
+        "name": "Sabina Mazo vs Shana Dobson",
+        "fighter1": "Sabina Mazo",
+        "fighter2": "Shana Dobson",
+        "winner": "Sabina Mazo",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            74,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 108,
+            "sig_str_att": 171,
+            "str_landed": 170,
+            "str_att": 250,
+            "td_comp": 4,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 649
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 99,
+            "str_landed": 102,
+            "str_att": 176,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        }
+    }
+}

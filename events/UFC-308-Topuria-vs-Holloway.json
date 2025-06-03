@@ -1,0 +1,451 @@
+{
+    "event": "UFC 308: Topuria vs. Holloway",
+    "date": "October 26, 2024",
+    "Ilia Topuria vs Max Holloway": {
+        "name": "Ilia Topuria vs Max Holloway",
+        "fighter1": "Ilia Topuria",
+        "fighter2": "Max Holloway",
+        "winner": "Ilia Topuria",
+        "method": "KO/TKO",
+        "time_end": "1:34",
+        "round_end": 3,
+        "fight_length": 214,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 75,
+            "sig_str_att": 144,
+            "str_landed": 78,
+            "str_att": 147,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 45
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 79,
+            "sig_str_att": 204,
+            "str_landed": 84,
+            "str_att": 209,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Robert Whittaker vs Khamzat Chimaev": {
+        "name": "Robert Whittaker vs Khamzat Chimaev",
+        "fighter1": "Robert Whittaker",
+        "fighter2": "Khamzat Chimaev",
+        "winner": "Khamzat Chimaev",
+        "method": "Submission",
+        "time_end": "3:34",
+        "round_end": 1,
+        "fight_length": 214,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 2,
+            "str_landed": 2,
+            "str_att": 2,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 4,
+            "str_landed": 25,
+            "str_att": 31,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 200
+        }
+    },
+    "Magomed Ankalaev vs Aleksandar Rakic": {
+        "name": "Magomed Ankalaev vs Aleksandar Rakic",
+        "fighter1": "Magomed Ankalaev",
+        "fighter2": "Aleksandar Rakic",
+        "winner": "Magomed Ankalaev",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 55,
+            "sig_str_att": 114,
+            "str_landed": 75,
+            "str_att": 142,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 91
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 53,
+            "sig_str_att": 117,
+            "str_landed": 59,
+            "str_att": 123,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 60
+        }
+    },
+    "Lerone Murphy vs Dan Ige": {
+        "name": "Lerone Murphy vs Dan Ige",
+        "fighter1": "Lerone Murphy",
+        "fighter2": "Dan Ige",
+        "winner": "Lerone Murphy",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 52,
+            "sig_str_att": 100,
+            "str_landed": 78,
+            "str_att": 133,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 137
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 46,
+            "sig_str_att": 106,
+            "str_landed": 52,
+            "str_att": 116,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 287
+        }
+    },
+    "Shara Magomedov vs Armen Petrosyan": {
+        "name": "Shara Magomedov vs Armen Petrosyan",
+        "fighter1": "Shara Magomedov",
+        "fighter2": "Armen Petrosyan",
+        "winner": "Shara Magomedov",
+        "method": "KO/TKO",
+        "time_end": "4:52",
+        "round_end": 2,
+        "fight_length": 352,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 65,
+            "sig_str_att": 106,
+            "str_landed": 67,
+            "str_att": 108,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 77,
+            "sig_str_att": 140,
+            "str_landed": 77,
+            "str_att": 141,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 21
+        }
+    },
+    "Ibo Aslan vs Rafael Cerqueira": {
+        "name": "Ibo Aslan vs Rafael Cerqueira",
+        "fighter1": "Ibo Aslan",
+        "fighter2": "Rafael Cerqueira",
+        "winner": "Ibo Aslan",
+        "method": "KO/TKO",
+        "time_end": "0:51",
+        "round_end": 1,
+        "fight_length": 51,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 36,
+            "str_landed": 28,
+            "str_att": 36,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 1,
+            "str_landed": 1,
+            "str_att": 1,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Geoff Neal vs Rafael Dos Anjos": {
+        "name": "Geoff Neal vs Rafael Dos Anjos",
+        "fighter1": "Geoff Neal",
+        "fighter2": "Rafael Dos Anjos",
+        "winner": "Geoff Neal",
+        "method": "KO/TKO",
+        "time_end": "1:30",
+        "round_end": 1,
+        "fight_length": 90,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 18,
+            "sig_str_att": 30,
+            "str_landed": 21,
+            "str_att": 34,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 27
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 13,
+            "str_landed": 4,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Mateusz Rebecki vs Myktybek Orolbai": {
+        "name": "Mateusz Rebecki vs Myktybek Orolbai",
+        "fighter1": "Mateusz Rebecki",
+        "fighter2": "Myktybek Orolbai",
+        "winner": "Mateusz Rebecki",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 71,
+            "sig_str_att": 146,
+            "str_landed": 93,
+            "str_att": 174,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 144
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 61,
+            "sig_str_att": 135,
+            "str_landed": 85,
+            "str_att": 162,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 125
+        }
+    },
+    "Abus Magomedov vs Brunno Ferreira": {
+        "name": "Abus Magomedov vs Brunno Ferreira",
+        "fighter1": "Abus Magomedov",
+        "fighter2": "Brunno Ferreira",
+        "winner": "Abus Magomedov",
+        "method": "Submission",
+        "time_end": "3:14",
+        "round_end": 3,
+        "fight_length": 314,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 59,
+            "str_landed": 45,
+            "str_att": 81,
+            "td_comp": 4,
+            "td_att": 8,
+            "sub_att": 1,
+            "ctrl_time": 216
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 71,
+            "str_landed": 36,
+            "str_att": 83,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 13
+        }
+    },
+    "Kennedy Nzechukwu vs Chris Barnett": {
+        "name": "Kennedy Nzechukwu vs Chris Barnett",
+        "fighter1": "Kennedy Nzechukwu",
+        "fighter2": "Chris Barnett",
+        "winner": "Kennedy Nzechukwu",
+        "method": "KO/TKO",
+        "time_end": "4:27",
+        "round_end": 1,
+        "fight_length": 267,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 51,
+            "sig_str_att": 74,
+            "str_landed": 51,
+            "str_att": 74,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 34,
+            "str_landed": 12,
+            "str_att": 34,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Farid Basharat vs Victor Hugo": {
+        "name": "Farid Basharat vs Victor Hugo",
+        "fighter1": "Farid Basharat",
+        "fighter2": "Victor Hugo",
+        "winner": "Farid Basharat",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 60,
+            "sig_str_att": 126,
+            "str_landed": 89,
+            "str_att": 168,
+            "td_comp": 4,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 277
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 125,
+            "str_landed": 48,
+            "str_att": 128,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 18
+        }
+    },
+    "Ismail Naurdiev vs Bruno Silva": {
+        "name": "Ismail Naurdiev vs Bruno Silva",
+        "fighter1": "Ismail Naurdiev",
+        "fighter2": "Bruno Silva",
+        "winner": "Ismail Naurdiev",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 66,
+            "sig_str_att": 116,
+            "str_landed": 107,
+            "str_att": 166,
+            "td_comp": 3,
+            "td_att": 13,
+            "sub_att": 0,
+            "ctrl_time": 351
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 97,
+            "str_landed": 38,
+            "str_att": 100,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Rinat Fakhretdinov vs Carlos Leal": {
+        "name": "Rinat Fakhretdinov vs Carlos Leal",
+        "fighter1": "Rinat Fakhretdinov",
+        "fighter2": "Carlos Leal",
+        "winner": "Rinat Fakhretdinov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 109,
+            "sig_str_att": 222,
+            "str_landed": 119,
+            "str_att": 236,
+            "td_comp": 2,
+            "td_att": 19,
+            "sub_att": 0,
+            "ctrl_time": 194
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 107,
+            "sig_str_att": 246,
+            "str_landed": 146,
+            "str_att": 292,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 13
+        }
+    }
+}

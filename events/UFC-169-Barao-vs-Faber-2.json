@@ -1,0 +1,430 @@
+{
+    "event": "UFC 169: Barao vs Faber 2",
+    "date": "February 01, 2014",
+    "Renan Barao vs Urijah Faber": {
+        "name": "Renan Barao vs Urijah Faber",
+        "fighter1": "Renan Barao",
+        "fighter2": "Urijah Faber",
+        "winner": "Renan Barao",
+        "method": "KO/TKO",
+        "time_end": "3:42",
+        "round_end": 1,
+        "fight_length": 222,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 17,
+            "sig_str_att": 46,
+            "str_landed": 37,
+            "str_att": 70,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 14
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 31,
+            "str_landed": 9,
+            "str_att": 32,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Jose Aldo vs Ricardo Lamas": {
+        "name": "Jose Aldo vs Ricardo Lamas",
+        "fighter1": "Jose Aldo",
+        "fighter2": "Ricardo Lamas",
+        "winner": "Jose Aldo",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            138,
+            147
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 62,
+            "sig_str_att": 119,
+            "str_landed": 85,
+            "str_att": 143,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 311
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 146,
+            "str_landed": 63,
+            "str_att": 170,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 246
+        }
+    },
+    "Frank Mir vs Alistair Overeem": {
+        "name": "Frank Mir vs Alistair Overeem",
+        "fighter1": "Frank Mir",
+        "fighter2": "Alistair Overeem",
+        "winner": "Alistair Overeem",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 23,
+            "str_landed": 5,
+            "str_att": 26,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 29
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 62,
+            "sig_str_att": 74,
+            "str_landed": 139,
+            "str_att": 157,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 518
+        }
+    },
+    "John Lineker vs Ali Bagautinov": {
+        "name": "John Lineker vs Ali Bagautinov",
+        "fighter1": "John Lineker",
+        "fighter2": "Ali Bagautinov",
+        "winner": "Ali Bagautinov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 54,
+            "str_landed": 52,
+            "str_att": 81,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 21
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 49,
+            "sig_str_att": 92,
+            "str_landed": 86,
+            "str_att": 133,
+            "td_comp": 6,
+            "td_att": 12,
+            "sub_att": 1,
+            "ctrl_time": 441
+        }
+    },
+    "Jamie Varner vs Abel Trujillo": {
+        "name": "Jamie Varner vs Abel Trujillo",
+        "fighter1": "Jamie Varner",
+        "fighter2": "Abel Trujillo",
+        "winner": "Abel Trujillo",
+        "method": "KO/TKO",
+        "time_end": "2:32",
+        "round_end": 2,
+        "fight_length": 212,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 96,
+            "str_landed": 51,
+            "str_att": 122,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 150
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 18,
+            "sig_str_att": 79,
+            "str_landed": 27,
+            "str_att": 88,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 9
+        }
+    },
+    "John Makdessi vs Alan Patrick": {
+        "name": "John Makdessi vs Alan Patrick",
+        "fighter1": "John Makdessi",
+        "fighter2": "Alan Patrick",
+        "winner": "Alan Patrick",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 61,
+            "sig_str_att": 129,
+            "str_landed": 66,
+            "str_att": 134,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 134,
+            "str_landed": 42,
+            "str_att": 136,
+            "td_comp": 2,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 100
+        }
+    },
+    "Chris Cariaso vs Danny Martinez": {
+        "name": "Chris Cariaso vs Danny Martinez",
+        "fighter1": "Chris Cariaso",
+        "fighter2": "Danny Martinez",
+        "winner": "Chris Cariaso",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 73,
+            "sig_str_att": 203,
+            "str_landed": 85,
+            "str_att": 216,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 110,
+            "str_landed": 33,
+            "str_att": 110,
+            "td_comp": 5,
+            "td_att": 14,
+            "sub_att": 0,
+            "ctrl_time": 451
+        }
+    },
+    "Nick Catone vs Tom Watson": {
+        "name": "Nick Catone vs Tom Watson",
+        "fighter1": "Nick Catone",
+        "fighter2": "Tom Watson",
+        "winner": "Nick Catone",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 75,
+            "str_landed": 34,
+            "str_att": 78,
+            "td_comp": 5,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 251
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 50,
+            "sig_str_att": 149,
+            "str_landed": 54,
+            "str_att": 154,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 4
+        }
+    },
+    "Al Iaquinta vs Kevin Lee": {
+        "name": "Al Iaquinta vs Kevin Lee",
+        "fighter1": "Al Iaquinta",
+        "fighter2": "Kevin Lee",
+        "winner": "Al Iaquinta",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 49,
+            "sig_str_att": 122,
+            "str_landed": 50,
+            "str_att": 125,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 108
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 142,
+            "str_landed": 51,
+            "str_att": 155,
+            "td_comp": 1,
+            "td_att": 8,
+            "sub_att": 2,
+            "ctrl_time": 250
+        }
+    },
+    "Clint Hester vs Andy Enz": {
+        "name": "Clint Hester vs Andy Enz",
+        "fighter1": "Clint Hester",
+        "fighter2": "Andy Enz",
+        "winner": "Clint Hester",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 72,
+            "sig_str_att": 200,
+            "str_landed": 74,
+            "str_att": 202,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 71
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 69,
+            "sig_str_att": 225,
+            "str_landed": 69,
+            "str_att": 225,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Anthony Rocco Martin vs Rashid Magomedov": {
+        "name": "Anthony Rocco Martin vs Rashid Magomedov",
+        "fighter1": "Anthony Rocco Martin",
+        "fighter2": "Rashid Magomedov",
+        "winner": "Rashid Magomedov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 42,
+            "str_landed": 24,
+            "str_att": 50,
+            "td_comp": 1,
+            "td_att": 8,
+            "sub_att": 1,
+            "ctrl_time": 362
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 73,
+            "str_landed": 72,
+            "str_att": 100,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 128
+        }
+    },
+    "Neil Magny vs Gasan Umalatov": {
+        "name": "Neil Magny vs Gasan Umalatov",
+        "fighter1": "Neil Magny",
+        "fighter2": "Gasan Umalatov",
+        "winner": "Neil Magny",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 71,
+            "sig_str_att": 218,
+            "str_landed": 105,
+            "str_att": 259,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 163
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 76,
+            "str_landed": 38,
+            "str_att": 80,
+            "td_comp": 2,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 136
+        }
+    }
+}

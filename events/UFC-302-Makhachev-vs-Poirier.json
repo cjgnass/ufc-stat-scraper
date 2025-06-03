@@ -1,0 +1,427 @@
+{
+    "event": "UFC 302: Makhachev vs. Poirier",
+    "date": "June 01, 2024",
+    "Islam Makhachev vs Dustin Poirier": {
+        "name": "Islam Makhachev vs Dustin Poirier",
+        "fighter1": "Islam Makhachev",
+        "fighter2": "Dustin Poirier",
+        "winner": "Islam Makhachev",
+        "method": "Submission",
+        "time_end": "2:42",
+        "round_end": 5,
+        "fight_length": 402,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 88,
+            "sig_str_att": 156,
+            "str_landed": 147,
+            "str_att": 222,
+            "td_comp": 5,
+            "td_att": 16,
+            "sub_att": 2,
+            "ctrl_time": 623
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 74,
+            "sig_str_att": 183,
+            "str_landed": 104,
+            "str_att": 218,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 30
+        }
+    },
+    "Sean Strickland vs Paulo Costa": {
+        "name": "Sean Strickland vs Paulo Costa",
+        "fighter1": "Sean Strickland",
+        "fighter2": "Paulo Costa",
+        "winner": "Sean Strickland",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            140,
+            145
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 182,
+            "sig_str_att": 402,
+            "str_landed": 182,
+            "str_att": 402,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 158,
+            "sig_str_att": 266,
+            "str_landed": 158,
+            "str_att": 266,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Kevin Holland vs Michal Oleksiejczuk": {
+        "name": "Kevin Holland vs Michal Oleksiejczuk",
+        "fighter1": "Kevin Holland",
+        "fighter2": "Michal Oleksiejczuk",
+        "winner": "Kevin Holland",
+        "method": "Submission",
+        "time_end": "1:34",
+        "round_end": 1,
+        "fight_length": 94,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 17,
+            "str_landed": 8,
+            "str_att": 17,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 16
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 18,
+            "str_landed": 9,
+            "str_att": 19,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 31
+        }
+    },
+    "Niko Price vs Alex Morono": {
+        "name": "Niko Price vs Alex Morono",
+        "fighter1": "Niko Price",
+        "fighter2": "Alex Morono",
+        "winner": "Niko Price",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 108,
+            "sig_str_att": 224,
+            "str_landed": 138,
+            "str_att": 259,
+            "td_comp": 5,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 217
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 96,
+            "sig_str_att": 210,
+            "str_landed": 111,
+            "str_att": 225,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 56
+        }
+    },
+    "Randy Brown vs Elizeu Zaleski dos Santos": {
+        "name": "Randy Brown vs Elizeu Zaleski dos Santos",
+        "fighter1": "Randy Brown",
+        "fighter2": "Elizeu Zaleski dos Santos",
+        "winner": "Randy Brown",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 67,
+            "sig_str_att": 141,
+            "str_landed": 89,
+            "str_att": 166,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 42
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 76,
+            "str_landed": 42,
+            "str_att": 94,
+            "td_comp": 4,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 333
+        }
+    },
+    "Cesar Almeida vs Roman Kopylov": {
+        "name": "Cesar Almeida vs Roman Kopylov",
+        "fighter1": "Cesar Almeida",
+        "fighter2": "Roman Kopylov",
+        "winner": "Roman Kopylov",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 105,
+            "str_landed": 114,
+            "str_att": 162,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 41,
+            "sig_str_att": 71,
+            "str_landed": 74,
+            "str_att": 114,
+            "td_comp": 5,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 519
+        }
+    },
+    "Jailton Almeida vs Alexandr Romanov": {
+        "name": "Jailton Almeida vs Alexandr Romanov",
+        "fighter1": "Jailton Almeida",
+        "fighter2": "Alexandr Romanov",
+        "winner": "Jailton Almeida",
+        "method": "Submission",
+        "time_end": "2:27",
+        "round_end": 1,
+        "fight_length": 147,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 2,
+            "str_landed": 2,
+            "str_att": 3,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 127
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 1,
+            "str_landed": 1,
+            "str_att": 1,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Grant Dawson vs Joe Solecki": {
+        "name": "Grant Dawson vs Joe Solecki",
+        "fighter1": "Grant Dawson",
+        "fighter2": "Joe Solecki",
+        "winner": "Grant Dawson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 70,
+            "str_landed": 146,
+            "str_att": 190,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 826
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 19,
+            "str_landed": 27,
+            "str_att": 35,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 14
+        }
+    },
+    "Phil Rowe vs Jake Matthews": {
+        "name": "Phil Rowe vs Jake Matthews",
+        "fighter1": "Phil Rowe",
+        "fighter2": "Jake Matthews",
+        "winner": "Jake Matthews",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 104,
+            "str_landed": 40,
+            "str_att": 111,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 110
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 66,
+            "sig_str_att": 164,
+            "str_landed": 89,
+            "str_att": 188,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 184
+        }
+    },
+    "Mickey Gall vs Bassil Hafez": {
+        "name": "Mickey Gall vs Bassil Hafez",
+        "fighter1": "Mickey Gall",
+        "fighter2": "Bassil Hafez",
+        "winner": "Bassil Hafez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 83,
+            "sig_str_att": 143,
+            "str_landed": 93,
+            "str_att": 153,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 8
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 95,
+            "sig_str_att": 201,
+            "str_landed": 101,
+            "str_att": 210,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 72
+        }
+    },
+    "Ailin Perez vs Joselyne Edwards": {
+        "name": "Ailin Perez vs Joselyne Edwards",
+        "fighter1": "Ailin Perez",
+        "fighter2": "Joselyne Edwards",
+        "winner": "Ailin Perez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 42,
+            "sig_str_att": 62,
+            "str_landed": 68,
+            "str_att": 91,
+            "td_comp": 6,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 258
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 64,
+            "str_landed": 130,
+            "str_att": 179,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 311
+        }
+    },
+    "Mitch Raposo vs Andre Lima": {
+        "name": "Mitch Raposo vs Andre Lima",
+        "fighter1": "Mitch Raposo",
+        "fighter2": "Andre Lima",
+        "winner": "Andre Lima",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 76,
+            "str_landed": 32,
+            "str_att": 76,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 9
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 51,
+            "sig_str_att": 100,
+            "str_landed": 52,
+            "str_att": 101,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 9
+        }
+    }
+}

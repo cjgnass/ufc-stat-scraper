@@ -1,0 +1,343 @@
+{
+    "event": "UFC 184: Rousey vs Zingano",
+    "date": "February 28, 2015",
+    "Ronda Rousey vs Cat Zingano": {
+        "name": "Ronda Rousey vs Cat Zingano",
+        "fighter1": "Ronda Rousey",
+        "fighter2": "Cat Zingano",
+        "winner": "Ronda Rousey",
+        "method": "Submission",
+        "time_end": "0:14",
+        "round_end": 1,
+        "fight_length": 14,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 0,
+            "str_landed": 0,
+            "str_att": 0,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 1,
+            "str_landed": 0,
+            "str_att": 1,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    },
+    "Raquel Pennington vs Holly Holm": {
+        "name": "Raquel Pennington vs Holly Holm",
+        "fighter1": "Raquel Pennington",
+        "fighter2": "Holly Holm",
+        "winner": "Holly Holm",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 139,
+            "str_landed": 51,
+            "str_att": 150,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 15
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 210,
+            "str_landed": 48,
+            "str_att": 214,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    },
+    "Jake Ellenberger vs Josh Koscheck": {
+        "name": "Jake Ellenberger vs Josh Koscheck",
+        "fighter1": "Jake Ellenberger",
+        "fighter2": "Josh Koscheck",
+        "winner": "Jake Ellenberger",
+        "method": "Submission",
+        "time_end": "4:20",
+        "round_end": 2,
+        "fight_length": 320,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 52,
+            "str_landed": 26,
+            "str_att": 64,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 22
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 40,
+            "str_landed": 21,
+            "str_att": 55,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 212
+        }
+    },
+    "Alan Jouban vs Richard Walsh": {
+        "name": "Alan Jouban vs Richard Walsh",
+        "fighter1": "Alan Jouban",
+        "fighter2": "Richard Walsh",
+        "winner": "Alan Jouban",
+        "method": "KO/TKO",
+        "time_end": "2:19",
+        "round_end": 1,
+        "fight_length": 139,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 25,
+            "str_landed": 12,
+            "str_att": 25,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 20,
+            "str_landed": 14,
+            "str_att": 25,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 17
+        }
+    },
+    "Tony Ferguson vs Gleison Tibau": {
+        "name": "Tony Ferguson vs Gleison Tibau",
+        "fighter1": "Tony Ferguson",
+        "fighter2": "Gleison Tibau",
+        "winner": "Tony Ferguson",
+        "method": "Submission",
+        "time_end": "2:37",
+        "round_end": 1,
+        "fight_length": 157,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 38,
+            "str_landed": 17,
+            "str_att": 45,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 45
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 20,
+            "str_landed": 2,
+            "str_att": 20,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Mark Munoz vs Roan Carneiro": {
+        "name": "Mark Munoz vs Roan Carneiro",
+        "fighter1": "Mark Munoz",
+        "fighter2": "Roan Carneiro",
+        "winner": "Roan Carneiro",
+        "method": "Submission",
+        "time_end": "1:40",
+        "round_end": 1,
+        "fight_length": 100,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 1,
+            "str_landed": 0,
+            "str_att": 1,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 3,
+            "str_landed": 2,
+            "str_att": 4,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 53
+        }
+    },
+    "Dhiego Lima vs Tim Means": {
+        "name": "Dhiego Lima vs Tim Means",
+        "fighter1": "Dhiego Lima",
+        "fighter2": "Tim Means",
+        "winner": "Tim Means",
+        "method": "KO/TKO",
+        "time_end": "2:17",
+        "round_end": 1,
+        "fight_length": 137,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 24,
+            "str_landed": 7,
+            "str_att": 24,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 23,
+            "sig_str_att": 42,
+            "str_landed": 25,
+            "str_att": 47,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 22
+        }
+    },
+    "Derrick Lewis vs Ruan Potts": {
+        "name": "Derrick Lewis vs Ruan Potts",
+        "fighter1": "Derrick Lewis",
+        "fighter2": "Ruan Potts",
+        "winner": "Derrick Lewis",
+        "method": "KO/TKO",
+        "time_end": "3:18",
+        "round_end": 2,
+        "fight_length": 258,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 53,
+            "sig_str_att": 82,
+            "str_landed": 60,
+            "str_att": 91,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 248
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 13,
+            "str_landed": 31,
+            "str_att": 40,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 100
+        }
+    },
+    "James Krause vs Valmir Lazaro": {
+        "name": "James Krause vs Valmir Lazaro",
+        "fighter1": "James Krause",
+        "fighter2": "Valmir Lazaro",
+        "winner": "Valmir Lazaro",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 87,
+            "sig_str_att": 209,
+            "str_landed": 98,
+            "str_att": 221,
+            "td_comp": 0,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 102
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 87,
+            "sig_str_att": 254,
+            "str_landed": 87,
+            "str_att": 254,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 24
+        }
+    },
+    "Masio Fullen vs Alex Torres": {
+        "name": "Masio Fullen vs Alex Torres",
+        "fighter1": "Masio Fullen",
+        "fighter2": "Alex Torres",
+        "winner": "Masio Fullen",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 134,
+            "str_landed": 61,
+            "str_att": 158,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 98
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 99,
+            "str_landed": 40,
+            "str_att": 102,
+            "td_comp": 2,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 195
+        }
+    }
+}

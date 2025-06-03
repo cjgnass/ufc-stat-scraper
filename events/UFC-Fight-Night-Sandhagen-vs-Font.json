@@ -1,0 +1,421 @@
+{
+    "event": "UFC Fight Night: Sandhagen vs. Font",
+    "date": "August 05, 2023",
+    "Cory Sandhagen vs Rob Font": {
+        "name": "Cory Sandhagen vs Rob Font",
+        "fighter1": "Cory Sandhagen",
+        "fighter2": "Rob Font",
+        "winner": "Cory Sandhagen",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            135,
+            150
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 84,
+            "str_landed": 132,
+            "str_att": 211,
+            "td_comp": 7,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 1178
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 49,
+            "str_landed": 25,
+            "str_att": 69,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 68
+        }
+    },
+    "Jessica Andrade vs Tatiana Suarez": {
+        "name": "Jessica Andrade vs Tatiana Suarez",
+        "fighter1": "Jessica Andrade",
+        "fighter2": "Tatiana Suarez",
+        "winner": "Tatiana Suarez",
+        "method": "Submission",
+        "time_end": "1:31",
+        "round_end": 2,
+        "fight_length": 151,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 29,
+            "str_landed": 13,
+            "str_att": 31,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 17
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 49,
+            "str_landed": 25,
+            "str_att": 51,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 142
+        }
+    },
+    "Dustin Jacoby vs Kennedy Nzechukwu": {
+        "name": "Dustin Jacoby vs Kennedy Nzechukwu",
+        "fighter1": "Dustin Jacoby",
+        "fighter2": "Kennedy Nzechukwu",
+        "winner": "Dustin Jacoby",
+        "method": "KO/TKO",
+        "time_end": "1:22",
+        "round_end": 1,
+        "fight_length": 82,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 10,
+            "sig_str_att": 33,
+            "str_landed": 10,
+            "str_att": 33,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 4
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 18,
+            "str_landed": 4,
+            "str_att": 18,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Diego Lopes vs Gavin Tucker": {
+        "name": "Diego Lopes vs Gavin Tucker",
+        "fighter1": "Diego Lopes",
+        "fighter2": "Gavin Tucker",
+        "winner": "Diego Lopes",
+        "method": "Submission",
+        "time_end": "1:38",
+        "round_end": 1,
+        "fight_length": 98,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 4,
+            "str_landed": 0,
+            "str_att": 4,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 3,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 6,
+            "str_landed": 0,
+            "str_att": 6,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 39
+        }
+    },
+    "Tanner Boser vs Aleksa Camur": {
+        "name": "Tanner Boser vs Aleksa Camur",
+        "fighter1": "Tanner Boser",
+        "fighter2": "Aleksa Camur",
+        "winner": "Tanner Boser",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 120,
+            "sig_str_att": 215,
+            "str_landed": 145,
+            "str_att": 253,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 327
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 68,
+            "sig_str_att": 136,
+            "str_landed": 105,
+            "str_att": 175,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 61
+        }
+    },
+    "Ignacio Bahamondes vs Ludovit Klein": {
+        "name": "Ignacio Bahamondes vs Ludovit Klein",
+        "fighter1": "Ignacio Bahamondes",
+        "fighter2": "Ludovit Klein",
+        "winner": "Ludovit Klein",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 43,
+            "sig_str_att": 139,
+            "str_landed": 62,
+            "str_att": 166,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 7
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 56,
+            "sig_str_att": 108,
+            "str_landed": 94,
+            "str_att": 151,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 365
+        }
+    },
+    "Kyler Phillips vs Raoni Barcelos": {
+        "name": "Kyler Phillips vs Raoni Barcelos",
+        "fighter1": "Kyler Phillips",
+        "fighter2": "Raoni Barcelos",
+        "winner": "Kyler Phillips",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 72,
+            "sig_str_att": 187,
+            "str_landed": 80,
+            "str_att": 196,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 47
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 116,
+            "str_landed": 52,
+            "str_att": 124,
+            "td_comp": 3,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 102
+        }
+    },
+    "Jeremiah Wells vs Carlston Harris": {
+        "name": "Jeremiah Wells vs Carlston Harris",
+        "fighter1": "Jeremiah Wells",
+        "fighter2": "Carlston Harris",
+        "winner": "Carlston Harris",
+        "method": "Submission",
+        "time_end": "1:50",
+        "round_end": 3,
+        "fight_length": 230,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 48,
+            "str_landed": 41,
+            "str_att": 78,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 2,
+            "ctrl_time": 566
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 19,
+            "str_landed": 19,
+            "str_att": 36,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 13
+        }
+    },
+    "Billy Quarantillo vs Damon Jackson": {
+        "name": "Billy Quarantillo vs Damon Jackson",
+        "fighter1": "Billy Quarantillo",
+        "fighter2": "Damon Jackson",
+        "winner": "Billy Quarantillo",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 100,
+            "sig_str_att": 188,
+            "str_landed": 169,
+            "str_att": 270,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 111
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 67,
+            "sig_str_att": 173,
+            "str_landed": 75,
+            "str_att": 184,
+            "td_comp": 3,
+            "td_att": 13,
+            "sub_att": 0,
+            "ctrl_time": 370
+        }
+    },
+    "Cody Durden vs Jake Hadley": {
+        "name": "Cody Durden vs Jake Hadley",
+        "fighter1": "Cody Durden",
+        "fighter2": "Jake Hadley",
+        "winner": "Cody Durden",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 85,
+            "str_landed": 63,
+            "str_att": 122,
+            "td_comp": 4,
+            "td_att": 6,
+            "sub_att": 1,
+            "ctrl_time": 445
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 83,
+            "str_landed": 45,
+            "str_att": 106,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 3,
+            "ctrl_time": 124
+        }
+    },
+    "Sean Woodson vs Dennis Buzukja": {
+        "name": "Sean Woodson vs Dennis Buzukja",
+        "fighter1": "Sean Woodson",
+        "fighter2": "Dennis Buzukja",
+        "winner": "Sean Woodson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 71,
+            "sig_str_att": 126,
+            "str_landed": 163,
+            "str_att": 229,
+            "td_comp": 4,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 352
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 116,
+            "str_landed": 46,
+            "str_att": 121,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 150
+        }
+    },
+    "Ode Osbourne vs Asu Almabayev": {
+        "name": "Ode Osbourne vs Asu Almabayev",
+        "fighter1": "Ode Osbourne",
+        "fighter2": "Asu Almabayev",
+        "winner": "Asu Almabayev",
+        "method": "Submission",
+        "time_end": "3:11",
+        "round_end": 2,
+        "fight_length": 251,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 18,
+            "str_landed": 8,
+            "str_att": 22,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 21
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 40,
+            "str_landed": 52,
+            "str_att": 78,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 2,
+            "ctrl_time": 324
+        }
+    }
+}

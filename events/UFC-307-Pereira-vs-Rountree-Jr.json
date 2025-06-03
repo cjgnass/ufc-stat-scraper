@@ -1,0 +1,421 @@
+{
+    "event": "UFC 307: Pereira vs. Rountree Jr.",
+    "date": "October 05, 2024",
+    "Alex Pereira vs Khalil Rountree Jr.": {
+        "name": "Alex Pereira vs Khalil Rountree Jr.",
+        "fighter1": "Alex Pereira",
+        "fighter2": "Khalil Rountree Jr.",
+        "winner": "Alex Pereira",
+        "method": "KO/TKO",
+        "time_end": "4:32",
+        "round_end": 4,
+        "fight_length": 452,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 127,
+            "sig_str_att": 209,
+            "str_landed": 129,
+            "str_att": 211,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 61,
+            "sig_str_att": 191,
+            "str_landed": 62,
+            "str_att": 193,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Raquel Pennington vs Julianna Pena": {
+        "name": "Raquel Pennington vs Julianna Pena",
+        "fighter1": "Raquel Pennington",
+        "fighter2": "Julianna Pena",
+        "winner": "Julianna Pena",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            142,
+            143
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 92,
+            "sig_str_att": 317,
+            "str_landed": 112,
+            "str_att": 345,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 33
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 92,
+            "sig_str_att": 260,
+            "str_landed": 123,
+            "str_att": 308,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 340
+        }
+    },
+    "Jose Aldo vs Mario Bautista": {
+        "name": "Jose Aldo vs Mario Bautista",
+        "fighter1": "Jose Aldo",
+        "fighter2": "Mario Bautista",
+        "winner": "Mario Bautista",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 51,
+            "sig_str_att": 117,
+            "str_landed": 65,
+            "str_att": 139,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 49,
+            "sig_str_att": 142,
+            "str_landed": 90,
+            "str_att": 196,
+            "td_comp": 0,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 435
+        }
+    },
+    "Roman Dolidze vs Kevin Holland": {
+        "name": "Roman Dolidze vs Kevin Holland",
+        "fighter1": "Roman Dolidze",
+        "fighter2": "Kevin Holland",
+        "winner": "Roman Dolidze",
+        "method": "KO/TKO",
+        "time_end": "5:00",
+        "round_end": 1,
+        "fight_length": 300,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 33,
+            "str_landed": 57,
+            "str_att": 101,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 170
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 28,
+            "str_landed": 36,
+            "str_att": 46,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Ketlen Vieira vs Kayla Harrison": {
+        "name": "Ketlen Vieira vs Kayla Harrison",
+        "fighter1": "Ketlen Vieira",
+        "fighter2": "Kayla Harrison",
+        "winner": "Kayla Harrison",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 61,
+            "str_landed": 67,
+            "str_att": 108,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 55,
+            "sig_str_att": 94,
+            "str_landed": 98,
+            "str_att": 149,
+            "td_comp": 2,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 474
+        }
+    },
+    "Stephen Thompson vs Joaquin Buckley": {
+        "name": "Stephen Thompson vs Joaquin Buckley",
+        "fighter1": "Stephen Thompson",
+        "fighter2": "Joaquin Buckley",
+        "winner": "Joaquin Buckley",
+        "method": "KO/TKO",
+        "time_end": "2:17",
+        "round_end": 3,
+        "fight_length": 257,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 49,
+            "sig_str_att": 106,
+            "str_landed": 63,
+            "str_att": 121,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 34,
+            "sig_str_att": 93,
+            "str_landed": 55,
+            "str_att": 117,
+            "td_comp": 4,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 253
+        }
+    },
+    "Marina Rodriguez vs Iasmin Lucindo": {
+        "name": "Marina Rodriguez vs Iasmin Lucindo",
+        "fighter1": "Marina Rodriguez",
+        "fighter2": "Iasmin Lucindo",
+        "winner": "Iasmin Lucindo",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 99,
+            "str_landed": 65,
+            "str_att": 134,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 11
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 30,
+            "sig_str_att": 73,
+            "str_landed": 55,
+            "str_att": 104,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 280
+        }
+    },
+    "Austin Hubbard vs Alexander Hernandez": {
+        "name": "Austin Hubbard vs Alexander Hernandez",
+        "fighter1": "Austin Hubbard",
+        "fighter2": "Alexander Hernandez",
+        "winner": "Alexander Hernandez",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            86,
+            85
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 63,
+            "sig_str_att": 191,
+            "str_landed": 65,
+            "str_att": 193,
+            "td_comp": 0,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 79,
+            "sig_str_att": 204,
+            "str_landed": 91,
+            "str_att": 217,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 40
+        }
+    },
+    "Cesar Almeida vs Ihor Potieria": {
+        "name": "Cesar Almeida vs Ihor Potieria",
+        "fighter1": "Cesar Almeida",
+        "fighter2": "Ihor Potieria",
+        "winner": "Cesar Almeida",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 57,
+            "sig_str_att": 113,
+            "str_landed": 78,
+            "str_att": 137,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 135
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 89,
+            "str_landed": 57,
+            "str_att": 102,
+            "td_comp": 3,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 212
+        }
+    },
+    "Ryan Spann vs Ovince Saint Preux": {
+        "name": "Ryan Spann vs Ovince Saint Preux",
+        "fighter1": "Ryan Spann",
+        "fighter2": "Ovince Saint Preux",
+        "winner": "Ryan Spann",
+        "method": "Submission",
+        "time_end": "1:35",
+        "round_end": 1,
+        "fight_length": 95,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 20,
+            "str_landed": 9,
+            "str_att": 20,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 10,
+            "str_landed": 7,
+            "str_att": 10,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    },
+    "Carla Esparza vs Tecia Pennington": {
+        "name": "Carla Esparza vs Tecia Pennington",
+        "fighter1": "Carla Esparza",
+        "fighter2": "Tecia Pennington",
+        "winner": "Tecia Pennington",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 123,
+            "str_landed": 116,
+            "str_att": 215,
+            "td_comp": 4,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 220
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 80,
+            "sig_str_att": 150,
+            "str_landed": 94,
+            "str_att": 166,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Court McGee vs Tim Means": {
+        "name": "Court McGee vs Tim Means",
+        "fighter1": "Court McGee",
+        "fighter2": "Tim Means",
+        "winner": "Court McGee",
+        "method": "Submission",
+        "time_end": "3:19",
+        "round_end": 1,
+        "fight_length": 199,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 24,
+            "str_landed": 19,
+            "str_att": 35,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 118
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 13,
+            "str_landed": 12,
+            "str_att": 20,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

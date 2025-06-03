@@ -1,0 +1,424 @@
+{
+    "event": "UFC 145: Jones vs Evans",
+    "date": "April 21, 2012",
+    "Jon Jones vs Rashad Evans": {
+        "name": "Jon Jones vs Rashad Evans",
+        "fighter1": "Jon Jones",
+        "fighter2": "Rashad Evans",
+        "winner": "Jon Jones",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            137,
+            148
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 105,
+            "sig_str_att": 214,
+            "str_landed": 116,
+            "str_att": 228,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 60
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 151,
+            "str_landed": 49,
+            "str_att": 155,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 9
+        }
+    },
+    "Rory MacDonald vs Che Mills": {
+        "name": "Rory MacDonald vs Che Mills",
+        "fighter1": "Rory MacDonald",
+        "fighter2": "Che Mills",
+        "winner": "Rory MacDonald",
+        "method": "KO/TKO",
+        "time_end": "2:20",
+        "round_end": 2,
+        "fight_length": 200,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 69,
+            "str_landed": 75,
+            "str_att": 99,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 351
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 22,
+            "str_landed": 21,
+            "str_att": 38,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 16
+        }
+    },
+    "Brendan Schaub vs Ben Rothwell": {
+        "name": "Brendan Schaub vs Ben Rothwell",
+        "fighter1": "Brendan Schaub",
+        "fighter2": "Ben Rothwell",
+        "winner": "Ben Rothwell",
+        "method": "KO/TKO",
+        "time_end": "1:10",
+        "round_end": 1,
+        "fight_length": 70,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 17,
+            "str_landed": 9,
+            "str_att": 17,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 8
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 8,
+            "sig_str_att": 17,
+            "str_landed": 8,
+            "str_att": 18,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Miguel Torres vs Michael McDonald": {
+        "name": "Miguel Torres vs Michael McDonald",
+        "fighter1": "Miguel Torres",
+        "fighter2": "Michael McDonald",
+        "winner": "Michael McDonald",
+        "method": "KO/TKO",
+        "time_end": "3:18",
+        "round_end": 1,
+        "fight_length": 198,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 29,
+            "str_landed": 8,
+            "str_att": 29,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 16,
+            "sig_str_att": 59,
+            "str_landed": 16,
+            "str_att": 59,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Mark Hominick vs Eddie Yagin": {
+        "name": "Mark Hominick vs Eddie Yagin",
+        "fighter1": "Mark Hominick",
+        "fighter2": "Eddie Yagin",
+        "winner": "Eddie Yagin",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 110,
+            "sig_str_att": 210,
+            "str_landed": 116,
+            "str_att": 217,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 84,
+            "sig_str_att": 284,
+            "str_landed": 100,
+            "str_att": 301,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 88
+        }
+    },
+    "Mark Bocek vs John Alessio": {
+        "name": "Mark Bocek vs John Alessio",
+        "fighter1": "Mark Bocek",
+        "fighter2": "John Alessio",
+        "winner": "Mark Bocek",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 74,
+            "sig_str_att": 107,
+            "str_landed": 117,
+            "str_att": 153,
+            "td_comp": 5,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 584
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 87,
+            "str_landed": 82,
+            "str_att": 140,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 12
+        }
+    },
+    "Travis Browne vs Chad Griggs": {
+        "name": "Travis Browne vs Chad Griggs",
+        "fighter1": "Travis Browne",
+        "fighter2": "Chad Griggs",
+        "winner": "Travis Browne",
+        "method": "Submission",
+        "time_end": "2:29",
+        "round_end": 1,
+        "fight_length": 149,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 8,
+            "str_landed": 7,
+            "str_att": 11,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 94
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 3,
+            "str_landed": 6,
+            "str_att": 10,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Matt Brown vs Stephen Thompson": {
+        "name": "Matt Brown vs Stephen Thompson",
+        "fighter1": "Matt Brown",
+        "fighter2": "Stephen Thompson",
+        "winner": "Matt Brown",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 77,
+            "str_landed": 91,
+            "str_att": 148,
+            "td_comp": 5,
+            "td_att": 13,
+            "sub_att": 1,
+            "ctrl_time": 485
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 67,
+            "sig_str_att": 133,
+            "str_landed": 78,
+            "str_att": 146,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 48
+        }
+    },
+    "John Makdessi vs Anthony Njokuani": {
+        "name": "John Makdessi vs Anthony Njokuani",
+        "fighter1": "John Makdessi",
+        "fighter2": "Anthony Njokuani",
+        "winner": "Anthony Njokuani",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 116,
+            "str_landed": 45,
+            "str_att": 124,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 73,
+            "sig_str_att": 152,
+            "str_landed": 75,
+            "str_att": 154,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Mac Danzig vs Efrain Escudero": {
+        "name": "Mac Danzig vs Efrain Escudero",
+        "fighter1": "Mac Danzig",
+        "fighter2": "Efrain Escudero",
+        "winner": "Mac Danzig",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 67,
+            "sig_str_att": 119,
+            "str_landed": 130,
+            "str_att": 190,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 334
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 56,
+            "sig_str_att": 133,
+            "str_landed": 107,
+            "str_att": 186,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 60
+        }
+    },
+    "Keith Wisniewski vs Chris Clements": {
+        "name": "Keith Wisniewski vs Chris Clements",
+        "fighter1": "Keith Wisniewski",
+        "fighter2": "Chris Clements",
+        "winner": "Chris Clements",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 46,
+            "str_landed": 44,
+            "str_att": 65,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 1,
+            "ctrl_time": 350
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 68,
+            "sig_str_att": 123,
+            "str_landed": 86,
+            "str_att": 144,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 94
+        }
+    },
+    "Marcus Brimage vs Maximo Blanco": {
+        "name": "Marcus Brimage vs Maximo Blanco",
+        "fighter1": "Marcus Brimage",
+        "fighter2": "Maximo Blanco",
+        "winner": "Marcus Brimage",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 136,
+            "str_landed": 24,
+            "str_att": 136,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 78,
+            "str_landed": 18,
+            "str_att": 78,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    }
+}

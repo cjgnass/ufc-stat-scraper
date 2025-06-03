@@ -1,0 +1,307 @@
+{
+    "event": "UFC on FOX: Shogun vs Vera",
+    "date": "August 04, 2012",
+    "Mauricio Rua vs Brandon Vera": {
+        "name": "Mauricio Rua vs Brandon Vera",
+        "fighter1": "Mauricio Rua",
+        "fighter2": "Brandon Vera",
+        "winner": "Mauricio Rua",
+        "method": "KO/TKO",
+        "time_end": "4:09",
+        "round_end": 4,
+        "fight_length": 429,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 68,
+            "sig_str_att": 103,
+            "str_landed": 142,
+            "str_att": 184,
+            "td_comp": 4,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 686
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 67,
+            "sig_str_att": 106,
+            "str_landed": 89,
+            "str_att": 132,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 111
+        }
+    },
+    "Lyoto Machida vs Ryan Bader": {
+        "name": "Lyoto Machida vs Ryan Bader",
+        "fighter1": "Lyoto Machida",
+        "fighter2": "Ryan Bader",
+        "winner": "Lyoto Machida",
+        "method": "KO/TKO",
+        "time_end": "1:32",
+        "round_end": 2,
+        "fight_length": 152,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 21,
+            "sig_str_att": 31,
+            "str_landed": 21,
+            "str_att": 31,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 32,
+            "str_landed": 7,
+            "str_att": 32,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Joe Lauzon vs Jamie Varner": {
+        "name": "Joe Lauzon vs Jamie Varner",
+        "fighter1": "Joe Lauzon",
+        "fighter2": "Jamie Varner",
+        "winner": "Joe Lauzon",
+        "method": "Submission",
+        "time_end": "2:44",
+        "round_end": 3,
+        "fight_length": 284,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 118,
+            "str_landed": 55,
+            "str_att": 130,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 131
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 82,
+            "sig_str_att": 177,
+            "str_landed": 84,
+            "str_att": 181,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 101
+        }
+    },
+    "Mike Swick vs DaMarques Johnson": {
+        "name": "Mike Swick vs DaMarques Johnson",
+        "fighter1": "Mike Swick",
+        "fighter2": "DaMarques Johnson",
+        "winner": "Mike Swick",
+        "method": "KO/TKO",
+        "time_end": "1:20",
+        "round_end": 2,
+        "fight_length": 140,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 41,
+            "str_landed": 27,
+            "str_att": 51,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 13
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 53,
+            "str_landed": 28,
+            "str_att": 67,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 203
+        }
+    },
+    "Cole Miller vs Nam Phan": {
+        "name": "Cole Miller vs Nam Phan",
+        "fighter1": "Cole Miller",
+        "fighter2": "Nam Phan",
+        "winner": "Nam Phan",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 143,
+            "sig_str_att": 422,
+            "str_landed": 143,
+            "str_att": 422,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 129,
+            "sig_str_att": 366,
+            "str_landed": 129,
+            "str_att": 366,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Josh Grispi vs Rani Yahya": {
+        "name": "Josh Grispi vs Rani Yahya",
+        "fighter1": "Josh Grispi",
+        "fighter2": "Rani Yahya",
+        "winner": "Rani Yahya",
+        "method": "Submission",
+        "time_end": "3:15",
+        "round_end": 1,
+        "fight_length": 195,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 10,
+            "str_landed": 8,
+            "str_att": 12,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 6
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 9,
+            "str_landed": 11,
+            "str_att": 27,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 148
+        }
+    },
+    "Philip De Fries vs Oli Thompson": {
+        "name": "Philip De Fries vs Oli Thompson",
+        "fighter1": "Philip De Fries",
+        "fighter2": "Oli Thompson",
+        "winner": "Philip De Fries",
+        "method": "Submission",
+        "time_end": "4:16",
+        "round_end": 2,
+        "fight_length": 316,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 35,
+            "sig_str_att": 77,
+            "str_landed": 55,
+            "str_att": 109,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 1,
+            "ctrl_time": 364
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 35,
+            "str_landed": 29,
+            "str_att": 47,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 49
+        }
+    },
+    "Manvel Gamburyan vs Michihiro Omigawa": {
+        "name": "Manvel Gamburyan vs Michihiro Omigawa",
+        "fighter1": "Manvel Gamburyan",
+        "fighter2": "Michihiro Omigawa",
+        "winner": "Manvel Gamburyan",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 52,
+            "sig_str_att": 116,
+            "str_landed": 58,
+            "str_att": 125,
+            "td_comp": 6,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 282
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 41,
+            "sig_str_att": 94,
+            "str_landed": 71,
+            "str_att": 127,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 63
+        }
+    },
+    "John Moraga vs Ulysses Gomez": {
+        "name": "John Moraga vs Ulysses Gomez",
+        "fighter1": "John Moraga",
+        "fighter2": "Ulysses Gomez",
+        "winner": "John Moraga",
+        "method": "KO/TKO",
+        "time_end": "3:46",
+        "round_end": 1,
+        "fight_length": 226,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 34,
+            "sig_str_att": 63,
+            "str_landed": 36,
+            "str_att": 66,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 21
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 43,
+            "str_landed": 16,
+            "str_att": 43,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 23
+        }
+    }
+}

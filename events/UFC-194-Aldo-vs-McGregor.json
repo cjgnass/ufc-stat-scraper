@@ -1,0 +1,421 @@
+{
+    "event": "UFC 194: Aldo vs McGregor",
+    "date": "December 12, 2015",
+    "Jose Aldo vs Conor McGregor": {
+        "name": "Jose Aldo vs Conor McGregor",
+        "fighter1": "Jose Aldo",
+        "fighter2": "Conor McGregor",
+        "winner": "Conor McGregor",
+        "method": "KO/TKO",
+        "time_end": "0:13",
+        "round_end": 1,
+        "fight_length": 13,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 3,
+            "str_landed": 1,
+            "str_att": 3,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 5,
+            "sig_str_att": 6,
+            "str_landed": 5,
+            "str_att": 6,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Chris Weidman vs Luke Rockhold": {
+        "name": "Chris Weidman vs Luke Rockhold",
+        "fighter1": "Chris Weidman",
+        "fighter2": "Luke Rockhold",
+        "winner": "Luke Rockhold",
+        "method": "KO/TKO",
+        "time_end": "3:12",
+        "round_end": 4,
+        "fight_length": 372,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 48,
+            "sig_str_att": 75,
+            "str_landed": 62,
+            "str_att": 92,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 267
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 126,
+            "sig_str_att": 191,
+            "str_landed": 161,
+            "str_att": 229,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 332
+        }
+    },
+    "Jacare Souza vs Yoel Romero": {
+        "name": "Jacare Souza vs Yoel Romero",
+        "fighter1": "Jacare Souza",
+        "fighter2": "Yoel Romero",
+        "winner": "Yoel Romero",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 30,
+            "sig_str_att": 52,
+            "str_landed": 42,
+            "str_att": 67,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 153
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 46,
+            "sig_str_att": 92,
+            "str_landed": 56,
+            "str_att": 104,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 118
+        }
+    },
+    "Demian Maia vs Gunnar Nelson": {
+        "name": "Demian Maia vs Gunnar Nelson",
+        "fighter1": "Demian Maia",
+        "fighter2": "Gunnar Nelson",
+        "winner": "Demian Maia",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            76,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 58,
+            "str_landed": 193,
+            "str_att": 229,
+            "td_comp": 2,
+            "td_att": 8,
+            "sub_att": 1,
+            "ctrl_time": 658
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 4,
+            "str_landed": 7,
+            "str_att": 10,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 134
+        }
+    },
+    "Max Holloway vs Jeremy Stephens": {
+        "name": "Max Holloway vs Jeremy Stephens",
+        "fighter1": "Max Holloway",
+        "fighter2": "Jeremy Stephens",
+        "winner": "Max Holloway",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 57,
+            "sig_str_att": 99,
+            "str_landed": 79,
+            "str_att": 122,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 207
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 95,
+            "str_landed": 60,
+            "str_att": 110,
+            "td_comp": 0,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 129
+        }
+    },
+    "Urijah Faber vs Frankie Saenz": {
+        "name": "Urijah Faber vs Frankie Saenz",
+        "fighter1": "Urijah Faber",
+        "fighter2": "Frankie Saenz",
+        "winner": "Urijah Faber",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 75,
+            "sig_str_att": 111,
+            "str_landed": 80,
+            "str_att": 116,
+            "td_comp": 2,
+            "td_att": 13,
+            "sub_att": 0,
+            "ctrl_time": 114
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 66,
+            "sig_str_att": 136,
+            "str_landed": 72,
+            "str_att": 143,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 121
+        }
+    },
+    "Tecia Pennington vs Jocelyn Jones-Lybarger": {
+        "name": "Tecia Pennington vs Jocelyn Jones-Lybarger",
+        "fighter1": "Tecia Pennington",
+        "fighter2": "Jocelyn Jones-Lybarger",
+        "winner": "Tecia Pennington",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 77,
+            "sig_str_att": 133,
+            "str_landed": 126,
+            "str_att": 192,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 335
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 106,
+            "str_landed": 53,
+            "str_att": 137,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 141
+        }
+    },
+    "Warlley Alves vs Colby Covington": {
+        "name": "Warlley Alves vs Colby Covington",
+        "fighter1": "Warlley Alves",
+        "fighter2": "Colby Covington",
+        "winner": "Warlley Alves",
+        "method": "Submission",
+        "time_end": "1:26",
+        "round_end": 1,
+        "fight_length": 86,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 4,
+            "str_landed": 2,
+            "str_att": 4,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 2,
+            "str_landed": 2,
+            "str_att": 2,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 63
+        }
+    },
+    "Leonardo Santos vs Kevin Lee": {
+        "name": "Leonardo Santos vs Kevin Lee",
+        "fighter1": "Leonardo Santos",
+        "fighter2": "Kevin Lee",
+        "winner": "Leonardo Santos",
+        "method": "KO/TKO",
+        "time_end": "3:26",
+        "round_end": 1,
+        "fight_length": 206,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 32,
+            "sig_str_att": 48,
+            "str_landed": 32,
+            "str_att": 48,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 30
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 46,
+            "str_landed": 10,
+            "str_att": 46,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Joe Proctor vs Magomed Mustafaev": {
+        "name": "Joe Proctor vs Magomed Mustafaev",
+        "fighter1": "Joe Proctor",
+        "fighter2": "Magomed Mustafaev",
+        "winner": "Magomed Mustafaev",
+        "method": "KO/TKO",
+        "time_end": "1:54",
+        "round_end": 1,
+        "fight_length": 114,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 13,
+            "str_landed": 9,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 18,
+            "sig_str_att": 27,
+            "str_landed": 22,
+            "str_att": 31,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 6
+        }
+    },
+    "John Makdessi vs Yancy Medeiros": {
+        "name": "John Makdessi vs Yancy Medeiros",
+        "fighter1": "John Makdessi",
+        "fighter2": "Yancy Medeiros",
+        "winner": "Yancy Medeiros",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 114,
+            "sig_str_att": 196,
+            "str_landed": 114,
+            "str_att": 196,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 80,
+            "sig_str_att": 268,
+            "str_landed": 80,
+            "str_att": 268,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 14
+        }
+    },
+    "Court McGee vs Marcio Alexandre Junior": {
+        "name": "Court McGee vs Marcio Alexandre Junior",
+        "fighter1": "Court McGee",
+        "fighter2": "Marcio Alexandre Junior",
+        "winner": "Court McGee",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 99,
+            "str_landed": 133,
+            "str_att": 185,
+            "td_comp": 2,
+            "td_att": 13,
+            "sub_att": 0,
+            "ctrl_time": 425
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 48,
+            "str_landed": 28,
+            "str_att": 53,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 5
+        }
+    }
+}

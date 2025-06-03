@@ -1,0 +1,352 @@
+{
+    "event": "UFC Fight Night: Saint Preux vs. Okami",
+    "date": "September 22, 2017",
+    "Ovince Saint Preux vs Yushin Okami": {
+        "name": "Ovince Saint Preux vs Yushin Okami",
+        "fighter1": "Ovince Saint Preux",
+        "fighter2": "Yushin Okami",
+        "winner": "Ovince Saint Preux",
+        "method": "Submission",
+        "time_end": "1:50",
+        "round_end": 1,
+        "fight_length": 110,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 0,
+            "str_landed": 3,
+            "str_att": 3,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 103
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 0,
+            "str_landed": 0,
+            "str_att": 0,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 0
+        }
+    },
+    "Claudia Gadelha vs Jessica Andrade": {
+        "name": "Claudia Gadelha vs Jessica Andrade",
+        "fighter1": "Claudia Gadelha",
+        "fighter2": "Jessica Andrade",
+        "winner": "Jessica Andrade",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            78,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 91,
+            "str_landed": 47,
+            "str_att": 96,
+            "td_comp": 0,
+            "td_att": 7,
+            "sub_att": 2,
+            "ctrl_time": 8
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 141,
+            "sig_str_att": 241,
+            "str_landed": 242,
+            "str_att": 355,
+            "td_comp": 4,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 515
+        }
+    },
+    "Takanori Gomi vs Dong Hyun Ma": {
+        "name": "Takanori Gomi vs Dong Hyun Ma",
+        "fighter1": "Takanori Gomi",
+        "fighter2": "Dong Hyun Ma",
+        "winner": "Dong Hyun Ma",
+        "method": "KO/TKO",
+        "time_end": "1:30",
+        "round_end": 1,
+        "fight_length": 90,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 3,
+            "str_landed": 2,
+            "str_att": 3,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 13,
+            "sig_str_att": 20,
+            "str_landed": 13,
+            "str_att": 20,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 7
+        }
+    },
+    "Gokhan Saki vs Henrique da Silva": {
+        "name": "Gokhan Saki vs Henrique da Silva",
+        "fighter1": "Gokhan Saki",
+        "fighter2": "Henrique da Silva",
+        "winner": "Gokhan Saki",
+        "method": "KO/TKO",
+        "time_end": "4:45",
+        "round_end": 1,
+        "fight_length": 285,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 40,
+            "sig_str_att": 66,
+            "str_landed": 40,
+            "str_att": 66,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 9
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 45,
+            "str_landed": 21,
+            "str_att": 46,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 32
+        }
+    },
+    "Teruto Ishihara vs Rolando Dy": {
+        "name": "Teruto Ishihara vs Rolando Dy",
+        "fighter1": "Teruto Ishihara",
+        "fighter2": "Rolando Dy",
+        "winner": "Teruto Ishihara",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            84
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 50,
+            "sig_str_att": 98,
+            "str_landed": 77,
+            "str_att": 127,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 356
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 48,
+            "sig_str_att": 85,
+            "str_landed": 52,
+            "str_att": 89,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    },
+    "Jussier Formiga vs Yuta Sasaki": {
+        "name": "Jussier Formiga vs Yuta Sasaki",
+        "fighter1": "Jussier Formiga",
+        "fighter2": "Yuta Sasaki",
+        "winner": "Jussier Formiga",
+        "method": "Submission",
+        "time_end": "4:30",
+        "round_end": 1,
+        "fight_length": 270,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 22,
+            "str_landed": 12,
+            "str_att": 27,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 93
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 32,
+            "str_landed": 36,
+            "str_att": 54,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Keita Nakamura vs Alex Morono": {
+        "name": "Keita Nakamura vs Alex Morono",
+        "fighter1": "Keita Nakamura",
+        "fighter2": "Alex Morono",
+        "winner": "Keita Nakamura",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 86,
+            "str_landed": 29,
+            "str_att": 88,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 45
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 123,
+            "str_landed": 39,
+            "str_att": 124,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Syuri Kondo vs Chan-Mi Jeon": {
+        "name": "Syuri Kondo vs Chan-Mi Jeon",
+        "fighter1": "Syuri Kondo",
+        "fighter2": "Chan-Mi Jeon",
+        "winner": "Syuri Kondo",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 135,
+            "sig_str_att": 284,
+            "str_landed": 137,
+            "str_att": 286,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 95,
+            "sig_str_att": 340,
+            "str_landed": 99,
+            "str_att": 344,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Shinsho Anzai vs Luke Jumeau": {
+        "name": "Shinsho Anzai vs Luke Jumeau",
+        "fighter1": "Shinsho Anzai",
+        "fighter2": "Luke Jumeau",
+        "winner": "Shinsho Anzai",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 51,
+            "sig_str_att": 95,
+            "str_landed": 97,
+            "str_att": 152,
+            "td_comp": 1,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 219
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 49,
+            "sig_str_att": 95,
+            "str_landed": 53,
+            "str_att": 99,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 123
+        }
+    },
+    "Daichi Abe vs Hyun Gyu Lim": {
+        "name": "Daichi Abe vs Hyun Gyu Lim",
+        "fighter1": "Daichi Abe",
+        "fighter2": "Hyun Gyu Lim",
+        "winner": "Daichi Abe",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 63,
+            "sig_str_att": 183,
+            "str_landed": 65,
+            "str_att": 185,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 43,
+            "sig_str_att": 133,
+            "str_landed": 43,
+            "str_att": 133,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

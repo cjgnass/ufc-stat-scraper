@@ -1,0 +1,271 @@
+{
+    "event": "UFC 36: Worlds Collide",
+    "date": "March 22, 2002",
+    "Josh Barnett vs Randy Couture": {
+        "name": "Josh Barnett vs Randy Couture",
+        "fighter1": "Josh Barnett",
+        "fighter2": "Randy Couture",
+        "winner": "Josh Barnett",
+        "method": "KO/TKO",
+        "time_end": "4:35",
+        "round_end": 2,
+        "fight_length": 335,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 75,
+            "str_landed": 53,
+            "str_att": 85,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 115
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 21,
+            "str_landed": 33,
+            "str_att": 37,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 438
+        }
+    },
+    "Pedro Rizzo vs Andrei Arlovski": {
+        "name": "Pedro Rizzo vs Andrei Arlovski",
+        "fighter1": "Pedro Rizzo",
+        "fighter2": "Andrei Arlovski",
+        "winner": "Pedro Rizzo",
+        "method": "KO/TKO",
+        "time_end": "1:45",
+        "round_end": 3,
+        "fight_length": 225,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 27,
+            "sig_str_att": 80,
+            "str_landed": 27,
+            "str_att": 80,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 95,
+            "str_landed": 38,
+            "str_att": 95,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Matt Hughes vs Hayato Sakurai": {
+        "name": "Matt Hughes vs Hayato Sakurai",
+        "fighter1": "Matt Hughes",
+        "fighter2": "Hayato Sakurai",
+        "winner": "Matt Hughes",
+        "method": "KO/TKO",
+        "time_end": "3:01",
+        "round_end": 4,
+        "fight_length": 361,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 58,
+            "str_landed": 112,
+            "str_att": 137,
+            "td_comp": 9,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 952
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 5,
+            "sig_str_att": 12,
+            "str_landed": 14,
+            "str_att": 22,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Matt Lindland vs Pat Miletich": {
+        "name": "Matt Lindland vs Pat Miletich",
+        "fighter1": "Matt Lindland",
+        "fighter2": "Pat Miletich",
+        "winner": "Matt Lindland",
+        "method": "KO/TKO",
+        "time_end": "3:09",
+        "round_end": 1,
+        "fight_length": 189,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 40,
+            "str_landed": 62,
+            "str_att": 85,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 170
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 2,
+            "str_landed": 1,
+            "str_att": 2,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Evan Tanner vs Elvis Sinosic": {
+        "name": "Evan Tanner vs Elvis Sinosic",
+        "fighter1": "Evan Tanner",
+        "fighter2": "Elvis Sinosic",
+        "winner": "Evan Tanner",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "2:06",
+        "round_end": 1,
+        "fight_length": 126,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 13,
+            "str_landed": 12,
+            "str_att": 18,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 103
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 8,
+            "str_landed": 7,
+            "str_att": 11,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Frank Mir vs Pete Williams": {
+        "name": "Frank Mir vs Pete Williams",
+        "fighter1": "Frank Mir",
+        "fighter2": "Pete Williams",
+        "winner": "Frank Mir",
+        "method": "Submission",
+        "time_end": "0:46",
+        "round_end": 1,
+        "fight_length": 46,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 6,
+            "str_landed": 4,
+            "str_att": 6,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 1,
+            "str_landed": 0,
+            "str_att": 1,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 19
+        }
+    },
+    "Matt Serra vs Kelly Dullanty": {
+        "name": "Matt Serra vs Kelly Dullanty",
+        "fighter1": "Matt Serra",
+        "fighter2": "Kelly Dullanty",
+        "winner": "Matt Serra",
+        "method": "Submission",
+        "time_end": "2:58",
+        "round_end": 1,
+        "fight_length": 178,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 8,
+            "str_landed": 14,
+            "str_att": 20,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 3,
+            "ctrl_time": 142
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 1,
+            "str_landed": 17,
+            "str_att": 21,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 11
+        }
+    },
+    "Sean Sherk vs Jutaro Nakao": {
+        "name": "Sean Sherk vs Jutaro Nakao",
+        "fighter1": "Sean Sherk",
+        "fighter2": "Jutaro Nakao",
+        "winner": "Sean Sherk",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 30,
+            "str_landed": 227,
+            "str_att": 241,
+            "td_comp": 7,
+            "td_att": 14,
+            "sub_att": 0,
+            "ctrl_time": 730
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 20,
+            "str_landed": 8,
+            "str_att": 24,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    }
+}

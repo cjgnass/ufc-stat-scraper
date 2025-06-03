@@ -1,0 +1,346 @@
+{
+    "event": "UFC 201: Lawler vs. Woodley",
+    "date": "July 30, 2016",
+    "Robbie Lawler vs Tyron Woodley": {
+        "name": "Robbie Lawler vs Tyron Woodley",
+        "fighter1": "Robbie Lawler",
+        "fighter2": "Tyron Woodley",
+        "winner": "Tyron Woodley",
+        "method": "KO/TKO",
+        "time_end": "2:12",
+        "round_end": 1,
+        "fight_length": 132,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 6,
+            "str_landed": 4,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 8,
+            "sig_str_att": 11,
+            "str_landed": 8,
+            "str_att": 11,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 19
+        }
+    },
+    "Rose Namajunas vs Karolina Kowalkiewicz": {
+        "name": "Rose Namajunas vs Karolina Kowalkiewicz",
+        "fighter1": "Rose Namajunas",
+        "fighter2": "Karolina Kowalkiewicz",
+        "winner": "Karolina Kowalkiewicz",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 70,
+            "sig_str_att": 145,
+            "str_landed": 74,
+            "str_att": 149,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 146
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 84,
+            "sig_str_att": 242,
+            "str_landed": 128,
+            "str_att": 293,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 138
+        }
+    },
+    "Matt Brown vs Jake Ellenberger": {
+        "name": "Matt Brown vs Jake Ellenberger",
+        "fighter1": "Matt Brown",
+        "fighter2": "Jake Ellenberger",
+        "winner": "Jake Ellenberger",
+        "method": "KO/TKO",
+        "time_end": "1:46",
+        "round_end": 1,
+        "fight_length": 106,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 17,
+            "str_landed": 7,
+            "str_att": 17,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 21,
+            "sig_str_att": 34,
+            "str_landed": 29,
+            "str_att": 43,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 41
+        }
+    },
+    "Francisco Rivera vs Erik Perez": {
+        "name": "Francisco Rivera vs Erik Perez",
+        "fighter1": "Francisco Rivera",
+        "fighter2": "Erik Perez",
+        "winner": "Erik Perez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 55,
+            "sig_str_att": 158,
+            "str_landed": 59,
+            "str_att": 163,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 54,
+            "sig_str_att": 156,
+            "str_landed": 147,
+            "str_att": 259,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 300
+        }
+    },
+    "Ryan Benoit vs Fredy Serrano": {
+        "name": "Ryan Benoit vs Fredy Serrano",
+        "fighter1": "Ryan Benoit",
+        "fighter2": "Fredy Serrano",
+        "winner": "Ryan Benoit",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 31,
+            "sig_str_att": 58,
+            "str_landed": 45,
+            "str_att": 76,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 85
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 60,
+            "str_landed": 67,
+            "str_att": 116,
+            "td_comp": 5,
+            "td_att": 14,
+            "sub_att": 0,
+            "ctrl_time": 299
+        }
+    },
+    "Nikita Krylov vs Ed Herman": {
+        "name": "Nikita Krylov vs Ed Herman",
+        "fighter1": "Nikita Krylov",
+        "fighter2": "Ed Herman",
+        "winner": "Nikita Krylov",
+        "method": "KO/TKO",
+        "time_end": "0:40",
+        "round_end": 2,
+        "fight_length": 100,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 60,
+            "sig_str_att": 118,
+            "str_landed": 70,
+            "str_att": 128,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 55
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 55,
+            "str_landed": 36,
+            "str_att": 65,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 25
+        }
+    },
+    "Ross Pearson vs Jorge Masvidal": {
+        "name": "Ross Pearson vs Jorge Masvidal",
+        "fighter1": "Ross Pearson",
+        "fighter2": "Jorge Masvidal",
+        "winner": "Jorge Masvidal",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 52,
+            "sig_str_att": 138,
+            "str_landed": 53,
+            "str_att": 139,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 30
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 113,
+            "sig_str_att": 256,
+            "str_landed": 130,
+            "str_att": 277,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 36
+        }
+    },
+    "Anthony Hamilton vs Damian Grabowski": {
+        "name": "Anthony Hamilton vs Damian Grabowski",
+        "fighter1": "Anthony Hamilton",
+        "fighter2": "Damian Grabowski",
+        "winner": "Anthony Hamilton",
+        "method": "KO/TKO",
+        "time_end": "0:14",
+        "round_end": 1,
+        "fight_length": 14,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 9,
+            "sig_str_att": 16,
+            "str_landed": 11,
+            "str_att": 18,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 3,
+            "str_landed": 2,
+            "str_att": 4,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Wilson Reis vs Hector Sandoval": {
+        "name": "Wilson Reis vs Hector Sandoval",
+        "fighter1": "Wilson Reis",
+        "fighter2": "Hector Sandoval",
+        "winner": "Wilson Reis",
+        "method": "Submission",
+        "time_end": "1:49",
+        "round_end": 1,
+        "fight_length": 109,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 8,
+            "str_landed": 12,
+            "str_att": 17,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 65
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 13,
+            "str_landed": 8,
+            "str_att": 16,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 7
+        }
+    },
+    "Cesar Arzamendia vs Damien Brown": {
+        "name": "Cesar Arzamendia vs Damien Brown",
+        "fighter1": "Cesar Arzamendia",
+        "fighter2": "Damien Brown",
+        "winner": "Damien Brown",
+        "method": "KO/TKO",
+        "time_end": "2:27",
+        "round_end": 1,
+        "fight_length": 147,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 27,
+            "str_landed": 17,
+            "str_att": 27,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 22,
+            "sig_str_att": 42,
+            "str_landed": 25,
+            "str_att": 46,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 51
+        }
+    }
+}

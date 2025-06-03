@@ -1,0 +1,352 @@
+{
+    "event": "UFC Fight Night: Marquardt vs Palhares",
+    "date": "September 15, 2010",
+    "Nate Marquardt vs Rousimar Palhares": {
+        "name": "Nate Marquardt vs Rousimar Palhares",
+        "fighter1": "Nate Marquardt",
+        "fighter2": "Rousimar Palhares",
+        "winner": "Nate Marquardt",
+        "method": "KO/TKO",
+        "time_end": "3:28",
+        "round_end": 1,
+        "fight_length": 208,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 35,
+            "str_landed": 18,
+            "str_att": 40,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 17
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 6,
+            "str_landed": 1,
+            "str_att": 6,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 27
+        }
+    },
+    "Efrain Escudero vs Charles Oliveira": {
+        "name": "Efrain Escudero vs Charles Oliveira",
+        "fighter1": "Efrain Escudero",
+        "fighter2": "Charles Oliveira",
+        "winner": "Charles Oliveira",
+        "method": "Submission",
+        "time_end": "2:25",
+        "round_end": 3,
+        "fight_length": 265,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 76,
+            "str_landed": 26,
+            "str_att": 89,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 167
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 91,
+            "str_landed": 60,
+            "str_att": 118,
+            "td_comp": 2,
+            "td_att": 9,
+            "sub_att": 1,
+            "ctrl_time": 64
+        }
+    },
+    "Jim Miller vs Gleison Tibau": {
+        "name": "Jim Miller vs Gleison Tibau",
+        "fighter1": "Jim Miller",
+        "fighter2": "Gleison Tibau",
+        "winner": "Jim Miller",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 113,
+            "str_landed": 44,
+            "str_att": 128,
+            "td_comp": 0,
+            "td_att": 6,
+            "sub_att": 2,
+            "ctrl_time": 125
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 100,
+            "str_landed": 36,
+            "str_att": 114,
+            "td_comp": 4,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 201
+        }
+    },
+    "Cole Miller vs Ross Pearson": {
+        "name": "Cole Miller vs Ross Pearson",
+        "fighter1": "Cole Miller",
+        "fighter2": "Ross Pearson",
+        "winner": "Cole Miller",
+        "method": "Submission",
+        "time_end": "1:49",
+        "round_end": 2,
+        "fight_length": 169,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 24,
+            "sig_str_att": 78,
+            "str_landed": 24,
+            "str_att": 78,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 39
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 71,
+            "str_landed": 30,
+            "str_att": 75,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 20
+        }
+    },
+    "Yves Edwards vs John Gunderson": {
+        "name": "Yves Edwards vs John Gunderson",
+        "fighter1": "Yves Edwards",
+        "fighter2": "John Gunderson",
+        "winner": "Yves Edwards",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 54,
+            "sig_str_att": 125,
+            "str_landed": 98,
+            "str_att": 177,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 483
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 82,
+            "str_landed": 24,
+            "str_att": 91,
+            "td_comp": 0,
+            "td_att": 6,
+            "sub_att": 2,
+            "ctrl_time": 49
+        }
+    },
+    "Jared Hamman vs Kyle Kingsbury": {
+        "name": "Jared Hamman vs Kyle Kingsbury",
+        "fighter1": "Jared Hamman",
+        "fighter2": "Kyle Kingsbury",
+        "winner": "Kyle Kingsbury",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 88,
+            "sig_str_att": 239,
+            "str_landed": 146,
+            "str_att": 298,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 15
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 79,
+            "sig_str_att": 219,
+            "str_landed": 88,
+            "str_att": 229,
+            "td_comp": 9,
+            "td_att": 13,
+            "sub_att": 0,
+            "ctrl_time": 284
+        }
+    },
+    "Tomasz Drwal vs David Branch": {
+        "name": "Tomasz Drwal vs David Branch",
+        "fighter1": "Tomasz Drwal",
+        "fighter2": "David Branch",
+        "winner": "David Branch",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 43,
+            "str_landed": 19,
+            "str_att": 55,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 83
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 31,
+            "str_landed": 62,
+            "str_att": 85,
+            "td_comp": 3,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 459
+        }
+    },
+    "Rich Attonito vs Rafael Natal": {
+        "name": "Rich Attonito vs Rafael Natal",
+        "fighter1": "Rich Attonito",
+        "fighter2": "Rafael Natal",
+        "winner": "Rich Attonito",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 25,
+            "sig_str_att": 80,
+            "str_landed": 46,
+            "str_att": 103,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 195
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 102,
+            "str_landed": 51,
+            "str_att": 132,
+            "td_comp": 2,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 96
+        }
+    },
+    "TJ Waldburger vs David Mitchell": {
+        "name": "TJ Waldburger vs David Mitchell",
+        "fighter1": "TJ Waldburger",
+        "fighter2": "David Mitchell",
+        "winner": "TJ Waldburger",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 58,
+            "str_landed": 69,
+            "str_att": 96,
+            "td_comp": 6,
+            "td_att": 7,
+            "sub_att": 7,
+            "ctrl_time": 652
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 18,
+            "str_landed": 50,
+            "str_att": 59,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 6,
+            "ctrl_time": 95
+        }
+    },
+    "Brian Foster vs Forrest Petz": {
+        "name": "Brian Foster vs Forrest Petz",
+        "fighter1": "Brian Foster",
+        "fighter2": "Forrest Petz",
+        "winner": "Brian Foster",
+        "method": "KO/TKO",
+        "time_end": "1:07",
+        "round_end": 1,
+        "fight_length": 67,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 17,
+            "sig_str_att": 27,
+            "str_landed": 20,
+            "str_att": 32,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 10
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 7,
+            "str_landed": 1,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

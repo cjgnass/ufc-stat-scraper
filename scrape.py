@@ -127,6 +127,10 @@ def get_fighter_fight_stats(soup: BeautifulSoup) -> Tuple[dict, dict]:
     for element in elements:
         stats.append(element.get_text(strip=True))
     
+    if stats == []:
+        return (None, None)
+    #return elements
+    
     fighter1_fight_stats['kd'] = int(stats[0])
     fighter2_fight_stats['kd'] = int(stats[1])
 
@@ -153,7 +157,7 @@ def get_fighter_fight_stats(soup: BeautifulSoup) -> Tuple[dict, dict]:
 
     fighter1_fight_stats['sub_att'] = int(stats[12])
     fighter2_fight_stats['sub_att'] = int(stats[13])
-
+    
     fighter1_fight_stats['ctrl_time'] = get_time(stats[16])
     fighter2_fight_stats['ctrl_time'] = get_time(stats[17])
 
@@ -167,9 +171,13 @@ def get_time(time_str: str) -> int:
     Returns:
         int: time in seconds
     """ 
-    minutes, seconds = map(int, time_str.split(':'))
-    ctrl_time = minutes * 60 + seconds
-    return ctrl_time
+    try:
+        minutes, seconds = map(int, time_str.split(':'))
+        ctrl_time = minutes * 60 + seconds
+        return ctrl_time
+    except ValueError:
+        return 0
+
 
 def parse_of(s: str) -> Tuple[int, int]:
     """
@@ -192,17 +200,21 @@ def get_score(soup: BeautifulSoup) -> Tuple[int, int]:
     Returns:
         Tuple[int, int]: (judges score for losing fighter, judges score for winning fighter)
     """ 
-    elements = soup.find_all('i', class_='b-fight-details__text-item')
-    judge1 = elements[4].get_text(strip=True)[-8:-1]
-    judge2 = elements[5].get_text(strip=True)[-8:-1]
-    judge3 = elements[6].get_text(strip=True)[-8:-1]
-    judges = [judge1, judge2, judge3]
-    score = [0, 0]
-    for judge in judges:
-        score[0] += int(judge[:2])
-        score[1] += int(judge[-2:])
-    return tuple(score)
-
+    
+    try:
+        elements = soup.find_all('i', class_='b-fight-details__text-item')
+        judge1 = elements[4].get_text(strip=True)[-8:-1]
+        judge2 = elements[5].get_text(strip=True)[-8:-1]
+        judge3 = elements[6].get_text(strip=True)[-8:-1]
+        judges = [judge1, judge2, judge3]
+        score = [0, 0]
+        for judge in judges:
+            score[0] += int(judge[:2])
+            score[1] += int(judge[-2:])
+        return tuple(score)
+    except IndexError:    
+        return None
+     
 def get_time_end(soup: BeautifulSoup) -> str:
     """
     Args:
@@ -309,11 +321,12 @@ def get_fight_urls(url: str) -> List[str]:
 
     return fight_urls
 
-
-
-# response = requests.get('http://ufcstats.com/fight-details/212527d462690304')
+# response = requests.get('http://ufcstats.com/fight-details/35b871e0bdc1415b')
 # soup = BeautifulSoup(response.text, 'html.parser')
 # print(get_fighter_fight_stats(soup))
+
+
+
 
 
 

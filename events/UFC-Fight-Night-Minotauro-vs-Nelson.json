@@ -1,0 +1,247 @@
+{
+    "event": "UFC Fight Night: Minotauro vs Nelson",
+    "date": "April 11, 2014",
+    "Antonio Rodrigo Nogueira vs Roy Nelson": {
+        "name": "Antonio Rodrigo Nogueira vs Roy Nelson",
+        "fighter1": "Antonio Rodrigo Nogueira",
+        "fighter2": "Roy Nelson",
+        "winner": "Roy Nelson",
+        "method": "KO/TKO",
+        "time_end": "3:37",
+        "round_end": 1,
+        "fight_length": 217,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 37,
+            "str_landed": 12,
+            "str_att": 37,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 19,
+            "sig_str_att": 35,
+            "str_landed": 20,
+            "str_att": 36,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 10
+        }
+    },
+    "Clay Guida vs Tatsuya Kawajiri": {
+        "name": "Clay Guida vs Tatsuya Kawajiri",
+        "fighter1": "Clay Guida",
+        "fighter2": "Tatsuya Kawajiri",
+        "winner": "Clay Guida",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 47,
+            "sig_str_att": 68,
+            "str_landed": 92,
+            "str_att": 113,
+            "td_comp": 3,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 538
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 51,
+            "str_landed": 36,
+            "str_att": 68,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 166
+        }
+    },
+    "John Howard vs Ryan LaFlare": {
+        "name": "John Howard vs Ryan LaFlare",
+        "fighter1": "John Howard",
+        "fighter2": "Ryan LaFlare",
+        "winner": "Ryan LaFlare",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 35,
+            "sig_str_att": 53,
+            "str_landed": 73,
+            "str_att": 92,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 107
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 64,
+            "sig_str_att": 97,
+            "str_landed": 97,
+            "str_att": 135,
+            "td_comp": 4,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 509
+        }
+    },
+    "Ramsey Nijem vs Beneil Dariush": {
+        "name": "Ramsey Nijem vs Beneil Dariush",
+        "fighter1": "Ramsey Nijem",
+        "fighter2": "Beneil Dariush",
+        "winner": "Ramsey Nijem",
+        "method": "KO/TKO",
+        "time_end": "4:20",
+        "round_end": 1,
+        "fight_length": 260,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 34,
+            "sig_str_att": 51,
+            "str_landed": 92,
+            "str_att": 121,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 98
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 20,
+            "str_landed": 14,
+            "str_att": 25,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 30
+        }
+    },
+    "Jared Rosholt vs Daniel Omielanczuk": {
+        "name": "Jared Rosholt vs Daniel Omielanczuk",
+        "fighter1": "Jared Rosholt",
+        "fighter2": "Daniel Omielanczuk",
+        "winner": "Jared Rosholt",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 51,
+            "str_landed": 124,
+            "str_att": 151,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 787
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 15,
+            "str_landed": 41,
+            "str_att": 50,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        }
+    },
+    "Thales Leites vs Trevor Smith": {
+        "name": "Thales Leites vs Trevor Smith",
+        "fighter1": "Thales Leites",
+        "fighter2": "Trevor Smith",
+        "winner": "Thales Leites",
+        "method": "KO/TKO",
+        "time_end": "0:45",
+        "round_end": 1,
+        "fight_length": 45,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 5,
+            "sig_str_att": 8,
+            "str_landed": 9,
+            "str_att": 12,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 4
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 10,
+            "str_landed": 3,
+            "str_att": 10,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Alan Omer vs Jim Alers": {
+        "name": "Alan Omer vs Jim Alers",
+        "fighter1": "Alan Omer",
+        "fighter2": "Jim Alers",
+        "winner": "Jim Alers",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 101,
+            "str_landed": 69,
+            "str_att": 112,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 181
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 36,
+            "sig_str_att": 93,
+            "str_landed": 97,
+            "str_att": 163,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 386
+        }
+    }
+}

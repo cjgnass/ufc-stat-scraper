@@ -1,0 +1,388 @@
+{
+    "event": "UFC 240: Holloway vs. Edgar",
+    "date": "July 27, 2019",
+    "Max Holloway vs Frankie Edgar": {
+        "name": "Max Holloway vs Frankie Edgar",
+        "fighter1": "Max Holloway",
+        "fighter2": "Frankie Edgar",
+        "winner": "Max Holloway",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            138,
+            147
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 129,
+            "sig_str_att": 328,
+            "str_landed": 131,
+            "str_att": 330,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 96,
+            "sig_str_att": 264,
+            "str_landed": 96,
+            "str_att": 264,
+            "td_comp": 1,
+            "td_att": 15,
+            "sub_att": 0,
+            "ctrl_time": 106
+        }
+    },
+    "Cristiane Justino vs Felicia Spencer": {
+        "name": "Cristiane Justino vs Felicia Spencer",
+        "fighter1": "Cristiane Justino",
+        "fighter2": "Felicia Spencer",
+        "winner": "Cristiane Justino",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 122,
+            "sig_str_att": 216,
+            "str_landed": 138,
+            "str_att": 234,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 112
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 85,
+            "str_landed": 64,
+            "str_att": 115,
+            "td_comp": 0,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 214
+        }
+    },
+    "Geoff Neal vs Niko Price": {
+        "name": "Geoff Neal vs Niko Price",
+        "fighter1": "Geoff Neal",
+        "fighter2": "Niko Price",
+        "winner": "Geoff Neal",
+        "method": "KO/TKO",
+        "time_end": "2:39",
+        "round_end": 2,
+        "fight_length": 219,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 61,
+            "str_landed": 53,
+            "str_att": 73,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 217
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 24,
+            "sig_str_att": 57,
+            "str_landed": 42,
+            "str_att": 79,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 54
+        }
+    },
+    "Olivier Aubin-Mercier vs Arman Tsarukyan": {
+        "name": "Olivier Aubin-Mercier vs Arman Tsarukyan",
+        "fighter1": "Olivier Aubin-Mercier",
+        "fighter2": "Arman Tsarukyan",
+        "winner": "Arman Tsarukyan",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 48,
+            "str_landed": 36,
+            "str_att": 61,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 61
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 105,
+            "str_landed": 110,
+            "str_att": 174,
+            "td_comp": 2,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 473
+        }
+    },
+    "Marc-Andre Barriault vs Krzysztof Jotko": {
+        "name": "Marc-Andre Barriault vs Krzysztof Jotko",
+        "fighter1": "Marc-Andre Barriault",
+        "fighter2": "Krzysztof Jotko",
+        "winner": "Krzysztof Jotko",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 77,
+            "str_landed": 62,
+            "str_att": 102,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 136
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 117,
+            "str_landed": 98,
+            "str_att": 181,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 289
+        }
+    },
+    "Alexis Davis vs Viviane Araujo": {
+        "name": "Alexis Davis vs Viviane Araujo",
+        "fighter1": "Alexis Davis",
+        "fighter2": "Viviane Araujo",
+        "winner": "Viviane Araujo",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 68,
+            "sig_str_att": 137,
+            "str_landed": 134,
+            "str_att": 213,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 226
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 67,
+            "sig_str_att": 148,
+            "str_landed": 79,
+            "str_att": 162,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 60
+        }
+    },
+    "Hakeem Dawodu vs Yoshinori Horie": {
+        "name": "Hakeem Dawodu vs Yoshinori Horie",
+        "fighter1": "Hakeem Dawodu",
+        "fighter2": "Yoshinori Horie",
+        "winner": "Hakeem Dawodu",
+        "method": "KO/TKO",
+        "time_end": "4:09",
+        "round_end": 3,
+        "fight_length": 369,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 80,
+            "sig_str_att": 154,
+            "str_landed": 89,
+            "str_att": 166,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 79
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 79,
+            "str_landed": 41,
+            "str_att": 81,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Gavin Tucker vs SeungWoo Choi": {
+        "name": "Gavin Tucker vs SeungWoo Choi",
+        "fighter1": "Gavin Tucker",
+        "fighter2": "SeungWoo Choi",
+        "winner": "Gavin Tucker",
+        "method": "Submission",
+        "time_end": "3:17",
+        "round_end": 3,
+        "fight_length": 317,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 62,
+            "str_landed": 49,
+            "str_att": 77,
+            "td_comp": 5,
+            "td_att": 13,
+            "sub_att": 2,
+            "ctrl_time": 365
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 96,
+            "str_landed": 42,
+            "str_att": 116,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 49
+        }
+    },
+    "Alexandre Pantoja vs Deiveson Figueiredo": {
+        "name": "Alexandre Pantoja vs Deiveson Figueiredo",
+        "fighter1": "Alexandre Pantoja",
+        "fighter2": "Deiveson Figueiredo",
+        "winner": "Deiveson Figueiredo",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 61,
+            "sig_str_att": 151,
+            "str_landed": 68,
+            "str_att": 160,
+            "td_comp": 2,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 74
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 67,
+            "sig_str_att": 113,
+            "str_landed": 71,
+            "str_att": 117,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 112
+        }
+    },
+    "Gillian Robertson vs Sarah Frota": {
+        "name": "Gillian Robertson vs Sarah Frota",
+        "fighter1": "Gillian Robertson",
+        "fighter2": "Sarah Frota",
+        "winner": "Gillian Robertson",
+        "method": "KO/TKO",
+        "time_end": "4:13",
+        "round_end": 2,
+        "fight_length": 313,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 42,
+            "str_landed": 51,
+            "str_att": 64,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 472
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 20,
+            "str_landed": 33,
+            "str_att": 46,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Erik Koch vs Kyle Stewart": {
+        "name": "Erik Koch vs Kyle Stewart",
+        "fighter1": "Erik Koch",
+        "fighter2": "Kyle Stewart",
+        "winner": "Erik Koch",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 63,
+            "str_landed": 67,
+            "str_att": 99,
+            "td_comp": 4,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 540
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 64,
+            "str_landed": 68,
+            "str_att": 119,
+            "td_comp": 0,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 135
+        }
+    }
+}

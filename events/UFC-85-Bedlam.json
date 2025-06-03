@@ -1,0 +1,376 @@
+{
+    "event": "UFC 85: Bedlam",
+    "date": "June 07, 2008",
+    "Thiago Alves vs Matt Hughes": {
+        "name": "Thiago Alves vs Matt Hughes",
+        "fighter1": "Thiago Alves",
+        "fighter2": "Matt Hughes",
+        "winner": "Thiago Alves",
+        "method": "KO/TKO",
+        "time_end": "1:02",
+        "round_end": 2,
+        "fight_length": 122,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 10,
+            "sig_str_att": 16,
+            "str_landed": 24,
+            "str_att": 31,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 87
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 13,
+            "str_landed": 18,
+            "str_att": 22,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 183
+        }
+    },
+    "Michael Bisping vs Jason Day": {
+        "name": "Michael Bisping vs Jason Day",
+        "fighter1": "Michael Bisping",
+        "fighter2": "Jason Day",
+        "winner": "Michael Bisping",
+        "method": "KO/TKO",
+        "time_end": "3:42",
+        "round_end": 1,
+        "fight_length": 222,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 43,
+            "str_landed": 40,
+            "str_att": 61,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 142
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 12,
+            "str_landed": 8,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    },
+    "Mike Swick vs Marcus Davis": {
+        "name": "Mike Swick vs Marcus Davis",
+        "fighter1": "Mike Swick",
+        "fighter2": "Marcus Davis",
+        "winner": "Mike Swick",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 86,
+            "str_landed": 71,
+            "str_att": 131,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 520
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 55,
+            "str_landed": 82,
+            "str_att": 107,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 2,
+            "ctrl_time": 134
+        }
+    },
+    "Thales Leites vs Nate Marquardt": {
+        "name": "Thales Leites vs Nate Marquardt",
+        "fighter1": "Thales Leites",
+        "fighter2": "Nate Marquardt",
+        "winner": "Thales Leites",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            83
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 13,
+            "sig_str_att": 45,
+            "str_landed": 33,
+            "str_att": 66,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 113
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 72,
+            "str_landed": 49,
+            "str_att": 88,
+            "td_comp": 5,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 424
+        }
+    },
+    "Fabricio Werdum vs Brandon Vera": {
+        "name": "Fabricio Werdum vs Brandon Vera",
+        "fighter1": "Fabricio Werdum",
+        "fighter2": "Brandon Vera",
+        "winner": "Fabricio Werdum",
+        "method": "KO/TKO",
+        "time_end": "4:40",
+        "round_end": 1,
+        "fight_length": 280,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 36,
+            "str_landed": 23,
+            "str_att": 50,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 133
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 22,
+            "str_landed": 20,
+            "str_att": 27,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 37
+        }
+    },
+    "Martin Kampmann vs Jorge Rivera": {
+        "name": "Martin Kampmann vs Jorge Rivera",
+        "fighter1": "Martin Kampmann",
+        "fighter2": "Jorge Rivera",
+        "winner": "Martin Kampmann",
+        "method": "Submission",
+        "time_end": "2:44",
+        "round_end": 1,
+        "fight_length": 164,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 9,
+            "str_landed": 17,
+            "str_att": 24,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 127
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 6,
+            "str_landed": 3,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 3
+        }
+    },
+    "Matt Wiman vs Thiago Tavares": {
+        "name": "Matt Wiman vs Thiago Tavares",
+        "fighter1": "Matt Wiman",
+        "fighter2": "Thiago Tavares",
+        "winner": "Matt Wiman",
+        "method": "KO/TKO",
+        "time_end": "1:57",
+        "round_end": 2,
+        "fight_length": 177,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 18,
+            "sig_str_att": 34,
+            "str_landed": 54,
+            "str_att": 73,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 73
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 35,
+            "str_landed": 39,
+            "str_att": 77,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 3,
+            "ctrl_time": 261
+        }
+    },
+    "Kevin Burns vs Roan Carneiro": {
+        "name": "Kevin Burns vs Roan Carneiro",
+        "fighter1": "Kevin Burns",
+        "fighter2": "Roan Carneiro",
+        "winner": "Kevin Burns",
+        "method": "Submission",
+        "time_end": "3:50",
+        "round_end": 2,
+        "fight_length": 290,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 13,
+            "str_landed": 55,
+            "str_att": 61,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 54
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 30,
+            "str_landed": 36,
+            "str_att": 57,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 423
+        }
+    },
+    "Luiz Cane vs Jason Lambert": {
+        "name": "Luiz Cane vs Jason Lambert",
+        "fighter1": "Luiz Cane",
+        "fighter2": "Jason Lambert",
+        "winner": "Luiz Cane",
+        "method": "KO/TKO",
+        "time_end": "2:07",
+        "round_end": 1,
+        "fight_length": 127,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 3,
+            "sig_str_landed": 15,
+            "sig_str_att": 28,
+            "str_landed": 28,
+            "str_att": 41,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 54
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 23,
+            "str_landed": 13,
+            "str_att": 28,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 14
+        }
+    },
+    "Paul Taylor vs Jess Liaudin": {
+        "name": "Paul Taylor vs Jess Liaudin",
+        "fighter1": "Paul Taylor",
+        "fighter2": "Jess Liaudin",
+        "winner": "Paul Taylor",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 45,
+            "sig_str_att": 86,
+            "str_landed": 134,
+            "str_att": 180,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 189
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 70,
+            "str_landed": 57,
+            "str_att": 94,
+            "td_comp": 7,
+            "td_att": 13,
+            "sub_att": 1,
+            "ctrl_time": 537
+        }
+    },
+    "Antoni Hardonk vs Eddie Sanchez": {
+        "name": "Antoni Hardonk vs Eddie Sanchez",
+        "fighter1": "Antoni Hardonk",
+        "fighter2": "Eddie Sanchez",
+        "winner": "Antoni Hardonk",
+        "method": "KO/TKO",
+        "time_end": "4:15",
+        "round_end": 2,
+        "fight_length": 315,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 48,
+            "sig_str_att": 75,
+            "str_landed": 51,
+            "str_att": 78,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 43
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 33,
+            "sig_str_att": 67,
+            "str_landed": 67,
+            "str_att": 110,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 291
+        }
+    }
+}

@@ -1,0 +1,412 @@
+{
+    "event": "UFC Fight Night: Covington vs. Lawler",
+    "date": "August 03, 2019",
+    "Colby Covington vs Robbie Lawler": {
+        "name": "Colby Covington vs Robbie Lawler",
+        "fighter1": "Colby Covington",
+        "fighter2": "Robbie Lawler",
+        "winner": "Colby Covington",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            134,
+            150
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 179,
+            "sig_str_att": 515,
+            "str_landed": 201,
+            "str_att": 541,
+            "td_comp": 10,
+            "td_att": 18,
+            "sub_att": 0,
+            "ctrl_time": 523
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 78,
+            "sig_str_att": 167,
+            "str_landed": 82,
+            "str_att": 171,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Jim Miller vs Clay Guida": {
+        "name": "Jim Miller vs Clay Guida",
+        "fighter1": "Jim Miller",
+        "fighter2": "Clay Guida",
+        "winner": "Jim Miller",
+        "method": "Submission",
+        "time_end": "0:58",
+        "round_end": 1,
+        "fight_length": 58,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 8,
+            "str_landed": 2,
+            "str_att": 8,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 5,
+            "str_landed": 2,
+            "str_att": 5,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 11
+        }
+    },
+    "Joaquim Silva vs Nasrat Haqparast": {
+        "name": "Joaquim Silva vs Nasrat Haqparast",
+        "fighter1": "Joaquim Silva",
+        "fighter2": "Nasrat Haqparast",
+        "winner": "Nasrat Haqparast",
+        "method": "KO/TKO",
+        "time_end": "0:36",
+        "round_end": 2,
+        "fight_length": 96,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 56,
+            "str_landed": 15,
+            "str_att": 56,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 21,
+            "sig_str_att": 38,
+            "str_landed": 21,
+            "str_att": 38,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    },
+    "Trevin Giles vs Gerald Meerschaert": {
+        "name": "Trevin Giles vs Gerald Meerschaert",
+        "fighter1": "Trevin Giles",
+        "fighter2": "Gerald Meerschaert",
+        "winner": "Gerald Meerschaert",
+        "method": "Submission",
+        "time_end": "1:49",
+        "round_end": 3,
+        "fight_length": 229,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 15,
+            "str_landed": 27,
+            "str_att": 38,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 256
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 19,
+            "str_landed": 31,
+            "str_att": 55,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 330
+        }
+    },
+    "Scott Holtzman vs Dong Hyun Ma": {
+        "name": "Scott Holtzman vs Dong Hyun Ma",
+        "fighter1": "Scott Holtzman",
+        "fighter2": "Dong Hyun Ma",
+        "winner": "Scott Holtzman",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "5:00",
+        "round_end": 2,
+        "fight_length": 360,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 44,
+            "sig_str_att": 92,
+            "str_landed": 55,
+            "str_att": 108,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 294
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 58,
+            "str_landed": 20,
+            "str_att": 62,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 35
+        }
+    },
+    "Darko Stosic vs Kennedy Nzechukwu": {
+        "name": "Darko Stosic vs Kennedy Nzechukwu",
+        "fighter1": "Darko Stosic",
+        "fighter2": "Kennedy Nzechukwu",
+        "winner": "Kennedy Nzechukwu",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            79,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 60,
+            "sig_str_att": 134,
+            "str_landed": 63,
+            "str_att": 137,
+            "td_comp": 4,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 129
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 50,
+            "sig_str_att": 123,
+            "str_landed": 50,
+            "str_att": 123,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Mickey Gall vs Salim Touahri": {
+        "name": "Mickey Gall vs Salim Touahri",
+        "fighter1": "Mickey Gall",
+        "fighter2": "Salim Touahri",
+        "winner": "Mickey Gall",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 50,
+            "sig_str_att": 117,
+            "str_landed": 66,
+            "str_att": 136,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 301
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 48,
+            "sig_str_att": 96,
+            "str_landed": 65,
+            "str_att": 118,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 104
+        }
+    },
+    "Antonina Shevchenko vs Lucie Pudilova": {
+        "name": "Antonina Shevchenko vs Lucie Pudilova",
+        "fighter1": "Antonina Shevchenko",
+        "fighter2": "Lucie Pudilova",
+        "winner": "Antonina Shevchenko",
+        "method": "Submission",
+        "time_end": "1:20",
+        "round_end": 2,
+        "fight_length": 140,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 23,
+            "str_landed": 36,
+            "str_att": 44,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 3,
+            "ctrl_time": 114
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 16,
+            "str_landed": 12,
+            "str_att": 24,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 137
+        }
+    },
+    "Jordan Espinosa vs Matt Schnell": {
+        "name": "Jordan Espinosa vs Matt Schnell",
+        "fighter1": "Jordan Espinosa",
+        "fighter2": "Matt Schnell",
+        "winner": "Matt Schnell",
+        "method": "Submission",
+        "time_end": "1:23",
+        "round_end": 1,
+        "fight_length": 83,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 6,
+            "str_landed": 5,
+            "str_att": 6,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 25
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 12,
+            "str_landed": 3,
+            "str_att": 12,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        }
+    },
+    "Lauren Murphy vs Mara Romero Borella": {
+        "name": "Lauren Murphy vs Mara Romero Borella",
+        "fighter1": "Lauren Murphy",
+        "fighter2": "Mara Romero Borella",
+        "winner": "Lauren Murphy",
+        "method": "KO/TKO",
+        "time_end": "1:46",
+        "round_end": 3,
+        "fight_length": 226,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 24,
+            "sig_str_att": 123,
+            "str_landed": 35,
+            "str_att": 144,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 136
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 72,
+            "str_landed": 35,
+            "str_att": 87,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 46
+        }
+    },
+    "Claudio Silva vs Cole Williams": {
+        "name": "Claudio Silva vs Cole Williams",
+        "fighter1": "Claudio Silva",
+        "fighter2": "Cole Williams",
+        "winner": "Claudio Silva",
+        "method": "Submission",
+        "time_end": "2:35",
+        "round_end": 1,
+        "fight_length": 155,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 37,
+            "str_landed": 32,
+            "str_att": 38,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 84
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 6,
+            "str_landed": 2,
+            "str_att": 6,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Miranda Granger vs Hannah Goldy": {
+        "name": "Miranda Granger vs Hannah Goldy",
+        "fighter1": "Miranda Granger",
+        "fighter2": "Hannah Goldy",
+        "winner": "Miranda Granger",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 61,
+            "sig_str_att": 143,
+            "str_landed": 77,
+            "str_att": 162,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 55,
+            "sig_str_att": 166,
+            "str_landed": 58,
+            "str_att": 170,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 90
+        }
+    }
+}

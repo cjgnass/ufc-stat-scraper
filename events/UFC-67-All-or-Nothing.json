@@ -1,0 +1,313 @@
+{
+    "event": "UFC 67: All or Nothing",
+    "date": "February 03, 2007",
+    "Anderson Silva vs Travis Lutter": {
+        "name": "Anderson Silva vs Travis Lutter",
+        "fighter1": "Anderson Silva",
+        "fighter2": "Travis Lutter",
+        "winner": "Anderson Silva",
+        "method": "Submission",
+        "time_end": "2:11",
+        "round_end": 2,
+        "fight_length": 191,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 11,
+            "str_landed": 28,
+            "str_att": 33,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 26
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 16,
+            "str_landed": 14,
+            "str_att": 22,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 295
+        }
+    },
+    "Mirko Filipovic vs Eddie Sanchez": {
+        "name": "Mirko Filipovic vs Eddie Sanchez",
+        "fighter1": "Mirko Filipovic",
+        "fighter2": "Eddie Sanchez",
+        "winner": "Mirko Filipovic",
+        "method": "KO/TKO",
+        "time_end": "4:33",
+        "round_end": 1,
+        "fight_length": 273,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 20,
+            "sig_str_att": 39,
+            "str_landed": 32,
+            "str_att": 51,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 57
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 40,
+            "str_landed": 5,
+            "str_att": 40,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Roger Huerta vs John Halverson": {
+        "name": "Roger Huerta vs John Halverson",
+        "fighter1": "Roger Huerta",
+        "fighter2": "John Halverson",
+        "winner": "Roger Huerta",
+        "method": "KO/TKO",
+        "time_end": "0:19",
+        "round_end": 1,
+        "fight_length": 19,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 18,
+            "str_landed": 13,
+            "str_att": 18,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 12
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 2,
+            "str_landed": 1,
+            "str_att": 2,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Quinton Jackson vs Marvin Eastman": {
+        "name": "Quinton Jackson vs Marvin Eastman",
+        "fighter1": "Quinton Jackson",
+        "fighter2": "Marvin Eastman",
+        "winner": "Quinton Jackson",
+        "method": "KO/TKO",
+        "time_end": "3:49",
+        "round_end": 2,
+        "fight_length": 289,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 45,
+            "sig_str_att": 74,
+            "str_landed": 55,
+            "str_att": 84,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 61
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 54,
+            "str_landed": 25,
+            "str_att": 64,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 31
+        }
+    },
+    "Patrick Cote vs Scott Smith": {
+        "name": "Patrick Cote vs Scott Smith",
+        "fighter1": "Patrick Cote",
+        "fighter2": "Scott Smith",
+        "winner": "Patrick Cote",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 50,
+            "sig_str_att": 86,
+            "str_landed": 58,
+            "str_att": 94,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 147
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 90,
+            "str_landed": 35,
+            "str_att": 91,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 172
+        }
+    },
+    "Terry Martin vs Jorge Rivera": {
+        "name": "Terry Martin vs Jorge Rivera",
+        "fighter1": "Terry Martin",
+        "fighter2": "Jorge Rivera",
+        "winner": "Terry Martin",
+        "method": "KO/TKO",
+        "time_end": "0:14",
+        "round_end": 1,
+        "fight_length": 14,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 4,
+            "sig_str_att": 4,
+            "str_landed": 4,
+            "str_att": 4,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 2,
+            "str_landed": 1,
+            "str_att": 2,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Frankie Edgar vs Tyson Griffin": {
+        "name": "Frankie Edgar vs Tyson Griffin",
+        "fighter1": "Frankie Edgar",
+        "fighter2": "Tyson Griffin",
+        "winner": "Frankie Edgar",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 55,
+            "sig_str_att": 100,
+            "str_landed": 92,
+            "str_att": 141,
+            "td_comp": 8,
+            "td_att": 15,
+            "sub_att": 0,
+            "ctrl_time": 302
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 115,
+            "str_landed": 42,
+            "str_att": 119,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 4,
+            "ctrl_time": 99
+        }
+    },
+    "Lyoto Machida vs Sam Hoger": {
+        "name": "Lyoto Machida vs Sam Hoger",
+        "fighter1": "Lyoto Machida",
+        "fighter2": "Sam Hoger",
+        "winner": "Lyoto Machida",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 62,
+            "sig_str_att": 95,
+            "str_landed": 84,
+            "str_att": 117,
+            "td_comp": 4,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 467
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 47,
+            "str_landed": 40,
+            "str_att": 78,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 25
+        }
+    },
+    "Dustin Hazelett vs Diego Saraiva": {
+        "name": "Dustin Hazelett vs Diego Saraiva",
+        "fighter1": "Dustin Hazelett",
+        "fighter2": "Diego Saraiva",
+        "winner": "Dustin Hazelett",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 105,
+            "str_landed": 83,
+            "str_att": 147,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 254
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 32,
+            "str_landed": 59,
+            "str_att": 78,
+            "td_comp": 4,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 344
+        }
+    }
+}

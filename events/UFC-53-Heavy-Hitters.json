@@ -1,0 +1,271 @@
+{
+    "event": "UFC 53: Heavy Hitters",
+    "date": "June 04, 2005",
+    "Andrei Arlovski vs Justin Eilers": {
+        "name": "Andrei Arlovski vs Justin Eilers",
+        "fighter1": "Andrei Arlovski",
+        "fighter2": "Justin Eilers",
+        "winner": "Andrei Arlovski",
+        "method": "KO/TKO",
+        "time_end": "4:10",
+        "round_end": 1,
+        "fight_length": 250,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 56,
+            "str_landed": 33,
+            "str_att": 56,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 7
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 21,
+            "str_landed": 7,
+            "str_att": 23,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Karo Parisyan vs Matt Serra": {
+        "name": "Karo Parisyan vs Matt Serra",
+        "fighter1": "Karo Parisyan",
+        "fighter2": "Matt Serra",
+        "winner": "Karo Parisyan",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 56,
+            "sig_str_att": 127,
+            "str_landed": 113,
+            "str_att": 191,
+            "td_comp": 8,
+            "td_att": 10,
+            "sub_att": 2,
+            "ctrl_time": 362
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 26,
+            "sig_str_att": 65,
+            "str_landed": 52,
+            "str_att": 91,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 56
+        }
+    },
+    "Rich Franklin vs Evan Tanner": {
+        "name": "Rich Franklin vs Evan Tanner",
+        "fighter1": "Rich Franklin",
+        "fighter2": "Evan Tanner",
+        "winner": "Rich Franklin",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "3:25",
+        "round_end": 4,
+        "fight_length": 385,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 97,
+            "sig_str_att": 272,
+            "str_landed": 104,
+            "str_att": 279,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 75
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 25,
+            "sig_str_att": 95,
+            "str_landed": 27,
+            "str_att": 99,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 48
+        }
+    },
+    "Forrest Griffin vs Bill Mahood": {
+        "name": "Forrest Griffin vs Bill Mahood",
+        "fighter1": "Forrest Griffin",
+        "fighter2": "Bill Mahood",
+        "winner": "Forrest Griffin",
+        "method": "Submission",
+        "time_end": "2:18",
+        "round_end": 1,
+        "fight_length": 138,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 4,
+            "str_landed": 32,
+            "str_att": 33,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 124
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 1,
+            "str_landed": 2,
+            "str_att": 2,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Paul Buentello vs Kevin Jordan": {
+        "name": "Paul Buentello vs Kevin Jordan",
+        "fighter1": "Paul Buentello",
+        "fighter2": "Kevin Jordan",
+        "winner": "Paul Buentello",
+        "method": "Submission",
+        "time_end": "4:00",
+        "round_end": 1,
+        "fight_length": 240,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 20,
+            "sig_str_att": 43,
+            "str_landed": 23,
+            "str_att": 47,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 40
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 33,
+            "str_landed": 26,
+            "str_att": 41,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 82
+        }
+    },
+    "Nate Quarry vs Shonie Carter": {
+        "name": "Nate Quarry vs Shonie Carter",
+        "fighter1": "Nate Quarry",
+        "fighter2": "Shonie Carter",
+        "winner": "Nate Quarry",
+        "method": "KO/TKO",
+        "time_end": "2:37",
+        "round_end": 1,
+        "fight_length": 157,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 19,
+            "sig_str_att": 30,
+            "str_landed": 46,
+            "str_att": 57,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 36
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 19,
+            "str_landed": 11,
+            "str_att": 25,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 42
+        }
+    },
+    "David Loiseau vs Charles McCarthy": {
+        "name": "David Loiseau vs Charles McCarthy",
+        "fighter1": "David Loiseau",
+        "fighter2": "Charles McCarthy",
+        "winner": "David Loiseau",
+        "method": "KO/TKO",
+        "time_end": "2:10",
+        "round_end": 2,
+        "fight_length": 190,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 20,
+            "sig_str_att": 40,
+            "str_landed": 30,
+            "str_att": 50,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 173
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 1,
+            "str_landed": 8,
+            "str_att": 20,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 165
+        }
+    },
+    "Nick Diaz vs Koji Oishi": {
+        "name": "Nick Diaz vs Koji Oishi",
+        "fighter1": "Nick Diaz",
+        "fighter2": "Koji Oishi",
+        "winner": "Nick Diaz",
+        "method": "KO/TKO",
+        "time_end": "1:24",
+        "round_end": 1,
+        "fight_length": 84,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 25,
+            "sig_str_att": 44,
+            "str_landed": 26,
+            "str_att": 45,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 22,
+            "str_landed": 2,
+            "str_att": 22,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

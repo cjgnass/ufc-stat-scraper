@@ -1,0 +1,352 @@
+{
+    "event": "UFC 87: Seek And Destroy",
+    "date": "August 09, 2008",
+    "Georges St-Pierre vs Jon Fitch": {
+        "name": "Georges St-Pierre vs Jon Fitch",
+        "fighter1": "Georges St-Pierre",
+        "fighter2": "Jon Fitch",
+        "winner": "Georges St-Pierre",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            131,
+            150
+        ],
+        "fighter1_fight_data": {
+            "kd": 3,
+            "sig_str_landed": 131,
+            "sig_str_att": 226,
+            "str_landed": 203,
+            "str_att": 303,
+            "td_comp": 7,
+            "td_att": 9,
+            "sub_att": 1,
+            "ctrl_time": 673
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 132,
+            "str_landed": 96,
+            "str_att": 193,
+            "td_comp": 0,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 112
+        }
+    },
+    "Brock Lesnar vs Heath Herring": {
+        "name": "Brock Lesnar vs Heath Herring",
+        "fighter1": "Brock Lesnar",
+        "fighter2": "Heath Herring",
+        "winner": "Brock Lesnar",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            78,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 45,
+            "sig_str_att": 52,
+            "str_landed": 96,
+            "str_att": 107,
+            "td_comp": 5,
+            "td_att": 6,
+            "sub_att": 1,
+            "ctrl_time": 693
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 21,
+            "str_landed": 41,
+            "str_att": 55,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 115
+        }
+    },
+    "Rob Emerson vs Manvel Gamburyan": {
+        "name": "Rob Emerson vs Manvel Gamburyan",
+        "fighter1": "Rob Emerson",
+        "fighter2": "Manvel Gamburyan",
+        "winner": "Rob Emerson",
+        "method": "KO/TKO",
+        "time_end": "0:12",
+        "round_end": 1,
+        "fight_length": 12,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 3,
+            "sig_str_att": 3,
+            "str_landed": 3,
+            "str_att": 3,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 3,
+            "str_landed": 0,
+            "str_att": 3,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Kenny Florian vs Roger Huerta": {
+        "name": "Kenny Florian vs Roger Huerta",
+        "fighter1": "Kenny Florian",
+        "fighter2": "Roger Huerta",
+        "winner": "Kenny Florian",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 51,
+            "sig_str_att": 99,
+            "str_landed": 65,
+            "str_att": 113,
+            "td_comp": 5,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 147
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 103,
+            "str_landed": 60,
+            "str_att": 132,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 78
+        }
+    },
+    "Demian Maia vs Jason MacDonald": {
+        "name": "Demian Maia vs Jason MacDonald",
+        "fighter1": "Demian Maia",
+        "fighter2": "Jason MacDonald",
+        "winner": "Demian Maia",
+        "method": "Submission",
+        "time_end": "2:44",
+        "round_end": 3,
+        "fight_length": 284,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 30,
+            "sig_str_att": 59,
+            "str_landed": 103,
+            "str_att": 145,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 3,
+            "ctrl_time": 379
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 15,
+            "str_landed": 36,
+            "str_att": 45,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 4,
+            "ctrl_time": 316
+        }
+    },
+    "Tamdan McCrory vs Luke Cummo": {
+        "name": "Tamdan McCrory vs Luke Cummo",
+        "fighter1": "Tamdan McCrory",
+        "fighter2": "Luke Cummo",
+        "winner": "Tamdan McCrory",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 44,
+            "str_landed": 44,
+            "str_att": 64,
+            "td_comp": 4,
+            "td_att": 7,
+            "sub_att": 7,
+            "ctrl_time": 617
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 25,
+            "str_landed": 42,
+            "str_att": 61,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 133
+        }
+    },
+    "Cheick Kongo vs Dan Evensen": {
+        "name": "Cheick Kongo vs Dan Evensen",
+        "fighter1": "Cheick Kongo",
+        "fighter2": "Dan Evensen",
+        "winner": "Cheick Kongo",
+        "method": "KO/TKO",
+        "time_end": "4:55",
+        "round_end": 1,
+        "fight_length": 295,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 23,
+            "sig_str_att": 34,
+            "str_landed": 38,
+            "str_att": 50,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 230
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 9,
+            "str_landed": 3,
+            "str_att": 10,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 0
+        }
+    },
+    "Jon Jones vs Andre Gusmao": {
+        "name": "Jon Jones vs Andre Gusmao",
+        "fighter1": "Jon Jones",
+        "fighter2": "Andre Gusmao",
+        "winner": "Jon Jones",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 102,
+            "str_landed": 68,
+            "str_att": 129,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 256
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 84,
+            "str_landed": 46,
+            "str_att": 98,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 107
+        }
+    },
+    "Chris Wilson vs Steve Bruno": {
+        "name": "Chris Wilson vs Steve Bruno",
+        "fighter1": "Chris Wilson",
+        "fighter2": "Steve Bruno",
+        "winner": "Chris Wilson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 3,
+            "sig_str_landed": 47,
+            "sig_str_att": 72,
+            "str_landed": 111,
+            "str_att": 142,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 540
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 18,
+            "str_landed": 8,
+            "str_att": 21,
+            "td_comp": 1,
+            "td_att": 13,
+            "sub_att": 0,
+            "ctrl_time": 68
+        }
+    },
+    "Ben Saunders vs Ryan Thomas": {
+        "name": "Ben Saunders vs Ryan Thomas",
+        "fighter1": "Ben Saunders",
+        "fighter2": "Ryan Thomas",
+        "winner": "Ben Saunders",
+        "method": "Submission",
+        "time_end": "2:28",
+        "round_end": 2,
+        "fight_length": 208,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 41,
+            "sig_str_att": 58,
+            "str_landed": 56,
+            "str_att": 74,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 248
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 53,
+            "str_landed": 32,
+            "str_att": 78,
+            "td_comp": 0,
+            "td_att": 7,
+            "sub_att": 2,
+            "ctrl_time": 22
+        }
+    }
+}

@@ -1,0 +1,358 @@
+{
+    "event": "UFC Fight Night: Whittaker vs. Gastelum",
+    "date": "April 17, 2021",
+    "Robert Whittaker vs Kelvin Gastelum": {
+        "name": "Robert Whittaker vs Kelvin Gastelum",
+        "fighter1": "Robert Whittaker",
+        "fighter2": "Kelvin Gastelum",
+        "winner": "Robert Whittaker",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            135,
+            150
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 150,
+            "sig_str_att": 284,
+            "str_landed": 169,
+            "str_att": 303,
+            "td_comp": 4,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 259
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 62,
+            "sig_str_att": 209,
+            "str_landed": 70,
+            "str_att": 218,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 26
+        }
+    },
+    "Andrei Arlovski vs Chase Sherman": {
+        "name": "Andrei Arlovski vs Chase Sherman",
+        "fighter1": "Andrei Arlovski",
+        "fighter2": "Chase Sherman",
+        "winner": "Andrei Arlovski",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 105,
+            "sig_str_att": 222,
+            "str_landed": 109,
+            "str_att": 226,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 39
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 88,
+            "sig_str_att": 192,
+            "str_landed": 99,
+            "str_att": 203,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Abdul Razak Alhassan vs Jacob Malkoun": {
+        "name": "Abdul Razak Alhassan vs Jacob Malkoun",
+        "fighter1": "Abdul Razak Alhassan",
+        "fighter2": "Jacob Malkoun",
+        "winner": "Jacob Malkoun",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 47,
+            "str_landed": 32,
+            "str_att": 59,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 55,
+            "str_landed": 91,
+            "str_att": 135,
+            "td_comp": 8,
+            "td_att": 24,
+            "sub_att": 2,
+            "ctrl_time": 701
+        }
+    },
+    "Tracy Cortez vs Justine Kish": {
+        "name": "Tracy Cortez vs Justine Kish",
+        "fighter1": "Tracy Cortez",
+        "fighter2": "Justine Kish",
+        "winner": "Tracy Cortez",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 66,
+            "sig_str_att": 112,
+            "str_landed": 84,
+            "str_att": 138,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 386
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 55,
+            "sig_str_att": 119,
+            "str_landed": 72,
+            "str_att": 140,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 38
+        }
+    },
+    "Luis Pena vs Alexander Munoz": {
+        "name": "Luis Pena vs Alexander Munoz",
+        "fighter1": "Luis Pena",
+        "fighter2": "Alexander Munoz",
+        "winner": "Luis Pena",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 90,
+            "sig_str_att": 195,
+            "str_landed": 90,
+            "str_att": 195,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 80,
+            "sig_str_att": 169,
+            "str_landed": 82,
+            "str_att": 172,
+            "td_comp": 4,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 141
+        }
+    },
+    "Alexandr Romanov vs Juan Espino": {
+        "name": "Alexandr Romanov vs Juan Espino",
+        "fighter1": "Alexandr Romanov",
+        "fighter2": "Juan Espino",
+        "winner": "Alexandr Romanov",
+        "method": "Decision - Split",
+        "time_end": "1:05",
+        "round_end": 3,
+        "fight_length": 185,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 53,
+            "str_landed": 53,
+            "str_att": 77,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 341
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 22,
+            "str_landed": 44,
+            "str_att": 56,
+            "td_comp": 4,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 175
+        }
+    },
+    "Jessica Penne vs Loopy Godinez": {
+        "name": "Jessica Penne vs Loopy Godinez",
+        "fighter1": "Jessica Penne",
+        "fighter2": "Loopy Godinez",
+        "winner": "Jessica Penne",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 87,
+            "str_landed": 98,
+            "str_att": 158,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 270
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 74,
+            "str_landed": 68,
+            "str_att": 106,
+            "td_comp": 3,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 250
+        }
+    },
+    "Bartosz Fabinski vs Gerald Meerschaert": {
+        "name": "Bartosz Fabinski vs Gerald Meerschaert",
+        "fighter1": "Bartosz Fabinski",
+        "fighter2": "Gerald Meerschaert",
+        "winner": "Gerald Meerschaert",
+        "method": "Submission",
+        "time_end": "2:00",
+        "round_end": 1,
+        "fight_length": 120,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 13,
+            "str_landed": 16,
+            "str_att": 23,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 13
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 10,
+            "str_landed": 12,
+            "str_att": 14,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 86
+        }
+    },
+    "Austin Hubbard vs Dakota Bush": {
+        "name": "Austin Hubbard vs Dakota Bush",
+        "fighter1": "Austin Hubbard",
+        "fighter2": "Dakota Bush",
+        "winner": "Austin Hubbard",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 67,
+            "sig_str_att": 115,
+            "str_landed": 126,
+            "str_att": 181,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 402
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 104,
+            "str_landed": 54,
+            "str_att": 122,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 91
+        }
+    },
+    "Tony Gravely vs Anthony Birchak": {
+        "name": "Tony Gravely vs Anthony Birchak",
+        "fighter1": "Tony Gravely",
+        "fighter2": "Anthony Birchak",
+        "winner": "Tony Gravely",
+        "method": "KO/TKO",
+        "time_end": "1:31",
+        "round_end": 2,
+        "fight_length": 151,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 39,
+            "sig_str_att": 75,
+            "str_landed": 61,
+            "str_att": 105,
+            "td_comp": 4,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 274
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 45,
+            "str_landed": 30,
+            "str_att": 59,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 27
+        }
+    }
+}

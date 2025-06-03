@@ -1,0 +1,202 @@
+{
+    "event": "UFC 3: The American Dream",
+    "date": "September 09, 1994",
+    "Steve Jennum vs Harold Howard": {
+        "name": "Steve Jennum vs Harold Howard",
+        "fighter1": "Steve Jennum",
+        "fighter2": "Harold Howard",
+        "winner": "Steve Jennum",
+        "method": "KO/TKO",
+        "time_end": "1:27",
+        "round_end": 1,
+        "fight_length": 87,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 11,
+            "str_landed": 7,
+            "str_att": 13,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 6,
+            "str_landed": 3,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        }
+    },
+    "Ken Shamrock vs Felix Lee Mitchell": {
+        "name": "Ken Shamrock vs Felix Lee Mitchell",
+        "fighter1": "Ken Shamrock",
+        "fighter2": "Felix Lee Mitchell",
+        "winner": "Ken Shamrock",
+        "method": "Submission",
+        "time_end": "4:34",
+        "round_end": 1,
+        "fight_length": 274,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 4,
+            "str_landed": 7,
+            "str_att": 7,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 3,
+            "str_landed": 21,
+            "str_att": 22,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Royce Gracie vs Kimo Leopoldo": {
+        "name": "Royce Gracie vs Kimo Leopoldo",
+        "fighter1": "Royce Gracie",
+        "fighter2": "Kimo Leopoldo",
+        "winner": "Royce Gracie",
+        "method": "Submission",
+        "time_end": "4:40",
+        "round_end": 1,
+        "fight_length": 280,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 6,
+            "str_landed": 17,
+            "str_att": 21,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 9,
+            "str_landed": 6,
+            "str_att": 10,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Harold Howard vs Roland Payne": {
+        "name": "Harold Howard vs Roland Payne",
+        "fighter1": "Harold Howard",
+        "fighter2": "Roland Payne",
+        "winner": "Harold Howard",
+        "method": "KO/TKO",
+        "time_end": "0:46",
+        "round_end": 1,
+        "fight_length": 46,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 9,
+            "sig_str_att": 12,
+            "str_landed": 12,
+            "str_att": 15,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 4,
+            "str_landed": 3,
+            "str_att": 4,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Ken Shamrock vs Christophe Leninger": {
+        "name": "Ken Shamrock vs Christophe Leninger",
+        "fighter1": "Ken Shamrock",
+        "fighter2": "Christophe Leninger",
+        "winner": "Ken Shamrock",
+        "method": "KO/TKO",
+        "time_end": "4:49",
+        "round_end": 1,
+        "fight_length": 289,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 9,
+            "str_landed": 16,
+            "str_att": 20,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 2,
+            "str_landed": 21,
+            "str_att": 23,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Keith Hackney vs Emmanuel Yarborough": {
+        "name": "Keith Hackney vs Emmanuel Yarborough",
+        "fighter1": "Keith Hackney",
+        "fighter2": "Emmanuel Yarborough",
+        "winner": "Keith Hackney",
+        "method": "KO/TKO",
+        "time_end": "1:59",
+        "round_end": 1,
+        "fight_length": 119,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 34,
+            "sig_str_att": 50,
+            "str_landed": 36,
+            "str_att": 52,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 5,
+            "str_landed": 4,
+            "str_att": 9,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

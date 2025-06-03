@@ -1,0 +1,418 @@
+{
+    "event": "UFC Fight Night: Figueiredo vs. Benavidez 2",
+    "date": "July 18, 2020",
+    "Deiveson Figueiredo vs Joseph Benavidez": {
+        "name": "Deiveson Figueiredo vs Joseph Benavidez",
+        "fighter1": "Deiveson Figueiredo",
+        "fighter2": "Joseph Benavidez",
+        "winner": "Deiveson Figueiredo",
+        "method": "Submission",
+        "time_end": "4:48",
+        "round_end": 1,
+        "fight_length": 288,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 35,
+            "sig_str_att": 40,
+            "str_landed": 40,
+            "str_att": 45,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 4,
+            "ctrl_time": 143
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 28,
+            "str_landed": 22,
+            "str_att": 33,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Jack Hermansson vs Kelvin Gastelum": {
+        "name": "Jack Hermansson vs Kelvin Gastelum",
+        "fighter1": "Jack Hermansson",
+        "fighter2": "Kelvin Gastelum",
+        "winner": "Jack Hermansson",
+        "method": "Submission",
+        "time_end": "1:18",
+        "round_end": 1,
+        "fight_length": 78,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 4,
+            "str_landed": 2,
+            "str_att": 4,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 3,
+            "str_landed": 1,
+            "str_att": 5,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 33
+        }
+    },
+    "Marc Diakiese vs Rafael Fiziev": {
+        "name": "Marc Diakiese vs Rafael Fiziev",
+        "fighter1": "Marc Diakiese",
+        "fighter2": "Rafael Fiziev",
+        "winner": "Rafael Fiziev",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 68,
+            "sig_str_att": 148,
+            "str_landed": 73,
+            "str_att": 153,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 22
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 78,
+            "sig_str_att": 124,
+            "str_landed": 82,
+            "str_att": 128,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 169
+        }
+    },
+    "Ariane da Silva vs Luana Carolina": {
+        "name": "Ariane da Silva vs Luana Carolina",
+        "fighter1": "Ariane da Silva",
+        "fighter2": "Luana Carolina",
+        "winner": "Ariane da Silva",
+        "method": "Submission",
+        "time_end": "1:28",
+        "round_end": 1,
+        "fight_length": 88,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 4,
+            "str_landed": 11,
+            "str_att": 12,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 67
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 4,
+            "str_landed": 2,
+            "str_att": 4,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        }
+    },
+    "Alexandre Pantoja vs Askar Askarov": {
+        "name": "Alexandre Pantoja vs Askar Askarov",
+        "fighter1": "Alexandre Pantoja",
+        "fighter2": "Askar Askarov",
+        "winner": "Askar Askarov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 62,
+            "str_landed": 40,
+            "str_att": 71,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 137
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 63,
+            "str_landed": 44,
+            "str_att": 66,
+            "td_comp": 2,
+            "td_att": 15,
+            "sub_att": 0,
+            "ctrl_time": 311
+        }
+    },
+    "Roman Dolidze vs Khadis Ibragimov": {
+        "name": "Roman Dolidze vs Khadis Ibragimov",
+        "fighter1": "Roman Dolidze",
+        "fighter2": "Khadis Ibragimov",
+        "winner": "Roman Dolidze",
+        "method": "KO/TKO",
+        "time_end": "4:15",
+        "round_end": 1,
+        "fight_length": 255,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 19,
+            "sig_str_att": 22,
+            "str_landed": 19,
+            "str_att": 22,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 14,
+            "str_landed": 10,
+            "str_att": 20,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 34
+        }
+    },
+    "Grant Dawson vs Nad Narimani": {
+        "name": "Grant Dawson vs Nad Narimani",
+        "fighter1": "Grant Dawson",
+        "fighter2": "Nad Narimani",
+        "winner": "Grant Dawson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 53,
+            "sig_str_att": 115,
+            "str_landed": 136,
+            "str_att": 218,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 1,
+            "ctrl_time": 491
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 76,
+            "str_landed": 57,
+            "str_att": 105,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 9
+        }
+    },
+    "Joe Duffy vs Joel Alvarez": {
+        "name": "Joe Duffy vs Joel Alvarez",
+        "fighter1": "Joe Duffy",
+        "fighter2": "Joel Alvarez",
+        "winner": "Joel Alvarez",
+        "method": "Submission",
+        "time_end": "2:25",
+        "round_end": 1,
+        "fight_length": 145,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 26,
+            "str_landed": 14,
+            "str_att": 26,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 9
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 37,
+            "str_landed": 18,
+            "str_att": 37,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        }
+    },
+    "Brett Johns vs Montel Jackson": {
+        "name": "Brett Johns vs Montel Jackson",
+        "fighter1": "Brett Johns",
+        "fighter2": "Montel Jackson",
+        "winner": "Brett Johns",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 19,
+            "str_landed": 30,
+            "str_att": 39,
+            "td_comp": 8,
+            "td_att": 19,
+            "sub_att": 1,
+            "ctrl_time": 522
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 26,
+            "sig_str_att": 44,
+            "str_landed": 80,
+            "str_att": 99,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 161
+        }
+    },
+    "Malcolm Gordon vs Amir Albazi": {
+        "name": "Malcolm Gordon vs Amir Albazi",
+        "fighter1": "Malcolm Gordon",
+        "fighter2": "Amir Albazi",
+        "winner": "Amir Albazi",
+        "method": "Submission",
+        "time_end": "4:42",
+        "round_end": 1,
+        "fight_length": 282,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 16,
+            "str_landed": 5,
+            "str_att": 18,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 22
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 28,
+            "str_landed": 28,
+            "str_att": 46,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 141
+        }
+    },
+    "Davi Ramos vs Arman Tsarukyan": {
+        "name": "Davi Ramos vs Arman Tsarukyan",
+        "fighter1": "Davi Ramos",
+        "fighter2": "Arman Tsarukyan",
+        "winner": "Arman Tsarukyan",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 103,
+            "str_landed": 49,
+            "str_att": 122,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 18
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 91,
+            "sig_str_att": 197,
+            "str_landed": 118,
+            "str_att": 227,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 188
+        }
+    },
+    "Carlos Felipe vs Serghei Spivac": {
+        "name": "Carlos Felipe vs Serghei Spivac",
+        "fighter1": "Carlos Felipe",
+        "fighter2": "Serghei Spivac",
+        "winner": "Serghei Spivac",
+        "method": "Decision - Majority",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 121,
+            "str_landed": 44,
+            "str_att": 121,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 73,
+            "sig_str_att": 149,
+            "str_landed": 165,
+            "str_att": 253,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 292
+        }
+    }
+}

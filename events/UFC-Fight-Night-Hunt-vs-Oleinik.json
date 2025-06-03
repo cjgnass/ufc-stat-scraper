@@ -1,0 +1,421 @@
+{
+    "event": "UFC Fight Night: Hunt vs. Oleinik",
+    "date": "September 15, 2018",
+    "Mark Hunt vs Aleksei Oleinik": {
+        "name": "Mark Hunt vs Aleksei Oleinik",
+        "fighter1": "Mark Hunt",
+        "fighter2": "Aleksei Oleinik",
+        "winner": "Aleksei Oleinik",
+        "method": "Submission",
+        "time_end": "4:26",
+        "round_end": 1,
+        "fight_length": 266,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 27,
+            "str_landed": 6,
+            "str_att": 27,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 26,
+            "str_landed": 3,
+            "str_att": 26,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 42
+        }
+    },
+    "Jan Blachowicz vs Nikita Krylov": {
+        "name": "Jan Blachowicz vs Nikita Krylov",
+        "fighter1": "Jan Blachowicz",
+        "fighter2": "Nikita Krylov",
+        "winner": "Jan Blachowicz",
+        "method": "Submission",
+        "time_end": "2:41",
+        "round_end": 2,
+        "fight_length": 221,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 18,
+            "str_landed": 24,
+            "str_att": 33,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 293
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 22,
+            "str_landed": 21,
+            "str_att": 40,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 100
+        }
+    },
+    "Andrei Arlovski vs Shamil Abdurakhimov": {
+        "name": "Andrei Arlovski vs Shamil Abdurakhimov",
+        "fighter1": "Andrei Arlovski",
+        "fighter2": "Shamil Abdurakhimov",
+        "winner": "Shamil Abdurakhimov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 58,
+            "str_landed": 27,
+            "str_att": 71,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 18
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 70,
+            "str_landed": 67,
+            "str_att": 108,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 206
+        }
+    },
+    "Aleksei Kunchenko vs Thiago Alves": {
+        "name": "Aleksei Kunchenko vs Thiago Alves",
+        "fighter1": "Aleksei Kunchenko",
+        "fighter2": "Thiago Alves",
+        "winner": "Aleksei Kunchenko",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 153,
+            "str_landed": 56,
+            "str_att": 166,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 56,
+            "sig_str_att": 175,
+            "str_landed": 56,
+            "str_att": 175,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 48
+        }
+    },
+    "Khalid Murtazaliev vs CB Dollaway": {
+        "name": "Khalid Murtazaliev vs CB Dollaway",
+        "fighter1": "Khalid Murtazaliev",
+        "fighter2": "CB Dollaway",
+        "winner": "Khalid Murtazaliev",
+        "method": "KO/TKO",
+        "time_end": "5:00",
+        "round_end": 2,
+        "fight_length": 360,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 48,
+            "sig_str_att": 69,
+            "str_landed": 53,
+            "str_att": 74,
+            "td_comp": 5,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 359
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 19,
+            "str_landed": 23,
+            "str_att": 38,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 3,
+            "ctrl_time": 98
+        }
+    },
+    "Petr Yan vs Jin Soo Son": {
+        "name": "Petr Yan vs Jin Soo Son",
+        "fighter1": "Petr Yan",
+        "fighter2": "Jin Soo Son",
+        "winner": "Petr Yan",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 100,
+            "sig_str_att": 232,
+            "str_landed": 115,
+            "str_att": 249,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 13
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 220,
+            "str_landed": 63,
+            "str_att": 226,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 155
+        }
+    },
+    "Rustam Khabilov vs Kajan Johnson": {
+        "name": "Rustam Khabilov vs Kajan Johnson",
+        "fighter1": "Rustam Khabilov",
+        "fighter2": "Kajan Johnson",
+        "winner": "Rustam Khabilov",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 70,
+            "str_landed": 34,
+            "str_att": 88,
+            "td_comp": 3,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 250
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 123,
+            "str_landed": 57,
+            "str_att": 137,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Mairbek Taisumov vs Desmond Green": {
+        "name": "Mairbek Taisumov vs Desmond Green",
+        "fighter1": "Mairbek Taisumov",
+        "fighter2": "Desmond Green",
+        "winner": "Mairbek Taisumov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 82,
+            "str_landed": 28,
+            "str_att": 83,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 4
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 83,
+            "str_landed": 27,
+            "str_att": 83,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Magomed Ankalaev vs Marcin Prachnio": {
+        "name": "Magomed Ankalaev vs Marcin Prachnio",
+        "fighter1": "Magomed Ankalaev",
+        "fighter2": "Marcin Prachnio",
+        "winner": "Magomed Ankalaev",
+        "method": "KO/TKO",
+        "time_end": "3:09",
+        "round_end": 1,
+        "fight_length": 189,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 12,
+            "sig_str_att": 27,
+            "str_landed": 12,
+            "str_att": 27,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 22,
+            "str_landed": 3,
+            "str_att": 22,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Adam Yandiev vs Jordan Johnson": {
+        "name": "Adam Yandiev vs Jordan Johnson",
+        "fighter1": "Adam Yandiev",
+        "fighter2": "Jordan Johnson",
+        "winner": "Jordan Johnson",
+        "method": "Submission",
+        "time_end": "0:42",
+        "round_end": 2,
+        "fight_length": 102,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 12,
+            "str_landed": 1,
+            "str_att": 12,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 55,
+            "str_landed": 55,
+            "str_att": 82,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 2,
+            "ctrl_time": 215
+        }
+    },
+    "Ramazan Emeev vs Stefan Sekulic": {
+        "name": "Ramazan Emeev vs Stefan Sekulic",
+        "fighter1": "Ramazan Emeev",
+        "fighter2": "Stefan Sekulic",
+        "winner": "Ramazan Emeev",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 36,
+            "sig_str_att": 84,
+            "str_landed": 47,
+            "str_att": 96,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 144
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 58,
+            "str_landed": 31,
+            "str_att": 68,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 136
+        }
+    },
+    "Merab Dvalishvili vs Terrion Ware": {
+        "name": "Merab Dvalishvili vs Terrion Ware",
+        "fighter1": "Merab Dvalishvili",
+        "fighter2": "Terrion Ware",
+        "winner": "Merab Dvalishvili",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            75,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 62,
+            "sig_str_att": 165,
+            "str_landed": 205,
+            "str_att": 330,
+            "td_comp": 5,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 693
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 34,
+            "str_landed": 22,
+            "str_att": 51,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

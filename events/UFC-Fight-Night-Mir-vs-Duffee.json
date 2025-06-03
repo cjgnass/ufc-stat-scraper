@@ -1,0 +1,427 @@
+{
+    "event": "UFC Fight Night: Mir vs Duffee",
+    "date": "July 15, 2015",
+    "Frank Mir vs Todd Duffee": {
+        "name": "Frank Mir vs Todd Duffee",
+        "fighter1": "Frank Mir",
+        "fighter2": "Todd Duffee",
+        "winner": "Frank Mir",
+        "method": "KO/TKO",
+        "time_end": "1:13",
+        "round_end": 1,
+        "fight_length": 73,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 16,
+            "sig_str_att": 37,
+            "str_landed": 16,
+            "str_att": 37,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 24,
+            "str_landed": 9,
+            "str_att": 24,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        }
+    },
+    "Josh Thomson vs Tony Ferguson": {
+        "name": "Josh Thomson vs Tony Ferguson",
+        "fighter1": "Josh Thomson",
+        "fighter2": "Tony Ferguson",
+        "winner": "Tony Ferguson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 100,
+            "str_landed": 35,
+            "str_att": 102,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 152
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 83,
+            "sig_str_att": 149,
+            "str_landed": 101,
+            "str_att": 167,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 105
+        }
+    },
+    "Holly Holm vs Marion Reneau": {
+        "name": "Holly Holm vs Marion Reneau",
+        "fighter1": "Holly Holm",
+        "fighter2": "Marion Reneau",
+        "winner": "Holly Holm",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 65,
+            "sig_str_att": 178,
+            "str_landed": 70,
+            "str_att": 184,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 50
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 75,
+            "str_landed": 32,
+            "str_att": 82,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Scott Jorgensen vs Manvel Gamburyan": {
+        "name": "Scott Jorgensen vs Manvel Gamburyan",
+        "fighter1": "Scott Jorgensen",
+        "fighter2": "Manvel Gamburyan",
+        "winner": "Manvel Gamburyan",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 74,
+            "str_landed": 56,
+            "str_att": 94,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 91
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 42,
+            "sig_str_att": 95,
+            "str_landed": 65,
+            "str_att": 128,
+            "td_comp": 5,
+            "td_att": 13,
+            "sub_att": 2,
+            "ctrl_time": 288
+        }
+    },
+    "Kevin Lee vs James Moontasri": {
+        "name": "Kevin Lee vs James Moontasri",
+        "fighter1": "Kevin Lee",
+        "fighter2": "James Moontasri",
+        "winner": "Kevin Lee",
+        "method": "Submission",
+        "time_end": "2:56",
+        "round_end": 1,
+        "fight_length": 176,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 28,
+            "str_landed": 9,
+            "str_att": 28,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 68
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 18,
+            "str_landed": 6,
+            "str_att": 18,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 6
+        }
+    },
+    "Alan Jouban vs Matt Dwyer": {
+        "name": "Alan Jouban vs Matt Dwyer",
+        "fighter1": "Alan Jouban",
+        "fighter2": "Matt Dwyer",
+        "winner": "Alan Jouban",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 51,
+            "sig_str_att": 104,
+            "str_landed": 63,
+            "str_att": 116,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 173
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 29,
+            "sig_str_att": 117,
+            "str_landed": 34,
+            "str_att": 122,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 14
+        }
+    },
+    "Sam Sicilia vs Yaotzin Meza": {
+        "name": "Sam Sicilia vs Yaotzin Meza",
+        "fighter1": "Sam Sicilia",
+        "fighter2": "Yaotzin Meza",
+        "winner": "Sam Sicilia",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 41,
+            "str_landed": 33,
+            "str_att": 66,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 4,
+            "ctrl_time": 506
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 37,
+            "str_landed": 39,
+            "str_att": 60,
+            "td_comp": 1,
+            "td_att": 9,
+            "sub_att": 1,
+            "ctrl_time": 90
+        }
+    },
+    "Jessica Andrade vs Sarah Moras": {
+        "name": "Jessica Andrade vs Sarah Moras",
+        "fighter1": "Jessica Andrade",
+        "fighter2": "Sarah Moras",
+        "winner": "Jessica Andrade",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            79,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 50,
+            "sig_str_att": 90,
+            "str_landed": 158,
+            "str_att": 206,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 547
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 56,
+            "str_landed": 23,
+            "str_att": 61,
+            "td_comp": 0,
+            "td_att": 8,
+            "sub_att": 1,
+            "ctrl_time": 39
+        }
+    },
+    "Rani Yahya vs Masanori Kanehara": {
+        "name": "Rani Yahya vs Masanori Kanehara",
+        "fighter1": "Rani Yahya",
+        "fighter2": "Masanori Kanehara",
+        "winner": "Rani Yahya",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 68,
+            "str_landed": 26,
+            "str_att": 70,
+            "td_comp": 4,
+            "td_att": 11,
+            "sub_att": 2,
+            "ctrl_time": 319
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 44,
+            "str_landed": 136,
+            "str_att": 157,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 282
+        }
+    },
+    "Igor Araujo vs Sean Strickland": {
+        "name": "Igor Araujo vs Sean Strickland",
+        "fighter1": "Igor Araujo",
+        "fighter2": "Sean Strickland",
+        "winner": "Sean Strickland",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            79,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 82,
+            "str_landed": 48,
+            "str_att": 92,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 18
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 71,
+            "sig_str_att": 169,
+            "str_landed": 87,
+            "str_att": 188,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 2,
+            "ctrl_time": 329
+        }
+    },
+    "Kevin Casey vs Ildemar Alcantara": {
+        "name": "Kevin Casey vs Ildemar Alcantara",
+        "fighter1": "Kevin Casey",
+        "fighter2": "Ildemar Alcantara",
+        "winner": "Kevin Casey",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 86,
+            "str_landed": 64,
+            "str_att": 111,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 238
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 66,
+            "str_landed": 20,
+            "str_att": 67,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 20
+        }
+    },
+    "Andrew Craig vs Lyman Good": {
+        "name": "Andrew Craig vs Lyman Good",
+        "fighter1": "Andrew Craig",
+        "fighter2": "Lyman Good",
+        "winner": "Lyman Good",
+        "method": "KO/TKO",
+        "time_end": "3:37",
+        "round_end": 2,
+        "fight_length": 277,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 97,
+            "str_landed": 24,
+            "str_att": 101,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 29
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 55,
+            "sig_str_att": 106,
+            "str_landed": 64,
+            "str_att": 115,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 26
+        }
+    }
+}

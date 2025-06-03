@@ -1,0 +1,421 @@
+{
+    "event": "UFC 99: The Comeback",
+    "date": "June 13, 2009",
+    "Rich Franklin vs Wanderlei Silva": {
+        "name": "Rich Franklin vs Wanderlei Silva",
+        "fighter1": "Rich Franklin",
+        "fighter2": "Wanderlei Silva",
+        "winner": "Rich Franklin",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 52,
+            "sig_str_att": 150,
+            "str_landed": 67,
+            "str_att": 167,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 78
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 137,
+            "str_landed": 55,
+            "str_att": 157,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 92
+        }
+    },
+    "Cain Velasquez vs Cheick Kongo": {
+        "name": "Cain Velasquez vs Cheick Kongo",
+        "fighter1": "Cain Velasquez",
+        "fighter2": "Cheick Kongo",
+        "winner": "Cain Velasquez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 53,
+            "str_landed": 261,
+            "str_att": 320,
+            "td_comp": 7,
+            "td_att": 10,
+            "sub_att": 2,
+            "ctrl_time": 780
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 34,
+            "str_landed": 42,
+            "str_att": 56,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 51
+        }
+    },
+    "Mirko Filipovic vs Mostapha Al-Turk": {
+        "name": "Mirko Filipovic vs Mostapha Al-Turk",
+        "fighter1": "Mirko Filipovic",
+        "fighter2": "Mostapha Al-Turk",
+        "winner": "Mirko Filipovic",
+        "method": "KO/TKO",
+        "time_end": "3:06",
+        "round_end": 1,
+        "fight_length": 186,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 16,
+            "sig_str_att": 35,
+            "str_landed": 18,
+            "str_att": 37,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 15
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 25,
+            "str_landed": 7,
+            "str_att": 25,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 5
+        }
+    },
+    "Mike Swick vs Ben Saunders": {
+        "name": "Mike Swick vs Ben Saunders",
+        "fighter1": "Mike Swick",
+        "fighter2": "Ben Saunders",
+        "winner": "Mike Swick",
+        "method": "KO/TKO",
+        "time_end": "3:47",
+        "round_end": 2,
+        "fight_length": 287,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 10,
+            "sig_str_att": 35,
+            "str_landed": 75,
+            "str_att": 108,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 327
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 31,
+            "str_landed": 29,
+            "str_att": 43,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 38
+        }
+    },
+    "Spencer Fisher vs Caol Uno": {
+        "name": "Spencer Fisher vs Caol Uno",
+        "fighter1": "Spencer Fisher",
+        "fighter2": "Caol Uno",
+        "winner": "Spencer Fisher",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 62,
+            "sig_str_att": 85,
+            "str_landed": 77,
+            "str_att": 100,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 186
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 47,
+            "str_landed": 51,
+            "str_att": 77,
+            "td_comp": 3,
+            "td_att": 15,
+            "sub_att": 0,
+            "ctrl_time": 433
+        }
+    },
+    "Dan Hardy vs Marcus Davis": {
+        "name": "Dan Hardy vs Marcus Davis",
+        "fighter1": "Dan Hardy",
+        "fighter2": "Marcus Davis",
+        "winner": "Dan Hardy",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 28,
+            "sig_str_att": 61,
+            "str_landed": 73,
+            "str_att": 109,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 266
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 41,
+            "str_landed": 104,
+            "str_att": 133,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 3,
+            "ctrl_time": 364
+        }
+    },
+    "Terry Etim vs Justin Buchholz": {
+        "name": "Terry Etim vs Justin Buchholz",
+        "fighter1": "Terry Etim",
+        "fighter2": "Justin Buchholz",
+        "winner": "Terry Etim",
+        "method": "Submission",
+        "time_end": "2:38",
+        "round_end": 2,
+        "fight_length": 218,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 50,
+            "str_landed": 31,
+            "str_att": 54,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 3,
+            "ctrl_time": 104
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 23,
+            "sig_str_att": 66,
+            "str_landed": 43,
+            "str_att": 86,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 116
+        }
+    },
+    "Dennis Siver vs Dale Hartt": {
+        "name": "Dennis Siver vs Dale Hartt",
+        "fighter1": "Dennis Siver",
+        "fighter2": "Dale Hartt",
+        "winner": "Dennis Siver",
+        "method": "Submission",
+        "time_end": "3:23",
+        "round_end": 1,
+        "fight_length": 203,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 23,
+            "str_landed": 16,
+            "str_att": 31,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 71
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 16,
+            "str_landed": 5,
+            "str_att": 16,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 29
+        }
+    },
+    "Paul Taylor vs Peter Sobotta": {
+        "name": "Paul Taylor vs Peter Sobotta",
+        "fighter1": "Paul Taylor",
+        "fighter2": "Peter Sobotta",
+        "winner": "Paul Taylor",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 102,
+            "str_landed": 80,
+            "str_att": 136,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 273
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 39,
+            "str_landed": 19,
+            "str_att": 40,
+            "td_comp": 2,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 128
+        }
+    },
+    "Paul Kelly vs Rolando Delgado": {
+        "name": "Paul Kelly vs Rolando Delgado",
+        "fighter1": "Paul Kelly",
+        "fighter2": "Rolando Delgado",
+        "winner": "Paul Kelly",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 74,
+            "str_landed": 90,
+            "str_att": 134,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 474
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 28,
+            "str_landed": 42,
+            "str_att": 59,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 3,
+            "ctrl_time": 243
+        }
+    },
+    "Stefan Struve vs Denis Stojnic": {
+        "name": "Stefan Struve vs Denis Stojnic",
+        "fighter1": "Stefan Struve",
+        "fighter2": "Denis Stojnic",
+        "winner": "Stefan Struve",
+        "method": "Submission",
+        "time_end": "2:37",
+        "round_end": 2,
+        "fight_length": 217,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 6,
+            "str_landed": 37,
+            "str_att": 43,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 7,
+            "ctrl_time": 128
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 60,
+            "str_landed": 36,
+            "str_att": 85,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 288
+        }
+    },
+    "John Hathaway vs Rick Story": {
+        "name": "John Hathaway vs Rick Story",
+        "fighter1": "John Hathaway",
+        "fighter2": "Rick Story",
+        "winner": "John Hathaway",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 85,
+            "str_landed": 102,
+            "str_att": 159,
+            "td_comp": 4,
+            "td_att": 10,
+            "sub_att": 3,
+            "ctrl_time": 410
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 67,
+            "str_landed": 47,
+            "str_att": 94,
+            "td_comp": 4,
+            "td_att": 4,
+            "sub_att": 5,
+            "ctrl_time": 246
+        }
+    }
+}

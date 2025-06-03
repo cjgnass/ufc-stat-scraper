@@ -1,0 +1,280 @@
+{
+    "event": "UFC 42: Sudden Impact",
+    "date": "April 25, 2003",
+    "Matt Hughes vs Sean Sherk": {
+        "name": "Matt Hughes vs Sean Sherk",
+        "fighter1": "Matt Hughes",
+        "fighter2": "Sean Sherk",
+        "winner": "Matt Hughes",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            138,
+            145
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 88,
+            "str_landed": 96,
+            "str_att": 140,
+            "td_comp": 5,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 899
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 39,
+            "str_landed": 144,
+            "str_att": 167,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 347
+        }
+    },
+    "Pete Spratt vs Robbie Lawler": {
+        "name": "Pete Spratt vs Robbie Lawler",
+        "fighter1": "Pete Spratt",
+        "fighter2": "Robbie Lawler",
+        "winner": "Pete Spratt",
+        "method": "Submission",
+        "time_end": "2:28",
+        "round_end": 2,
+        "fight_length": 208,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 27,
+            "str_landed": 25,
+            "str_att": 33,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 99
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 25,
+            "str_landed": 24,
+            "str_att": 34,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 137
+        }
+    },
+    "Dave Strasser vs Romie Aram": {
+        "name": "Dave Strasser vs Romie Aram",
+        "fighter1": "Dave Strasser",
+        "fighter2": "Romie Aram",
+        "winner": "Dave Strasser",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 60,
+            "sig_str_att": 125,
+            "str_landed": 107,
+            "str_att": 176,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 284
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 24,
+            "sig_str_att": 70,
+            "str_landed": 78,
+            "str_att": 125,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 294
+        }
+    },
+    "Wesley Correira vs Sean Alvarez": {
+        "name": "Wesley Correira vs Sean Alvarez",
+        "fighter1": "Wesley Correira",
+        "fighter2": "Sean Alvarez",
+        "winner": "Wesley Correira",
+        "method": "KO/TKO",
+        "time_end": "1:46",
+        "round_end": 2,
+        "fight_length": 166,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 42,
+            "str_landed": 75,
+            "str_att": 95,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 13
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 16,
+            "str_landed": 16,
+            "str_att": 26,
+            "td_comp": 0,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 197
+        }
+    },
+    "Rich Franklin vs Evan Tanner": {
+        "name": "Rich Franklin vs Evan Tanner",
+        "fighter1": "Rich Franklin",
+        "fighter2": "Evan Tanner",
+        "winner": "Rich Franklin",
+        "method": "KO/TKO",
+        "time_end": "2:40",
+        "round_end": 1,
+        "fight_length": 160,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 16,
+            "sig_str_att": 38,
+            "str_landed": 16,
+            "str_att": 38,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 14,
+            "str_landed": 6,
+            "str_att": 14,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Duane Ludwig vs Genki Sudo": {
+        "name": "Duane Ludwig vs Genki Sudo",
+        "fighter1": "Duane Ludwig",
+        "fighter2": "Genki Sudo",
+        "winner": "Duane Ludwig",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 57,
+            "str_landed": 73,
+            "str_att": 101,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 247
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 63,
+            "str_landed": 52,
+            "str_att": 96,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 409
+        }
+    },
+    "Hermes Franca vs Richard Crunkilton": {
+        "name": "Hermes Franca vs Richard Crunkilton",
+        "fighter1": "Hermes Franca",
+        "fighter2": "Richard Crunkilton",
+        "winner": "Hermes Franca",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 27,
+            "sig_str_att": 54,
+            "str_landed": 97,
+            "str_att": 125,
+            "td_comp": 2,
+            "td_att": 11,
+            "sub_att": 9,
+            "ctrl_time": 43
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 89,
+            "str_landed": 77,
+            "str_att": 148,
+            "td_comp": 4,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 441
+        }
+    },
+    "David Loiseau vs Mark Weir": {
+        "name": "David Loiseau vs Mark Weir",
+        "fighter1": "David Loiseau",
+        "fighter2": "Mark Weir",
+        "winner": "David Loiseau",
+        "method": "KO/TKO",
+        "time_end": "3:55",
+        "round_end": 1,
+        "fight_length": 235,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 20,
+            "str_landed": 19,
+            "str_att": 24,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 212
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 2,
+            "str_landed": 12,
+            "str_att": 12,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

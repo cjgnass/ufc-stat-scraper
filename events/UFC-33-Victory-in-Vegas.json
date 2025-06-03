@@ -1,0 +1,286 @@
+{
+    "event": "UFC 33: Victory in Vegas",
+    "date": "September 28, 2001",
+    "Tito Ortiz vs Vladimir Matyushenko": {
+        "name": "Tito Ortiz vs Vladimir Matyushenko",
+        "fighter1": "Tito Ortiz",
+        "fighter2": "Vladimir Matyushenko",
+        "winner": "Tito Ortiz",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            131,
+            150
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 64,
+            "sig_str_att": 84,
+            "str_landed": 248,
+            "str_att": 269,
+            "td_comp": 5,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 1294
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 49,
+            "str_landed": 103,
+            "str_att": 138,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 70
+        }
+    },
+    "Jens Pulver vs Dennis Hallman": {
+        "name": "Jens Pulver vs Dennis Hallman",
+        "fighter1": "Jens Pulver",
+        "fighter2": "Dennis Hallman",
+        "winner": "Jens Pulver",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            141,
+            145
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 60,
+            "str_landed": 100,
+            "str_att": 136,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 961
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 48,
+            "str_landed": 56,
+            "str_att": 91,
+            "td_comp": 2,
+            "td_att": 12,
+            "sub_att": 3,
+            "ctrl_time": 112
+        }
+    },
+    "Chuck Liddell vs Murilo Bustamante": {
+        "name": "Chuck Liddell vs Murilo Bustamante",
+        "fighter1": "Chuck Liddell",
+        "fighter2": "Murilo Bustamante",
+        "winner": "Chuck Liddell",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 27,
+            "sig_str_att": 78,
+            "str_landed": 27,
+            "str_att": 78,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 108
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 30,
+            "str_landed": 15,
+            "str_att": 30,
+            "td_comp": 2,
+            "td_att": 20,
+            "sub_att": 0,
+            "ctrl_time": 53
+        }
+    },
+    "Matt Serra vs Yves Edwards": {
+        "name": "Matt Serra vs Yves Edwards",
+        "fighter1": "Matt Serra",
+        "fighter2": "Yves Edwards",
+        "winner": "Matt Serra",
+        "method": "Decision - Majority",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 17,
+            "str_landed": 20,
+            "str_att": 31,
+            "td_comp": 3,
+            "td_att": 12,
+            "sub_att": 3,
+            "ctrl_time": 509
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 14,
+            "str_landed": 27,
+            "str_att": 33,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 123
+        }
+    },
+    "Dave Menne vs Gil Castillo": {
+        "name": "Dave Menne vs Gil Castillo",
+        "fighter1": "Dave Menne",
+        "fighter2": "Gil Castillo",
+        "winner": "Dave Menne",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            131,
+            147
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 70,
+            "sig_str_att": 125,
+            "str_landed": 180,
+            "str_att": 241,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 4,
+            "ctrl_time": 475
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 25,
+            "str_landed": 110,
+            "str_att": 126,
+            "td_comp": 7,
+            "td_att": 19,
+            "sub_att": 0,
+            "ctrl_time": 696
+        }
+    },
+    "Jutaro Nakao vs Tony DeSouza": {
+        "name": "Jutaro Nakao vs Tony DeSouza",
+        "fighter1": "Jutaro Nakao",
+        "fighter2": "Tony DeSouza",
+        "winner": "Jutaro Nakao",
+        "method": "KO/TKO",
+        "time_end": "0:15",
+        "round_end": 2,
+        "fight_length": 75,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 8,
+            "sig_str_att": 8,
+            "str_landed": 16,
+            "str_att": 16,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 252
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 5,
+            "str_landed": 45,
+            "str_att": 49,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Ricardo Almeida vs Eugene Jackson": {
+        "name": "Ricardo Almeida vs Eugene Jackson",
+        "fighter1": "Ricardo Almeida",
+        "fighter2": "Eugene Jackson",
+        "winner": "Ricardo Almeida",
+        "method": "Submission",
+        "time_end": "4:06",
+        "round_end": 1,
+        "fight_length": 246,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 4,
+            "str_landed": 16,
+            "str_att": 17,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 187
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 4,
+            "str_landed": 18,
+            "str_att": 23,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 38
+        }
+    },
+    "Din Thomas vs Fabiano Iha": {
+        "name": "Din Thomas vs Fabiano Iha",
+        "fighter1": "Din Thomas",
+        "fighter2": "Fabiano Iha",
+        "winner": "Din Thomas",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 69,
+            "str_landed": 98,
+            "str_att": 128,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 369
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 45,
+            "str_landed": 46,
+            "str_att": 78,
+            "td_comp": 2,
+            "td_att": 7,
+            "sub_att": 2,
+            "ctrl_time": 343
+        }
+    }
+}

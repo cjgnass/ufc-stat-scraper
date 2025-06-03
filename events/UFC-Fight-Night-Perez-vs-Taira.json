@@ -1,0 +1,388 @@
+{
+    "event": "UFC Fight Night: Perez vs. Taira",
+    "date": "June 15, 2024",
+    "Alex Perez vs Tatsuro Taira": {
+        "name": "Alex Perez vs Tatsuro Taira",
+        "fighter1": "Alex Perez",
+        "fighter2": "Tatsuro Taira",
+        "winner": "Tatsuro Taira",
+        "method": "KO/TKO",
+        "time_end": "2:59",
+        "round_end": 2,
+        "fight_length": 239,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 77,
+            "str_landed": 45,
+            "str_att": 81,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 24
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 66,
+            "str_landed": 43,
+            "str_att": 78,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 48
+        }
+    },
+    "Douglas Silva de Andrade vs Miles Johns": {
+        "name": "Douglas Silva de Andrade vs Miles Johns",
+        "fighter1": "Douglas Silva de Andrade",
+        "fighter2": "Miles Johns",
+        "winner": "Miles Johns",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 119,
+            "str_landed": 36,
+            "str_att": 119,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 7
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 50,
+            "sig_str_att": 96,
+            "str_landed": 52,
+            "str_att": 98,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 5
+        }
+    },
+    "Timmy Cuamba vs Lucas Almeida": {
+        "name": "Timmy Cuamba vs Lucas Almeida",
+        "fighter1": "Timmy Cuamba",
+        "fighter2": "Lucas Almeida",
+        "winner": "Lucas Almeida",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 59,
+            "sig_str_att": 116,
+            "str_landed": 73,
+            "str_att": 136,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 138
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 70,
+            "sig_str_att": 196,
+            "str_landed": 91,
+            "str_att": 220,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 47
+        }
+    },
+    "Brady Hiestand vs Garrett Armfield": {
+        "name": "Brady Hiestand vs Garrett Armfield",
+        "fighter1": "Brady Hiestand",
+        "fighter2": "Garrett Armfield",
+        "winner": "Brady Hiestand",
+        "method": "Submission",
+        "time_end": "1:52",
+        "round_end": 3,
+        "fight_length": 232,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 50,
+            "str_landed": 42,
+            "str_att": 76,
+            "td_comp": 6,
+            "td_att": 13,
+            "sub_att": 3,
+            "ctrl_time": 336
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 49,
+            "sig_str_att": 83,
+            "str_landed": 59,
+            "str_att": 94,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 177
+        }
+    },
+    "Asu Almabayev vs Jose Johnson": {
+        "name": "Asu Almabayev vs Jose Johnson",
+        "fighter1": "Asu Almabayev",
+        "fighter2": "Jose Johnson",
+        "winner": "Asu Almabayev",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 29,
+            "str_landed": 77,
+            "str_att": 109,
+            "td_comp": 6,
+            "td_att": 11,
+            "sub_att": 4,
+            "ctrl_time": 684
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 21,
+            "str_landed": 58,
+            "str_att": 79,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 63
+        }
+    },
+    "Josh Quinlan vs Adam Fugitt": {
+        "name": "Josh Quinlan vs Adam Fugitt",
+        "fighter1": "Josh Quinlan",
+        "fighter2": "Adam Fugitt",
+        "winner": "Adam Fugitt",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 53,
+            "sig_str_att": 126,
+            "str_landed": 53,
+            "str_att": 126,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 80,
+            "sig_str_att": 205,
+            "str_landed": 80,
+            "str_att": 205,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Jimmy Flick vs Nate Maness": {
+        "name": "Jimmy Flick vs Nate Maness",
+        "fighter1": "Jimmy Flick",
+        "fighter2": "Nate Maness",
+        "winner": "Nate Maness",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 75,
+            "str_landed": 41,
+            "str_att": 80,
+            "td_comp": 1,
+            "td_att": 8,
+            "sub_att": 2,
+            "ctrl_time": 161
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 89,
+            "sig_str_att": 168,
+            "str_landed": 139,
+            "str_att": 234,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 263
+        }
+    },
+    "Carli Judice vs Gabriella Fernandes": {
+        "name": "Carli Judice vs Gabriella Fernandes",
+        "fighter1": "Carli Judice",
+        "fighter2": "Gabriella Fernandes",
+        "winner": "Gabriella Fernandes",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 169,
+            "sig_str_att": 323,
+            "str_landed": 186,
+            "str_att": 345,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 64
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 119,
+            "sig_str_att": 234,
+            "str_landed": 126,
+            "str_att": 245,
+            "td_comp": 2,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 160
+        }
+    },
+    "Jeka Saragih vs Westin Wilson": {
+        "name": "Jeka Saragih vs Westin Wilson",
+        "fighter1": "Jeka Saragih",
+        "fighter2": "Westin Wilson",
+        "winner": "Westin Wilson",
+        "method": "Submission",
+        "time_end": "1:49",
+        "round_end": 1,
+        "fight_length": 109,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 8,
+            "str_landed": 4,
+            "str_att": 9,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 53
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 1,
+            "str_landed": 2,
+            "str_att": 3,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 3,
+            "ctrl_time": 35
+        }
+    },
+    "Melquizael Costa vs Shayilan Nuerdanbieke": {
+        "name": "Melquizael Costa vs Shayilan Nuerdanbieke",
+        "fighter1": "Melquizael Costa",
+        "fighter2": "Shayilan Nuerdanbieke",
+        "winner": "Melquizael Costa",
+        "method": "Submission",
+        "time_end": "1:50",
+        "round_end": 3,
+        "fight_length": 230,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 35,
+            "str_landed": 76,
+            "str_att": 106,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 180
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 8,
+            "str_landed": 20,
+            "str_att": 28,
+            "td_comp": 4,
+            "td_att": 10,
+            "sub_att": 1,
+            "ctrl_time": 386
+        }
+    },
+    "Josefine Knutsson vs Julia Polastri": {
+        "name": "Josefine Knutsson vs Julia Polastri",
+        "fighter1": "Josefine Knutsson",
+        "fighter2": "Julia Polastri",
+        "winner": "Josefine Knutsson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 124,
+            "sig_str_att": 244,
+            "str_landed": 145,
+            "str_att": 271,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 43
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 64,
+            "sig_str_att": 122,
+            "str_landed": 86,
+            "str_att": 152,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 274
+        }
+    }
+}

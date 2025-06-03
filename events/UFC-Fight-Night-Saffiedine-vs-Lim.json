@@ -1,0 +1,346 @@
+{
+    "event": "UFC Fight Night: Saffiedine vs Lim",
+    "date": "January 04, 2014",
+    "Tarec Saffiedine vs Hyun Gyu Lim": {
+        "name": "Tarec Saffiedine vs Hyun Gyu Lim",
+        "fighter1": "Tarec Saffiedine",
+        "fighter2": "Hyun Gyu Lim",
+        "winner": "Tarec Saffiedine",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            140,
+            145
+        ],
+        "fighter1_fight_data": {
+            "kd": 3,
+            "sig_str_landed": 120,
+            "sig_str_att": 202,
+            "str_landed": 166,
+            "str_att": 248,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 379
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 122,
+            "sig_str_att": 277,
+            "str_landed": 126,
+            "str_att": 282,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 19
+        }
+    },
+    "Tatsuya Kawajiri vs Sean Soriano": {
+        "name": "Tatsuya Kawajiri vs Sean Soriano",
+        "fighter1": "Tatsuya Kawajiri",
+        "fighter2": "Sean Soriano",
+        "winner": "Tatsuya Kawajiri",
+        "method": "Submission",
+        "time_end": "0:50",
+        "round_end": 2,
+        "fight_length": 110,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 36,
+            "str_landed": 62,
+            "str_att": 66,
+            "td_comp": 3,
+            "td_att": 12,
+            "sub_att": 1,
+            "ctrl_time": 248
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 26,
+            "str_landed": 23,
+            "str_att": 30,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 7
+        }
+    },
+    "Kiichi Kunimoto vs Luiz Dutra": {
+        "name": "Kiichi Kunimoto vs Luiz Dutra",
+        "fighter1": "Kiichi Kunimoto",
+        "fighter2": "Luiz Dutra",
+        "winner": "Kiichi Kunimoto",
+        "method": "DQ",
+        "time_end": "2:57",
+        "round_end": 1,
+        "fight_length": 177,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 23,
+            "str_landed": 12,
+            "str_att": 23,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 57
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 18,
+            "str_landed": 17,
+            "str_att": 25,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Kyung Ho Kang vs Shunichi Shimizu": {
+        "name": "Kyung Ho Kang vs Shunichi Shimizu",
+        "fighter1": "Kyung Ho Kang",
+        "fighter2": "Shunichi Shimizu",
+        "winner": "Kyung Ho Kang",
+        "method": "Submission",
+        "time_end": "3:53",
+        "round_end": 3,
+        "fight_length": 353,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 65,
+            "sig_str_att": 94,
+            "str_landed": 144,
+            "str_att": 175,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 4,
+            "ctrl_time": 495
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 6,
+            "str_landed": 5,
+            "str_att": 15,
+            "td_comp": 0,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 109
+        }
+    },
+    "Max Holloway vs Will Chope": {
+        "name": "Max Holloway vs Will Chope",
+        "fighter1": "Max Holloway",
+        "fighter2": "Will Chope",
+        "winner": "Max Holloway",
+        "method": "KO/TKO",
+        "time_end": "2:27",
+        "round_end": 2,
+        "fight_length": 207,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 74,
+            "sig_str_att": 139,
+            "str_landed": 79,
+            "str_att": 145,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 16
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 121,
+            "str_landed": 34,
+            "str_att": 122,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 61
+        }
+    },
+    "Katsunori Kikuno vs Quinn Mulhern": {
+        "name": "Katsunori Kikuno vs Quinn Mulhern",
+        "fighter1": "Katsunori Kikuno",
+        "fighter2": "Quinn Mulhern",
+        "winner": "Katsunori Kikuno",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 48,
+            "str_landed": 73,
+            "str_att": 104,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 501
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 63,
+            "str_landed": 24,
+            "str_att": 71,
+            "td_comp": 0,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    },
+    "Royston Wee vs Dave Galera": {
+        "name": "Royston Wee vs Dave Galera",
+        "fighter1": "Royston Wee",
+        "fighter2": "Dave Galera",
+        "winner": "Royston Wee",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            78,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 12,
+            "str_landed": 84,
+            "str_att": 104,
+            "td_comp": 6,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 835
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 36,
+            "str_landed": 89,
+            "str_att": 109,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 5
+        }
+    },
+    "Mairbek Taisumov vs Tae Hyun Bang": {
+        "name": "Mairbek Taisumov vs Tae Hyun Bang",
+        "fighter1": "Mairbek Taisumov",
+        "fighter2": "Tae Hyun Bang",
+        "winner": "Mairbek Taisumov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 87,
+            "str_landed": 48,
+            "str_att": 107,
+            "td_comp": 5,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 229
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 66,
+            "str_landed": 31,
+            "str_att": 71,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 8
+        }
+    },
+    "Dustin Kimura vs Jon Delos Reyes": {
+        "name": "Dustin Kimura vs Jon Delos Reyes",
+        "fighter1": "Dustin Kimura",
+        "fighter2": "Jon Delos Reyes",
+        "winner": "Dustin Kimura",
+        "method": "Submission",
+        "time_end": "2:13",
+        "round_end": 1,
+        "fight_length": 133,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 9,
+            "str_landed": 1,
+            "str_att": 9,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 9,
+            "sig_str_att": 29,
+            "str_landed": 10,
+            "str_att": 32,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 94
+        }
+    },
+    "Leandro Issa vs Russell Doane": {
+        "name": "Leandro Issa vs Russell Doane",
+        "fighter1": "Leandro Issa",
+        "fighter2": "Russell Doane",
+        "winner": "Russell Doane",
+        "method": "Submission",
+        "time_end": "4:59",
+        "round_end": 2,
+        "fight_length": 359,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 54,
+            "str_landed": 18,
+            "str_att": 55,
+            "td_comp": 2,
+            "td_att": 10,
+            "sub_att": 1,
+            "ctrl_time": 90
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 43,
+            "sig_str_att": 86,
+            "str_landed": 83,
+            "str_att": 130,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 254
+        }
+    }
+}

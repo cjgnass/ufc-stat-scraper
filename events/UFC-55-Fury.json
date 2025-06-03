@@ -1,0 +1,238 @@
+{
+    "event": "UFC 55: Fury",
+    "date": "October 07, 2005",
+    "Andrei Arlovski vs Paul Buentello": {
+        "name": "Andrei Arlovski vs Paul Buentello",
+        "fighter1": "Andrei Arlovski",
+        "fighter2": "Paul Buentello",
+        "winner": "Andrei Arlovski",
+        "method": "KO/TKO",
+        "time_end": "0:15",
+        "round_end": 1,
+        "fight_length": 15,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 2,
+            "sig_str_att": 6,
+            "str_landed": 2,
+            "str_att": 6,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 3,
+            "str_landed": 1,
+            "str_att": 3,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Branden Lee Hinkle vs Sean Gannon": {
+        "name": "Branden Lee Hinkle vs Sean Gannon",
+        "fighter1": "Branden Lee Hinkle",
+        "fighter2": "Sean Gannon",
+        "winner": "Branden Lee Hinkle",
+        "method": "KO/TKO",
+        "time_end": "4:14",
+        "round_end": 1,
+        "fight_length": 254,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 38,
+            "str_landed": 40,
+            "str_att": 52,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 3,
+            "ctrl_time": 229
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 3,
+            "str_landed": 8,
+            "str_att": 12,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Forrest Griffin vs Elvis Sinosic": {
+        "name": "Forrest Griffin vs Elvis Sinosic",
+        "fighter1": "Forrest Griffin",
+        "fighter2": "Elvis Sinosic",
+        "winner": "Forrest Griffin",
+        "method": "KO/TKO",
+        "time_end": "3:30",
+        "round_end": 1,
+        "fight_length": 210,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 30,
+            "sig_str_att": 82,
+            "str_landed": 30,
+            "str_att": 82,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 6
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 47,
+            "str_landed": 18,
+            "str_att": 47,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Renato Sobral vs Chael Sonnen": {
+        "name": "Renato Sobral vs Chael Sonnen",
+        "fighter1": "Renato Sobral",
+        "fighter2": "Chael Sonnen",
+        "winner": "Renato Sobral",
+        "method": "Submission",
+        "time_end": "1:20",
+        "round_end": 2,
+        "fight_length": 140,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 17,
+            "str_landed": 15,
+            "str_att": 21,
+            "td_comp": 4,
+            "td_att": 6,
+            "sub_att": 3,
+            "ctrl_time": 163
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 24,
+            "str_landed": 56,
+            "str_att": 69,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 182
+        }
+    },
+    "Joe Riggs vs Chris Lytle": {
+        "name": "Joe Riggs vs Chris Lytle",
+        "fighter1": "Joe Riggs",
+        "fighter2": "Chris Lytle",
+        "winner": "Joe Riggs",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "2:00",
+        "round_end": 2,
+        "fight_length": 180,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 25,
+            "str_landed": 26,
+            "str_att": 37,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 176
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 8,
+            "str_landed": 52,
+            "str_att": 63,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 184
+        }
+    },
+    "Jorge Rivera vs Dennis Hallman": {
+        "name": "Jorge Rivera vs Dennis Hallman",
+        "fighter1": "Jorge Rivera",
+        "fighter2": "Dennis Hallman",
+        "winner": "Jorge Rivera",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 51,
+            "sig_str_att": 92,
+            "str_landed": 94,
+            "str_att": 141,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 441
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 29,
+            "str_landed": 15,
+            "str_att": 32,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 2,
+            "ctrl_time": 169
+        }
+    },
+    "Marcio Cruz vs Keigo Kunihara": {
+        "name": "Marcio Cruz vs Keigo Kunihara",
+        "fighter1": "Marcio Cruz",
+        "fighter2": "Keigo Kunihara",
+        "winner": "Marcio Cruz",
+        "method": "Submission",
+        "time_end": "1:02",
+        "round_end": 2,
+        "fight_length": 122,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 28,
+            "str_landed": 19,
+            "str_att": 36,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 27
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 10,
+            "str_landed": 10,
+            "str_att": 20,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 195
+        }
+    }
+}

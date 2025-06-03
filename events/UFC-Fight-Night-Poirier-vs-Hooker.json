@@ -1,0 +1,346 @@
+{
+    "event": "UFC Fight Night: Poirier vs. Hooker",
+    "date": "June 27, 2020",
+    "Dustin Poirier vs Dan Hooker": {
+        "name": "Dustin Poirier vs Dan Hooker",
+        "fighter1": "Dustin Poirier",
+        "fighter2": "Dan Hooker",
+        "winner": "Dustin Poirier",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            140,
+            144
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 153,
+            "sig_str_att": 231,
+            "str_landed": 208,
+            "str_att": 289,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 4,
+            "ctrl_time": 169
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 155,
+            "sig_str_att": 253,
+            "str_landed": 182,
+            "str_att": 283,
+            "td_comp": 4,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 362
+        }
+    },
+    "Mike Perry vs Mickey Gall": {
+        "name": "Mike Perry vs Mickey Gall",
+        "fighter1": "Mike Perry",
+        "fighter2": "Mickey Gall",
+        "winner": "Mike Perry",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 76,
+            "sig_str_att": 131,
+            "str_landed": 103,
+            "str_att": 158,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 344
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 55,
+            "sig_str_att": 106,
+            "str_landed": 59,
+            "str_att": 111,
+            "td_comp": 0,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 51
+        }
+    },
+    "Gian Villante vs Maurice Greene": {
+        "name": "Gian Villante vs Maurice Greene",
+        "fighter1": "Gian Villante",
+        "fighter2": "Maurice Greene",
+        "winner": "Maurice Greene",
+        "method": "Submission",
+        "time_end": "3:44",
+        "round_end": 3,
+        "fight_length": 344,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 72,
+            "sig_str_att": 105,
+            "str_landed": 91,
+            "str_att": 126,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 157
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 63,
+            "sig_str_att": 137,
+            "str_landed": 64,
+            "str_att": 139,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        }
+    },
+    "Brendan Allen vs Kyle Daukaus": {
+        "name": "Brendan Allen vs Kyle Daukaus",
+        "fighter1": "Brendan Allen",
+        "fighter2": "Kyle Daukaus",
+        "winner": "Brendan Allen",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 41,
+            "sig_str_att": 66,
+            "str_landed": 79,
+            "str_att": 109,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 337
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 58,
+            "str_landed": 92,
+            "str_att": 127,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 464
+        }
+    },
+    "Takashi Sato vs Jason Witt": {
+        "name": "Takashi Sato vs Jason Witt",
+        "fighter1": "Takashi Sato",
+        "fighter2": "Jason Witt",
+        "winner": "Takashi Sato",
+        "method": "KO/TKO",
+        "time_end": "0:48",
+        "round_end": 1,
+        "fight_length": 48,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 18,
+            "sig_str_att": 21,
+            "str_landed": 18,
+            "str_att": 21,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 11
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 5,
+            "str_landed": 2,
+            "str_att": 5,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Sean Woodson vs Julian Erosa": {
+        "name": "Sean Woodson vs Julian Erosa",
+        "fighter1": "Sean Woodson",
+        "fighter2": "Julian Erosa",
+        "winner": "Julian Erosa",
+        "method": "Submission",
+        "time_end": "2:44",
+        "round_end": 3,
+        "fight_length": 284,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 106,
+            "sig_str_att": 219,
+            "str_landed": 116,
+            "str_att": 230,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 103,
+            "sig_str_att": 206,
+            "str_landed": 107,
+            "str_att": 210,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 1,
+            "ctrl_time": 73
+        }
+    },
+    "Luis Pena vs Khama Worthy": {
+        "name": "Luis Pena vs Khama Worthy",
+        "fighter1": "Luis Pena",
+        "fighter2": "Khama Worthy",
+        "winner": "Khama Worthy",
+        "method": "Submission",
+        "time_end": "2:53",
+        "round_end": 3,
+        "fight_length": 293,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 77,
+            "str_landed": 40,
+            "str_att": 79,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 3,
+            "ctrl_time": 253
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 55,
+            "sig_str_att": 101,
+            "str_landed": 66,
+            "str_att": 114,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 46
+        }
+    },
+    "Philipe Lins vs Tanner Boser": {
+        "name": "Philipe Lins vs Tanner Boser",
+        "fighter1": "Philipe Lins",
+        "fighter2": "Tanner Boser",
+        "winner": "Tanner Boser",
+        "method": "KO/TKO",
+        "time_end": "2:41",
+        "round_end": 1,
+        "fight_length": 161,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 17,
+            "str_landed": 6,
+            "str_att": 17,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 15,
+            "sig_str_att": 22,
+            "str_landed": 15,
+            "str_att": 22,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    },
+    "Kay Hansen vs Jinh Yu Frey": {
+        "name": "Kay Hansen vs Jinh Yu Frey",
+        "fighter1": "Kay Hansen",
+        "fighter2": "Jinh Yu Frey",
+        "winner": "Kay Hansen",
+        "method": "Submission",
+        "time_end": "2:26",
+        "round_end": 3,
+        "fight_length": 266,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 55,
+            "str_landed": 43,
+            "str_att": 67,
+            "td_comp": 2,
+            "td_att": 11,
+            "sub_att": 1,
+            "ctrl_time": 271
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 46,
+            "str_landed": 27,
+            "str_att": 48,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 7
+        }
+    },
+    "Jordan Griffin vs Youssef Zalal": {
+        "name": "Jordan Griffin vs Youssef Zalal",
+        "fighter1": "Jordan Griffin",
+        "fighter2": "Youssef Zalal",
+        "winner": "Youssef Zalal",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 69,
+            "str_landed": 33,
+            "str_att": 74,
+            "td_comp": 2,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 334
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 59,
+            "sig_str_att": 112,
+            "str_landed": 70,
+            "str_att": 123,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 263
+        }
+    }
+}

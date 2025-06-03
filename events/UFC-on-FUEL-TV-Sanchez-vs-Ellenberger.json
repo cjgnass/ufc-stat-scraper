@@ -1,0 +1,316 @@
+{
+    "event": "UFC on FUEL TV: Sanchez vs Ellenberger",
+    "date": "February 15, 2012",
+    "Diego Sanchez vs Jake Ellenberger": {
+        "name": "Diego Sanchez vs Jake Ellenberger",
+        "fighter1": "Diego Sanchez",
+        "fighter2": "Jake Ellenberger",
+        "winner": "Jake Ellenberger",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 114,
+            "str_landed": 63,
+            "str_att": 158,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 68
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 62,
+            "sig_str_att": 124,
+            "str_landed": 78,
+            "str_att": 141,
+            "td_comp": 2,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 102
+        }
+    },
+    "Stefan Struve vs Dave Herman": {
+        "name": "Stefan Struve vs Dave Herman",
+        "fighter1": "Stefan Struve",
+        "fighter2": "Dave Herman",
+        "winner": "Stefan Struve",
+        "method": "KO/TKO",
+        "time_end": "3:52",
+        "round_end": 2,
+        "fight_length": 292,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 47,
+            "sig_str_att": 81,
+            "str_landed": 82,
+            "str_att": 124,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 55
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 51,
+            "sig_str_att": 74,
+            "str_landed": 51,
+            "str_att": 74,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 6
+        }
+    },
+    "Aaron Simpson vs Ronny Markes": {
+        "name": "Aaron Simpson vs Ronny Markes",
+        "fighter1": "Aaron Simpson",
+        "fighter2": "Ronny Markes",
+        "winner": "Ronny Markes",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 55,
+            "sig_str_att": 84,
+            "str_landed": 75,
+            "str_att": 104,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 148
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 62,
+            "sig_str_att": 97,
+            "str_landed": 78,
+            "str_att": 115,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 319
+        }
+    },
+    "Stipe Miocic vs Philip De Fries": {
+        "name": "Stipe Miocic vs Philip De Fries",
+        "fighter1": "Stipe Miocic",
+        "fighter2": "Philip De Fries",
+        "winner": "Stipe Miocic",
+        "method": "KO/TKO",
+        "time_end": "0:43",
+        "round_end": 1,
+        "fight_length": 43,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 8,
+            "sig_str_att": 17,
+            "str_landed": 10,
+            "str_att": 19,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 4
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 18,
+            "str_landed": 7,
+            "str_att": 18,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "TJ Dillashaw vs Walel Watson": {
+        "name": "TJ Dillashaw vs Walel Watson",
+        "fighter1": "TJ Dillashaw",
+        "fighter2": "Walel Watson",
+        "winner": "TJ Dillashaw",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            76,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 85,
+            "sig_str_att": 114,
+            "str_landed": 154,
+            "str_att": 192,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 5,
+            "ctrl_time": 742
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 33,
+            "str_landed": 19,
+            "str_att": 42,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        }
+    },
+    "Ivan Menjivar vs John Albert": {
+        "name": "Ivan Menjivar vs John Albert",
+        "fighter1": "Ivan Menjivar",
+        "fighter2": "John Albert",
+        "winner": "Ivan Menjivar",
+        "method": "Submission",
+        "time_end": "3:45",
+        "round_end": 1,
+        "fight_length": 225,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 35,
+            "str_landed": 33,
+            "str_att": 44,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 129
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 55,
+            "str_landed": 37,
+            "str_att": 64,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 3,
+            "ctrl_time": 13
+        }
+    },
+    "Jonathan Brookins vs Vagner Rocha": {
+        "name": "Jonathan Brookins vs Vagner Rocha",
+        "fighter1": "Jonathan Brookins",
+        "fighter2": "Vagner Rocha",
+        "winner": "Jonathan Brookins",
+        "method": "KO/TKO",
+        "time_end": "1:32",
+        "round_end": 1,
+        "fight_length": 92,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 28,
+            "str_landed": 18,
+            "str_att": 28,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 7
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 16,
+            "str_landed": 7,
+            "str_att": 16,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Anton Kuivanen vs Justin Salas": {
+        "name": "Anton Kuivanen vs Justin Salas",
+        "fighter1": "Anton Kuivanen",
+        "fighter2": "Justin Salas",
+        "winner": "Justin Salas",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 115,
+            "str_landed": 39,
+            "str_att": 117,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 50,
+            "sig_str_att": 111,
+            "str_landed": 66,
+            "str_att": 129,
+            "td_comp": 4,
+            "td_att": 15,
+            "sub_att": 0,
+            "ctrl_time": 254
+        }
+    },
+    "Tim Means vs Bernardo Magalhaes": {
+        "name": "Tim Means vs Bernardo Magalhaes",
+        "fighter1": "Tim Means",
+        "fighter2": "Bernardo Magalhaes",
+        "winner": "Tim Means",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            79,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 83,
+            "sig_str_att": 170,
+            "str_landed": 98,
+            "str_att": 186,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 59
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 68,
+            "str_landed": 30,
+            "str_att": 70,
+            "td_comp": 0,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 9
+        }
+    }
+}

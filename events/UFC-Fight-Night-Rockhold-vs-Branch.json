@@ -1,0 +1,340 @@
+{
+    "event": "UFC Fight Night: Rockhold vs. Branch",
+    "date": "September 16, 2017",
+    "Luke Rockhold vs David Branch": {
+        "name": "Luke Rockhold vs David Branch",
+        "fighter1": "Luke Rockhold",
+        "fighter2": "David Branch",
+        "winner": "Luke Rockhold",
+        "method": "KO/TKO",
+        "time_end": "4:05",
+        "round_end": 2,
+        "fight_length": 305,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 85,
+            "str_landed": 68,
+            "str_att": 97,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 222
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 56,
+            "str_landed": 51,
+            "str_att": 82,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 138
+        }
+    },
+    "Mike Perry vs Alex Reyes": {
+        "name": "Mike Perry vs Alex Reyes",
+        "fighter1": "Mike Perry",
+        "fighter2": "Alex Reyes",
+        "winner": "Mike Perry",
+        "method": "KO/TKO",
+        "time_end": "1:19",
+        "round_end": 1,
+        "fight_length": 79,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 11,
+            "sig_str_att": 18,
+            "str_landed": 11,
+            "str_att": 18,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 13,
+            "str_landed": 6,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 18
+        }
+    },
+    "Hector Lombard vs Anthony Smith": {
+        "name": "Hector Lombard vs Anthony Smith",
+        "fighter1": "Hector Lombard",
+        "fighter2": "Anthony Smith",
+        "winner": "Anthony Smith",
+        "method": "KO/TKO",
+        "time_end": "2:33",
+        "round_end": 3,
+        "fight_length": 273,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 65,
+            "sig_str_att": 134,
+            "str_landed": 68,
+            "str_att": 137,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 96
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 35,
+            "sig_str_att": 115,
+            "str_landed": 38,
+            "str_att": 118,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    },
+    "Gregor Gillespie vs Jason Gonzalez": {
+        "name": "Gregor Gillespie vs Jason Gonzalez",
+        "fighter1": "Gregor Gillespie",
+        "fighter2": "Jason Gonzalez",
+        "winner": "Gregor Gillespie",
+        "method": "Submission",
+        "time_end": "2:11",
+        "round_end": 2,
+        "fight_length": 191,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 20,
+            "sig_str_att": 56,
+            "str_landed": 34,
+            "str_att": 73,
+            "td_comp": 4,
+            "td_att": 6,
+            "sub_att": 1,
+            "ctrl_time": 348
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 43,
+            "str_landed": 27,
+            "str_att": 50,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Kamaru Usman vs Sergio Moraes": {
+        "name": "Kamaru Usman vs Sergio Moraes",
+        "fighter1": "Kamaru Usman",
+        "fighter2": "Sergio Moraes",
+        "winner": "Kamaru Usman",
+        "method": "KO/TKO",
+        "time_end": "2:48",
+        "round_end": 1,
+        "fight_length": 168,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 16,
+            "sig_str_att": 48,
+            "str_landed": 16,
+            "str_att": 48,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 27,
+            "str_landed": 13,
+            "str_att": 27,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Justin Ledet vs Azunna Anyanwu": {
+        "name": "Justin Ledet vs Azunna Anyanwu",
+        "fighter1": "Justin Ledet",
+        "fighter2": "Azunna Anyanwu",
+        "winner": "Justin Ledet",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 126,
+            "str_landed": 36,
+            "str_att": 126,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 84,
+            "str_landed": 37,
+            "str_att": 84,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Anthony Rocco Martin vs Olivier Aubin-Mercier": {
+        "name": "Anthony Rocco Martin vs Olivier Aubin-Mercier",
+        "fighter1": "Anthony Rocco Martin",
+        "fighter2": "Olivier Aubin-Mercier",
+        "winner": "Olivier Aubin-Mercier",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 41,
+            "str_landed": 56,
+            "str_att": 96,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 311
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 46,
+            "str_landed": 47,
+            "str_att": 78,
+            "td_comp": 4,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 304
+        }
+    },
+    "Anthony Hamilton vs Daniel Spitz": {
+        "name": "Anthony Hamilton vs Daniel Spitz",
+        "fighter1": "Anthony Hamilton",
+        "fighter2": "Daniel Spitz",
+        "winner": "Daniel Spitz",
+        "method": "KO/TKO",
+        "time_end": "0:24",
+        "round_end": 1,
+        "fight_length": 24,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 1,
+            "str_landed": 0,
+            "str_att": 1,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 6,
+            "str_landed": 5,
+            "str_att": 6,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Krzysztof Jotko vs Uriah Hall": {
+        "name": "Krzysztof Jotko vs Uriah Hall",
+        "fighter1": "Krzysztof Jotko",
+        "fighter2": "Uriah Hall",
+        "winner": "Uriah Hall",
+        "method": "KO/TKO",
+        "time_end": "2:25",
+        "round_end": 2,
+        "fight_length": 205,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 44,
+            "sig_str_att": 90,
+            "str_landed": 60,
+            "str_att": 108,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 138
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 26,
+            "sig_str_att": 44,
+            "str_landed": 26,
+            "str_att": 44,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 6
+        }
+    },
+    "Jason Saggo vs Gilbert Burns": {
+        "name": "Jason Saggo vs Gilbert Burns",
+        "fighter1": "Jason Saggo",
+        "fighter2": "Gilbert Burns",
+        "winner": "Gilbert Burns",
+        "method": "KO/TKO",
+        "time_end": "4:55",
+        "round_end": 2,
+        "fight_length": 355,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 92,
+            "str_landed": 39,
+            "str_att": 99,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 63
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 42,
+            "sig_str_att": 95,
+            "str_landed": 50,
+            "str_att": 104,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 93
+        }
+    }
+}

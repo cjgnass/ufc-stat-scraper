@@ -1,0 +1,202 @@
+{
+    "event": "UFC 22: Only One Can be Champion",
+    "date": "September 24, 1999",
+    "Frank Shamrock vs Tito Ortiz": {
+        "name": "Frank Shamrock vs Tito Ortiz",
+        "fighter1": "Frank Shamrock",
+        "fighter2": "Tito Ortiz",
+        "winner": "Frank Shamrock",
+        "method": "KO/TKO",
+        "time_end": "4:42",
+        "round_end": 4,
+        "fight_length": 462,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 61,
+            "str_landed": 193,
+            "str_att": 227,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 13
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 74,
+            "str_landed": 67,
+            "str_att": 125,
+            "td_comp": 8,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 951
+        }
+    },
+    "Jeremy Horn vs Jason Godsey": {
+        "name": "Jeremy Horn vs Jason Godsey",
+        "fighter1": "Jeremy Horn",
+        "fighter2": "Jason Godsey",
+        "winner": "Jeremy Horn",
+        "method": "Submission",
+        "time_end": "2:08",
+        "round_end": 1,
+        "fight_length": 128,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 4,
+            "str_landed": 7,
+            "str_att": 9,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 7,
+            "str_landed": 8,
+            "str_att": 16,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 79
+        }
+    },
+    "Brad Kohler vs Steve Judson": {
+        "name": "Brad Kohler vs Steve Judson",
+        "fighter1": "Brad Kohler",
+        "fighter2": "Steve Judson",
+        "winner": "Brad Kohler",
+        "method": "KO/TKO",
+        "time_end": "0:30",
+        "round_end": 1,
+        "fight_length": 30,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 3,
+            "sig_str_att": 3,
+            "str_landed": 3,
+            "str_att": 3,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 8
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 0,
+            "str_landed": 0,
+            "str_att": 0,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    },
+    "Chuck Liddell vs Paul Jones": {
+        "name": "Chuck Liddell vs Paul Jones",
+        "fighter1": "Chuck Liddell",
+        "fighter2": "Paul Jones",
+        "winner": "Chuck Liddell",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "3:53",
+        "round_end": 1,
+        "fight_length": 233,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 28,
+            "str_landed": 19,
+            "str_att": 34,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 124
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 7,
+            "str_landed": 6,
+            "str_att": 8,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 40
+        }
+    },
+    "Matt Hughes vs Valeri Ignatov": {
+        "name": "Matt Hughes vs Valeri Ignatov",
+        "fighter1": "Matt Hughes",
+        "fighter2": "Valeri Ignatov",
+        "winner": "Matt Hughes",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 77,
+            "sig_str_att": 117,
+            "str_landed": 124,
+            "str_att": 164,
+            "td_comp": 5,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 25,
+            "str_landed": 45,
+            "str_att": 64,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        }
+    },
+    "John Lewis vs Lowell Anderson": {
+        "name": "John Lewis vs Lowell Anderson",
+        "fighter1": "John Lewis",
+        "fighter2": "Lowell Anderson",
+        "winner": "John Lewis",
+        "method": "KO/TKO",
+        "time_end": "0:13",
+        "round_end": 3,
+        "fight_length": 133,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 61,
+            "str_landed": 34,
+            "str_att": 77,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 200
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 33,
+            "str_landed": 17,
+            "str_att": 41,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    }
+}

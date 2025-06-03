@@ -1,0 +1,343 @@
+{
+    "event": "UFC Fight Night: Shogun vs Henderson 2",
+    "date": "March 23, 2014",
+    "Mauricio Rua vs Dan Henderson": {
+        "name": "Mauricio Rua vs Dan Henderson",
+        "fighter1": "Mauricio Rua",
+        "fighter2": "Dan Henderson",
+        "winner": "Dan Henderson",
+        "method": "KO/TKO",
+        "time_end": "1:31",
+        "round_end": 3,
+        "fight_length": 211,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 48,
+            "sig_str_att": 96,
+            "str_landed": 79,
+            "str_att": 128,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 205
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 23,
+            "sig_str_att": 60,
+            "str_landed": 32,
+            "str_att": 70,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 8
+        }
+    },
+    "Cezar Ferreira vs CB Dollaway": {
+        "name": "Cezar Ferreira vs CB Dollaway",
+        "fighter1": "Cezar Ferreira",
+        "fighter2": "CB Dollaway",
+        "winner": "CB Dollaway",
+        "method": "KO/TKO",
+        "time_end": "0:39",
+        "round_end": 1,
+        "fight_length": 39,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 8,
+            "str_landed": 3,
+            "str_att": 8,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 12,
+            "sig_str_att": 16,
+            "str_landed": 13,
+            "str_att": 17,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 8
+        }
+    },
+    "Fabio Maldonado vs Gian Villante": {
+        "name": "Fabio Maldonado vs Gian Villante",
+        "fighter1": "Fabio Maldonado",
+        "fighter2": "Gian Villante",
+        "winner": "Fabio Maldonado",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 132,
+            "sig_str_att": 217,
+            "str_landed": 150,
+            "str_att": 237,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 21
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 92,
+            "str_landed": 46,
+            "str_att": 108,
+            "td_comp": 3,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 346
+        }
+    },
+    "Michel Prazeres vs Mairbek Taisumov": {
+        "name": "Michel Prazeres vs Mairbek Taisumov",
+        "fighter1": "Michel Prazeres",
+        "fighter2": "Mairbek Taisumov",
+        "winner": "Michel Prazeres",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            75,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 35,
+            "sig_str_att": 67,
+            "str_landed": 66,
+            "str_att": 106,
+            "td_comp": 3,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 300
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 91,
+            "str_landed": 40,
+            "str_att": 106,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 80
+        }
+    },
+    "Rony Jason vs Steven Siler": {
+        "name": "Rony Jason vs Steven Siler",
+        "fighter1": "Rony Jason",
+        "fighter2": "Steven Siler",
+        "winner": "Rony Jason",
+        "method": "KO/TKO",
+        "time_end": "1:17",
+        "round_end": 1,
+        "fight_length": 77,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 3,
+            "sig_str_att": 8,
+            "str_landed": 3,
+            "str_att": 8,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 22,
+            "str_landed": 11,
+            "str_att": 22,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Ronny Markes vs Thiago Santos": {
+        "name": "Ronny Markes vs Thiago Santos",
+        "fighter1": "Ronny Markes",
+        "fighter2": "Thiago Santos",
+        "winner": "Thiago Santos",
+        "method": "KO/TKO",
+        "time_end": "0:53",
+        "round_end": 1,
+        "fight_length": 53,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 1,
+            "str_landed": 0,
+            "str_att": 1,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 7,
+            "sig_str_att": 16,
+            "str_landed": 8,
+            "str_att": 17,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 14
+        }
+    },
+    "Jussier Formiga vs Scott Jorgensen": {
+        "name": "Jussier Formiga vs Scott Jorgensen",
+        "fighter1": "Jussier Formiga",
+        "fighter2": "Scott Jorgensen",
+        "winner": "Jussier Formiga",
+        "method": "Submission",
+        "time_end": "3:07",
+        "round_end": 1,
+        "fight_length": 187,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 23,
+            "str_landed": 13,
+            "str_att": 27,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 45
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 24,
+            "str_landed": 9,
+            "str_att": 27,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Thiago Perpetuo vs Kenny Robertson": {
+        "name": "Thiago Perpetuo vs Kenny Robertson",
+        "fighter1": "Thiago Perpetuo",
+        "fighter2": "Kenny Robertson",
+        "winner": "Kenny Robertson",
+        "method": "Submission",
+        "time_end": "1:45",
+        "round_end": 1,
+        "fight_length": 105,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 1,
+            "str_landed": 1,
+            "str_att": 2,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 30
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 14,
+            "str_landed": 17,
+            "str_att": 22,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 63
+        }
+    },
+    "Francimar Barroso vs Hans Stringer": {
+        "name": "Francimar Barroso vs Hans Stringer",
+        "fighter1": "Francimar Barroso",
+        "fighter2": "Hans Stringer",
+        "winner": "Hans Stringer",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 67,
+            "str_landed": 76,
+            "str_att": 114,
+            "td_comp": 3,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 181
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 77,
+            "str_landed": 98,
+            "str_att": 135,
+            "td_comp": 1,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 352
+        }
+    },
+    "Godofredo Pepey vs Noad Lahat": {
+        "name": "Godofredo Pepey vs Noad Lahat",
+        "fighter1": "Godofredo Pepey",
+        "fighter2": "Noad Lahat",
+        "winner": "Godofredo Pepey",
+        "method": "KO/TKO",
+        "time_end": "2:39",
+        "round_end": 1,
+        "fight_length": 159,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 5,
+            "sig_str_att": 23,
+            "str_landed": 5,
+            "str_att": 23,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 18
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 22,
+            "str_landed": 12,
+            "str_att": 23,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 4
+        }
+    }
+}

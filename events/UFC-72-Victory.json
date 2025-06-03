@@ -1,0 +1,277 @@
+{
+    "event": "UFC 72: Victory",
+    "date": "June 16, 2007",
+    "Rich Franklin vs Yushin Okami": {
+        "name": "Rich Franklin vs Yushin Okami",
+        "fighter1": "Rich Franklin",
+        "fighter2": "Yushin Okami",
+        "winner": "Rich Franklin",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 102,
+            "str_landed": 42,
+            "str_att": 110,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 178
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 59,
+            "str_landed": 34,
+            "str_att": 78,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 3,
+            "ctrl_time": 117
+        }
+    },
+    "Forrest Griffin vs Hector Ramirez": {
+        "name": "Forrest Griffin vs Hector Ramirez",
+        "fighter1": "Forrest Griffin",
+        "fighter2": "Hector Ramirez",
+        "winner": "Forrest Griffin",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 113,
+            "sig_str_att": 246,
+            "str_landed": 115,
+            "str_att": 248,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 9
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 74,
+            "str_landed": 20,
+            "str_att": 74,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 36
+        }
+    },
+    "Jason MacDonald vs Rory Singer": {
+        "name": "Jason MacDonald vs Rory Singer",
+        "fighter1": "Jason MacDonald",
+        "fighter2": "Rory Singer",
+        "winner": "Jason MacDonald",
+        "method": "KO/TKO",
+        "time_end": "3:18",
+        "round_end": 2,
+        "fight_length": 258,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 30,
+            "sig_str_att": 49,
+            "str_landed": 81,
+            "str_att": 107,
+            "td_comp": 2,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 379
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 25,
+            "str_landed": 29,
+            "str_att": 38,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 48
+        }
+    },
+    "Tyson Griffin vs Clay Guida": {
+        "name": "Tyson Griffin vs Clay Guida",
+        "fighter1": "Tyson Griffin",
+        "fighter2": "Clay Guida",
+        "winner": "Tyson Griffin",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 50,
+            "sig_str_att": 87,
+            "str_landed": 87,
+            "str_att": 125,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 109
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 65,
+            "str_landed": 82,
+            "str_att": 114,
+            "td_comp": 4,
+            "td_att": 14,
+            "sub_att": 2,
+            "ctrl_time": 471
+        }
+    },
+    "Ed Herman vs Scott Smith": {
+        "name": "Ed Herman vs Scott Smith",
+        "fighter1": "Ed Herman",
+        "fighter2": "Scott Smith",
+        "winner": "Ed Herman",
+        "method": "Submission",
+        "time_end": "2:25",
+        "round_end": 2,
+        "fight_length": 205,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 43,
+            "str_landed": 53,
+            "str_att": 78,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 2,
+            "ctrl_time": 383
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 6,
+            "str_landed": 12,
+            "str_att": 16,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 16
+        }
+    },
+    "Marcus Davis vs Jason Tan": {
+        "name": "Marcus Davis vs Jason Tan",
+        "fighter1": "Marcus Davis",
+        "fighter2": "Jason Tan",
+        "winner": "Marcus Davis",
+        "method": "KO/TKO",
+        "time_end": "1:15",
+        "round_end": 1,
+        "fight_length": 75,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 9,
+            "sig_str_att": 14,
+            "str_landed": 9,
+            "str_att": 14,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 13,
+            "str_landed": 6,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Eddie Sanchez vs Colin Robinson": {
+        "name": "Eddie Sanchez vs Colin Robinson",
+        "fighter1": "Eddie Sanchez",
+        "fighter2": "Colin Robinson",
+        "winner": "Eddie Sanchez",
+        "method": "KO/TKO",
+        "time_end": "0:32",
+        "round_end": 2,
+        "fight_length": 92,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 67,
+            "str_landed": 68,
+            "str_att": 94,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 143
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 50,
+            "str_landed": 62,
+            "str_att": 76,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 135
+        }
+    },
+    "Dustin Hazelett vs Stevie Lynch": {
+        "name": "Dustin Hazelett vs Stevie Lynch",
+        "fighter1": "Dustin Hazelett",
+        "fighter2": "Stevie Lynch",
+        "winner": "Dustin Hazelett",
+        "method": "Submission",
+        "time_end": "2:50",
+        "round_end": 1,
+        "fight_length": 170,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 34,
+            "str_landed": 20,
+            "str_att": 34,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 17
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 28,
+            "str_landed": 7,
+            "str_att": 28,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 19
+        }
+    }
+}

@@ -1,0 +1,316 @@
+{
+    "event": "UFC Fight Night: Almeida vs. Lewis",
+    "date": "November 04, 2023",
+    "Jailton Almeida vs Derrick Lewis": {
+        "name": "Jailton Almeida vs Derrick Lewis",
+        "fighter1": "Jailton Almeida",
+        "fighter2": "Derrick Lewis",
+        "winner": "Jailton Almeida",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            133,
+            150
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 56,
+            "str_landed": 120,
+            "str_att": 153,
+            "td_comp": 6,
+            "td_att": 15,
+            "sub_att": 4,
+            "ctrl_time": 1270
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 39,
+            "str_landed": 28,
+            "str_att": 54,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 57
+        }
+    },
+    "Gabriel Bonfim vs Nicolas Dalby": {
+        "name": "Gabriel Bonfim vs Nicolas Dalby",
+        "fighter1": "Gabriel Bonfim",
+        "fighter2": "Nicolas Dalby",
+        "winner": "Nicolas Dalby",
+        "method": "KO/TKO",
+        "time_end": "4:33",
+        "round_end": 2,
+        "fight_length": 333,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 91,
+            "str_landed": 47,
+            "str_att": 103,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 259
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 53,
+            "sig_str_att": 113,
+            "str_landed": 64,
+            "str_att": 128,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 87
+        }
+    },
+    "Rodrigo Nascimento vs Don'Tale Mayes": {
+        "name": "Rodrigo Nascimento vs Don'Tale Mayes",
+        "fighter1": "Rodrigo Nascimento",
+        "fighter2": "Don'Tale Mayes",
+        "winner": "Rodrigo Nascimento",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 70,
+            "sig_str_att": 154,
+            "str_landed": 91,
+            "str_att": 180,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 141
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 79,
+            "sig_str_att": 159,
+            "str_landed": 105,
+            "str_att": 190,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 39
+        }
+    },
+    "Caio Borralho vs Abus Magomedov": {
+        "name": "Caio Borralho vs Abus Magomedov",
+        "fighter1": "Caio Borralho",
+        "fighter2": "Abus Magomedov",
+        "winner": "Caio Borralho",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 51,
+            "sig_str_att": 103,
+            "str_landed": 70,
+            "str_att": 126,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 137
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 107,
+            "str_landed": 39,
+            "str_att": 110,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Elves Brener vs Kaynan Kruschewsky": {
+        "name": "Elves Brener vs Kaynan Kruschewsky",
+        "fighter1": "Elves Brener",
+        "fighter2": "Kaynan Kruschewsky",
+        "winner": "Elves Brener",
+        "method": "KO/TKO",
+        "time_end": "4:01",
+        "round_end": 1,
+        "fight_length": 241,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 16,
+            "sig_str_att": 33,
+            "str_landed": 16,
+            "str_att": 33,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 31,
+            "str_landed": 8,
+            "str_att": 31,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Vitor Petrino vs Modestas Bukauskas": {
+        "name": "Vitor Petrino vs Modestas Bukauskas",
+        "fighter1": "Vitor Petrino",
+        "fighter2": "Modestas Bukauskas",
+        "winner": "Vitor Petrino",
+        "method": "KO/TKO",
+        "time_end": "1:03",
+        "round_end": 2,
+        "fight_length": 123,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 8,
+            "sig_str_att": 26,
+            "str_landed": 14,
+            "str_att": 34,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 138
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 19,
+            "str_landed": 12,
+            "str_att": 23,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Angela Hill vs Denise Gomes": {
+        "name": "Angela Hill vs Denise Gomes",
+        "fighter1": "Angela Hill",
+        "fighter2": "Denise Gomes",
+        "winner": "Angela Hill",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 76,
+            "sig_str_att": 120,
+            "str_landed": 96,
+            "str_att": 153,
+            "td_comp": 5,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 483
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 62,
+            "sig_str_att": 133,
+            "str_landed": 111,
+            "str_att": 203,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 63
+        }
+    },
+    "Eduarda Moura vs Montserrat Conejo Ruiz": {
+        "name": "Eduarda Moura vs Montserrat Conejo Ruiz",
+        "fighter1": "Eduarda Moura",
+        "fighter2": "Montserrat Conejo Ruiz",
+        "winner": "Eduarda Moura",
+        "method": "KO/TKO",
+        "time_end": "2:14",
+        "round_end": 2,
+        "fight_length": 194,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 57,
+            "sig_str_att": 77,
+            "str_landed": 102,
+            "str_att": 139,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 357
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 22,
+            "str_landed": 9,
+            "str_att": 29,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Kaue Fernandes vs Marc Diakiese": {
+        "name": "Kaue Fernandes vs Marc Diakiese",
+        "fighter1": "Kaue Fernandes",
+        "fighter2": "Marc Diakiese",
+        "winner": "Marc Diakiese",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 42,
+            "str_landed": 67,
+            "str_att": 92,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 87
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 32,
+            "str_landed": 65,
+            "str_att": 92,
+            "td_comp": 3,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 518
+        }
+    }
+}

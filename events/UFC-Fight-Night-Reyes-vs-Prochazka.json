@@ -1,0 +1,355 @@
+{
+    "event": "UFC Fight Night: Reyes vs. Prochazka",
+    "date": "May 01, 2021",
+    "Dominick Reyes vs Jiri Prochazka": {
+        "name": "Dominick Reyes vs Jiri Prochazka",
+        "fighter1": "Dominick Reyes",
+        "fighter2": "Jiri Prochazka",
+        "winner": "Jiri Prochazka",
+        "method": "KO/TKO",
+        "time_end": "4:29",
+        "round_end": 2,
+        "fight_length": 329,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 63,
+            "sig_str_att": 108,
+            "str_landed": 68,
+            "str_att": 114,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 29
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 77,
+            "sig_str_att": 136,
+            "str_landed": 78,
+            "str_att": 137,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 95
+        }
+    },
+    "Giga Chikadze vs Cub Swanson": {
+        "name": "Giga Chikadze vs Cub Swanson",
+        "fighter1": "Giga Chikadze",
+        "fighter2": "Cub Swanson",
+        "winner": "Giga Chikadze",
+        "method": "KO/TKO",
+        "time_end": "1:03",
+        "round_end": 1,
+        "fight_length": 63,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 12,
+            "sig_str_att": 18,
+            "str_landed": 12,
+            "str_att": 18,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 6,
+            "str_landed": 4,
+            "str_att": 6,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Sean Strickland vs Krzysztof Jotko": {
+        "name": "Sean Strickland vs Krzysztof Jotko",
+        "fighter1": "Sean Strickland",
+        "fighter2": "Krzysztof Jotko",
+        "winner": "Sean Strickland",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 84,
+            "sig_str_att": 182,
+            "str_landed": 84,
+            "str_att": 182,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 196,
+            "str_landed": 37,
+            "str_att": 196,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Merab Dvalishvili vs Cody Stamann": {
+        "name": "Merab Dvalishvili vs Cody Stamann",
+        "fighter1": "Merab Dvalishvili",
+        "fighter2": "Cody Stamann",
+        "winner": "Merab Dvalishvili",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 71,
+            "sig_str_att": 192,
+            "str_landed": 178,
+            "str_att": 306,
+            "td_comp": 5,
+            "td_att": 11,
+            "sub_att": 1,
+            "ctrl_time": 102
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 48,
+            "sig_str_att": 134,
+            "str_landed": 73,
+            "str_att": 163,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 177
+        }
+    },
+    "Randa Markos vs Luana Pinheiro": {
+        "name": "Randa Markos vs Luana Pinheiro",
+        "fighter1": "Randa Markos",
+        "fighter2": "Luana Pinheiro",
+        "winner": "Luana Pinheiro",
+        "method": "DQ",
+        "time_end": "4:16",
+        "round_end": 1,
+        "fight_length": 256,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 40,
+            "str_landed": 28,
+            "str_att": 51,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 29
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 53,
+            "str_landed": 35,
+            "str_att": 61,
+            "td_comp": 5,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 54
+        }
+    },
+    "Kai Kamaka vs TJ Brown": {
+        "name": "Kai Kamaka vs TJ Brown",
+        "fighter1": "Kai Kamaka",
+        "fighter2": "TJ Brown",
+        "winner": "TJ Brown",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            86,
+            85
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 61,
+            "sig_str_att": 128,
+            "str_landed": 85,
+            "str_att": 155,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 338
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 82,
+            "sig_str_att": 211,
+            "str_landed": 110,
+            "str_att": 243,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 36
+        }
+    },
+    "Poliana Botelho vs Luana Carolina": {
+        "name": "Poliana Botelho vs Luana Carolina",
+        "fighter1": "Poliana Botelho",
+        "fighter2": "Luana Carolina",
+        "winner": "Luana Carolina",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 57,
+            "str_landed": 87,
+            "str_att": 112,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 279
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 46,
+            "str_landed": 100,
+            "str_att": 130,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 328
+        }
+    },
+    "Loma Lookboonmee vs Sam Hughes": {
+        "name": "Loma Lookboonmee vs Sam Hughes",
+        "fighter1": "Loma Lookboonmee",
+        "fighter2": "Sam Hughes",
+        "winner": "Loma Lookboonmee",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 84,
+            "sig_str_att": 124,
+            "str_landed": 108,
+            "str_att": 149,
+            "td_comp": 4,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 90
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 49,
+            "sig_str_att": 73,
+            "str_landed": 98,
+            "str_att": 126,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 394
+        }
+    },
+    "Andreas Michailidis vs KB Bhullar": {
+        "name": "Andreas Michailidis vs KB Bhullar",
+        "fighter1": "Andreas Michailidis",
+        "fighter2": "KB Bhullar",
+        "winner": "Andreas Michailidis",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 73,
+            "sig_str_att": 137,
+            "str_landed": 75,
+            "str_att": 139,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 119
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 70,
+            "sig_str_att": 131,
+            "str_landed": 71,
+            "str_att": 132,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 12
+        }
+    },
+    "Luke Sanders vs Felipe Colares": {
+        "name": "Luke Sanders vs Felipe Colares",
+        "fighter1": "Luke Sanders",
+        "fighter2": "Felipe Colares",
+        "winner": "Felipe Colares",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 118,
+            "sig_str_att": 211,
+            "str_landed": 131,
+            "str_att": 225,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 175
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 78,
+            "sig_str_att": 131,
+            "str_landed": 104,
+            "str_att": 165,
+            "td_comp": 2,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 174
+        }
+    }
+}

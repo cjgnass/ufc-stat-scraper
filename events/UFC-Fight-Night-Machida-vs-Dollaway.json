@@ -1,0 +1,409 @@
+{
+    "event": "UFC Fight Night: Machida vs Dollaway",
+    "date": "December 20, 2014",
+    "Lyoto Machida vs CB Dollaway": {
+        "name": "Lyoto Machida vs CB Dollaway",
+        "fighter1": "Lyoto Machida",
+        "fighter2": "CB Dollaway",
+        "winner": "Lyoto Machida",
+        "method": "KO/TKO",
+        "time_end": "1:02",
+        "round_end": 1,
+        "fight_length": 62,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 12,
+            "sig_str_att": 19,
+            "str_landed": 12,
+            "str_att": 19,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 4
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 2,
+            "str_landed": 0,
+            "str_att": 2,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Renan Barao vs Mitch Gagnon": {
+        "name": "Renan Barao vs Mitch Gagnon",
+        "fighter1": "Renan Barao",
+        "fighter2": "Mitch Gagnon",
+        "winner": "Renan Barao",
+        "method": "Submission",
+        "time_end": "3:53",
+        "round_end": 3,
+        "fight_length": 353,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 59,
+            "sig_str_att": 138,
+            "str_landed": 64,
+            "str_att": 143,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 142
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 111,
+            "str_landed": 66,
+            "str_att": 119,
+            "td_comp": 0,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 255
+        }
+    },
+    "Antonio Carlos Junior vs Patrick Cummins": {
+        "name": "Antonio Carlos Junior vs Patrick Cummins",
+        "fighter1": "Antonio Carlos Junior",
+        "fighter2": "Patrick Cummins",
+        "winner": "Patrick Cummins",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 29,
+            "str_landed": 14,
+            "str_att": 32,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 37
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 62,
+            "sig_str_att": 94,
+            "str_landed": 122,
+            "str_att": 162,
+            "td_comp": 4,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 674
+        }
+    },
+    "Elias Silverio vs Rashid Magomedov": {
+        "name": "Elias Silverio vs Rashid Magomedov",
+        "fighter1": "Elias Silverio",
+        "fighter2": "Rashid Magomedov",
+        "winner": "Rashid Magomedov",
+        "method": "KO/TKO",
+        "time_end": "4:57",
+        "round_end": 3,
+        "fight_length": 417,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 56,
+            "sig_str_att": 118,
+            "str_landed": 57,
+            "str_att": 119,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 91,
+            "sig_str_att": 161,
+            "str_landed": 102,
+            "str_att": 172,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 61
+        }
+    },
+    "Erick Silva vs Mike Rhodes": {
+        "name": "Erick Silva vs Mike Rhodes",
+        "fighter1": "Erick Silva",
+        "fighter2": "Mike Rhodes",
+        "winner": "Erick Silva",
+        "method": "Submission",
+        "time_end": "1:15",
+        "round_end": 1,
+        "fight_length": 75,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 2,
+            "str_landed": 4,
+            "str_att": 4,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 65
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 3,
+            "str_landed": 3,
+            "str_att": 4,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Daniel Sarafian vs Antonio Dos Santos": {
+        "name": "Daniel Sarafian vs Antonio Dos Santos",
+        "fighter1": "Daniel Sarafian",
+        "fighter2": "Antonio Dos Santos",
+        "winner": "Daniel Sarafian",
+        "method": "KO/TKO",
+        "time_end": "1:01",
+        "round_end": 2,
+        "fight_length": 121,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 46,
+            "str_landed": 24,
+            "str_att": 46,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 20
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 37,
+            "sig_str_att": 73,
+            "str_landed": 39,
+            "str_att": 75,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 77
+        }
+    },
+    "Marcos Rogerio de Lima vs Igor Pokrajac": {
+        "name": "Marcos Rogerio de Lima vs Igor Pokrajac",
+        "fighter1": "Marcos Rogerio de Lima",
+        "fighter2": "Igor Pokrajac",
+        "winner": "Marcos Rogerio de Lima",
+        "method": "KO/TKO",
+        "time_end": "1:59",
+        "round_end": 1,
+        "fight_length": 119,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 18,
+            "sig_str_att": 21,
+            "str_landed": 33,
+            "str_att": 37,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 98
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 6,
+            "str_landed": 4,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Tom Niinimaki vs Renato Moicano": {
+        "name": "Tom Niinimaki vs Renato Moicano",
+        "fighter1": "Tom Niinimaki",
+        "fighter2": "Renato Moicano",
+        "winner": "Renato Moicano",
+        "method": "Submission",
+        "time_end": "3:30",
+        "round_end": 2,
+        "fight_length": 270,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 64,
+            "str_landed": 33,
+            "str_att": 64,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 48,
+            "sig_str_att": 111,
+            "str_landed": 50,
+            "str_att": 113,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 31
+        }
+    },
+    "Darren Elkins vs Hacran Dias": {
+        "name": "Darren Elkins vs Hacran Dias",
+        "fighter1": "Darren Elkins",
+        "fighter2": "Hacran Dias",
+        "winner": "Hacran Dias",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 97,
+            "str_landed": 77,
+            "str_att": 140,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 1,
+            "ctrl_time": 163
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 30,
+            "sig_str_att": 52,
+            "str_landed": 65,
+            "str_att": 93,
+            "td_comp": 5,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 473
+        }
+    },
+    "Leandro Issa vs Yuta Sasaki": {
+        "name": "Leandro Issa vs Yuta Sasaki",
+        "fighter1": "Leandro Issa",
+        "fighter2": "Yuta Sasaki",
+        "winner": "Leandro Issa",
+        "method": "Submission",
+        "time_end": "4:13",
+        "round_end": 2,
+        "fight_length": 313,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 37,
+            "str_landed": 57,
+            "str_att": 76,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 412
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 19,
+            "str_landed": 8,
+            "str_att": 20,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 35
+        }
+    },
+    "Marcio Alexandre Junior vs Tim Means": {
+        "name": "Marcio Alexandre Junior vs Tim Means",
+        "fighter1": "Marcio Alexandre Junior",
+        "fighter2": "Tim Means",
+        "winner": "Tim Means",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 80,
+            "str_landed": 60,
+            "str_att": 109,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 106
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 43,
+            "sig_str_att": 68,
+            "str_landed": 53,
+            "str_att": 79,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 137
+        }
+    },
+    "Vitor Miranda vs Jake Collier": {
+        "name": "Vitor Miranda vs Jake Collier",
+        "fighter1": "Vitor Miranda",
+        "fighter2": "Jake Collier",
+        "winner": "Vitor Miranda",
+        "method": "KO/TKO",
+        "time_end": "4:59",
+        "round_end": 1,
+        "fight_length": 299,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 21,
+            "str_landed": 19,
+            "str_att": 26,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 35,
+            "str_landed": 22,
+            "str_att": 44,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 184
+        }
+    }
+}

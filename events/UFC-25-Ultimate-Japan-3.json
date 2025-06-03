@@ -1,0 +1,205 @@
+{
+    "event": "UFC 25: Ultimate Japan 3",
+    "date": "April 14, 2000",
+    "Tito Ortiz vs Wanderlei Silva": {
+        "name": "Tito Ortiz vs Wanderlei Silva",
+        "fighter1": "Tito Ortiz",
+        "fighter2": "Wanderlei Silva",
+        "winner": "Tito Ortiz",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            139,
+            147
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 20,
+            "sig_str_att": 43,
+            "str_landed": 131,
+            "str_att": 163,
+            "td_comp": 4,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 1153
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 27,
+            "str_landed": 170,
+            "str_att": 191,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 7
+        }
+    },
+    "Murilo Bustamante vs Yoji Anjo": {
+        "name": "Murilo Bustamante vs Yoji Anjo",
+        "fighter1": "Murilo Bustamante",
+        "fighter2": "Yoji Anjo",
+        "winner": "Murilo Bustamante",
+        "method": "Submission",
+        "time_end": "0:31",
+        "round_end": 2,
+        "fight_length": 91,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 21,
+            "str_landed": 23,
+            "str_att": 37,
+            "td_comp": 4,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 290
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 6,
+            "str_landed": 1,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 12
+        }
+    },
+    "Sanae Kikuta vs Eugene Jackson": {
+        "name": "Sanae Kikuta vs Eugene Jackson",
+        "fighter1": "Sanae Kikuta",
+        "fighter2": "Eugene Jackson",
+        "winner": "Sanae Kikuta",
+        "method": "Submission",
+        "time_end": "4:38",
+        "round_end": 1,
+        "fight_length": 278,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 16,
+            "str_landed": 20,
+            "str_att": 33,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 217
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 5,
+            "str_landed": 26,
+            "str_att": 33,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        }
+    },
+    "Ron Waterman vs Satoshi Honma": {
+        "name": "Ron Waterman vs Satoshi Honma",
+        "fighter1": "Ron Waterman",
+        "fighter2": "Satoshi Honma",
+        "winner": "Ron Waterman",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 51,
+            "sig_str_att": 62,
+            "str_landed": 142,
+            "str_att": 161,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 717
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 13,
+            "str_landed": 30,
+            "str_att": 40,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        }
+    },
+    "Ikuhisa Minowa vs Joe Slick": {
+        "name": "Ikuhisa Minowa vs Joe Slick",
+        "fighter1": "Ikuhisa Minowa",
+        "fighter2": "Joe Slick",
+        "winner": "Ikuhisa Minowa",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "1:54",
+        "round_end": 3,
+        "fight_length": 234,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 19,
+            "str_landed": 27,
+            "str_att": 47,
+            "td_comp": 3,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 447
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 16,
+            "str_landed": 21,
+            "str_att": 29,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 4,
+            "ctrl_time": 135
+        }
+    },
+    "Laverne Clark vs Koji Oishi": {
+        "name": "Laverne Clark vs Koji Oishi",
+        "fighter1": "Laverne Clark",
+        "fighter2": "Koji Oishi",
+        "winner": "Laverne Clark",
+        "method": "Decision - Majority",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 45,
+            "str_landed": 138,
+            "str_att": 174,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 315
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 4,
+            "str_landed": 13,
+            "str_att": 17,
+            "td_comp": 3,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 305
+        }
+    }
+}

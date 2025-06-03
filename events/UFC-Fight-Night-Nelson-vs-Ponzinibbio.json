@@ -1,0 +1,415 @@
+{
+    "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
+    "date": "July 16, 2017",
+    "Gunnar Nelson vs Santiago Ponzinibbio": {
+        "name": "Gunnar Nelson vs Santiago Ponzinibbio",
+        "fighter1": "Gunnar Nelson",
+        "fighter2": "Santiago Ponzinibbio",
+        "winner": "Santiago Ponzinibbio",
+        "method": "KO/TKO",
+        "time_end": "1:22",
+        "round_end": 1,
+        "fight_length": 82,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 7,
+            "str_landed": 5,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 7,
+            "sig_str_att": 12,
+            "str_landed": 7,
+            "str_att": 12,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    },
+    "Joanne Wood vs Cynthia Calvillo": {
+        "name": "Joanne Wood vs Cynthia Calvillo",
+        "fighter1": "Joanne Wood",
+        "fighter2": "Cynthia Calvillo",
+        "winner": "Cynthia Calvillo",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 63,
+            "sig_str_att": 176,
+            "str_landed": 68,
+            "str_att": 181,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 17
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 54,
+            "sig_str_att": 111,
+            "str_landed": 62,
+            "str_att": 119,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 2,
+            "ctrl_time": 63
+        }
+    },
+    "Stevie Ray vs Paul Felder": {
+        "name": "Stevie Ray vs Paul Felder",
+        "fighter1": "Stevie Ray",
+        "fighter2": "Paul Felder",
+        "winner": "Paul Felder",
+        "method": "KO/TKO",
+        "time_end": "3:57",
+        "round_end": 1,
+        "fight_length": 237,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 9,
+            "str_landed": 11,
+            "str_att": 15,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 105
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 23,
+            "sig_str_att": 35,
+            "str_landed": 28,
+            "str_att": 41,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 66
+        }
+    },
+    "Jack Marshman vs Ryan Janes": {
+        "name": "Jack Marshman vs Ryan Janes",
+        "fighter1": "Jack Marshman",
+        "fighter2": "Ryan Janes",
+        "winner": "Jack Marshman",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 75,
+            "sig_str_att": 217,
+            "str_landed": 83,
+            "str_att": 225,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 83,
+            "sig_str_att": 189,
+            "str_landed": 119,
+            "str_att": 227,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 104
+        }
+    },
+    "Khalil Rountree Jr. vs Paul Craig": {
+        "name": "Khalil Rountree Jr. vs Paul Craig",
+        "fighter1": "Khalil Rountree Jr.",
+        "fighter2": "Paul Craig",
+        "winner": "Khalil Rountree Jr.",
+        "method": "KO/TKO",
+        "time_end": "4:56",
+        "round_end": 1,
+        "fight_length": 296,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 15,
+            "sig_str_att": 47,
+            "str_landed": 15,
+            "str_att": 47,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 4
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 29,
+            "str_landed": 17,
+            "str_att": 29,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "James Mulheron vs Justin Willis": {
+        "name": "James Mulheron vs Justin Willis",
+        "fighter1": "James Mulheron",
+        "fighter2": "Justin Willis",
+        "winner": "Justin Willis",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 114,
+            "str_landed": 56,
+            "str_att": 136,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 40
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 52,
+            "sig_str_att": 91,
+            "str_landed": 72,
+            "str_att": 114,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 204
+        }
+    },
+    "Danny Roberts vs Bobby Nash": {
+        "name": "Danny Roberts vs Bobby Nash",
+        "fighter1": "Danny Roberts",
+        "fighter2": "Bobby Nash",
+        "winner": "Danny Roberts",
+        "method": "KO/TKO",
+        "time_end": "3:59",
+        "round_end": 2,
+        "fight_length": 299,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 24,
+            "sig_str_att": 65,
+            "str_landed": 29,
+            "str_att": 71,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 10
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 63,
+            "str_landed": 46,
+            "str_att": 91,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 181
+        }
+    },
+    "Alexandre Pantoja vs Neil Seery": {
+        "name": "Alexandre Pantoja vs Neil Seery",
+        "fighter1": "Alexandre Pantoja",
+        "fighter2": "Neil Seery",
+        "winner": "Alexandre Pantoja",
+        "method": "Submission",
+        "time_end": "2:31",
+        "round_end": 3,
+        "fight_length": 271,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 119,
+            "sig_str_att": 227,
+            "str_landed": 131,
+            "str_att": 239,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 268
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 82,
+            "sig_str_att": 183,
+            "str_landed": 90,
+            "str_att": 192,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 4
+        }
+    },
+    "Charlie Ward vs Galore Bofando": {
+        "name": "Charlie Ward vs Galore Bofando",
+        "fighter1": "Charlie Ward",
+        "fighter2": "Galore Bofando",
+        "winner": "Galore Bofando",
+        "method": "KO/TKO",
+        "time_end": "2:10",
+        "round_end": 1,
+        "fight_length": 130,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 12,
+            "str_landed": 4,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 8
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 25,
+            "str_landed": 10,
+            "str_att": 25,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    },
+    "Danny Henry vs Daniel Teymur": {
+        "name": "Danny Henry vs Daniel Teymur",
+        "fighter1": "Danny Henry",
+        "fighter2": "Daniel Teymur",
+        "winner": "Danny Henry",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 93,
+            "sig_str_att": 174,
+            "str_landed": 153,
+            "str_att": 243,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 2,
+            "ctrl_time": 353
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 69,
+            "sig_str_att": 129,
+            "str_landed": 78,
+            "str_att": 139,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 150
+        }
+    },
+    "Brett Johns vs Albert Morales": {
+        "name": "Brett Johns vs Albert Morales",
+        "fighter1": "Brett Johns",
+        "fighter2": "Albert Morales",
+        "winner": "Brett Johns",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            79,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 56,
+            "sig_str_att": 104,
+            "str_landed": 172,
+            "str_att": 231,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 693
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 115,
+            "str_landed": 63,
+            "str_att": 157,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Leslie Smith vs Amanda Lemos": {
+        "name": "Leslie Smith vs Amanda Lemos",
+        "fighter1": "Leslie Smith",
+        "fighter2": "Amanda Lemos",
+        "winner": "Leslie Smith",
+        "method": "KO/TKO",
+        "time_end": "2:53",
+        "round_end": 2,
+        "fight_length": 233,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 101,
+            "sig_str_att": 192,
+            "str_landed": 114,
+            "str_att": 207,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 88
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 68,
+            "sig_str_att": 106,
+            "str_landed": 70,
+            "str_att": 108,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 34
+        }
+    }
+}

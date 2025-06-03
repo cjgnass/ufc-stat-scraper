@@ -1,0 +1,391 @@
+{
+    "event": "UFC Fight Night: Lee vs. Oliveira",
+    "date": "March 14, 2020",
+    "Kevin Lee vs Charles Oliveira": {
+        "name": "Kevin Lee vs Charles Oliveira",
+        "fighter1": "Kevin Lee",
+        "fighter2": "Charles Oliveira",
+        "winner": "Charles Oliveira",
+        "method": "Submission",
+        "time_end": "0:28",
+        "round_end": 3,
+        "fight_length": 148,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 80,
+            "str_landed": 61,
+            "str_att": 100,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 390
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 43,
+            "sig_str_att": 65,
+            "str_landed": 51,
+            "str_att": 73,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 11
+        }
+    },
+    "Demian Maia vs Gilbert Burns": {
+        "name": "Demian Maia vs Gilbert Burns",
+        "fighter1": "Demian Maia",
+        "fighter2": "Gilbert Burns",
+        "winner": "Gilbert Burns",
+        "method": "KO/TKO",
+        "time_end": "2:34",
+        "round_end": 1,
+        "fight_length": 154,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 7,
+            "str_landed": 4,
+            "str_att": 7,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 83
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 13,
+            "sig_str_att": 16,
+            "str_landed": 14,
+            "str_att": 17,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 4
+        }
+    },
+    "Renato Moicano vs Damir Hadzovic": {
+        "name": "Renato Moicano vs Damir Hadzovic",
+        "fighter1": "Renato Moicano",
+        "fighter2": "Damir Hadzovic",
+        "winner": "Renato Moicano",
+        "method": "Submission",
+        "time_end": "0:44",
+        "round_end": 1,
+        "fight_length": 44,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 2,
+            "str_landed": 4,
+            "str_att": 5,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 25
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 5,
+            "str_landed": 1,
+            "str_att": 5,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Johnny Walker vs Nikita Krylov": {
+        "name": "Johnny Walker vs Nikita Krylov",
+        "fighter1": "Johnny Walker",
+        "fighter2": "Nikita Krylov",
+        "winner": "Nikita Krylov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 50,
+            "str_landed": 91,
+            "str_att": 112,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 145
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 58,
+            "str_landed": 128,
+            "str_att": 148,
+            "td_comp": 3,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 680
+        }
+    },
+    "Francisco Trinaldo vs John Makdessi": {
+        "name": "Francisco Trinaldo vs John Makdessi",
+        "fighter1": "Francisco Trinaldo",
+        "fighter2": "John Makdessi",
+        "winner": "Francisco Trinaldo",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 55,
+            "sig_str_att": 126,
+            "str_landed": 55,
+            "str_att": 126,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 67,
+            "sig_str_att": 123,
+            "str_landed": 68,
+            "str_att": 124,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Jussier Formiga vs Brandon Moreno": {
+        "name": "Jussier Formiga vs Brandon Moreno",
+        "fighter1": "Jussier Formiga",
+        "fighter2": "Brandon Moreno",
+        "winner": "Brandon Moreno",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 32,
+            "str_landed": 61,
+            "str_att": 81,
+            "td_comp": 1,
+            "td_att": 9,
+            "sub_att": 1,
+            "ctrl_time": 253
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 82,
+            "str_landed": 94,
+            "str_att": 147,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 225
+        }
+    },
+    "Amanda Ribas vs Randa Markos": {
+        "name": "Amanda Ribas vs Randa Markos",
+        "fighter1": "Amanda Ribas",
+        "fighter2": "Randa Markos",
+        "winner": "Amanda Ribas",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            76,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 85,
+            "sig_str_att": 159,
+            "str_landed": 173,
+            "str_att": 254,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 2,
+            "ctrl_time": 445
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 77,
+            "str_landed": 56,
+            "str_att": 99,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 60
+        }
+    },
+    "Elizeu Zaleski dos Santos vs Aleksei Kunchenko": {
+        "name": "Elizeu Zaleski dos Santos vs Aleksei Kunchenko",
+        "fighter1": "Elizeu Zaleski dos Santos",
+        "fighter2": "Aleksei Kunchenko",
+        "winner": "Elizeu Zaleski dos Santos",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 62,
+            "sig_str_att": 156,
+            "str_landed": 74,
+            "str_att": 169,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 150
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 57,
+            "sig_str_att": 112,
+            "str_landed": 97,
+            "str_att": 156,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 24
+        }
+    },
+    "Mayra Bueno Silva vs Maryna Moroz": {
+        "name": "Mayra Bueno Silva vs Maryna Moroz",
+        "fighter1": "Mayra Bueno Silva",
+        "fighter2": "Maryna Moroz",
+        "winner": "Maryna Moroz",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 88,
+            "sig_str_att": 146,
+            "str_landed": 92,
+            "str_att": 150,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 45
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 139,
+            "sig_str_att": 247,
+            "str_landed": 176,
+            "str_att": 298,
+            "td_comp": 2,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 269
+        }
+    },
+    "Bruno Silva vs David Dvorak": {
+        "name": "Bruno Silva vs David Dvorak",
+        "fighter1": "Bruno Silva",
+        "fighter2": "David Dvorak",
+        "winner": "David Dvorak",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 97,
+            "str_landed": 60,
+            "str_att": 112,
+            "td_comp": 3,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 91
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 67,
+            "sig_str_att": 133,
+            "str_landed": 92,
+            "str_att": 161,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 73
+        }
+    },
+    "Veronica Hardy vs Bea Malecki": {
+        "name": "Veronica Hardy vs Bea Malecki",
+        "fighter1": "Veronica Hardy",
+        "fighter2": "Bea Malecki",
+        "winner": "Bea Malecki",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 93,
+            "sig_str_att": 258,
+            "str_landed": 106,
+            "str_att": 271,
+            "td_comp": 0,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 12
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 130,
+            "sig_str_att": 247,
+            "str_landed": 190,
+            "str_att": 326,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 204
+        }
+    }
+}

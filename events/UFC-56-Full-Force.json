@@ -1,0 +1,274 @@
+{
+    "event": "UFC 56: Full Force",
+    "date": "November 19, 2005",
+    "Rich Franklin vs Nate Quarry": {
+        "name": "Rich Franklin vs Nate Quarry",
+        "fighter1": "Rich Franklin",
+        "fighter2": "Nate Quarry",
+        "winner": "Rich Franklin",
+        "method": "KO/TKO",
+        "time_end": "2:34",
+        "round_end": 1,
+        "fight_length": 154,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 13,
+            "sig_str_att": 34,
+            "str_landed": 15,
+            "str_att": 36,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 10
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 20,
+            "str_landed": 4,
+            "str_att": 20,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Gabriel Gonzaga vs Kevin Jordan": {
+        "name": "Gabriel Gonzaga vs Kevin Jordan",
+        "fighter1": "Gabriel Gonzaga",
+        "fighter2": "Kevin Jordan",
+        "winner": "Gabriel Gonzaga",
+        "method": "KO/TKO",
+        "time_end": "4:39",
+        "round_end": 3,
+        "fight_length": 399,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 23,
+            "sig_str_att": 56,
+            "str_landed": 63,
+            "str_att": 98,
+            "td_comp": 2,
+            "td_att": 9,
+            "sub_att": 2,
+            "ctrl_time": 291
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 53,
+            "str_landed": 19,
+            "str_att": 54,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        }
+    },
+    "Matt Hughes vs Joe Riggs": {
+        "name": "Matt Hughes vs Joe Riggs",
+        "fighter1": "Matt Hughes",
+        "fighter2": "Joe Riggs",
+        "winner": "Matt Hughes",
+        "method": "Submission",
+        "time_end": "3:28",
+        "round_end": 1,
+        "fight_length": 208,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 13,
+            "str_landed": 9,
+            "str_att": 14,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 123
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 5,
+            "str_landed": 1,
+            "str_att": 5,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Georges St-Pierre vs Sean Sherk": {
+        "name": "Georges St-Pierre vs Sean Sherk",
+        "fighter1": "Georges St-Pierre",
+        "fighter2": "Sean Sherk",
+        "winner": "Georges St-Pierre",
+        "method": "KO/TKO",
+        "time_end": "2:53",
+        "round_end": 2,
+        "fight_length": 233,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 111,
+            "str_landed": 78,
+            "str_att": 132,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 186
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 55,
+            "str_landed": 32,
+            "str_att": 67,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Jeremy Horn vs Trevor Prangley": {
+        "name": "Jeremy Horn vs Trevor Prangley",
+        "fighter1": "Jeremy Horn",
+        "fighter2": "Trevor Prangley",
+        "winner": "Jeremy Horn",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 71,
+            "str_landed": 67,
+            "str_att": 102,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 109
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 78,
+            "str_landed": 77,
+            "str_att": 122,
+            "td_comp": 7,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 554
+        }
+    },
+    "Sam Hoger vs Jeff Newton": {
+        "name": "Sam Hoger vs Jeff Newton",
+        "fighter1": "Sam Hoger",
+        "fighter2": "Jeff Newton",
+        "winner": "Sam Hoger",
+        "method": "Submission",
+        "time_end": "2:05",
+        "round_end": 2,
+        "fight_length": 185,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 21,
+            "str_landed": 35,
+            "str_att": 48,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 2,
+            "ctrl_time": 284
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 10,
+            "str_landed": 4,
+            "str_att": 12,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 4,
+            "ctrl_time": 9
+        }
+    },
+    "Thiago Alves vs Ansar Chalangov": {
+        "name": "Thiago Alves vs Ansar Chalangov",
+        "fighter1": "Thiago Alves",
+        "fighter2": "Ansar Chalangov",
+        "winner": "Thiago Alves",
+        "method": "KO/TKO",
+        "time_end": "2:25",
+        "round_end": 1,
+        "fight_length": 145,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 11,
+            "str_landed": 9,
+            "str_att": 12,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 61
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 2,
+            "str_landed": 2,
+            "str_att": 2,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 44
+        }
+    },
+    "Nick Thompson vs Keith Wisniewski": {
+        "name": "Nick Thompson vs Keith Wisniewski",
+        "fighter1": "Nick Thompson",
+        "fighter2": "Keith Wisniewski",
+        "winner": "Nick Thompson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 48,
+            "sig_str_att": 107,
+            "str_landed": 108,
+            "str_att": 170,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 3,
+            "ctrl_time": 429
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 40,
+            "str_landed": 23,
+            "str_att": 49,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 246
+        }
+    }
+}

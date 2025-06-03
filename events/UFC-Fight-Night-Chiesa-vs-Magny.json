@@ -1,0 +1,490 @@
+{
+    "event": "UFC Fight Night: Chiesa vs. Magny",
+    "date": "January 20, 2021",
+    "Michael Chiesa vs Neil Magny": {
+        "name": "Michael Chiesa vs Neil Magny",
+        "fighter1": "Michael Chiesa",
+        "fighter2": "Neil Magny",
+        "winner": "Michael Chiesa",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            138,
+            147
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 52,
+            "str_landed": 93,
+            "str_att": 125,
+            "td_comp": 4,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 921
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 50,
+            "str_landed": 52,
+            "str_att": 96,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 135
+        }
+    },
+    "Warlley Alves vs Mounir Lazzez": {
+        "name": "Warlley Alves vs Mounir Lazzez",
+        "fighter1": "Warlley Alves",
+        "fighter2": "Mounir Lazzez",
+        "winner": "Warlley Alves",
+        "method": "KO/TKO",
+        "time_end": "2:35",
+        "round_end": 1,
+        "fight_length": 155,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 17,
+            "sig_str_att": 21,
+            "str_landed": 24,
+            "str_att": 30,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 96
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 2,
+            "str_landed": 2,
+            "str_att": 2,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 42
+        }
+    },
+    "Ike Villanueva vs Vinicius Moreira": {
+        "name": "Ike Villanueva vs Vinicius Moreira",
+        "fighter1": "Ike Villanueva",
+        "fighter2": "Vinicius Moreira",
+        "winner": "Ike Villanueva",
+        "method": "KO/TKO",
+        "time_end": "0:39",
+        "round_end": 2,
+        "fight_length": 99,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 24,
+            "sig_str_att": 56,
+            "str_landed": 24,
+            "str_att": 56,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 42,
+            "str_landed": 24,
+            "str_att": 42,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Roxanne Modafferi vs Viviane Araujo": {
+        "name": "Roxanne Modafferi vs Viviane Araujo",
+        "fighter1": "Roxanne Modafferi",
+        "fighter2": "Viviane Araujo",
+        "winner": "Viviane Araujo",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 184,
+            "str_landed": 49,
+            "str_att": 193,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 39
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 86,
+            "sig_str_att": 198,
+            "str_landed": 100,
+            "str_att": 214,
+            "td_comp": 4,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 186
+        }
+    },
+    "Matt Schnell vs Tyson Nam": {
+        "name": "Matt Schnell vs Tyson Nam",
+        "fighter1": "Matt Schnell",
+        "fighter2": "Tyson Nam",
+        "winner": "Matt Schnell",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 85,
+            "sig_str_att": 214,
+            "str_landed": 85,
+            "str_att": 214,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 193,
+            "str_landed": 58,
+            "str_att": 193,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Lerone Murphy vs Douglas Silva de Andrade": {
+        "name": "Lerone Murphy vs Douglas Silva de Andrade",
+        "fighter1": "Lerone Murphy",
+        "fighter2": "Douglas Silva de Andrade",
+        "winner": "Lerone Murphy",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 48,
+            "sig_str_att": 115,
+            "str_landed": 60,
+            "str_att": 131,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 111
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 108,
+            "str_landed": 51,
+            "str_att": 121,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 81
+        }
+    },
+    "Omari Akhmedov vs Tom Breese": {
+        "name": "Omari Akhmedov vs Tom Breese",
+        "fighter1": "Omari Akhmedov",
+        "fighter2": "Tom Breese",
+        "winner": "Omari Akhmedov",
+        "method": "Submission",
+        "time_end": "1:41",
+        "round_end": 2,
+        "fight_length": 161,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 38,
+            "str_landed": 73,
+            "str_att": 91,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 274
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 4,
+            "str_landed": 6,
+            "str_att": 12,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 3,
+            "ctrl_time": 60
+        }
+    },
+    "Ricky Simon vs Gaetano Pirrello": {
+        "name": "Ricky Simon vs Gaetano Pirrello",
+        "fighter1": "Ricky Simon",
+        "fighter2": "Gaetano Pirrello",
+        "winner": "Ricky Simon",
+        "method": "Submission",
+        "time_end": "4:00",
+        "round_end": 2,
+        "fight_length": 300,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 32,
+            "str_landed": 50,
+            "str_att": 69,
+            "td_comp": 7,
+            "td_att": 10,
+            "sub_att": 1,
+            "ctrl_time": 419
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 14,
+            "str_landed": 10,
+            "str_att": 18,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Sumudaerji vs Zarrukh Adashev": {
+        "name": "Sumudaerji vs Zarrukh Adashev",
+        "fighter1": "Sumudaerji",
+        "fighter2": "Zarrukh Adashev",
+        "winner": "Sumudaerji",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 50,
+            "sig_str_att": 127,
+            "str_landed": 50,
+            "str_att": 127,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 123,
+            "str_landed": 28,
+            "str_att": 123,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Dalcha Lungiambula vs Markus Perez": {
+        "name": "Dalcha Lungiambula vs Markus Perez",
+        "fighter1": "Dalcha Lungiambula",
+        "fighter2": "Markus Perez",
+        "winner": "Dalcha Lungiambula",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 65,
+            "str_landed": 61,
+            "str_att": 98,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 406
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 49,
+            "str_landed": 50,
+            "str_att": 75,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 261
+        }
+    },
+    "Francisco Figueiredo vs Jerome Rivera": {
+        "name": "Francisco Figueiredo vs Jerome Rivera",
+        "fighter1": "Francisco Figueiredo",
+        "fighter2": "Jerome Rivera",
+        "winner": "Francisco Figueiredo",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 53,
+            "str_landed": 39,
+            "str_att": 65,
+            "td_comp": 4,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 427
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 134,
+            "str_landed": 85,
+            "str_att": 199,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 67
+        }
+    },
+    "Mike Davis vs Mason Jones": {
+        "name": "Mike Davis vs Mason Jones",
+        "fighter1": "Mike Davis",
+        "fighter2": "Mason Jones",
+        "winner": "Mike Davis",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 108,
+            "sig_str_att": 207,
+            "str_landed": 111,
+            "str_att": 210,
+            "td_comp": 3,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 50
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 117,
+            "sig_str_att": 313,
+            "str_landed": 132,
+            "str_att": 329,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 51
+        }
+    },
+    "Umar Nurmagomedov vs Sergey Morozov": {
+        "name": "Umar Nurmagomedov vs Sergey Morozov",
+        "fighter1": "Umar Nurmagomedov",
+        "fighter2": "Sergey Morozov",
+        "winner": "Umar Nurmagomedov",
+        "method": "Submission",
+        "time_end": "3:39",
+        "round_end": 2,
+        "fight_length": 279,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 41,
+            "str_landed": 32,
+            "str_att": 48,
+            "td_comp": 5,
+            "td_att": 11,
+            "sub_att": 1,
+            "ctrl_time": 177
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 30,
+            "str_landed": 8,
+            "str_att": 31,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 8
+        }
+    },
+    "Victoria Leonardo vs Manon Fiorot": {
+        "name": "Victoria Leonardo vs Manon Fiorot",
+        "fighter1": "Victoria Leonardo",
+        "fighter2": "Manon Fiorot",
+        "winner": "Manon Fiorot",
+        "method": "KO/TKO",
+        "time_end": "4:08",
+        "round_end": 2,
+        "fight_length": 308,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 81,
+            "str_landed": 18,
+            "str_att": 82,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 53,
+            "sig_str_att": 100,
+            "str_landed": 58,
+            "str_att": 105,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 85
+        }
+    }
+}

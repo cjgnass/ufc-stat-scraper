@@ -1,0 +1,391 @@
+{
+    "event": "UFC 137: Penn vs Diaz",
+    "date": "October 29, 2011",
+    "BJ Penn vs Nick Diaz": {
+        "name": "BJ Penn vs Nick Diaz",
+        "fighter1": "BJ Penn",
+        "fighter2": "Nick Diaz",
+        "winner": "Nick Diaz",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 88,
+            "sig_str_att": 164,
+            "str_landed": 107,
+            "str_att": 184,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 87
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 178,
+            "sig_str_att": 350,
+            "str_landed": 257,
+            "str_att": 436,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 203
+        }
+    },
+    "Cheick Kongo vs Matt Mitrione": {
+        "name": "Cheick Kongo vs Matt Mitrione",
+        "fighter1": "Cheick Kongo",
+        "fighter2": "Matt Mitrione",
+        "winner": "Cheick Kongo",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 126,
+            "str_landed": 70,
+            "str_att": 159,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 330
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 55,
+            "str_landed": 22,
+            "str_att": 58,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Mirko Filipovic vs Roy Nelson": {
+        "name": "Mirko Filipovic vs Roy Nelson",
+        "fighter1": "Mirko Filipovic",
+        "fighter2": "Roy Nelson",
+        "winner": "Roy Nelson",
+        "method": "KO/TKO",
+        "time_end": "1:30",
+        "round_end": 3,
+        "fight_length": 210,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 30,
+            "sig_str_att": 59,
+            "str_landed": 37,
+            "str_att": 66,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 26
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 75,
+            "str_landed": 70,
+            "str_att": 116,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 255
+        }
+    },
+    "Scott Jorgensen vs Jeff Curran": {
+        "name": "Scott Jorgensen vs Jeff Curran",
+        "fighter1": "Scott Jorgensen",
+        "fighter2": "Jeff Curran",
+        "winner": "Scott Jorgensen",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 103,
+            "str_landed": 84,
+            "str_att": 147,
+            "td_comp": 5,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 467
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 126,
+            "str_landed": 67,
+            "str_att": 156,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 38
+        }
+    },
+    "Hatsu Hioki vs George Roop": {
+        "name": "Hatsu Hioki vs George Roop",
+        "fighter1": "Hatsu Hioki",
+        "fighter2": "George Roop",
+        "winner": "Hatsu Hioki",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 49,
+            "str_landed": 58,
+            "str_att": 84,
+            "td_comp": 2,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 411
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 104,
+            "str_landed": 90,
+            "str_att": 164,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 213
+        }
+    },
+    "Dennis Siver vs Donald Cerrone": {
+        "name": "Dennis Siver vs Donald Cerrone",
+        "fighter1": "Dennis Siver",
+        "fighter2": "Donald Cerrone",
+        "winner": "Donald Cerrone",
+        "method": "Submission",
+        "time_end": "2:22",
+        "round_end": 1,
+        "fight_length": 142,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 21,
+            "str_landed": 14,
+            "str_att": 23,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 38
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 9,
+            "sig_str_att": 23,
+            "str_landed": 9,
+            "str_att": 23,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 10
+        }
+    },
+    "Tyson Griffin vs Bart Palaszewski": {
+        "name": "Tyson Griffin vs Bart Palaszewski",
+        "fighter1": "Tyson Griffin",
+        "fighter2": "Bart Palaszewski",
+        "winner": "Bart Palaszewski",
+        "method": "KO/TKO",
+        "time_end": "2:45",
+        "round_end": 1,
+        "fight_length": 165,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 21,
+            "str_landed": 6,
+            "str_att": 21,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 17,
+            "sig_str_att": 66,
+            "str_landed": 17,
+            "str_att": 66,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Brandon Vera vs Eliot Marshall": {
+        "name": "Brandon Vera vs Eliot Marshall",
+        "fighter1": "Brandon Vera",
+        "fighter2": "Eliot Marshall",
+        "winner": "Brandon Vera",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 65,
+            "str_landed": 55,
+            "str_att": 88,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 430
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 21,
+            "sig_str_att": 55,
+            "str_landed": 79,
+            "str_att": 115,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 2,
+            "ctrl_time": 130
+        }
+    },
+    "Ramsey Nijem vs Danny Downes": {
+        "name": "Ramsey Nijem vs Danny Downes",
+        "fighter1": "Ramsey Nijem",
+        "fighter2": "Danny Downes",
+        "winner": "Ramsey Nijem",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            78,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 59,
+            "sig_str_att": 77,
+            "str_landed": 163,
+            "str_att": 190,
+            "td_comp": 8,
+            "td_att": 14,
+            "sub_att": 4,
+            "ctrl_time": 764
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 27,
+            "str_landed": 22,
+            "str_att": 43,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 31
+        }
+    },
+    "Chris Camozzi vs Francis Carmont": {
+        "name": "Chris Camozzi vs Francis Carmont",
+        "fighter1": "Chris Camozzi",
+        "fighter2": "Francis Carmont",
+        "winner": "Francis Carmont",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 47,
+            "str_landed": 56,
+            "str_att": 85,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 360
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 51,
+            "sig_str_att": 74,
+            "str_landed": 82,
+            "str_att": 107,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 284
+        }
+    },
+    "Dustin Jacoby vs Clifford Starks": {
+        "name": "Dustin Jacoby vs Clifford Starks",
+        "fighter1": "Dustin Jacoby",
+        "fighter2": "Clifford Starks",
+        "winner": "Clifford Starks",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 72,
+            "str_landed": 35,
+            "str_att": 89,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 82,
+            "str_landed": 81,
+            "str_att": 147,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 352
+        }
+    }
+}

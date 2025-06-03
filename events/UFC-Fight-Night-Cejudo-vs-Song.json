@@ -1,0 +1,412 @@
+{
+    "event": "UFC Fight Night: Cejudo vs. Song",
+    "date": "February 22, 2025",
+    "Henry Cejudo vs Song Yadong": {
+        "name": "Henry Cejudo vs Song Yadong",
+        "fighter1": "Henry Cejudo",
+        "fighter2": "Song Yadong",
+        "winner": "Song Yadong",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 67,
+            "sig_str_att": 133,
+            "str_landed": 67,
+            "str_att": 133,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 84,
+            "sig_str_att": 178,
+            "str_landed": 84,
+            "str_att": 178,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Brendan Allen vs Anthony Hernandez": {
+        "name": "Brendan Allen vs Anthony Hernandez",
+        "fighter1": "Brendan Allen",
+        "fighter2": "Anthony Hernandez",
+        "winner": "Anthony Hernandez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 26,
+            "str_landed": 53,
+            "str_att": 71,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 178
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 30,
+            "sig_str_att": 42,
+            "str_landed": 72,
+            "str_att": 91,
+            "td_comp": 4,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 622
+        }
+    },
+    "Rob Font vs Jean Matsumoto": {
+        "name": "Rob Font vs Jean Matsumoto",
+        "fighter1": "Rob Font",
+        "fighter2": "Jean Matsumoto",
+        "winner": "Rob Font",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 95,
+            "sig_str_att": 171,
+            "str_landed": 113,
+            "str_att": 191,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 78
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 77,
+            "sig_str_att": 181,
+            "str_landed": 113,
+            "str_att": 225,
+            "td_comp": 7,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 375
+        }
+    },
+    "Jean Silva vs Melsik Baghdasaryan": {
+        "name": "Jean Silva vs Melsik Baghdasaryan",
+        "fighter1": "Jean Silva",
+        "fighter2": "Melsik Baghdasaryan",
+        "winner": "Jean Silva",
+        "method": "KO/TKO",
+        "time_end": "4:15",
+        "round_end": 1,
+        "fight_length": 255,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 18,
+            "sig_str_att": 27,
+            "str_landed": 18,
+            "str_att": 27,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 6
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 25,
+            "str_landed": 7,
+            "str_att": 25,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Alonzo Menifield vs Julius Walker": {
+        "name": "Alonzo Menifield vs Julius Walker",
+        "fighter1": "Alonzo Menifield",
+        "fighter2": "Julius Walker",
+        "winner": "Alonzo Menifield",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 87,
+            "sig_str_att": 147,
+            "str_landed": 113,
+            "str_att": 179,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 43
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 86,
+            "sig_str_att": 171,
+            "str_landed": 114,
+            "str_att": 200,
+            "td_comp": 1,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 331
+        }
+    },
+    "Ion Cutelaba vs Ibo Aslan": {
+        "name": "Ion Cutelaba vs Ibo Aslan",
+        "fighter1": "Ion Cutelaba",
+        "fighter2": "Ibo Aslan",
+        "winner": "Ion Cutelaba",
+        "method": "Submission",
+        "time_end": "2:51",
+        "round_end": 1,
+        "fight_length": 171,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 31,
+            "str_landed": 17,
+            "str_att": 39,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 66
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 30,
+            "str_landed": 15,
+            "str_att": 30,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Andre Fili vs Melquizael Costa": {
+        "name": "Andre Fili vs Melquizael Costa",
+        "fighter1": "Andre Fili",
+        "fighter2": "Melquizael Costa",
+        "winner": "Melquizael Costa",
+        "method": "Submission",
+        "time_end": "4:30",
+        "round_end": 1,
+        "fight_length": 270,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 24,
+            "str_landed": 7,
+            "str_att": 24,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 24
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 56,
+            "str_landed": 27,
+            "str_att": 56,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 0
+        }
+    },
+    "Mansur Abdul-Malik vs Nick Klein": {
+        "name": "Mansur Abdul-Malik vs Nick Klein",
+        "fighter1": "Mansur Abdul-Malik",
+        "fighter2": "Nick Klein",
+        "winner": "Mansur Abdul-Malik",
+        "method": "KO/TKO",
+        "time_end": "3:24",
+        "round_end": 2,
+        "fight_length": 264,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 54,
+            "str_landed": 32,
+            "str_att": 58,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 35
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 46,
+            "str_landed": 50,
+            "str_att": 70,
+            "td_comp": 1,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 181
+        }
+    },
+    "Ricky Simon vs Javid Basharat": {
+        "name": "Ricky Simon vs Javid Basharat",
+        "fighter1": "Ricky Simon",
+        "fighter2": "Javid Basharat",
+        "winner": "Ricky Simon",
+        "method": "KO/TKO",
+        "time_end": "3:58",
+        "round_end": 1,
+        "fight_length": 238,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 11,
+            "sig_str_att": 21,
+            "str_landed": 18,
+            "str_att": 29,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 76
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 36,
+            "str_landed": 21,
+            "str_att": 38,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    },
+    "Nikolay Veretennikov vs Austin Vanderford": {
+        "name": "Nikolay Veretennikov vs Austin Vanderford",
+        "fighter1": "Nikolay Veretennikov",
+        "fighter2": "Austin Vanderford",
+        "winner": "Austin Vanderford",
+        "method": "KO/TKO",
+        "time_end": "4:13",
+        "round_end": 2,
+        "fight_length": 313,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 19,
+            "str_landed": 21,
+            "str_att": 36,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 52,
+            "str_landed": 102,
+            "str_att": 121,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 441
+        }
+    },
+    "Nursulton Ruziboev vs Eric McConico": {
+        "name": "Nursulton Ruziboev vs Eric McConico",
+        "fighter1": "Nursulton Ruziboev",
+        "fighter2": "Eric McConico",
+        "winner": "Nursulton Ruziboev",
+        "method": "KO/TKO",
+        "time_end": "0:33",
+        "round_end": 2,
+        "fight_length": 93,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 20,
+            "sig_str_att": 42,
+            "str_landed": 24,
+            "str_att": 46,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 36
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 13,
+            "str_landed": 6,
+            "str_att": 16,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Modestas Bukauskas vs Rafael Cerqueira": {
+        "name": "Modestas Bukauskas vs Rafael Cerqueira",
+        "fighter1": "Modestas Bukauskas",
+        "fighter2": "Rafael Cerqueira",
+        "winner": "Modestas Bukauskas",
+        "method": "KO/TKO",
+        "time_end": "2:12",
+        "round_end": 1,
+        "fight_length": 132,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 16,
+            "sig_str_att": 41,
+            "str_landed": 16,
+            "str_att": 41,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 22,
+            "str_landed": 9,
+            "str_att": 22,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

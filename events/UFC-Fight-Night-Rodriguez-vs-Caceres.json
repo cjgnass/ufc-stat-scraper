@@ -1,0 +1,424 @@
+{
+    "event": "UFC Fight Night: Rodriguez vs. Caceres",
+    "date": "August 06, 2016",
+    "Yair Rodriguez vs Alex Caceres": {
+        "name": "Yair Rodriguez vs Alex Caceres",
+        "fighter1": "Yair Rodriguez",
+        "fighter2": "Alex Caceres",
+        "winner": "Yair Rodriguez",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            143,
+            142
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 120,
+            "sig_str_att": 338,
+            "str_landed": 124,
+            "str_att": 343,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 31
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 62,
+            "sig_str_att": 196,
+            "str_landed": 65,
+            "str_att": 202,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 99
+        }
+    },
+    "Dennis Bermudez vs Rony Jason": {
+        "name": "Dennis Bermudez vs Rony Jason",
+        "fighter1": "Dennis Bermudez",
+        "fighter2": "Rony Jason",
+        "winner": "Dennis Bermudez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 48,
+            "sig_str_att": 95,
+            "str_landed": 77,
+            "str_att": 127,
+            "td_comp": 5,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 426
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 41,
+            "str_landed": 16,
+            "str_att": 48,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 52
+        }
+    },
+    "Thales Leites vs Chris Camozzi": {
+        "name": "Thales Leites vs Chris Camozzi",
+        "fighter1": "Thales Leites",
+        "fighter2": "Chris Camozzi",
+        "winner": "Thales Leites",
+        "method": "Submission",
+        "time_end": "2:58",
+        "round_end": 3,
+        "fight_length": 298,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 53,
+            "str_landed": 58,
+            "str_att": 82,
+            "td_comp": 5,
+            "td_att": 11,
+            "sub_att": 1,
+            "ctrl_time": 681
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 15,
+            "str_landed": 11,
+            "str_att": 18,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 22
+        }
+    },
+    "Santiago Ponzinibbio vs Zak Cummings": {
+        "name": "Santiago Ponzinibbio vs Zak Cummings",
+        "fighter1": "Santiago Ponzinibbio",
+        "fighter2": "Zak Cummings",
+        "winner": "Santiago Ponzinibbio",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 126,
+            "str_landed": 60,
+            "str_att": 128,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 152,
+            "str_landed": 35,
+            "str_att": 152,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 9
+        }
+    },
+    "Trevor Smith vs Joseph Gigliotti": {
+        "name": "Trevor Smith vs Joseph Gigliotti",
+        "fighter1": "Trevor Smith",
+        "fighter2": "Joseph Gigliotti",
+        "winner": "Trevor Smith",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            78,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 42,
+            "sig_str_att": 69,
+            "str_landed": 105,
+            "str_att": 137,
+            "td_comp": 4,
+            "td_att": 6,
+            "sub_att": 2,
+            "ctrl_time": 766
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 31,
+            "str_landed": 24,
+            "str_att": 40,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 58
+        }
+    },
+    "Maryna Moroz vs Danielle Taylor": {
+        "name": "Maryna Moroz vs Danielle Taylor",
+        "fighter1": "Maryna Moroz",
+        "fighter2": "Danielle Taylor",
+        "winner": "Maryna Moroz",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 251,
+            "str_landed": 17,
+            "str_att": 251,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 102,
+            "str_landed": 17,
+            "str_att": 102,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    },
+    "Court McGee vs Dominique Steele": {
+        "name": "Court McGee vs Dominique Steele",
+        "fighter1": "Court McGee",
+        "fighter2": "Dominique Steele",
+        "winner": "Court McGee",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 39,
+            "str_landed": 55,
+            "str_att": 82,
+            "td_comp": 4,
+            "td_att": 15,
+            "sub_att": 1,
+            "ctrl_time": 426
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 65,
+            "str_landed": 45,
+            "str_att": 88,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 92
+        }
+    },
+    "Viktor Pesta vs Marcin Tybura": {
+        "name": "Viktor Pesta vs Marcin Tybura",
+        "fighter1": "Viktor Pesta",
+        "fighter2": "Marcin Tybura",
+        "winner": "Marcin Tybura",
+        "method": "KO/TKO",
+        "time_end": "0:53",
+        "round_end": 2,
+        "fight_length": 113,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 42,
+            "str_landed": 4,
+            "str_att": 43,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 29
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 15,
+            "sig_str_att": 62,
+            "str_landed": 20,
+            "str_att": 67,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 15
+        }
+    },
+    "David Teymur vs Jason Novelli": {
+        "name": "David Teymur vs Jason Novelli",
+        "fighter1": "David Teymur",
+        "fighter2": "Jason Novelli",
+        "winner": "David Teymur",
+        "method": "KO/TKO",
+        "time_end": "1:25",
+        "round_end": 2,
+        "fight_length": 145,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 26,
+            "sig_str_att": 61,
+            "str_landed": 26,
+            "str_att": 61,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 28,
+            "str_landed": 9,
+            "str_att": 29,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 23
+        }
+    },
+    "Teruto Ishihara vs Horacio Gutierrez": {
+        "name": "Teruto Ishihara vs Horacio Gutierrez",
+        "fighter1": "Teruto Ishihara",
+        "fighter2": "Horacio Gutierrez",
+        "winner": "Teruto Ishihara",
+        "method": "KO/TKO",
+        "time_end": "2:32",
+        "round_end": 1,
+        "fight_length": 152,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 13,
+            "sig_str_att": 25,
+            "str_landed": 13,
+            "str_att": 25,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 6
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 18,
+            "str_landed": 5,
+            "str_att": 18,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Cub Swanson vs Tatsuya Kawajiri": {
+        "name": "Cub Swanson vs Tatsuya Kawajiri",
+        "fighter1": "Cub Swanson",
+        "fighter2": "Tatsuya Kawajiri",
+        "winner": "Cub Swanson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 67,
+            "sig_str_att": 109,
+            "str_landed": 91,
+            "str_att": 133,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 122
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 101,
+            "str_landed": 51,
+            "str_att": 132,
+            "td_comp": 3,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 327
+        }
+    },
+    "Chase Sherman vs Justin Ledet": {
+        "name": "Chase Sherman vs Justin Ledet",
+        "fighter1": "Chase Sherman",
+        "fighter2": "Justin Ledet",
+        "winner": "Justin Ledet",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 59,
+            "sig_str_att": 166,
+            "str_landed": 60,
+            "str_att": 167,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 113,
+            "sig_str_att": 230,
+            "str_landed": 114,
+            "str_att": 231,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

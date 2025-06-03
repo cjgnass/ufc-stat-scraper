@@ -1,0 +1,388 @@
+{
+    "event": "UFC Fight Night: Ortega vs. The Korean Zombie",
+    "date": "October 17, 2020",
+    "Brian Ortega vs Chan Sung Jung": {
+        "name": "Brian Ortega vs Chan Sung Jung",
+        "fighter1": "Brian Ortega",
+        "fighter2": "Chan Sung Jung",
+        "winner": "Brian Ortega",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            135,
+            150
+        ],
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 127,
+            "sig_str_att": 212,
+            "str_landed": 129,
+            "str_att": 214,
+            "td_comp": 3,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 57
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 62,
+            "sig_str_att": 163,
+            "str_landed": 64,
+            "str_att": 166,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Katlyn Cerminara vs Jessica Andrade": {
+        "name": "Katlyn Cerminara vs Jessica Andrade",
+        "fighter1": "Katlyn Cerminara",
+        "fighter2": "Jessica Andrade",
+        "winner": "Jessica Andrade",
+        "method": "KO/TKO",
+        "time_end": "4:55",
+        "round_end": 1,
+        "fight_length": 295,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 53,
+            "str_landed": 27,
+            "str_att": 61,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 25
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 28,
+            "sig_str_att": 43,
+            "str_landed": 62,
+            "str_att": 79,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 146
+        }
+    },
+    "Jimmy Crute vs Modestas Bukauskas": {
+        "name": "Jimmy Crute vs Modestas Bukauskas",
+        "fighter1": "Jimmy Crute",
+        "fighter2": "Modestas Bukauskas",
+        "winner": "Jimmy Crute",
+        "method": "KO/TKO",
+        "time_end": "2:01",
+        "round_end": 1,
+        "fight_length": 121,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 17,
+            "sig_str_att": 24,
+            "str_landed": 18,
+            "str_att": 25,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 25
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 17,
+            "str_landed": 7,
+            "str_att": 17,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Claudio Silva vs James Krause": {
+        "name": "Claudio Silva vs James Krause",
+        "fighter1": "Claudio Silva",
+        "fighter2": "James Krause",
+        "winner": "James Krause",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 64,
+            "sig_str_att": 214,
+            "str_landed": 66,
+            "str_att": 216,
+            "td_comp": 2,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 58
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 94,
+            "sig_str_att": 159,
+            "str_landed": 96,
+            "str_att": 162,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 14
+        }
+    },
+    "Thomas Almeida vs Jonathan Martinez": {
+        "name": "Thomas Almeida vs Jonathan Martinez",
+        "fighter1": "Thomas Almeida",
+        "fighter2": "Jonathan Martinez",
+        "winner": "Jonathan Martinez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 64,
+            "sig_str_att": 171,
+            "str_landed": 64,
+            "str_att": 171,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 73,
+            "sig_str_att": 205,
+            "str_landed": 73,
+            "str_att": 205,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Mateusz Gamrot vs Guram Kutateladze": {
+        "name": "Mateusz Gamrot vs Guram Kutateladze",
+        "fighter1": "Mateusz Gamrot",
+        "fighter2": "Guram Kutateladze",
+        "winner": "Guram Kutateladze",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 52,
+            "sig_str_att": 126,
+            "str_landed": 69,
+            "str_att": 151,
+            "td_comp": 5,
+            "td_att": 16,
+            "sub_att": 0,
+            "ctrl_time": 209
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 37,
+            "sig_str_att": 86,
+            "str_landed": 43,
+            "str_att": 93,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 1
+        }
+    },
+    "Gillian Robertson vs Poliana Botelho": {
+        "name": "Gillian Robertson vs Poliana Botelho",
+        "fighter1": "Gillian Robertson",
+        "fighter2": "Poliana Botelho",
+        "winner": "Gillian Robertson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 57,
+            "sig_str_att": 98,
+            "str_landed": 104,
+            "str_att": 161,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 574
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 43,
+            "str_landed": 39,
+            "str_att": 61,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 76
+        }
+    },
+    "JunYong Park vs John Phillips": {
+        "name": "JunYong Park vs John Phillips",
+        "fighter1": "JunYong Park",
+        "fighter2": "John Phillips",
+        "winner": "JunYong Park",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            75,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 21,
+            "str_landed": 260,
+            "str_att": 350,
+            "td_comp": 4,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 791
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 14,
+            "str_landed": 13,
+            "str_att": 25,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Jamie Mullarkey vs Fares Ziam": {
+        "name": "Jamie Mullarkey vs Fares Ziam",
+        "fighter1": "Jamie Mullarkey",
+        "fighter2": "Fares Ziam",
+        "winner": "Fares Ziam",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 72,
+            "str_landed": 29,
+            "str_att": 84,
+            "td_comp": 5,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 416
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 89,
+            "str_landed": 54,
+            "str_att": 98,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 72
+        }
+    },
+    "Gadzhimurad Antigulov vs Maxim Grishin": {
+        "name": "Gadzhimurad Antigulov vs Maxim Grishin",
+        "fighter1": "Gadzhimurad Antigulov",
+        "fighter2": "Maxim Grishin",
+        "winner": "Maxim Grishin",
+        "method": "KO/TKO",
+        "time_end": "4:58",
+        "round_end": 2,
+        "fight_length": 358,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 23,
+            "str_landed": 31,
+            "str_att": 44,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 159
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 76,
+            "str_landed": 66,
+            "str_att": 126,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 141
+        }
+    },
+    "Said Nurmagomedov vs Mark Striegl": {
+        "name": "Said Nurmagomedov vs Mark Striegl",
+        "fighter1": "Said Nurmagomedov",
+        "fighter2": "Mark Striegl",
+        "winner": "Said Nurmagomedov",
+        "method": "KO/TKO",
+        "time_end": "0:51",
+        "round_end": 1,
+        "fight_length": 51,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 24,
+            "str_landed": 18,
+            "str_att": 24,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 5
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 7,
+            "str_landed": 3,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

@@ -1,0 +1,415 @@
+{
+    "event": "UFC 153: Silva vs Bonnar",
+    "date": "October 13, 2012",
+    "Anderson Silva vs Stephan Bonnar": {
+        "name": "Anderson Silva vs Stephan Bonnar",
+        "fighter1": "Anderson Silva",
+        "fighter2": "Stephan Bonnar",
+        "winner": "Anderson Silva",
+        "method": "KO/TKO",
+        "time_end": "4:40",
+        "round_end": 1,
+        "fight_length": 280,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 19,
+            "sig_str_att": 27,
+            "str_landed": 27,
+            "str_att": 35,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 21
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 43,
+            "str_landed": 28,
+            "str_att": 59,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 178
+        }
+    },
+    "Antonio Rodrigo Nogueira vs Dave Herman": {
+        "name": "Antonio Rodrigo Nogueira vs Dave Herman",
+        "fighter1": "Antonio Rodrigo Nogueira",
+        "fighter2": "Dave Herman",
+        "winner": "Antonio Rodrigo Nogueira",
+        "method": "Submission",
+        "time_end": "4:31",
+        "round_end": 2,
+        "fight_length": 331,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 20,
+            "sig_str_att": 49,
+            "str_landed": 45,
+            "str_att": 85,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 3,
+            "ctrl_time": 245
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 32,
+            "str_landed": 14,
+            "str_att": 33,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 62
+        }
+    },
+    "Glover Teixeira vs Fabio Maldonado": {
+        "name": "Glover Teixeira vs Fabio Maldonado",
+        "fighter1": "Glover Teixeira",
+        "fighter2": "Fabio Maldonado",
+        "winner": "Glover Teixeira",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "5:00",
+        "round_end": 2,
+        "fight_length": 360,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 85,
+            "sig_str_att": 145,
+            "str_landed": 117,
+            "str_att": 183,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 418
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 36,
+            "str_landed": 14,
+            "str_att": 40,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Jon Fitch vs Erick Silva": {
+        "name": "Jon Fitch vs Erick Silva",
+        "fighter1": "Jon Fitch",
+        "fighter2": "Erick Silva",
+        "winner": "Jon Fitch",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 82,
+            "sig_str_att": 131,
+            "str_landed": 176,
+            "str_att": 234,
+            "td_comp": 6,
+            "td_att": 9,
+            "sub_att": 2,
+            "ctrl_time": 528
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 33,
+            "str_landed": 24,
+            "str_att": 38,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 2,
+            "ctrl_time": 177
+        }
+    },
+    "Phil Davis vs Wagner Prado": {
+        "name": "Phil Davis vs Wagner Prado",
+        "fighter1": "Phil Davis",
+        "fighter2": "Wagner Prado",
+        "winner": "Phil Davis",
+        "method": "Submission",
+        "time_end": "4:29",
+        "round_end": 2,
+        "fight_length": 329,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 49,
+            "str_landed": 59,
+            "str_att": 82,
+            "td_comp": 5,
+            "td_att": 6,
+            "sub_att": 2,
+            "ctrl_time": 354
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 11,
+            "str_landed": 2,
+            "str_att": 11,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Demian Maia vs Rick Story": {
+        "name": "Demian Maia vs Rick Story",
+        "fighter1": "Demian Maia",
+        "fighter2": "Rick Story",
+        "winner": "Demian Maia",
+        "method": "Submission",
+        "time_end": "2:30",
+        "round_end": 1,
+        "fight_length": 150,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 8,
+            "str_landed": 9,
+            "str_att": 12,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 1,
+            "ctrl_time": 135
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 5,
+            "str_landed": 10,
+            "str_att": 12,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Rony Jason vs Sam Sicilia": {
+        "name": "Rony Jason vs Sam Sicilia",
+        "fighter1": "Rony Jason",
+        "fighter2": "Sam Sicilia",
+        "winner": "Rony Jason",
+        "method": "KO/TKO",
+        "time_end": "4:16",
+        "round_end": 2,
+        "fight_length": 316,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 96,
+            "str_landed": 52,
+            "str_att": 102,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 9
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 96,
+            "str_landed": 48,
+            "str_att": 108,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 86
+        }
+    },
+    "Gleison Tibau vs Francisco Trinaldo": {
+        "name": "Gleison Tibau vs Francisco Trinaldo",
+        "fighter1": "Gleison Tibau",
+        "fighter2": "Francisco Trinaldo",
+        "winner": "Gleison Tibau",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 63,
+            "str_landed": 96,
+            "str_att": 134,
+            "td_comp": 5,
+            "td_att": 6,
+            "sub_att": 2,
+            "ctrl_time": 397
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 45,
+            "sig_str_att": 97,
+            "str_landed": 70,
+            "str_att": 129,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 248
+        }
+    },
+    "Diego Brandao vs Joey Gambino": {
+        "name": "Diego Brandao vs Joey Gambino",
+        "fighter1": "Diego Brandao",
+        "fighter2": "Joey Gambino",
+        "winner": "Diego Brandao",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 33,
+            "sig_str_att": 77,
+            "str_landed": 84,
+            "str_att": 133,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 333
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 109,
+            "str_landed": 59,
+            "str_att": 129,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 37
+        }
+    },
+    "Sergio Moraes vs Renee Forte": {
+        "name": "Sergio Moraes vs Renee Forte",
+        "fighter1": "Sergio Moraes",
+        "fighter2": "Renee Forte",
+        "winner": "Sergio Moraes",
+        "method": "Submission",
+        "time_end": "3:10",
+        "round_end": 3,
+        "fight_length": 310,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 45,
+            "str_landed": 27,
+            "str_att": 58,
+            "td_comp": 4,
+            "td_att": 11,
+            "sub_att": 1,
+            "ctrl_time": 261
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 76,
+            "str_landed": 38,
+            "str_att": 88,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 58
+        }
+    },
+    "Luiz Cane vs Chris Camozzi": {
+        "name": "Luiz Cane vs Chris Camozzi",
+        "fighter1": "Luiz Cane",
+        "fighter2": "Chris Camozzi",
+        "winner": "Chris Camozzi",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 55,
+            "sig_str_att": 133,
+            "str_landed": 64,
+            "str_att": 142,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 72
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 97,
+            "sig_str_att": 269,
+            "str_landed": 97,
+            "str_att": 269,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Cristiano Marcello vs Reza Madadi": {
+        "name": "Cristiano Marcello vs Reza Madadi",
+        "fighter1": "Cristiano Marcello",
+        "fighter2": "Reza Madadi",
+        "winner": "Cristiano Marcello",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 72,
+            "sig_str_att": 241,
+            "str_landed": 77,
+            "str_att": 251,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 77,
+            "sig_str_att": 151,
+            "str_landed": 88,
+            "str_att": 163,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 131
+        }
+    }
+}

@@ -1,0 +1,445 @@
+{
+    "event": "UFC 218: Holloway vs. Aldo 2",
+    "date": "December 02, 2017",
+    "Max Holloway vs Jose Aldo": {
+        "name": "Max Holloway vs Jose Aldo",
+        "fighter1": "Max Holloway",
+        "fighter2": "Jose Aldo",
+        "winner": "Max Holloway",
+        "method": "KO/TKO",
+        "time_end": "4:51",
+        "round_end": 3,
+        "fight_length": 411,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 174,
+            "sig_str_att": 397,
+            "str_landed": 181,
+            "str_att": 406,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 47
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 87,
+            "sig_str_att": 163,
+            "str_landed": 89,
+            "str_att": 165,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Alistair Overeem vs Francis Ngannou": {
+        "name": "Alistair Overeem vs Francis Ngannou",
+        "fighter1": "Alistair Overeem",
+        "fighter2": "Francis Ngannou",
+        "winner": "Francis Ngannou",
+        "method": "KO/TKO",
+        "time_end": "1:42",
+        "round_end": 1,
+        "fight_length": 102,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 4,
+            "str_landed": 1,
+            "str_att": 4,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 6,
+            "sig_str_att": 14,
+            "str_landed": 11,
+            "str_att": 20,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 63
+        }
+    },
+    "Henry Cejudo vs Sergio Pettis": {
+        "name": "Henry Cejudo vs Sergio Pettis",
+        "fighter1": "Henry Cejudo",
+        "fighter2": "Sergio Pettis",
+        "winner": "Henry Cejudo",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 83,
+            "str_landed": 85,
+            "str_att": 148,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 575
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 98,
+            "str_landed": 38,
+            "str_att": 112,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Eddie Alvarez vs Justin Gaethje": {
+        "name": "Eddie Alvarez vs Justin Gaethje",
+        "fighter1": "Eddie Alvarez",
+        "fighter2": "Justin Gaethje",
+        "winner": "Eddie Alvarez",
+        "method": "KO/TKO",
+        "time_end": "3:59",
+        "round_end": 3,
+        "fight_length": 359,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 155,
+            "sig_str_att": 356,
+            "str_landed": 162,
+            "str_att": 366,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 20
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 122,
+            "sig_str_att": 237,
+            "str_landed": 124,
+            "str_att": 240,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 6
+        }
+    },
+    "Tecia Pennington vs Michelle Waterson-Gomez": {
+        "name": "Tecia Pennington vs Michelle Waterson-Gomez",
+        "fighter1": "Tecia Pennington",
+        "fighter2": "Michelle Waterson-Gomez",
+        "winner": "Tecia Pennington",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 95,
+            "sig_str_att": 173,
+            "str_landed": 154,
+            "str_att": 238,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 237
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 56,
+            "sig_str_att": 138,
+            "str_landed": 66,
+            "str_att": 148,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 270
+        }
+    },
+    "Charles Oliveira vs Paul Felder": {
+        "name": "Charles Oliveira vs Paul Felder",
+        "fighter1": "Charles Oliveira",
+        "fighter2": "Paul Felder",
+        "winner": "Paul Felder",
+        "method": "KO/TKO",
+        "time_end": "4:06",
+        "round_end": 2,
+        "fight_length": 306,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 13,
+            "str_landed": 12,
+            "str_att": 20,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 2,
+            "ctrl_time": 172
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 46,
+            "str_landed": 37,
+            "str_att": 52,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 291
+        }
+    },
+    "Alex Oliveira vs Yancy Medeiros": {
+        "name": "Alex Oliveira vs Yancy Medeiros",
+        "fighter1": "Alex Oliveira",
+        "fighter2": "Yancy Medeiros",
+        "winner": "Yancy Medeiros",
+        "method": "KO/TKO",
+        "time_end": "2:02",
+        "round_end": 3,
+        "fight_length": 242,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 93,
+            "sig_str_att": 161,
+            "str_landed": 96,
+            "str_att": 164,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 185
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 75,
+            "sig_str_att": 151,
+            "str_landed": 78,
+            "str_att": 155,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 67
+        }
+    },
+    "David Teymur vs Drakkar Klose": {
+        "name": "David Teymur vs Drakkar Klose",
+        "fighter1": "David Teymur",
+        "fighter2": "Drakkar Klose",
+        "winner": "David Teymur",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 52,
+            "sig_str_att": 137,
+            "str_landed": 71,
+            "str_att": 164,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 49
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 100,
+            "str_landed": 55,
+            "str_att": 118,
+            "td_comp": 2,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 16
+        }
+    },
+    "Felice Herrig vs Cortney Casey": {
+        "name": "Felice Herrig vs Cortney Casey",
+        "fighter1": "Felice Herrig",
+        "fighter2": "Cortney Casey",
+        "winner": "Felice Herrig",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 76,
+            "sig_str_att": 262,
+            "str_landed": 82,
+            "str_att": 268,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 95
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 91,
+            "sig_str_att": 233,
+            "str_landed": 92,
+            "str_att": 234,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 7
+        }
+    },
+    "Amanda Cooper vs Angela Magana": {
+        "name": "Amanda Cooper vs Angela Magana",
+        "fighter1": "Amanda Cooper",
+        "fighter2": "Angela Magana",
+        "winner": "Amanda Cooper",
+        "method": "KO/TKO",
+        "time_end": "4:34",
+        "round_end": 2,
+        "fight_length": 334,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 60,
+            "str_landed": 131,
+            "str_att": 184,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 480
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 31,
+            "str_landed": 17,
+            "str_att": 38,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Sabah Homasi vs Abdul Razak Alhassan": {
+        "name": "Sabah Homasi vs Abdul Razak Alhassan",
+        "fighter1": "Sabah Homasi",
+        "fighter2": "Abdul Razak Alhassan",
+        "winner": "Abdul Razak Alhassan",
+        "method": "KO/TKO",
+        "time_end": "4:21",
+        "round_end": 1,
+        "fight_length": 261,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 39,
+            "sig_str_att": 60,
+            "str_landed": 41,
+            "str_att": 62,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 11
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 27,
+            "sig_str_att": 61,
+            "str_landed": 34,
+            "str_att": 70,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 137
+        }
+    },
+    "Jeremy Kimball vs Dominick Reyes": {
+        "name": "Jeremy Kimball vs Dominick Reyes",
+        "fighter1": "Jeremy Kimball",
+        "fighter2": "Dominick Reyes",
+        "winner": "Dominick Reyes",
+        "method": "Submission",
+        "time_end": "3:39",
+        "round_end": 1,
+        "fight_length": 219,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 6,
+            "str_landed": 4,
+            "str_att": 6,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 60
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 28,
+            "str_landed": 27,
+            "str_att": 42,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 127
+        }
+    },
+    "Justin Willis vs Allen Crowder": {
+        "name": "Justin Willis vs Allen Crowder",
+        "fighter1": "Justin Willis",
+        "fighter2": "Allen Crowder",
+        "winner": "Justin Willis",
+        "method": "KO/TKO",
+        "time_end": "2:33",
+        "round_end": 1,
+        "fight_length": 153,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 22,
+            "sig_str_att": 44,
+            "str_landed": 25,
+            "str_att": 47,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 38,
+            "str_landed": 17,
+            "str_att": 41,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

@@ -1,0 +1,463 @@
+{
+    "event": "UFC Fight Night: Werdum vs. Tybura",
+    "date": "November 18, 2017",
+    "Fabricio Werdum vs Marcin Tybura": {
+        "name": "Fabricio Werdum vs Marcin Tybura",
+        "fighter1": "Fabricio Werdum",
+        "fighter2": "Marcin Tybura",
+        "winner": "Fabricio Werdum",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            136,
+            149
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 155,
+            "sig_str_att": 265,
+            "str_landed": 179,
+            "str_att": 290,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 241
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 127,
+            "sig_str_att": 257,
+            "str_landed": 137,
+            "str_att": 269,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 24
+        }
+    },
+    "Bec Rawlings vs Jessica-Rose Clark": {
+        "name": "Bec Rawlings vs Jessica-Rose Clark",
+        "fighter1": "Bec Rawlings",
+        "fighter2": "Jessica-Rose Clark",
+        "winner": "Jessica-Rose Clark",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 65,
+            "sig_str_att": 145,
+            "str_landed": 81,
+            "str_att": 162,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 142
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 101,
+            "sig_str_att": 174,
+            "str_landed": 108,
+            "str_att": 181,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 319
+        }
+    },
+    "Tim Means vs Belal Muhammad": {
+        "name": "Tim Means vs Belal Muhammad",
+        "fighter1": "Tim Means",
+        "fighter2": "Belal Muhammad",
+        "winner": "Belal Muhammad",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 91,
+            "sig_str_att": 234,
+            "str_landed": 93,
+            "str_att": 236,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 88,
+            "sig_str_att": 221,
+            "str_landed": 90,
+            "str_att": 224,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 21
+        }
+    },
+    "Jake Matthews vs Bojan Velickovic": {
+        "name": "Jake Matthews vs Bojan Velickovic",
+        "fighter1": "Jake Matthews",
+        "fighter2": "Bojan Velickovic",
+        "winner": "Jake Matthews",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 34,
+            "str_landed": 50,
+            "str_att": 69,
+            "td_comp": 4,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 427
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 48,
+            "str_landed": 113,
+            "str_att": 163,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 278
+        }
+    },
+    "Elias Theodorou vs Daniel Kelly": {
+        "name": "Elias Theodorou vs Daniel Kelly",
+        "fighter1": "Elias Theodorou",
+        "fighter2": "Daniel Kelly",
+        "winner": "Elias Theodorou",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 118,
+            "sig_str_att": 250,
+            "str_landed": 128,
+            "str_att": 261,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 54
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 120,
+            "str_landed": 54,
+            "str_att": 133,
+            "td_comp": 2,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 58
+        }
+    },
+    "Alexander Volkanovski vs Shane Young": {
+        "name": "Alexander Volkanovski vs Shane Young",
+        "fighter1": "Alexander Volkanovski",
+        "fighter2": "Shane Young",
+        "winner": "Alexander Volkanovski",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            79,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 68,
+            "sig_str_att": 114,
+            "str_landed": 79,
+            "str_att": 128,
+            "td_comp": 5,
+            "td_att": 14,
+            "sub_att": 0,
+            "ctrl_time": 502
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 81,
+            "str_landed": 20,
+            "str_att": 83,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 16
+        }
+    },
+    "Ryan Benoit vs Ashkan Mokhtarian": {
+        "name": "Ryan Benoit vs Ashkan Mokhtarian",
+        "fighter1": "Ryan Benoit",
+        "fighter2": "Ashkan Mokhtarian",
+        "winner": "Ryan Benoit",
+        "method": "KO/TKO",
+        "time_end": "2:38",
+        "round_end": 3,
+        "fight_length": 278,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 45,
+            "sig_str_att": 93,
+            "str_landed": 47,
+            "str_att": 95,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 101,
+            "str_landed": 43,
+            "str_att": 102,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 22
+        }
+    },
+    "Nik Lentz vs Will Brooks": {
+        "name": "Nik Lentz vs Will Brooks",
+        "fighter1": "Nik Lentz",
+        "fighter2": "Will Brooks",
+        "winner": "Nik Lentz",
+        "method": "Submission",
+        "time_end": "2:05",
+        "round_end": 2,
+        "fight_length": 185,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 82,
+            "str_landed": 40,
+            "str_att": 88,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 46
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 49,
+            "sig_str_att": 78,
+            "str_landed": 49,
+            "str_att": 78,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 45
+        }
+    },
+    "Rashad Coulter vs Tai Tuivasa": {
+        "name": "Rashad Coulter vs Tai Tuivasa",
+        "fighter1": "Rashad Coulter",
+        "fighter2": "Tai Tuivasa",
+        "winner": "Tai Tuivasa",
+        "method": "KO/TKO",
+        "time_end": "4:35",
+        "round_end": 1,
+        "fight_length": 275,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 19,
+            "str_landed": 19,
+            "str_att": 28,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 38
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 22,
+            "sig_str_att": 36,
+            "str_landed": 22,
+            "str_att": 36,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 74
+        }
+    },
+    "Damien Brown vs Frank Camacho": {
+        "name": "Damien Brown vs Frank Camacho",
+        "fighter1": "Damien Brown",
+        "fighter2": "Frank Camacho",
+        "winner": "Frank Camacho",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 104,
+            "sig_str_att": 251,
+            "str_landed": 115,
+            "str_att": 263,
+            "td_comp": 2,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 132
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 154,
+            "sig_str_att": 299,
+            "str_landed": 212,
+            "str_att": 360,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 138
+        }
+    },
+    "Alex Chambers vs Nadia Kassem": {
+        "name": "Alex Chambers vs Nadia Kassem",
+        "fighter1": "Alex Chambers",
+        "fighter2": "Nadia Kassem",
+        "winner": "Nadia Kassem",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 70,
+            "str_landed": 79,
+            "str_att": 108,
+            "td_comp": 4,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 463
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 52,
+            "sig_str_att": 105,
+            "str_landed": 134,
+            "str_att": 204,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 6,
+            "ctrl_time": 88
+        }
+    },
+    "Jenel Lausa vs Eric Shelton": {
+        "name": "Jenel Lausa vs Eric Shelton",
+        "fighter1": "Jenel Lausa",
+        "fighter2": "Eric Shelton",
+        "winner": "Eric Shelton",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            78,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 30,
+            "str_landed": 20,
+            "str_att": 46,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 71
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 86,
+            "sig_str_att": 116,
+            "str_landed": 184,
+            "str_att": 225,
+            "td_comp": 5,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 535
+        }
+    },
+    "Anthony Hamilton vs Adam Wieczorek": {
+        "name": "Anthony Hamilton vs Adam Wieczorek",
+        "fighter1": "Anthony Hamilton",
+        "fighter2": "Adam Wieczorek",
+        "winner": "Adam Wieczorek",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 57,
+            "str_landed": 44,
+            "str_att": 75,
+            "td_comp": 2,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 419
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 95,
+            "str_landed": 73,
+            "str_att": 129,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 131
+        }
+    }
+}

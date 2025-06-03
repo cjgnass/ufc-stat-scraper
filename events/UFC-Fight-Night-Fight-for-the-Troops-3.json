@@ -1,0 +1,415 @@
+{
+    "event": "UFC Fight Night: Fight for the Troops 3",
+    "date": "November 06, 2013",
+    "Tim Kennedy vs Rafael Natal": {
+        "name": "Tim Kennedy vs Rafael Natal",
+        "fighter1": "Tim Kennedy",
+        "fighter2": "Rafael Natal",
+        "winner": "Tim Kennedy",
+        "method": "KO/TKO",
+        "time_end": "4:40",
+        "round_end": 1,
+        "fight_length": 280,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 13,
+            "sig_str_att": 31,
+            "str_landed": 13,
+            "str_att": 31,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 35,
+            "str_landed": 13,
+            "str_att": 35,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Liz Carmouche vs Alexis Davis": {
+        "name": "Liz Carmouche vs Alexis Davis",
+        "fighter1": "Liz Carmouche",
+        "fighter2": "Alexis Davis",
+        "winner": "Alexis Davis",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 43,
+            "sig_str_att": 85,
+            "str_landed": 65,
+            "str_att": 113,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 18
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 50,
+            "sig_str_att": 171,
+            "str_landed": 69,
+            "str_att": 190,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 188
+        }
+    },
+    "Ronny Markes vs Yoel Romero": {
+        "name": "Ronny Markes vs Yoel Romero",
+        "fighter1": "Ronny Markes",
+        "fighter2": "Yoel Romero",
+        "winner": "Yoel Romero",
+        "method": "KO/TKO",
+        "time_end": "1:39",
+        "round_end": 3,
+        "fight_length": 219,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 75,
+            "str_landed": 22,
+            "str_att": 79,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 48
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 50,
+            "sig_str_att": 104,
+            "str_landed": 52,
+            "str_att": 107,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 49
+        }
+    },
+    "Jorge Masvidal vs Rustam Khabilov": {
+        "name": "Jorge Masvidal vs Rustam Khabilov",
+        "fighter1": "Jorge Masvidal",
+        "fighter2": "Rustam Khabilov",
+        "winner": "Rustam Khabilov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 93,
+            "str_landed": 47,
+            "str_att": 103,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 86
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 32,
+            "sig_str_att": 100,
+            "str_landed": 50,
+            "str_att": 118,
+            "td_comp": 2,
+            "td_att": 10,
+            "sub_att": 1,
+            "ctrl_time": 168
+        }
+    },
+    "Colton Smith vs Michael Chiesa": {
+        "name": "Colton Smith vs Michael Chiesa",
+        "fighter1": "Colton Smith",
+        "fighter2": "Michael Chiesa",
+        "winner": "Michael Chiesa",
+        "method": "Submission",
+        "time_end": "1:41",
+        "round_end": 2,
+        "fight_length": 161,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 18,
+            "str_landed": 13,
+            "str_att": 27,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 191
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 19,
+            "str_landed": 9,
+            "str_att": 21,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 81
+        }
+    },
+    "King Green vs James Krause": {
+        "name": "King Green vs James Krause",
+        "fighter1": "King Green",
+        "fighter2": "James Krause",
+        "winner": "King Green",
+        "method": "KO/TKO",
+        "time_end": "3:50",
+        "round_end": 1,
+        "fight_length": 230,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 20,
+            "sig_str_att": 54,
+            "str_landed": 20,
+            "str_att": 54,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 64,
+            "str_landed": 22,
+            "str_att": 64,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "George Roop vs Francisco Rivera": {
+        "name": "George Roop vs Francisco Rivera",
+        "fighter1": "George Roop",
+        "fighter2": "Francisco Rivera",
+        "winner": "Francisco Rivera",
+        "method": "KO/TKO",
+        "time_end": "2:20",
+        "round_end": 2,
+        "fight_length": 200,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 61,
+            "str_landed": 29,
+            "str_att": 68,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 139
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 27,
+            "sig_str_att": 73,
+            "str_landed": 42,
+            "str_att": 89,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 56
+        }
+    },
+    "Dennis Bermudez vs Steven Siler": {
+        "name": "Dennis Bermudez vs Steven Siler",
+        "fighter1": "Dennis Bermudez",
+        "fighter2": "Steven Siler",
+        "winner": "Dennis Bermudez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 104,
+            "str_landed": 74,
+            "str_att": 137,
+            "td_comp": 6,
+            "td_att": 10,
+            "sub_att": 4,
+            "ctrl_time": 483
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 77,
+            "str_landed": 44,
+            "str_att": 98,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 3,
+            "ctrl_time": 45
+        }
+    },
+    "Amanda Nunes vs Germaine de Randamie": {
+        "name": "Amanda Nunes vs Germaine de Randamie",
+        "fighter1": "Amanda Nunes",
+        "fighter2": "Germaine de Randamie",
+        "winner": "Amanda Nunes",
+        "method": "KO/TKO",
+        "time_end": "3:56",
+        "round_end": 1,
+        "fight_length": 236,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 57,
+            "str_landed": 23,
+            "str_att": 67,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 162
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 6,
+            "str_landed": 1,
+            "str_att": 6,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Chris Camozzi vs Lorenz Larkin": {
+        "name": "Chris Camozzi vs Lorenz Larkin",
+        "fighter1": "Chris Camozzi",
+        "fighter2": "Lorenz Larkin",
+        "winner": "Lorenz Larkin",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 64,
+            "sig_str_att": 147,
+            "str_landed": 81,
+            "str_att": 164,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 107
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 46,
+            "sig_str_att": 121,
+            "str_landed": 62,
+            "str_att": 137,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 63
+        }
+    },
+    "Neil Magny vs Seth Baczynski": {
+        "name": "Neil Magny vs Seth Baczynski",
+        "fighter1": "Neil Magny",
+        "fighter2": "Seth Baczynski",
+        "winner": "Seth Baczynski",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 65,
+            "str_landed": 104,
+            "str_att": 143,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 141
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 70,
+            "str_landed": 46,
+            "str_att": 91,
+            "td_comp": 3,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 505
+        }
+    },
+    "Derek Brunson vs Brian Houston": {
+        "name": "Derek Brunson vs Brian Houston",
+        "fighter1": "Derek Brunson",
+        "fighter2": "Brian Houston",
+        "winner": "Derek Brunson",
+        "method": "Submission",
+        "time_end": "0:48",
+        "round_end": 1,
+        "fight_length": 48,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 1,
+            "sig_str_att": 2,
+            "str_landed": 1,
+            "str_att": 2,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 30
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 1,
+            "str_landed": 0,
+            "str_att": 1,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

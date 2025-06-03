@@ -1,0 +1,418 @@
+{
+    "event": "UFC Fight Night: Jung vs. Ige",
+    "date": "June 19, 2021",
+    "Chan Sung Jung vs Dan Ige": {
+        "name": "Chan Sung Jung vs Dan Ige",
+        "fighter1": "Chan Sung Jung",
+        "fighter2": "Dan Ige",
+        "winner": "Chan Sung Jung",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            139,
+            146
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 92,
+            "sig_str_att": 166,
+            "str_landed": 154,
+            "str_att": 248,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 3,
+            "ctrl_time": 610
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 80,
+            "sig_str_att": 168,
+            "str_landed": 137,
+            "str_att": 237,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 113
+        }
+    },
+    "Aleksei Oleinik vs Serghei Spivac": {
+        "name": "Aleksei Oleinik vs Serghei Spivac",
+        "fighter1": "Aleksei Oleinik",
+        "fighter2": "Serghei Spivac",
+        "winner": "Serghei Spivac",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 59,
+            "sig_str_att": 121,
+            "str_landed": 98,
+            "str_att": 162,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 211
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 71,
+            "sig_str_att": 136,
+            "str_landed": 112,
+            "str_att": 181,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 291
+        }
+    },
+    "Marlon Vera vs Davey Grant": {
+        "name": "Marlon Vera vs Davey Grant",
+        "fighter1": "Marlon Vera",
+        "fighter2": "Davey Grant",
+        "winner": "Marlon Vera",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 105,
+            "sig_str_att": 162,
+            "str_landed": 112,
+            "str_att": 172,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 3,
+            "ctrl_time": 315
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 83,
+            "sig_str_att": 168,
+            "str_landed": 95,
+            "str_att": 180,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 114
+        }
+    },
+    "Julian Erosa vs SeungWoo Choi": {
+        "name": "Julian Erosa vs SeungWoo Choi",
+        "fighter1": "Julian Erosa",
+        "fighter2": "SeungWoo Choi",
+        "winner": "SeungWoo Choi",
+        "method": "KO/TKO",
+        "time_end": "1:37",
+        "round_end": 1,
+        "fight_length": 97,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 20,
+            "str_landed": 10,
+            "str_att": 20,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 13,
+            "sig_str_att": 29,
+            "str_landed": 14,
+            "str_att": 30,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    },
+    "Wellington Turman vs Bruno Silva": {
+        "name": "Wellington Turman vs Bruno Silva",
+        "fighter1": "Wellington Turman",
+        "fighter2": "Bruno Silva",
+        "winner": "Bruno Silva",
+        "method": "KO/TKO",
+        "time_end": "4:45",
+        "round_end": 1,
+        "fight_length": 285,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 1,
+            "str_landed": 12,
+            "str_att": 12,
+            "td_comp": 0,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 172
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 26,
+            "str_landed": 28,
+            "str_att": 37,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 98
+        }
+    },
+    "Matt Brown vs Dhiego Lima": {
+        "name": "Matt Brown vs Dhiego Lima",
+        "fighter1": "Matt Brown",
+        "fighter2": "Dhiego Lima",
+        "winner": "Matt Brown",
+        "method": "KO/TKO",
+        "time_end": "3:02",
+        "round_end": 2,
+        "fight_length": 242,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 27,
+            "sig_str_att": 49,
+            "str_landed": 30,
+            "str_att": 52,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 54,
+            "str_landed": 23,
+            "str_att": 54,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 52
+        }
+    },
+    "Aleksa Camur vs Nicolae Negumereanu": {
+        "name": "Aleksa Camur vs Nicolae Negumereanu",
+        "fighter1": "Aleksa Camur",
+        "fighter2": "Nicolae Negumereanu",
+        "winner": "Nicolae Negumereanu",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 102,
+            "sig_str_att": 148,
+            "str_landed": 118,
+            "str_att": 166,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 71,
+            "sig_str_att": 193,
+            "str_landed": 99,
+            "str_att": 224,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 292
+        }
+    },
+    "Kanako Murata vs Virna Jandiroba": {
+        "name": "Kanako Murata vs Virna Jandiroba",
+        "fighter1": "Kanako Murata",
+        "fighter2": "Virna Jandiroba",
+        "winner": "Virna Jandiroba",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "5:00",
+        "round_end": 2,
+        "fight_length": 360,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 44,
+            "str_landed": 26,
+            "str_att": 48,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 154
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 80,
+            "str_landed": 39,
+            "str_att": 83,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 46
+        }
+    },
+    "Khaos Williams vs Matthew Semelsberger": {
+        "name": "Khaos Williams vs Matthew Semelsberger",
+        "fighter1": "Khaos Williams",
+        "fighter2": "Matthew Semelsberger",
+        "winner": "Khaos Williams",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 91,
+            "sig_str_att": 260,
+            "str_landed": 114,
+            "str_att": 286,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 113
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 64,
+            "sig_str_att": 141,
+            "str_landed": 68,
+            "str_att": 146,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Josh Parisian vs Roque Martinez": {
+        "name": "Josh Parisian vs Roque Martinez",
+        "fighter1": "Josh Parisian",
+        "fighter2": "Roque Martinez",
+        "winner": "Josh Parisian",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 79,
+            "sig_str_att": 160,
+            "str_landed": 100,
+            "str_att": 186,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 263
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 64,
+            "sig_str_att": 114,
+            "str_landed": 245,
+            "str_att": 309,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 259
+        }
+    },
+    "Joaquim Silva vs Ricky Glenn": {
+        "name": "Joaquim Silva vs Ricky Glenn",
+        "fighter1": "Joaquim Silva",
+        "fighter2": "Ricky Glenn",
+        "winner": "Ricky Glenn",
+        "method": "KO/TKO",
+        "time_end": "0:37",
+        "round_end": 1,
+        "fight_length": 37,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 2,
+            "str_landed": 1,
+            "str_att": 2,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 10,
+            "sig_str_att": 17,
+            "str_landed": 14,
+            "str_att": 22,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 8
+        }
+    },
+    "Casey O'Neill vs Lara Procopio": {
+        "name": "Casey O'Neill vs Lara Procopio",
+        "fighter1": "Casey O'Neill",
+        "fighter2": "Lara Procopio",
+        "winner": "Casey O'Neill",
+        "method": "Submission",
+        "time_end": "2:54",
+        "round_end": 3,
+        "fight_length": 294,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 71,
+            "sig_str_att": 129,
+            "str_landed": 176,
+            "str_att": 246,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 342
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 65,
+            "str_landed": 76,
+            "str_att": 103,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 170
+        }
+    }
+}

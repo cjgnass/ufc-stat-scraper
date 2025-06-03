@@ -1,0 +1,238 @@
+{
+    "event": "UFC 50: The War Of '04",
+    "date": "October 22, 2004",
+    "Tito Ortiz vs Patrick Cote": {
+        "name": "Tito Ortiz vs Patrick Cote",
+        "fighter1": "Tito Ortiz",
+        "fighter2": "Patrick Cote",
+        "winner": "Tito Ortiz",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 45,
+            "sig_str_att": 75,
+            "str_landed": 166,
+            "str_att": 202,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 761
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 27,
+            "str_landed": 26,
+            "str_att": 42,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Rich Franklin vs Jorge Rivera": {
+        "name": "Rich Franklin vs Jorge Rivera",
+        "fighter1": "Rich Franklin",
+        "fighter2": "Jorge Rivera",
+        "winner": "Rich Franklin",
+        "method": "Submission",
+        "time_end": "4:28",
+        "round_end": 3,
+        "fight_length": 388,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 41,
+            "sig_str_att": 73,
+            "str_landed": 84,
+            "str_att": 116,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 575
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 22,
+            "sig_str_att": 41,
+            "str_landed": 60,
+            "str_att": 81,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 50
+        }
+    },
+    "Matt Hughes vs Georges St-Pierre": {
+        "name": "Matt Hughes vs Georges St-Pierre",
+        "fighter1": "Matt Hughes",
+        "fighter2": "Georges St-Pierre",
+        "winner": "Matt Hughes",
+        "method": "Submission",
+        "time_end": "4:59",
+        "round_end": 1,
+        "fight_length": 299,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 14,
+            "str_landed": 8,
+            "str_att": 21,
+            "td_comp": 2,
+            "td_att": 7,
+            "sub_att": 2,
+            "ctrl_time": 140
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 17,
+            "str_landed": 12,
+            "str_att": 24,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 17
+        }
+    },
+    "Frank Trigg vs Renato Verissimo": {
+        "name": "Frank Trigg vs Renato Verissimo",
+        "fighter1": "Frank Trigg",
+        "fighter2": "Renato Verissimo",
+        "winner": "Frank Trigg",
+        "method": "KO/TKO",
+        "time_end": "2:11",
+        "round_end": 2,
+        "fight_length": 191,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 59,
+            "str_landed": 65,
+            "str_att": 93,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 301
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 21,
+            "str_landed": 10,
+            "str_att": 27,
+            "td_comp": 0,
+            "td_att": 8,
+            "sub_att": 2,
+            "ctrl_time": 53
+        }
+    },
+    "Evan Tanner vs Robbie Lawler": {
+        "name": "Evan Tanner vs Robbie Lawler",
+        "fighter1": "Evan Tanner",
+        "fighter2": "Robbie Lawler",
+        "winner": "Evan Tanner",
+        "method": "Submission",
+        "time_end": "2:22",
+        "round_end": 1,
+        "fight_length": 142,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 17,
+            "str_landed": 6,
+            "str_att": 17,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 14,
+            "str_landed": 4,
+            "str_att": 15,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 33
+        }
+    },
+    "Ivan Salaverry vs Tony Fryklund": {
+        "name": "Ivan Salaverry vs Tony Fryklund",
+        "fighter1": "Ivan Salaverry",
+        "fighter2": "Tony Fryklund",
+        "winner": "Ivan Salaverry",
+        "method": "Submission",
+        "time_end": "1:36",
+        "round_end": 1,
+        "fight_length": 96,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 9,
+            "sig_str_att": 15,
+            "str_landed": 20,
+            "str_att": 29,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 60
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 6,
+            "str_landed": 4,
+            "str_att": 6,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Travis Lutter vs Marvin Eastman": {
+        "name": "Travis Lutter vs Marvin Eastman",
+        "fighter1": "Travis Lutter",
+        "fighter2": "Marvin Eastman",
+        "winner": "Travis Lutter",
+        "method": "KO/TKO",
+        "time_end": "0:33",
+        "round_end": 2,
+        "fight_length": 93,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 1,
+            "sig_str_att": 11,
+            "str_landed": 1,
+            "str_att": 11,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 45,
+            "str_landed": 11,
+            "str_att": 46,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

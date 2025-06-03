@@ -1,0 +1,238 @@
+{
+    "event": "UFC Fight Night 2",
+    "date": "October 03, 2005",
+    "David Loiseau vs Evan Tanner": {
+        "name": "David Loiseau vs Evan Tanner",
+        "fighter1": "David Loiseau",
+        "fighter2": "Evan Tanner",
+        "winner": "David Loiseau",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "4:15",
+        "round_end": 2,
+        "fight_length": 315,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 34,
+            "str_landed": 16,
+            "str_att": 37,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 48
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 24,
+            "str_landed": 61,
+            "str_att": 86,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 2,
+            "ctrl_time": 360
+        }
+    },
+    "Chris Leben vs Edwin DeWees": {
+        "name": "Chris Leben vs Edwin DeWees",
+        "fighter1": "Chris Leben",
+        "fighter2": "Edwin DeWees",
+        "winner": "Chris Leben",
+        "method": "Submission",
+        "time_end": "3:26",
+        "round_end": 1,
+        "fight_length": 206,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 7,
+            "str_landed": 19,
+            "str_att": 21,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 112
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 7,
+            "str_landed": 13,
+            "str_att": 15,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 67
+        }
+    },
+    "Brandon Vera vs Fabiano Scherner": {
+        "name": "Brandon Vera vs Fabiano Scherner",
+        "fighter1": "Brandon Vera",
+        "fighter2": "Fabiano Scherner",
+        "winner": "Brandon Vera",
+        "method": "KO/TKO",
+        "time_end": "3:22",
+        "round_end": 2,
+        "fight_length": 262,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 28,
+            "sig_str_att": 41,
+            "str_landed": 39,
+            "str_att": 52,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 203
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 32,
+            "str_landed": 28,
+            "str_att": 50,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 77
+        }
+    },
+    "Drew Fickett vs Josh Koscheck": {
+        "name": "Drew Fickett vs Josh Koscheck",
+        "fighter1": "Drew Fickett",
+        "fighter2": "Josh Koscheck",
+        "winner": "Drew Fickett",
+        "method": "Submission",
+        "time_end": "4:28",
+        "round_end": 3,
+        "fight_length": 388,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 5,
+            "sig_str_att": 17,
+            "str_landed": 33,
+            "str_att": 45,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 3,
+            "ctrl_time": 16
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 16,
+            "str_landed": 95,
+            "str_att": 106,
+            "td_comp": 6,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 754
+        }
+    },
+    "Spencer Fisher vs Thiago Alves": {
+        "name": "Spencer Fisher vs Thiago Alves",
+        "fighter1": "Spencer Fisher",
+        "fighter2": "Thiago Alves",
+        "winner": "Spencer Fisher",
+        "method": "Submission",
+        "time_end": "4:43",
+        "round_end": 2,
+        "fight_length": 343,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 36,
+            "str_landed": 22,
+            "str_att": 46,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 3,
+            "ctrl_time": 75
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 53,
+            "str_landed": 84,
+            "str_att": 135,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 388
+        }
+    },
+    "Jon Fitch vs Brock Larson": {
+        "name": "Jon Fitch vs Brock Larson",
+        "fighter1": "Jon Fitch",
+        "fighter2": "Brock Larson",
+        "winner": "Jon Fitch",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 49,
+            "str_landed": 146,
+            "str_att": 170,
+            "td_comp": 5,
+            "td_att": 7,
+            "sub_att": 2,
+            "ctrl_time": 609
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 20,
+            "str_landed": 19,
+            "str_att": 25,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 3,
+            "ctrl_time": 176
+        }
+    },
+    "Jonathan Goulet vs Jay Hieron": {
+        "name": "Jonathan Goulet vs Jay Hieron",
+        "fighter1": "Jonathan Goulet",
+        "fighter2": "Jay Hieron",
+        "winner": "Jonathan Goulet",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "1:05",
+        "round_end": 3,
+        "fight_length": 185,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 42,
+            "str_landed": 63,
+            "str_att": 101,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 39
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 26,
+            "str_landed": 29,
+            "str_att": 48,
+            "td_comp": 9,
+            "td_att": 12,
+            "sub_att": 3,
+            "ctrl_time": 440
+        }
+    }
+}

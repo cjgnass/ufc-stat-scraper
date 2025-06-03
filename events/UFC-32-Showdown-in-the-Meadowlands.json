@@ -1,0 +1,271 @@
+{
+    "event": "UFC 32: Showdown in the Meadowlands",
+    "date": "June 29, 2001",
+    "Tito Ortiz vs Elvis Sinosic": {
+        "name": "Tito Ortiz vs Elvis Sinosic",
+        "fighter1": "Tito Ortiz",
+        "fighter2": "Elvis Sinosic",
+        "winner": "Tito Ortiz",
+        "method": "KO/TKO",
+        "time_end": "3:32",
+        "round_end": 1,
+        "fight_length": 212,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 59,
+            "str_landed": 58,
+            "str_att": 82,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 172
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 8,
+            "str_landed": 12,
+            "str_att": 18,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "BJ Penn vs Din Thomas": {
+        "name": "BJ Penn vs Din Thomas",
+        "fighter1": "BJ Penn",
+        "fighter2": "Din Thomas",
+        "winner": "BJ Penn",
+        "method": "KO/TKO",
+        "time_end": "2:42",
+        "round_end": 1,
+        "fight_length": 162,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 6,
+            "sig_str_att": 8,
+            "str_landed": 11,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 8
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 5,
+            "str_landed": 25,
+            "str_att": 29,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 125
+        }
+    },
+    "Josh Barnett vs Semmy Schilt": {
+        "name": "Josh Barnett vs Semmy Schilt",
+        "fighter1": "Josh Barnett",
+        "fighter2": "Semmy Schilt",
+        "winner": "Josh Barnett",
+        "method": "Submission",
+        "time_end": "4:21",
+        "round_end": 1,
+        "fight_length": 261,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 17,
+            "str_landed": 21,
+            "str_att": 28,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 215
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 1,
+            "str_landed": 4,
+            "str_att": 6,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 32
+        }
+    },
+    "Pat Miletich vs Shonie Carter": {
+        "name": "Pat Miletich vs Shonie Carter",
+        "fighter1": "Pat Miletich",
+        "fighter2": "Shonie Carter",
+        "winner": "Pat Miletich",
+        "method": "KO/TKO",
+        "time_end": "2:42",
+        "round_end": 2,
+        "fight_length": 222,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 10,
+            "sig_str_att": 16,
+            "str_landed": 76,
+            "str_att": 83,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 239
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 42,
+            "str_landed": 18,
+            "str_att": 47,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Caol Uno vs Fabiano Iha": {
+        "name": "Caol Uno vs Fabiano Iha",
+        "fighter1": "Caol Uno",
+        "fighter2": "Fabiano Iha",
+        "winner": "Caol Uno",
+        "method": "KO/TKO",
+        "time_end": "1:48",
+        "round_end": 1,
+        "fight_length": 108,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 17,
+            "str_landed": 14,
+            "str_att": 24,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 54
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 13,
+            "str_landed": 7,
+            "str_att": 14,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        }
+    },
+    "Vladimir Matyushenko vs Yuki Kondo": {
+        "name": "Vladimir Matyushenko vs Yuki Kondo",
+        "fighter1": "Vladimir Matyushenko",
+        "fighter2": "Yuki Kondo",
+        "winner": "Vladimir Matyushenko",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 28,
+            "str_landed": 119,
+            "str_att": 146,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 854
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 3,
+            "str_landed": 79,
+            "str_att": 83,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Ricco Rodriguez vs Andrei Arlovski": {
+        "name": "Ricco Rodriguez vs Andrei Arlovski",
+        "fighter1": "Ricco Rodriguez",
+        "fighter2": "Andrei Arlovski",
+        "winner": "Ricco Rodriguez",
+        "method": "KO/TKO",
+        "time_end": "1:23",
+        "round_end": 3,
+        "fight_length": 203,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 30,
+            "sig_str_att": 50,
+            "str_landed": 64,
+            "str_att": 84,
+            "td_comp": 2,
+            "td_att": 8,
+            "sub_att": 1,
+            "ctrl_time": 445
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 11,
+            "sig_str_att": 26,
+            "str_landed": 18,
+            "str_att": 33,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 18
+        }
+    },
+    "Tony DeSouza vs Paul Rodriguez": {
+        "name": "Tony DeSouza vs Paul Rodriguez",
+        "fighter1": "Tony DeSouza",
+        "fighter2": "Paul Rodriguez",
+        "winner": "Tony DeSouza",
+        "method": "Submission",
+        "time_end": "1:05",
+        "round_end": 1,
+        "fight_length": 65,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 3,
+            "str_landed": 1,
+            "str_att": 3,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 32
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 2,
+            "str_landed": 2,
+            "str_att": 2,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

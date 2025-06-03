@@ -1,0 +1,241 @@
+{
+    "event": "UFC Fight Night: Overeem vs. Sakai",
+    "date": "September 05, 2020",
+    "Alistair Overeem vs Augusto Sakai": {
+        "name": "Alistair Overeem vs Augusto Sakai",
+        "fighter1": "Alistair Overeem",
+        "fighter2": "Augusto Sakai",
+        "winner": "Alistair Overeem",
+        "method": "KO/TKO",
+        "time_end": "0:26",
+        "round_end": 5,
+        "fight_length": 266,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 92,
+            "sig_str_att": 114,
+            "str_landed": 106,
+            "str_att": 131,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 329
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 99,
+            "sig_str_att": 173,
+            "str_landed": 120,
+            "str_att": 196,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 142
+        }
+    },
+    "Ovince Saint Preux vs Alonzo Menifield": {
+        "name": "Ovince Saint Preux vs Alonzo Menifield",
+        "fighter1": "Ovince Saint Preux",
+        "fighter2": "Alonzo Menifield",
+        "winner": "Ovince Saint Preux",
+        "method": "KO/TKO",
+        "time_end": "4:07",
+        "round_end": 2,
+        "fight_length": 307,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 33,
+            "sig_str_att": 80,
+            "str_landed": 33,
+            "str_att": 80,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 40,
+            "str_landed": 21,
+            "str_att": 43,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 36
+        }
+    },
+    "Michel Pereira vs Zelim Imadaev": {
+        "name": "Michel Pereira vs Zelim Imadaev",
+        "fighter1": "Michel Pereira",
+        "fighter2": "Zelim Imadaev",
+        "winner": "Michel Pereira",
+        "method": "Submission",
+        "time_end": "4:39",
+        "round_end": 3,
+        "fight_length": 399,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 88,
+            "sig_str_att": 153,
+            "str_landed": 88,
+            "str_att": 154,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 11
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 90,
+            "str_landed": 24,
+            "str_att": 91,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 8
+        }
+    },
+    "Andre Muniz vs Bartosz Fabinski": {
+        "name": "Andre Muniz vs Bartosz Fabinski",
+        "fighter1": "Andre Muniz",
+        "fighter2": "Bartosz Fabinski",
+        "winner": "Andre Muniz",
+        "method": "Submission",
+        "time_end": "2:42",
+        "round_end": 1,
+        "fight_length": 162,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 8,
+            "str_landed": 19,
+            "str_att": 23,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 8,
+            "str_landed": 11,
+            "str_att": 16,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 146
+        }
+    },
+    "Brian Kelleher vs Ray Rodriguez": {
+        "name": "Brian Kelleher vs Ray Rodriguez",
+        "fighter1": "Brian Kelleher",
+        "fighter2": "Ray Rodriguez",
+        "winner": "Brian Kelleher",
+        "method": "Submission",
+        "time_end": "0:39",
+        "round_end": 1,
+        "fight_length": 39,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 3,
+            "str_landed": 1,
+            "str_att": 3,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 5,
+            "str_landed": 1,
+            "str_att": 5,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 12
+        }
+    },
+    "Viviane Araujo vs Montana De La Rosa": {
+        "name": "Viviane Araujo vs Montana De La Rosa",
+        "fighter1": "Viviane Araujo",
+        "fighter2": "Montana De La Rosa",
+        "winner": "Viviane Araujo",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 82,
+            "sig_str_att": 140,
+            "str_landed": 91,
+            "str_att": 150,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 12
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 85,
+            "sig_str_att": 215,
+            "str_landed": 88,
+            "str_att": 220,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 36
+        }
+    },
+    "Cole Smith vs Hunter Azure": {
+        "name": "Cole Smith vs Hunter Azure",
+        "fighter1": "Cole Smith",
+        "fighter2": "Hunter Azure",
+        "winner": "Hunter Azure",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 81,
+            "str_landed": 69,
+            "str_att": 121,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 3,
+            "ctrl_time": 193
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 42,
+            "sig_str_att": 56,
+            "str_landed": 75,
+            "str_att": 90,
+            "td_comp": 5,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 482
+        }
+    }
+}

@@ -1,0 +1,376 @@
+{
+    "event": "UFC 180: Werdum vs Hunt",
+    "date": "November 15, 2014",
+    "Fabricio Werdum vs Mark Hunt": {
+        "name": "Fabricio Werdum vs Mark Hunt",
+        "fighter1": "Fabricio Werdum",
+        "fighter2": "Mark Hunt",
+        "winner": "Fabricio Werdum",
+        "method": "KO/TKO",
+        "time_end": "2:27",
+        "round_end": 2,
+        "fight_length": 207,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 21,
+            "sig_str_att": 37,
+            "str_landed": 31,
+            "str_att": 48,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 7
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 10,
+            "sig_str_att": 36,
+            "str_landed": 15,
+            "str_att": 43,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 113
+        }
+    },
+    "Jake Ellenberger vs Kelvin Gastelum": {
+        "name": "Jake Ellenberger vs Kelvin Gastelum",
+        "fighter1": "Jake Ellenberger",
+        "fighter2": "Kelvin Gastelum",
+        "winner": "Kelvin Gastelum",
+        "method": "Submission",
+        "time_end": "4:46",
+        "round_end": 1,
+        "fight_length": 286,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 24,
+            "str_landed": 12,
+            "str_att": 27,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 36,
+            "str_landed": 29,
+            "str_att": 49,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 116
+        }
+    },
+    "Ricardo Lamas vs Dennis Bermudez": {
+        "name": "Ricardo Lamas vs Dennis Bermudez",
+        "fighter1": "Ricardo Lamas",
+        "fighter2": "Dennis Bermudez",
+        "winner": "Ricardo Lamas",
+        "method": "Submission",
+        "time_end": "3:18",
+        "round_end": 1,
+        "fight_length": 198,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 14,
+            "sig_str_att": 25,
+            "str_landed": 16,
+            "str_att": 27,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 50
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 30,
+            "str_landed": 16,
+            "str_att": 38,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 60
+        }
+    },
+    "Augusto Montano vs Chris Heatherly": {
+        "name": "Augusto Montano vs Chris Heatherly",
+        "fighter1": "Augusto Montano",
+        "fighter2": "Chris Heatherly",
+        "winner": "Augusto Montano",
+        "method": "KO/TKO",
+        "time_end": "4:50",
+        "round_end": 1,
+        "fight_length": 290,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 30,
+            "sig_str_att": 52,
+            "str_landed": 32,
+            "str_att": 54,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 87
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 20,
+            "str_landed": 10,
+            "str_att": 22,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 48
+        }
+    },
+    "Edgar Garcia vs Hector Urbina": {
+        "name": "Edgar Garcia vs Hector Urbina",
+        "fighter1": "Edgar Garcia",
+        "fighter2": "Hector Urbina",
+        "winner": "Hector Urbina",
+        "method": "Submission",
+        "time_end": "3:38",
+        "round_end": 1,
+        "fight_length": 218,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 18,
+            "str_landed": 15,
+            "str_att": 22,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 99
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 7,
+            "str_landed": 7,
+            "str_att": 10,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 71
+        }
+    },
+    "Yair Rodriguez vs Leonardo Morales": {
+        "name": "Yair Rodriguez vs Leonardo Morales",
+        "fighter1": "Yair Rodriguez",
+        "fighter2": "Leonardo Morales",
+        "winner": "Yair Rodriguez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 83,
+            "str_landed": 41,
+            "str_att": 92,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 5,
+            "ctrl_time": 236
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 72,
+            "str_landed": 47,
+            "str_att": 88,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 137
+        }
+    },
+    "Alejandro Perez vs Jose Quinonez": {
+        "name": "Alejandro Perez vs Jose Quinonez",
+        "fighter1": "Alejandro Perez",
+        "fighter2": "Jose Quinonez",
+        "winner": "Alejandro Perez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            79,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 130,
+            "str_landed": 43,
+            "str_att": 135,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 26
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 111,
+            "str_landed": 48,
+            "str_att": 125,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 2,
+            "ctrl_time": 208
+        }
+    },
+    "Jessica Eye vs Leslie Smith": {
+        "name": "Jessica Eye vs Leslie Smith",
+        "fighter1": "Jessica Eye",
+        "fighter2": "Leslie Smith",
+        "winner": "Jessica Eye",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "1:30",
+        "round_end": 2,
+        "fight_length": 150,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 80,
+            "sig_str_att": 185,
+            "str_landed": 84,
+            "str_att": 189,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 98,
+            "str_landed": 29,
+            "str_att": 100,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Gabriel Benitez vs Humberto Brown Morrison": {
+        "name": "Gabriel Benitez vs Humberto Brown Morrison",
+        "fighter1": "Gabriel Benitez",
+        "fighter2": "Humberto Brown Morrison",
+        "winner": "Gabriel Benitez",
+        "method": "Submission",
+        "time_end": "0:30",
+        "round_end": 3,
+        "fight_length": 150,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 61,
+            "str_landed": 32,
+            "str_att": 71,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 5,
+            "ctrl_time": 25
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 36,
+            "str_landed": 35,
+            "str_att": 55,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 367
+        }
+    },
+    "Henry Briones vs Guido Cannetti": {
+        "name": "Henry Briones vs Guido Cannetti",
+        "fighter1": "Henry Briones",
+        "fighter2": "Guido Cannetti",
+        "winner": "Henry Briones",
+        "method": "Submission",
+        "time_end": "1:44",
+        "round_end": 2,
+        "fight_length": 164,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 32,
+            "sig_str_att": 63,
+            "str_landed": 52,
+            "str_att": 86,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 33
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 35,
+            "sig_str_att": 73,
+            "str_landed": 36,
+            "str_att": 74,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 81
+        }
+    },
+    "Marco Beltran vs Marlon Vera": {
+        "name": "Marco Beltran vs Marlon Vera",
+        "fighter1": "Marco Beltran",
+        "fighter2": "Marlon Vera",
+        "winner": "Marco Beltran",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 62,
+            "str_landed": 70,
+            "str_att": 104,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 348
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 56,
+            "str_landed": 30,
+            "str_att": 62,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 360
+        }
+    }
+}

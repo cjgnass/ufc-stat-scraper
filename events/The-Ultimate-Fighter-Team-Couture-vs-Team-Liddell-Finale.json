@@ -1,0 +1,307 @@
+{
+    "event": "The Ultimate Fighter: Team Couture vs. Team Liddell Finale",
+    "date": "April 09, 2005",
+    "Rich Franklin vs Ken Shamrock": {
+        "name": "Rich Franklin vs Ken Shamrock",
+        "fighter1": "Rich Franklin",
+        "fighter2": "Ken Shamrock",
+        "winner": "Rich Franklin",
+        "method": "KO/TKO",
+        "time_end": "2:42",
+        "round_end": 1,
+        "fight_length": 162,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 36,
+            "str_landed": 25,
+            "str_att": 38,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 17
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 4,
+            "str_landed": 0,
+            "str_att": 4,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 25
+        }
+    },
+    "Forrest Griffin vs Stephan Bonnar": {
+        "name": "Forrest Griffin vs Stephan Bonnar",
+        "fighter1": "Forrest Griffin",
+        "fighter2": "Stephan Bonnar",
+        "winner": "Forrest Griffin",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 88,
+            "sig_str_att": 184,
+            "str_landed": 96,
+            "str_att": 192,
+            "td_comp": 2,
+            "td_att": 9,
+            "sub_att": 1,
+            "ctrl_time": 154
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 57,
+            "sig_str_att": 150,
+            "str_landed": 64,
+            "str_att": 157,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 19
+        }
+    },
+    "Diego Sanchez vs Kenny Florian": {
+        "name": "Diego Sanchez vs Kenny Florian",
+        "fighter1": "Diego Sanchez",
+        "fighter2": "Kenny Florian",
+        "winner": "Diego Sanchez",
+        "method": "KO/TKO",
+        "time_end": "2:49",
+        "round_end": 1,
+        "fight_length": 169,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 21,
+            "str_landed": 14,
+            "str_att": 21,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 92
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 4,
+            "str_landed": 5,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Sam Hoger vs Bobby Southworth": {
+        "name": "Sam Hoger vs Bobby Southworth",
+        "fighter1": "Sam Hoger",
+        "fighter2": "Bobby Southworth",
+        "winner": "Sam Hoger",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 22,
+            "sig_str_att": 119,
+            "str_landed": 71,
+            "str_att": 171,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 159
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 84,
+            "str_landed": 81,
+            "str_att": 151,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 81
+        }
+    },
+    "Chris Leben vs Jason Thacker": {
+        "name": "Chris Leben vs Jason Thacker",
+        "fighter1": "Chris Leben",
+        "fighter2": "Jason Thacker",
+        "winner": "Chris Leben",
+        "method": "KO/TKO",
+        "time_end": "1:35",
+        "round_end": 1,
+        "fight_length": 95,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 40,
+            "str_landed": 34,
+            "str_att": 47,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 86
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 3,
+            "str_landed": 3,
+            "str_att": 5,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Josh Koscheck vs Chris Sanford": {
+        "name": "Josh Koscheck vs Chris Sanford",
+        "fighter1": "Josh Koscheck",
+        "fighter2": "Chris Sanford",
+        "winner": "Josh Koscheck",
+        "method": "KO/TKO",
+        "time_end": "4:21",
+        "round_end": 1,
+        "fight_length": 261,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 17,
+            "str_landed": 27,
+            "str_att": 31,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 189
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 2,
+            "str_landed": 3,
+            "str_att": 4,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 0
+        }
+    },
+    "Nate Quarry vs Lodune Sincaid": {
+        "name": "Nate Quarry vs Lodune Sincaid",
+        "fighter1": "Nate Quarry",
+        "fighter2": "Lodune Sincaid",
+        "winner": "Nate Quarry",
+        "method": "KO/TKO",
+        "time_end": "3:17",
+        "round_end": 1,
+        "fight_length": 197,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 82,
+            "str_landed": 36,
+            "str_att": 82,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 34,
+            "str_landed": 10,
+            "str_att": 34,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Mike Swick vs Alex Schoenauer": {
+        "name": "Mike Swick vs Alex Schoenauer",
+        "fighter1": "Mike Swick",
+        "fighter2": "Alex Schoenauer",
+        "winner": "Mike Swick",
+        "method": "KO/TKO",
+        "time_end": "0:20",
+        "round_end": 1,
+        "fight_length": 20,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 7,
+            "sig_str_att": 13,
+            "str_landed": 7,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 4,
+            "str_landed": 1,
+            "str_att": 4,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Alex Karalexis vs Josh Rafferty": {
+        "name": "Alex Karalexis vs Josh Rafferty",
+        "fighter1": "Alex Karalexis",
+        "fighter2": "Josh Rafferty",
+        "winner": "Alex Karalexis",
+        "method": "KO/TKO",
+        "time_end": "1:40",
+        "round_end": 1,
+        "fight_length": 100,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 12,
+            "str_landed": 12,
+            "str_att": 19,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 63
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 3,
+            "str_landed": 2,
+            "str_att": 4,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 0
+        }
+    }
+}

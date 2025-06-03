@@ -1,0 +1,343 @@
+{
+    "event": "The Ultimate Fighter: Team Nogueira vs. Team Mir Finale",
+    "date": "December 13, 2008",
+    "Efrain Escudero vs Phillipe Nover": {
+        "name": "Efrain Escudero vs Phillipe Nover",
+        "fighter1": "Efrain Escudero",
+        "fighter2": "Phillipe Nover",
+        "winner": "Efrain Escudero",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 45,
+            "str_landed": 81,
+            "str_att": 104,
+            "td_comp": 7,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 560
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 20,
+            "sig_str_att": 55,
+            "str_landed": 95,
+            "str_att": 132,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 76
+        }
+    },
+    "Ryan Bader vs Vinny Magalhaes": {
+        "name": "Ryan Bader vs Vinny Magalhaes",
+        "fighter1": "Ryan Bader",
+        "fighter2": "Vinny Magalhaes",
+        "winner": "Ryan Bader",
+        "method": "KO/TKO",
+        "time_end": "2:18",
+        "round_end": 1,
+        "fight_length": 138,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 15,
+            "sig_str_att": 30,
+            "str_landed": 15,
+            "str_att": 30,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 4
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 20,
+            "str_landed": 4,
+            "str_att": 20,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Anthony Johnson vs Kevin Burns": {
+        "name": "Anthony Johnson vs Kevin Burns",
+        "fighter1": "Anthony Johnson",
+        "fighter2": "Kevin Burns",
+        "winner": "Anthony Johnson",
+        "method": "KO/TKO",
+        "time_end": "0:28",
+        "round_end": 3,
+        "fight_length": 148,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 35,
+            "sig_str_att": 64,
+            "str_landed": 109,
+            "str_att": 148,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 449
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 45,
+            "str_landed": 39,
+            "str_att": 67,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 1
+        }
+    },
+    "Wilson Gouveia vs Jason MacDonald": {
+        "name": "Wilson Gouveia vs Jason MacDonald",
+        "fighter1": "Wilson Gouveia",
+        "fighter2": "Jason MacDonald",
+        "winner": "Wilson Gouveia",
+        "method": "KO/TKO",
+        "time_end": "2:18",
+        "round_end": 1,
+        "fight_length": 138,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 18,
+            "sig_str_att": 28,
+            "str_landed": 24,
+            "str_att": 39,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 45
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 13,
+            "str_landed": 9,
+            "str_att": 16,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 37
+        }
+    },
+    "Junie Browning vs David Kaplan": {
+        "name": "Junie Browning vs David Kaplan",
+        "fighter1": "Junie Browning",
+        "fighter2": "David Kaplan",
+        "winner": "Junie Browning",
+        "method": "Submission",
+        "time_end": "1:32",
+        "round_end": 2,
+        "fight_length": 152,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 63,
+            "str_landed": 38,
+            "str_att": 71,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 186
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 12,
+            "sig_str_att": 29,
+            "str_landed": 14,
+            "str_att": 32,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 60
+        }
+    },
+    "Krzysztof Soszynski vs Shane Primm": {
+        "name": "Krzysztof Soszynski vs Shane Primm",
+        "fighter1": "Krzysztof Soszynski",
+        "fighter2": "Shane Primm",
+        "winner": "Krzysztof Soszynski",
+        "method": "Submission",
+        "time_end": "3:27",
+        "round_end": 2,
+        "fight_length": 267,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 50,
+            "str_landed": 38,
+            "str_att": 69,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 283
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 26,
+            "str_landed": 12,
+            "str_att": 31,
+            "td_comp": 1,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 77
+        }
+    },
+    "Eliot Marshall vs Jules Bruchez": {
+        "name": "Eliot Marshall vs Jules Bruchez",
+        "fighter1": "Eliot Marshall",
+        "fighter2": "Jules Bruchez",
+        "winner": "Eliot Marshall",
+        "method": "Submission",
+        "time_end": "1:27",
+        "round_end": 1,
+        "fight_length": 87,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 15,
+            "str_landed": 13,
+            "str_att": 20,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 65
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 2,
+            "str_landed": 3,
+            "str_att": 4,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Tom Lawlor vs Kyle Kingsbury": {
+        "name": "Tom Lawlor vs Kyle Kingsbury",
+        "fighter1": "Tom Lawlor",
+        "fighter2": "Kyle Kingsbury",
+        "winner": "Tom Lawlor",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 22,
+            "str_landed": 70,
+            "str_att": 82,
+            "td_comp": 7,
+            "td_att": 19,
+            "sub_att": 0,
+            "ctrl_time": 682
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 22,
+            "str_landed": 101,
+            "str_att": 116,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 139
+        }
+    },
+    "Shane Nelson vs George Roop": {
+        "name": "Shane Nelson vs George Roop",
+        "fighter1": "Shane Nelson",
+        "fighter2": "George Roop",
+        "winner": "Shane Nelson",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 32,
+            "str_landed": 69,
+            "str_att": 95,
+            "td_comp": 3,
+            "td_att": 10,
+            "sub_att": 2,
+            "ctrl_time": 478
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 74,
+            "str_landed": 93,
+            "str_att": 153,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 237
+        }
+    },
+    "Rolando Delgado vs John Polakowski": {
+        "name": "Rolando Delgado vs John Polakowski",
+        "fighter1": "Rolando Delgado",
+        "fighter2": "John Polakowski",
+        "winner": "Rolando Delgado",
+        "method": "Submission",
+        "time_end": "2:18",
+        "round_end": 2,
+        "fight_length": 198,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 15,
+            "sig_str_att": 27,
+            "str_landed": 44,
+            "str_att": 59,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 3,
+            "ctrl_time": 246
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 23,
+            "str_landed": 4,
+            "str_att": 28,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 21
+        }
+    }
+}

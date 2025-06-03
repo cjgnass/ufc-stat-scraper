@@ -1,0 +1,313 @@
+{
+    "event": "UFC 75: Champion vs Champion",
+    "date": "September 08, 2007",
+    "Quinton Jackson vs Dan Henderson": {
+        "name": "Quinton Jackson vs Dan Henderson",
+        "fighter1": "Quinton Jackson",
+        "fighter2": "Dan Henderson",
+        "winner": "Quinton Jackson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            139,
+            146
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 74,
+            "sig_str_att": 108,
+            "str_landed": 185,
+            "str_att": 222,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 580
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 60,
+            "sig_str_att": 95,
+            "str_landed": 94,
+            "str_att": 135,
+            "td_comp": 3,
+            "td_att": 8,
+            "sub_att": 3,
+            "ctrl_time": 548
+        }
+    },
+    "Michael Bisping vs Matt Hamill": {
+        "name": "Michael Bisping vs Matt Hamill",
+        "fighter1": "Michael Bisping",
+        "fighter2": "Matt Hamill",
+        "winner": "Michael Bisping",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            86,
+            85
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 162,
+            "str_landed": 65,
+            "str_att": 182,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 56,
+            "sig_str_att": 124,
+            "str_landed": 88,
+            "str_att": 165,
+            "td_comp": 6,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 248
+        }
+    },
+    "Cheick Kongo vs Mirko Filipovic": {
+        "name": "Cheick Kongo vs Mirko Filipovic",
+        "fighter1": "Cheick Kongo",
+        "fighter2": "Mirko Filipovic",
+        "winner": "Cheick Kongo",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 63,
+            "sig_str_att": 103,
+            "str_landed": 87,
+            "str_att": 131,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 394
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 33,
+            "str_landed": 45,
+            "str_att": 63,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 125
+        }
+    },
+    "Marcus Davis vs Paul Taylor": {
+        "name": "Marcus Davis vs Paul Taylor",
+        "fighter1": "Marcus Davis",
+        "fighter2": "Paul Taylor",
+        "winner": "Marcus Davis",
+        "method": "Submission",
+        "time_end": "4:14",
+        "round_end": 1,
+        "fight_length": 254,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 40,
+            "str_landed": 32,
+            "str_att": 48,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 151
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 16,
+            "sig_str_att": 30,
+            "str_landed": 26,
+            "str_att": 41,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 66
+        }
+    },
+    "Houston Alexander vs Alessio Sakara": {
+        "name": "Houston Alexander vs Alessio Sakara",
+        "fighter1": "Houston Alexander",
+        "fighter2": "Alessio Sakara",
+        "winner": "Houston Alexander",
+        "method": "KO/TKO",
+        "time_end": "1:01",
+        "round_end": 1,
+        "fight_length": 61,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 18,
+            "sig_str_att": 36,
+            "str_landed": 18,
+            "str_att": 36,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 14
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 5,
+            "str_landed": 1,
+            "str_att": 5,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 9
+        }
+    },
+    "Gleison Tibau vs Terry Etim": {
+        "name": "Gleison Tibau vs Terry Etim",
+        "fighter1": "Gleison Tibau",
+        "fighter2": "Terry Etim",
+        "winner": "Gleison Tibau",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 23,
+            "str_landed": 105,
+            "str_att": 123,
+            "td_comp": 7,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 701
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 34,
+            "str_landed": 20,
+            "str_att": 37,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Thiago Silva vs Tomasz Drwal": {
+        "name": "Thiago Silva vs Tomasz Drwal",
+        "fighter1": "Thiago Silva",
+        "fighter2": "Tomasz Drwal",
+        "winner": "Thiago Silva",
+        "method": "KO/TKO",
+        "time_end": "4:23",
+        "round_end": 2,
+        "fight_length": 323,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 48,
+            "sig_str_att": 105,
+            "str_landed": 53,
+            "str_att": 110,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 1,
+            "ctrl_time": 25
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 43,
+            "sig_str_att": 127,
+            "str_landed": 53,
+            "str_att": 138,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 64
+        }
+    },
+    "Dennis Siver vs Naoyuki Kotani": {
+        "name": "Dennis Siver vs Naoyuki Kotani",
+        "fighter1": "Dennis Siver",
+        "fighter2": "Naoyuki Kotani",
+        "winner": "Dennis Siver",
+        "method": "KO/TKO",
+        "time_end": "2:04",
+        "round_end": 2,
+        "fight_length": 184,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 28,
+            "sig_str_att": 66,
+            "str_landed": 47,
+            "str_att": 87,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 229
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 9,
+            "sig_str_att": 30,
+            "str_landed": 14,
+            "str_att": 36,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 5
+        }
+    },
+    "Jess Liaudin vs Anthony Torres": {
+        "name": "Jess Liaudin vs Anthony Torres",
+        "fighter1": "Jess Liaudin",
+        "fighter2": "Anthony Torres",
+        "winner": "Jess Liaudin",
+        "method": "KO/TKO",
+        "time_end": "4:10",
+        "round_end": 1,
+        "fight_length": 250,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 38,
+            "sig_str_att": 67,
+            "str_landed": 46,
+            "str_att": 76,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 58
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 26,
+            "str_landed": 28,
+            "str_att": 42,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 46
+        }
+    }
+}

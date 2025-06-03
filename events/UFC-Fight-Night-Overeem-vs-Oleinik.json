@@ -1,0 +1,382 @@
+{
+    "event": "UFC Fight Night: Overeem vs. Oleinik",
+    "date": "April 20, 2019",
+    "Alistair Overeem vs Aleksei Oleinik": {
+        "name": "Alistair Overeem vs Aleksei Oleinik",
+        "fighter1": "Alistair Overeem",
+        "fighter2": "Aleksei Oleinik",
+        "winner": "Alistair Overeem",
+        "method": "KO/TKO",
+        "time_end": "4:45",
+        "round_end": 1,
+        "fight_length": 285,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 29,
+            "sig_str_att": 33,
+            "str_landed": 31,
+            "str_att": 35,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 72
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 58,
+            "str_landed": 78,
+            "str_att": 101,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 83
+        }
+    },
+    "Islam Makhachev vs Arman Tsarukyan": {
+        "name": "Islam Makhachev vs Arman Tsarukyan",
+        "fighter1": "Islam Makhachev",
+        "fighter2": "Arman Tsarukyan",
+        "winner": "Islam Makhachev",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 20,
+            "str_landed": 47,
+            "str_att": 53,
+            "td_comp": 4,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 366
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 43,
+            "str_landed": 60,
+            "str_att": 90,
+            "td_comp": 1,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 107
+        }
+    },
+    "Sergei Pavlovich vs Marcelo Golm": {
+        "name": "Sergei Pavlovich vs Marcelo Golm",
+        "fighter1": "Sergei Pavlovich",
+        "fighter2": "Marcelo Golm",
+        "winner": "Sergei Pavlovich",
+        "method": "KO/TKO",
+        "time_end": "1:06",
+        "round_end": 1,
+        "fight_length": 66,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 17,
+            "sig_str_att": 26,
+            "str_landed": 17,
+            "str_att": 26,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 15,
+            "str_landed": 5,
+            "str_att": 15,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Roxanne Modafferi vs Antonina Shevchenko": {
+        "name": "Roxanne Modafferi vs Antonina Shevchenko",
+        "fighter1": "Roxanne Modafferi",
+        "fighter2": "Antonina Shevchenko",
+        "winner": "Roxanne Modafferi",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 79,
+            "str_landed": 105,
+            "str_att": 162,
+            "td_comp": 5,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 540
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 64,
+            "sig_str_att": 116,
+            "str_landed": 87,
+            "str_att": 144,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 50
+        }
+    },
+    "Krzysztof Jotko vs Alen Amedovski": {
+        "name": "Krzysztof Jotko vs Alen Amedovski",
+        "fighter1": "Krzysztof Jotko",
+        "fighter2": "Alen Amedovski",
+        "winner": "Krzysztof Jotko",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            77,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 43,
+            "sig_str_att": 69,
+            "str_landed": 111,
+            "str_att": 149,
+            "td_comp": 4,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 576
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 17,
+            "str_landed": 6,
+            "str_att": 17,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 13
+        }
+    },
+    "Movsar Evloev vs SeungWoo Choi": {
+        "name": "Movsar Evloev vs SeungWoo Choi",
+        "fighter1": "Movsar Evloev",
+        "fighter2": "SeungWoo Choi",
+        "winner": "Movsar Evloev",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            80,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 50,
+            "sig_str_att": 78,
+            "str_landed": 121,
+            "str_att": 156,
+            "td_comp": 5,
+            "td_att": 16,
+            "sub_att": 0,
+            "ctrl_time": 699
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 26,
+            "sig_str_att": 58,
+            "str_landed": 94,
+            "str_att": 136,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Sultan Aliev vs Keita Nakamura": {
+        "name": "Sultan Aliev vs Keita Nakamura",
+        "fighter1": "Sultan Aliev",
+        "fighter2": "Keita Nakamura",
+        "winner": "Sultan Aliev",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 25,
+            "sig_str_att": 63,
+            "str_landed": 32,
+            "str_att": 70,
+            "td_comp": 2,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 346
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 81,
+            "str_landed": 57,
+            "str_att": 109,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 18
+        }
+    },
+    "Alexander Yakovlev vs Alex Da Silva": {
+        "name": "Alexander Yakovlev vs Alex Da Silva",
+        "fighter1": "Alexander Yakovlev",
+        "fighter2": "Alex Da Silva",
+        "winner": "Alexander Yakovlev",
+        "method": "Submission",
+        "time_end": "3:10",
+        "round_end": 2,
+        "fight_length": 250,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 19,
+            "str_landed": 18,
+            "str_att": 23,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 133
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 19,
+            "str_landed": 10,
+            "str_att": 23,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 269
+        }
+    },
+    "Marcin Tybura vs Shamil Abdurakhimov": {
+        "name": "Marcin Tybura vs Shamil Abdurakhimov",
+        "fighter1": "Marcin Tybura",
+        "fighter2": "Shamil Abdurakhimov",
+        "winner": "Shamil Abdurakhimov",
+        "method": "KO/TKO",
+        "time_end": "3:15",
+        "round_end": 2,
+        "fight_length": 255,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 70,
+            "str_landed": 28,
+            "str_att": 70,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 36,
+            "sig_str_att": 87,
+            "str_landed": 36,
+            "str_att": 87,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Gadzhimurad Antigulov vs Michal Oleksiejczuk": {
+        "name": "Gadzhimurad Antigulov vs Michal Oleksiejczuk",
+        "fighter1": "Gadzhimurad Antigulov",
+        "fighter2": "Michal Oleksiejczuk",
+        "winner": "Michal Oleksiejczuk",
+        "method": "KO/TKO",
+        "time_end": "0:44",
+        "round_end": 1,
+        "fight_length": 44,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 13,
+            "str_landed": 6,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 3,
+            "sig_str_landed": 8,
+            "sig_str_att": 10,
+            "str_landed": 8,
+            "str_att": 10,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 8
+        }
+    },
+    "Magomed Mustafaev vs Rafael Fiziev": {
+        "name": "Magomed Mustafaev vs Rafael Fiziev",
+        "fighter1": "Magomed Mustafaev",
+        "fighter2": "Rafael Fiziev",
+        "winner": "Magomed Mustafaev",
+        "method": "KO/TKO",
+        "time_end": "1:26",
+        "round_end": 1,
+        "fight_length": 86,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 10,
+            "sig_str_att": 12,
+            "str_landed": 11,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 1,
+            "str_landed": 1,
+            "str_att": 1,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    }
+}

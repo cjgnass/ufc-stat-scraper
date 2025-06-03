@@ -1,0 +1,424 @@
+{
+    "event": "UFC 280: Oliveira vs. Makhachev",
+    "date": "October 22, 2022",
+    "Charles Oliveira vs Islam Makhachev": {
+        "name": "Charles Oliveira vs Islam Makhachev",
+        "fighter1": "Charles Oliveira",
+        "fighter2": "Islam Makhachev",
+        "winner": "Islam Makhachev",
+        "method": "Submission",
+        "time_end": "3:16",
+        "round_end": 2,
+        "fight_length": 256,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 39,
+            "str_landed": 25,
+            "str_att": 46,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 42
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 30,
+            "sig_str_att": 41,
+            "str_landed": 72,
+            "str_att": 86,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 305
+        }
+    },
+    "Aljamain Sterling vs TJ Dillashaw": {
+        "name": "Aljamain Sterling vs TJ Dillashaw",
+        "fighter1": "Aljamain Sterling",
+        "fighter2": "TJ Dillashaw",
+        "winner": "Aljamain Sterling",
+        "method": "KO/TKO",
+        "time_end": "3:44",
+        "round_end": 2,
+        "fight_length": 284,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 72,
+            "sig_str_att": 93,
+            "str_landed": 148,
+            "str_att": 181,
+            "td_comp": 5,
+            "td_att": 8,
+            "sub_att": 2,
+            "ctrl_time": 426
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 26,
+            "str_landed": 13,
+            "str_att": 31,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        }
+    },
+    "Petr Yan vs Sean O'Malley": {
+        "name": "Petr Yan vs Sean O'Malley",
+        "fighter1": "Petr Yan",
+        "fighter2": "Sean O'Malley",
+        "winner": "Sean O'Malley",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 96,
+            "str_landed": 97,
+            "str_att": 139,
+            "td_comp": 6,
+            "td_att": 13,
+            "sub_att": 0,
+            "ctrl_time": 344
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 84,
+            "sig_str_att": 163,
+            "str_landed": 91,
+            "str_att": 171,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Beneil Dariush vs Mateusz Gamrot": {
+        "name": "Beneil Dariush vs Mateusz Gamrot",
+        "fighter1": "Beneil Dariush",
+        "fighter2": "Mateusz Gamrot",
+        "winner": "Beneil Dariush",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 59,
+            "sig_str_att": 130,
+            "str_landed": 67,
+            "str_att": 138,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 34
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 81,
+            "str_landed": 38,
+            "str_att": 86,
+            "td_comp": 4,
+            "td_att": 19,
+            "sub_att": 0,
+            "ctrl_time": 127
+        }
+    },
+    "Katlyn Cerminara vs Manon Fiorot": {
+        "name": "Katlyn Cerminara vs Manon Fiorot",
+        "fighter1": "Katlyn Cerminara",
+        "fighter2": "Manon Fiorot",
+        "winner": "Manon Fiorot",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 76,
+            "sig_str_att": 286,
+            "str_landed": 76,
+            "str_att": 286,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 98,
+            "sig_str_att": 279,
+            "str_landed": 99,
+            "str_att": 280,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 14
+        }
+    },
+    "Belal Muhammad vs Sean Brady": {
+        "name": "Belal Muhammad vs Sean Brady",
+        "fighter1": "Belal Muhammad",
+        "fighter2": "Sean Brady",
+        "winner": "Belal Muhammad",
+        "method": "KO/TKO",
+        "time_end": "4:47",
+        "round_end": 2,
+        "fight_length": 347,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 80,
+            "sig_str_att": 209,
+            "str_landed": 80,
+            "str_att": 209,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 118,
+            "str_landed": 58,
+            "str_att": 118,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Makhmud Muradov vs Caio Borralho": {
+        "name": "Makhmud Muradov vs Caio Borralho",
+        "fighter1": "Makhmud Muradov",
+        "fighter2": "Caio Borralho",
+        "winner": "Caio Borralho",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 35,
+            "str_landed": 76,
+            "str_att": 103,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 284
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 32,
+            "str_landed": 57,
+            "str_att": 77,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 332
+        }
+    },
+    "Volkan Oezdemir vs Nikita Krylov": {
+        "name": "Volkan Oezdemir vs Nikita Krylov",
+        "fighter1": "Volkan Oezdemir",
+        "fighter2": "Nikita Krylov",
+        "winner": "Nikita Krylov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 81,
+            "str_landed": 108,
+            "str_att": 157,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 47
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 57,
+            "sig_str_att": 121,
+            "str_landed": 171,
+            "str_att": 251,
+            "td_comp": 7,
+            "td_att": 20,
+            "sub_att": 1,
+            "ctrl_time": 557
+        }
+    },
+    "Abubakar Nurmagomedov vs Gadzhi Omargadzhiev": {
+        "name": "Abubakar Nurmagomedov vs Gadzhi Omargadzhiev",
+        "fighter1": "Abubakar Nurmagomedov",
+        "fighter2": "Gadzhi Omargadzhiev",
+        "winner": "Abubakar Nurmagomedov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 40,
+            "sig_str_att": 67,
+            "str_landed": 76,
+            "str_att": 104,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 475
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 99,
+            "str_landed": 79,
+            "str_att": 142,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 68
+        }
+    },
+    "Armen Petrosyan vs AJ Dobson": {
+        "name": "Armen Petrosyan vs AJ Dobson",
+        "fighter1": "Armen Petrosyan",
+        "fighter2": "AJ Dobson",
+        "winner": "Armen Petrosyan",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 118,
+            "sig_str_att": 246,
+            "str_landed": 118,
+            "str_att": 246,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 161,
+            "str_landed": 64,
+            "str_att": 168,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 49
+        }
+    },
+    "Muhammad Mokaev vs Malcolm Gordon": {
+        "name": "Muhammad Mokaev vs Malcolm Gordon",
+        "fighter1": "Muhammad Mokaev",
+        "fighter2": "Malcolm Gordon",
+        "winner": "Muhammad Mokaev",
+        "method": "Submission",
+        "time_end": "4:26",
+        "round_end": 3,
+        "fight_length": 386,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 30,
+            "str_landed": 119,
+            "str_att": 130,
+            "td_comp": 6,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 618
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 38,
+            "str_landed": 38,
+            "str_att": 62,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 169
+        }
+    },
+    "Karol Rosa vs Lina Lansberg": {
+        "name": "Karol Rosa vs Lina Lansberg",
+        "fighter1": "Karol Rosa",
+        "fighter2": "Lina Lansberg",
+        "winner": "Karol Rosa",
+        "method": "Decision - Majority",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 54,
+            "sig_str_att": 74,
+            "str_landed": 160,
+            "str_att": 190,
+            "td_comp": 3,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 584
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 36,
+            "sig_str_att": 60,
+            "str_landed": 100,
+            "str_att": 132,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 168
+        }
+    }
+}

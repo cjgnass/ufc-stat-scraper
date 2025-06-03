@@ -1,0 +1,313 @@
+{
+    "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
+    "date": "September 16, 2023",
+    "Kevin Holland vs Jack Della Maddalena": {
+        "name": "Kevin Holland vs Jack Della Maddalena",
+        "fighter1": "Kevin Holland",
+        "fighter2": "Jack Della Maddalena",
+        "winner": "Jack Della Maddalena",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 127,
+            "sig_str_att": 356,
+            "str_landed": 127,
+            "str_att": 356,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 105,
+            "sig_str_att": 190,
+            "str_landed": 105,
+            "str_att": 190,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Raul Rosas Jr. vs Terrence Mitchell": {
+        "name": "Raul Rosas Jr. vs Terrence Mitchell",
+        "fighter1": "Raul Rosas Jr.",
+        "fighter2": "Terrence Mitchell",
+        "winner": "Raul Rosas Jr.",
+        "method": "KO/TKO",
+        "time_end": "0:54",
+        "round_end": 1,
+        "fight_length": 54,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 18,
+            "sig_str_att": 30,
+            "str_landed": 19,
+            "str_att": 31,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 17
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 19,
+            "str_landed": 6,
+            "str_att": 19,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Daniel Zellhuber vs Christos Giagos": {
+        "name": "Daniel Zellhuber vs Christos Giagos",
+        "fighter1": "Daniel Zellhuber",
+        "fighter2": "Christos Giagos",
+        "winner": "Daniel Zellhuber",
+        "method": "Submission",
+        "time_end": "3:26",
+        "round_end": 2,
+        "fight_length": 266,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 36,
+            "sig_str_att": 101,
+            "str_landed": 36,
+            "str_att": 101,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 17
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 82,
+            "str_landed": 38,
+            "str_att": 82,
+            "td_comp": 0,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 11
+        }
+    },
+    "Fernando Padilla vs Kyle Nelson": {
+        "name": "Fernando Padilla vs Kyle Nelson",
+        "fighter1": "Fernando Padilla",
+        "fighter2": "Kyle Nelson",
+        "winner": "Kyle Nelson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 72,
+            "sig_str_att": 208,
+            "str_landed": 73,
+            "str_att": 209,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 7
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 82,
+            "sig_str_att": 184,
+            "str_landed": 83,
+            "str_att": 185,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Loopy Godinez vs Elise Reed": {
+        "name": "Loopy Godinez vs Elise Reed",
+        "fighter1": "Loopy Godinez",
+        "fighter2": "Elise Reed",
+        "winner": "Loopy Godinez",
+        "method": "Submission",
+        "time_end": "3:38",
+        "round_end": 2,
+        "fight_length": 278,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 21,
+            "sig_str_att": 31,
+            "str_landed": 37,
+            "str_att": 51,
+            "td_comp": 5,
+            "td_att": 5,
+            "sub_att": 6,
+            "ctrl_time": 389
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 13,
+            "str_landed": 34,
+            "str_att": 48,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 22
+        }
+    },
+    "Roman Kopylov vs Josh Fremd": {
+        "name": "Roman Kopylov vs Josh Fremd",
+        "fighter1": "Roman Kopylov",
+        "fighter2": "Josh Fremd",
+        "winner": "Roman Kopylov",
+        "method": "KO/TKO",
+        "time_end": "4:44",
+        "round_end": 2,
+        "fight_length": 344,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 49,
+            "sig_str_att": 84,
+            "str_landed": 54,
+            "str_att": 90,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 38,
+            "sig_str_att": 116,
+            "str_landed": 38,
+            "str_att": 116,
+            "td_comp": 0,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 50
+        }
+    },
+    "Tracy Cortez vs Jasmine Jasudavicius": {
+        "name": "Tracy Cortez vs Jasmine Jasudavicius",
+        "fighter1": "Tracy Cortez",
+        "fighter2": "Jasmine Jasudavicius",
+        "winner": "Tracy Cortez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 103,
+            "sig_str_att": 212,
+            "str_landed": 116,
+            "str_att": 225,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 26
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 77,
+            "sig_str_att": 206,
+            "str_landed": 95,
+            "str_att": 225,
+            "td_comp": 2,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 180
+        }
+    },
+    "Alex Reyes vs Charlie Campbell": {
+        "name": "Alex Reyes vs Charlie Campbell",
+        "fighter1": "Alex Reyes",
+        "fighter2": "Charlie Campbell",
+        "winner": "Charlie Campbell",
+        "method": "KO/TKO",
+        "time_end": "3:38",
+        "round_end": 1,
+        "fight_length": 218,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 38,
+            "str_landed": 15,
+            "str_att": 39,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 43,
+            "sig_str_att": 72,
+            "str_landed": 43,
+            "str_att": 72,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Josefine Knutsson vs Marnic Mann": {
+        "name": "Josefine Knutsson vs Marnic Mann",
+        "fighter1": "Josefine Knutsson",
+        "fighter2": "Marnic Mann",
+        "winner": "Josefine Knutsson",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            76,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 81,
+            "sig_str_att": 128,
+            "str_landed": 147,
+            "str_att": 206,
+            "td_comp": 3,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 649
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 29,
+            "str_landed": 39,
+            "str_att": 64,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 33
+        }
+    }
+}

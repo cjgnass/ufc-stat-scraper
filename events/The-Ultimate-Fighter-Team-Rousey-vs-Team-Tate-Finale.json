@@ -1,0 +1,349 @@
+{
+    "event": "The Ultimate Fighter: Team Rousey vs. Team Tate Finale",
+    "date": "November 30, 2013",
+    "Gray Maynard vs Nate Diaz": {
+        "name": "Gray Maynard vs Nate Diaz",
+        "fighter1": "Gray Maynard",
+        "fighter2": "Nate Diaz",
+        "winner": "Nate Diaz",
+        "method": "KO/TKO",
+        "time_end": "2:38",
+        "round_end": 1,
+        "fight_length": 158,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 15,
+            "str_landed": 6,
+            "str_att": 16,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 49
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 55,
+            "str_landed": 34,
+            "str_att": 56,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 6
+        }
+    },
+    "Julianna Pena vs Jessica Rakoczy": {
+        "name": "Julianna Pena vs Jessica Rakoczy",
+        "fighter1": "Julianna Pena",
+        "fighter2": "Jessica Rakoczy",
+        "winner": "Julianna Pena",
+        "method": "KO/TKO",
+        "time_end": "4:59",
+        "round_end": 1,
+        "fight_length": 299,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 76,
+            "str_landed": 66,
+            "str_att": 119,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 267
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 5,
+            "str_landed": 8,
+            "str_att": 9,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Chris Holdsworth vs Davey Grant": {
+        "name": "Chris Holdsworth vs Davey Grant",
+        "fighter1": "Chris Holdsworth",
+        "fighter2": "Davey Grant",
+        "winner": "Chris Holdsworth",
+        "method": "Submission",
+        "time_end": "2:10",
+        "round_end": 2,
+        "fight_length": 190,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 50,
+            "str_landed": 41,
+            "str_att": 78,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 231
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 44,
+            "str_landed": 19,
+            "str_att": 45,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 19
+        }
+    },
+    "Jessamyn Duke vs Peggy Morgan": {
+        "name": "Jessamyn Duke vs Peggy Morgan",
+        "fighter1": "Jessamyn Duke",
+        "fighter2": "Peggy Morgan",
+        "winner": "Jessamyn Duke",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 123,
+            "sig_str_att": 185,
+            "str_landed": 201,
+            "str_att": 265,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 3,
+            "ctrl_time": 88
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 147,
+            "str_landed": 45,
+            "str_att": 158,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 352
+        }
+    },
+    "Roxanne Modafferi vs Raquel Pennington": {
+        "name": "Roxanne Modafferi vs Raquel Pennington",
+        "fighter1": "Roxanne Modafferi",
+        "fighter2": "Raquel Pennington",
+        "winner": "Raquel Pennington",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 42,
+            "sig_str_att": 194,
+            "str_landed": 63,
+            "str_att": 218,
+            "td_comp": 0,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 101
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 80,
+            "sig_str_att": 133,
+            "str_landed": 86,
+            "str_att": 140,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 282
+        }
+    },
+    "Akira Corassani vs Maximo Blanco": {
+        "name": "Akira Corassani vs Maximo Blanco",
+        "fighter1": "Akira Corassani",
+        "fighter2": "Maximo Blanco",
+        "winner": "Akira Corassani",
+        "method": "DQ",
+        "time_end": "0:25",
+        "round_end": 1,
+        "fight_length": 25,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 2,
+            "str_landed": 1,
+            "str_att": 2,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 7,
+            "str_landed": 7,
+            "str_att": 9,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 14
+        }
+    },
+    "Rani Yahya vs Tom Niinimaki": {
+        "name": "Rani Yahya vs Tom Niinimaki",
+        "fighter1": "Rani Yahya",
+        "fighter2": "Tom Niinimaki",
+        "winner": "Tom Niinimaki",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 33,
+            "str_landed": 24,
+            "str_att": 43,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 4,
+            "ctrl_time": 210
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 27,
+            "str_landed": 54,
+            "str_att": 64,
+            "td_comp": 4,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 546
+        }
+    },
+    "Jared Rosholt vs Walt Harris": {
+        "name": "Jared Rosholt vs Walt Harris",
+        "fighter1": "Jared Rosholt",
+        "fighter2": "Walt Harris",
+        "winner": "Jared Rosholt",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 105,
+            "str_landed": 73,
+            "str_att": 150,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 228
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 18,
+            "sig_str_att": 71,
+            "str_landed": 19,
+            "str_att": 72,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 4
+        }
+    },
+    "Sean Spencer vs Drew Dober": {
+        "name": "Sean Spencer vs Drew Dober",
+        "fighter1": "Sean Spencer",
+        "fighter2": "Drew Dober",
+        "winner": "Sean Spencer",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 105,
+            "sig_str_att": 270,
+            "str_landed": 109,
+            "str_att": 274,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 52
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 61,
+            "sig_str_att": 226,
+            "str_landed": 67,
+            "str_att": 236,
+            "td_comp": 0,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 184
+        }
+    },
+    "Josh Sampo vs Ryan Benoit": {
+        "name": "Josh Sampo vs Ryan Benoit",
+        "fighter1": "Josh Sampo",
+        "fighter2": "Ryan Benoit",
+        "winner": "Josh Sampo",
+        "method": "Submission",
+        "time_end": "4:31",
+        "round_end": 2,
+        "fight_length": 331,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 64,
+            "str_landed": 65,
+            "str_att": 103,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 5,
+            "ctrl_time": 251
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 18,
+            "sig_str_att": 63,
+            "str_landed": 24,
+            "str_att": 69,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 141
+        }
+    }
+}

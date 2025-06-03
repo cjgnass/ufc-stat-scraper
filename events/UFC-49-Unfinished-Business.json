@@ -1,0 +1,271 @@
+{
+    "event": "UFC 49: Unfinished Business",
+    "date": "August 21, 2004",
+    "Randy Couture vs Vitor Belfort": {
+        "name": "Randy Couture vs Vitor Belfort",
+        "fighter1": "Randy Couture",
+        "fighter2": "Vitor Belfort",
+        "winner": "Randy Couture",
+        "method": "TKO - Doctor's Stoppage",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 50,
+            "sig_str_att": 71,
+            "str_landed": 131,
+            "str_att": 154,
+            "td_comp": 2,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 846
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 3,
+            "sig_str_att": 6,
+            "str_landed": 10,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 1
+        }
+    },
+    "Joe Riggs vs Joe Doerksen": {
+        "name": "Joe Riggs vs Joe Doerksen",
+        "fighter1": "Joe Riggs",
+        "fighter2": "Joe Doerksen",
+        "winner": "Joe Riggs",
+        "method": "KO/TKO",
+        "time_end": "3:39",
+        "round_end": 2,
+        "fight_length": 279,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 29,
+            "sig_str_att": 55,
+            "str_landed": 44,
+            "str_att": 71,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 364
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 7,
+            "str_landed": 22,
+            "str_att": 24,
+            "td_comp": 2,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 44
+        }
+    },
+    "Chuck Liddell vs Vernon White": {
+        "name": "Chuck Liddell vs Vernon White",
+        "fighter1": "Chuck Liddell",
+        "fighter2": "Vernon White",
+        "winner": "Chuck Liddell",
+        "method": "KO/TKO",
+        "time_end": "4:05",
+        "round_end": 1,
+        "fight_length": 245,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 31,
+            "sig_str_att": 68,
+            "str_landed": 51,
+            "str_att": 88,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 91
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 37,
+            "str_landed": 13,
+            "str_att": 37,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "David Terrell vs Matt Lindland": {
+        "name": "David Terrell vs Matt Lindland",
+        "fighter1": "David Terrell",
+        "fighter2": "Matt Lindland",
+        "winner": "David Terrell",
+        "method": "KO/TKO",
+        "time_end": "0:24",
+        "round_end": 1,
+        "fight_length": 24,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 5,
+            "sig_str_att": 7,
+            "str_landed": 5,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 8
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 0,
+            "sig_str_att": 1,
+            "str_landed": 0,
+            "str_att": 1,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Justin Eilers vs Mike Kyle": {
+        "name": "Justin Eilers vs Mike Kyle",
+        "fighter1": "Justin Eilers",
+        "fighter2": "Mike Kyle",
+        "winner": "Justin Eilers",
+        "method": "KO/TKO",
+        "time_end": "1:14",
+        "round_end": 1,
+        "fight_length": 74,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 4,
+            "sig_str_att": 9,
+            "str_landed": 5,
+            "str_att": 10,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 1
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 16,
+            "str_landed": 7,
+            "str_att": 16,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Chris Lytle vs Ronald Jhun": {
+        "name": "Chris Lytle vs Ronald Jhun",
+        "fighter1": "Chris Lytle",
+        "fighter2": "Ronald Jhun",
+        "winner": "Chris Lytle",
+        "method": "Submission",
+        "time_end": "1:17",
+        "round_end": 2,
+        "fight_length": 137,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 12,
+            "sig_str_att": 25,
+            "str_landed": 38,
+            "str_att": 59,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 260
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 8,
+            "sig_str_att": 16,
+            "str_landed": 20,
+            "str_att": 29,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 23
+        }
+    },
+    "Karo Parisyan vs Nick Diaz": {
+        "name": "Karo Parisyan vs Nick Diaz",
+        "fighter1": "Karo Parisyan",
+        "fighter2": "Nick Diaz",
+        "winner": "Karo Parisyan",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 27,
+            "sig_str_att": 79,
+            "str_landed": 48,
+            "str_att": 104,
+            "td_comp": 9,
+            "td_att": 15,
+            "sub_att": 0,
+            "ctrl_time": 414
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 102,
+            "str_landed": 121,
+            "str_att": 189,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 2,
+            "ctrl_time": 78
+        }
+    },
+    "Yves Edwards vs Josh Thomson": {
+        "name": "Yves Edwards vs Josh Thomson",
+        "fighter1": "Yves Edwards",
+        "fighter2": "Josh Thomson",
+        "winner": "Yves Edwards",
+        "method": "KO/TKO",
+        "time_end": "4:32",
+        "round_end": 1,
+        "fight_length": 272,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 16,
+            "sig_str_att": 21,
+            "str_landed": 24,
+            "str_att": 30,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 40
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 22,
+            "str_landed": 33,
+            "str_att": 43,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 97
+        }
+    }
+}

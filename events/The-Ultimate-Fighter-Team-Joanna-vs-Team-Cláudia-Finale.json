@@ -1,0 +1,421 @@
+{
+    "event": "The Ultimate Fighter: Team Joanna vs. Team Cl\u00e1udia Finale",
+    "date": "July 08, 2016",
+    "Joanna Jedrzejczyk vs Claudia Gadelha": {
+        "name": "Joanna Jedrzejczyk vs Claudia Gadelha",
+        "fighter1": "Joanna Jedrzejczyk",
+        "fighter2": "Claudia Gadelha",
+        "winner": "Joanna Jedrzejczyk",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            137,
+            144
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 176,
+            "sig_str_att": 330,
+            "str_landed": 194,
+            "str_att": 351,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 91
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 63,
+            "sig_str_att": 150,
+            "str_landed": 101,
+            "str_att": 191,
+            "td_comp": 4,
+            "td_att": 13,
+            "sub_att": 0,
+            "ctrl_time": 571
+        }
+    },
+    "Andrew Sanchez vs Khalil Rountree Jr.": {
+        "name": "Andrew Sanchez vs Khalil Rountree Jr.",
+        "fighter1": "Andrew Sanchez",
+        "fighter2": "Khalil Rountree Jr.",
+        "winner": "Andrew Sanchez",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            76,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 43,
+            "str_landed": 118,
+            "str_att": 159,
+            "td_comp": 6,
+            "td_att": 12,
+            "sub_att": 0,
+            "ctrl_time": 722
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 14,
+            "sig_str_att": 27,
+            "str_landed": 58,
+            "str_att": 76,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Tatiana Suarez vs Amanda Cooper": {
+        "name": "Tatiana Suarez vs Amanda Cooper",
+        "fighter1": "Tatiana Suarez",
+        "fighter2": "Amanda Cooper",
+        "winner": "Tatiana Suarez",
+        "method": "Submission",
+        "time_end": "3:43",
+        "round_end": 1,
+        "fight_length": 223,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 19,
+            "str_landed": 38,
+            "str_att": 43,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 178
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 1,
+            "sig_str_att": 4,
+            "str_landed": 4,
+            "str_att": 7,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 2,
+            "ctrl_time": 26
+        }
+    },
+    "Ross Pearson vs Will Brooks": {
+        "name": "Ross Pearson vs Will Brooks",
+        "fighter1": "Ross Pearson",
+        "fighter2": "Will Brooks",
+        "winner": "Will Brooks",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 54,
+            "sig_str_att": 115,
+            "str_landed": 76,
+            "str_att": 140,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 127
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 80,
+            "sig_str_att": 150,
+            "str_landed": 116,
+            "str_att": 190,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 273
+        }
+    },
+    "Dooho Choi vs Thiago Tavares": {
+        "name": "Dooho Choi vs Thiago Tavares",
+        "fighter1": "Dooho Choi",
+        "fighter2": "Thiago Tavares",
+        "winner": "Dooho Choi",
+        "method": "KO/TKO",
+        "time_end": "2:42",
+        "round_end": 1,
+        "fight_length": 162,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 4,
+            "sig_str_att": 7,
+            "str_landed": 6,
+            "str_att": 11,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 17
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 5,
+            "str_landed": 13,
+            "str_att": 17,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 118
+        }
+    },
+    "Joaquim Silva vs Andrew Holbrook": {
+        "name": "Joaquim Silva vs Andrew Holbrook",
+        "fighter1": "Joaquim Silva",
+        "fighter2": "Andrew Holbrook",
+        "winner": "Joaquim Silva",
+        "method": "KO/TKO",
+        "time_end": "0:34",
+        "round_end": 1,
+        "fight_length": 34,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 6,
+            "sig_str_att": 8,
+            "str_landed": 6,
+            "str_att": 8,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 3,
+            "str_landed": 2,
+            "str_att": 3,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Gray Maynard vs Fernando Bruno": {
+        "name": "Gray Maynard vs Fernando Bruno",
+        "fighter1": "Gray Maynard",
+        "fighter2": "Fernando Bruno",
+        "winner": "Gray Maynard",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 30,
+            "sig_str_att": 71,
+            "str_landed": 42,
+            "str_att": 85,
+            "td_comp": 3,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 401
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 32,
+            "sig_str_att": 101,
+            "str_landed": 47,
+            "str_att": 119,
+            "td_comp": 2,
+            "td_att": 7,
+            "sub_att": 1,
+            "ctrl_time": 148
+        }
+    },
+    "John Moraga vs Matheus Nicolau": {
+        "name": "John Moraga vs Matheus Nicolau",
+        "fighter1": "John Moraga",
+        "fighter2": "Matheus Nicolau",
+        "winner": "Matheus Nicolau",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 31,
+            "sig_str_att": 113,
+            "str_landed": 33,
+            "str_att": 115,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 41,
+            "sig_str_att": 85,
+            "str_landed": 53,
+            "str_att": 98,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 43
+        }
+    },
+    "Cory Hendricks vs Josh Stansbury": {
+        "name": "Cory Hendricks vs Josh Stansbury",
+        "fighter1": "Cory Hendricks",
+        "fighter2": "Josh Stansbury",
+        "winner": "Josh Stansbury",
+        "method": "Decision - Majority",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 118,
+            "str_landed": 52,
+            "str_att": 124,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 18
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 61,
+            "sig_str_att": 107,
+            "str_landed": 153,
+            "str_att": 203,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 468
+        }
+    },
+    "Cezar Ferreira vs Anthony Smith": {
+        "name": "Cezar Ferreira vs Anthony Smith",
+        "fighter1": "Cezar Ferreira",
+        "fighter2": "Anthony Smith",
+        "winner": "Cezar Ferreira",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 30,
+            "sig_str_att": 51,
+            "str_landed": 120,
+            "str_att": 148,
+            "td_comp": 6,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 520
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 63,
+            "str_landed": 41,
+            "str_att": 71,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 1,
+            "ctrl_time": 3
+        }
+    },
+    "Jake Matthews vs Kevin Lee": {
+        "name": "Jake Matthews vs Kevin Lee",
+        "fighter1": "Jake Matthews",
+        "fighter2": "Kevin Lee",
+        "winner": "Kevin Lee",
+        "method": "KO/TKO",
+        "time_end": "4:06",
+        "round_end": 1,
+        "fight_length": 246,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 13,
+            "str_landed": 5,
+            "str_att": 13,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 38,
+            "str_landed": 36,
+            "str_att": 51,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 155
+        }
+    },
+    "Li Jingliang vs Anton Zafir": {
+        "name": "Li Jingliang vs Anton Zafir",
+        "fighter1": "Li Jingliang",
+        "fighter2": "Anton Zafir",
+        "winner": "Li Jingliang",
+        "method": "KO/TKO",
+        "time_end": "2:46",
+        "round_end": 1,
+        "fight_length": 166,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 15,
+            "str_landed": 11,
+            "str_att": 20,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 20
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 5,
+            "sig_str_att": 9,
+            "str_landed": 15,
+            "str_att": 19,
+            "td_comp": 2,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 81
+        }
+    }
+}

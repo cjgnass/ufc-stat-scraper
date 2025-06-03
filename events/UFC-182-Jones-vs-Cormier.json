@@ -1,0 +1,355 @@
+{
+    "event": "UFC 182: Jones vs Cormier",
+    "date": "January 03, 2015",
+    "Jon Jones vs Daniel Cormier": {
+        "name": "Jon Jones vs Daniel Cormier",
+        "fighter1": "Jon Jones",
+        "fighter2": "Daniel Cormier",
+        "winner": "Jon Jones",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            138,
+            147
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 92,
+            "sig_str_att": 178,
+            "str_landed": 126,
+            "str_att": 215,
+            "td_comp": 3,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 410
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 58,
+            "sig_str_att": 165,
+            "str_landed": 78,
+            "str_att": 191,
+            "td_comp": 1,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 94
+        }
+    },
+    "Donald Cerrone vs Myles Jury": {
+        "name": "Donald Cerrone vs Myles Jury",
+        "fighter1": "Donald Cerrone",
+        "fighter2": "Myles Jury",
+        "winner": "Donald Cerrone",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 37,
+            "sig_str_att": 83,
+            "str_landed": 54,
+            "str_att": 105,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 221
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 53,
+            "str_landed": 17,
+            "str_att": 57,
+            "td_comp": 1,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 121
+        }
+    },
+    "Brad Tavares vs Nate Marquardt": {
+        "name": "Brad Tavares vs Nate Marquardt",
+        "fighter1": "Brad Tavares",
+        "fighter2": "Nate Marquardt",
+        "winner": "Brad Tavares",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 50,
+            "sig_str_att": 119,
+            "str_landed": 57,
+            "str_att": 126,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 29
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 30,
+            "sig_str_att": 64,
+            "str_landed": 34,
+            "str_att": 69,
+            "td_comp": 0,
+            "td_att": 7,
+            "sub_att": 0,
+            "ctrl_time": 87
+        }
+    },
+    "Kyoji Horiguchi vs Louis Gaudinot": {
+        "name": "Kyoji Horiguchi vs Louis Gaudinot",
+        "fighter1": "Kyoji Horiguchi",
+        "fighter2": "Louis Gaudinot",
+        "winner": "Kyoji Horiguchi",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 44,
+            "sig_str_att": 108,
+            "str_landed": 59,
+            "str_att": 123,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 118
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 89,
+            "str_landed": 29,
+            "str_att": 95,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 0
+        }
+    },
+    "Danny Castillo vs Paul Felder": {
+        "name": "Danny Castillo vs Paul Felder",
+        "fighter1": "Danny Castillo",
+        "fighter2": "Paul Felder",
+        "winner": "Paul Felder",
+        "method": "KO/TKO",
+        "time_end": "2:09",
+        "round_end": 2,
+        "fight_length": 189,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 52,
+            "str_landed": 21,
+            "str_att": 52,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 33,
+            "sig_str_att": 94,
+            "str_landed": 33,
+            "str_att": 94,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        }
+    },
+    "Marcus Brimage vs Cody Garbrandt": {
+        "name": "Marcus Brimage vs Cody Garbrandt",
+        "fighter1": "Marcus Brimage",
+        "fighter2": "Cody Garbrandt",
+        "winner": "Cody Garbrandt",
+        "method": "KO/TKO",
+        "time_end": "4:50",
+        "round_end": 3,
+        "fight_length": 410,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 43,
+            "sig_str_att": 132,
+            "str_landed": 48,
+            "str_att": 137,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 17
+        },
+        "fighter2_fight_data": {
+            "kd": 2,
+            "sig_str_landed": 49,
+            "sig_str_att": 134,
+            "str_landed": 50,
+            "str_att": 135,
+            "td_comp": 1,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 29
+        }
+    },
+    "Shawn Jordan vs Jared Cannonier": {
+        "name": "Shawn Jordan vs Jared Cannonier",
+        "fighter1": "Shawn Jordan",
+        "fighter2": "Jared Cannonier",
+        "winner": "Shawn Jordan",
+        "method": "KO/TKO",
+        "time_end": "2:57",
+        "round_end": 1,
+        "fight_length": 177,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 12,
+            "sig_str_att": 31,
+            "str_landed": 13,
+            "str_att": 32,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 10,
+            "sig_str_att": 20,
+            "str_landed": 10,
+            "str_att": 20,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Evan Dunham vs Rodrigo Damm": {
+        "name": "Evan Dunham vs Rodrigo Damm",
+        "fighter1": "Evan Dunham",
+        "fighter2": "Rodrigo Damm",
+        "winner": "Evan Dunham",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 152,
+            "sig_str_att": 344,
+            "str_landed": 156,
+            "str_att": 350,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 34
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 153,
+            "str_landed": 47,
+            "str_att": 153,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Omari Akhmedov vs Mats Nilsson": {
+        "name": "Omari Akhmedov vs Mats Nilsson",
+        "fighter1": "Omari Akhmedov",
+        "fighter2": "Mats Nilsson",
+        "winner": "Omari Akhmedov",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 64,
+            "sig_str_att": 184,
+            "str_landed": 93,
+            "str_att": 219,
+            "td_comp": 5,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 281
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 92,
+            "str_landed": 55,
+            "str_att": 115,
+            "td_comp": 5,
+            "td_att": 6,
+            "sub_att": 3,
+            "ctrl_time": 176
+        }
+    },
+    "Alexis Dufresne vs Marion Reneau": {
+        "name": "Alexis Dufresne vs Marion Reneau",
+        "fighter1": "Alexis Dufresne",
+        "fighter2": "Marion Reneau",
+        "winner": "Marion Reneau",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            77,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 28,
+            "sig_str_att": 116,
+            "str_landed": 33,
+            "str_att": 122,
+            "td_comp": 0,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 14
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 85,
+            "sig_str_att": 221,
+            "str_landed": 86,
+            "str_att": 222,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 16
+        }
+    }
+}

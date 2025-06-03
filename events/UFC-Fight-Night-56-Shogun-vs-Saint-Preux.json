@@ -1,0 +1,352 @@
+{
+    "event": "UFC Fight Night 56: Shogun vs Saint Preux",
+    "date": "November 08, 2014",
+    "Mauricio Rua vs Ovince Saint Preux": {
+        "name": "Mauricio Rua vs Ovince Saint Preux",
+        "fighter1": "Mauricio Rua",
+        "fighter2": "Ovince Saint Preux",
+        "winner": "Ovince Saint Preux",
+        "method": "KO/TKO",
+        "time_end": "0:34",
+        "round_end": 1,
+        "fight_length": 34,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 3,
+            "str_landed": 2,
+            "str_att": 3,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 9,
+            "sig_str_att": 15,
+            "str_landed": 9,
+            "str_att": 15,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 6
+        }
+    },
+    "Warlley Alves vs Alan Jouban": {
+        "name": "Warlley Alves vs Alan Jouban",
+        "fighter1": "Warlley Alves",
+        "fighter2": "Alan Jouban",
+        "winner": "Warlley Alves",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 47,
+            "sig_str_att": 106,
+            "str_landed": 51,
+            "str_att": 111,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 240
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 79,
+            "sig_str_att": 156,
+            "str_landed": 96,
+            "str_att": 173,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 35
+        }
+    },
+    "Claudio Silva vs Leon Edwards": {
+        "name": "Claudio Silva vs Leon Edwards",
+        "fighter1": "Claudio Silva",
+        "fighter2": "Leon Edwards",
+        "winner": "Claudio Silva",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            85,
+            86
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 81,
+            "str_landed": 98,
+            "str_att": 162,
+            "td_comp": 3,
+            "td_att": 9,
+            "sub_att": 1,
+            "ctrl_time": 428
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 33,
+            "sig_str_att": 61,
+            "str_landed": 42,
+            "str_att": 70,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 97
+        }
+    },
+    "Dhiego Lima vs Jorge de Oliveira": {
+        "name": "Dhiego Lima vs Jorge de Oliveira",
+        "fighter1": "Dhiego Lima",
+        "fighter2": "Jorge de Oliveira",
+        "winner": "Dhiego Lima",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 70,
+            "sig_str_att": 137,
+            "str_landed": 116,
+            "str_att": 195,
+            "td_comp": 6,
+            "td_att": 8,
+            "sub_att": 4,
+            "ctrl_time": 581
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 68,
+            "str_landed": 62,
+            "str_att": 114,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Juliana Lima vs Nina Nunes": {
+        "name": "Juliana Lima vs Nina Nunes",
+        "fighter1": "Juliana Lima",
+        "fighter2": "Nina Nunes",
+        "winner": "Juliana Lima",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 38,
+            "str_landed": 65,
+            "str_att": 87,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 402
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 43,
+            "str_landed": 53,
+            "str_att": 75,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 2,
+            "ctrl_time": 164
+        }
+    },
+    "Diego Rivas vs Rodolfo Rubio Perez": {
+        "name": "Diego Rivas vs Rodolfo Rubio Perez",
+        "fighter1": "Diego Rivas",
+        "fighter2": "Rodolfo Rubio Perez",
+        "winner": "Diego Rivas",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 15,
+            "sig_str_att": 40,
+            "str_landed": 46,
+            "str_att": 77,
+            "td_comp": 2,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 407
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 17,
+            "sig_str_att": 47,
+            "str_landed": 53,
+            "str_att": 86,
+            "td_comp": 2,
+            "td_att": 6,
+            "sub_att": 0,
+            "ctrl_time": 193
+        }
+    },
+    "Caio Magalhaes vs Trevor Smith": {
+        "name": "Caio Magalhaes vs Trevor Smith",
+        "fighter1": "Caio Magalhaes",
+        "fighter2": "Trevor Smith",
+        "winner": "Caio Magalhaes",
+        "method": "KO/TKO",
+        "time_end": "0:31",
+        "round_end": 1,
+        "fight_length": 31,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 9,
+            "sig_str_att": 14,
+            "str_landed": 10,
+            "str_att": 15,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 2,
+            "sig_str_att": 5,
+            "str_landed": 2,
+            "str_att": 5,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Leandro Silva vs Charlie Brenneman": {
+        "name": "Leandro Silva vs Charlie Brenneman",
+        "fighter1": "Leandro Silva",
+        "fighter2": "Charlie Brenneman",
+        "winner": "Leandro Silva",
+        "method": "Submission",
+        "time_end": "4:15",
+        "round_end": 1,
+        "fight_length": 255,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 8,
+            "str_landed": 12,
+            "str_att": 16,
+            "td_comp": 1,
+            "td_att": 1,
+            "sub_att": 1,
+            "ctrl_time": 64
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 4,
+            "sig_str_att": 9,
+            "str_landed": 9,
+            "str_att": 16,
+            "td_comp": 3,
+            "td_att": 8,
+            "sub_att": 0,
+            "ctrl_time": 141
+        }
+    },
+    "Thomas Almeida vs Tim Gorman": {
+        "name": "Thomas Almeida vs Tim Gorman",
+        "fighter1": "Thomas Almeida",
+        "fighter2": "Tim Gorman",
+        "winner": "Thomas Almeida",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 120,
+            "sig_str_att": 217,
+            "str_landed": 122,
+            "str_att": 219,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 3
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 67,
+            "sig_str_att": 189,
+            "str_landed": 71,
+            "str_att": 195,
+            "td_comp": 2,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 133
+        }
+    },
+    "Wagner Silva vs Colby Covington": {
+        "name": "Wagner Silva vs Colby Covington",
+        "fighter1": "Wagner Silva",
+        "fighter2": "Colby Covington",
+        "winner": "Colby Covington",
+        "method": "Submission",
+        "time_end": "3:26",
+        "round_end": 3,
+        "fight_length": 326,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 16,
+            "sig_str_att": 59,
+            "str_landed": 23,
+            "str_att": 66,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 2
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 23,
+            "sig_str_att": 62,
+            "str_landed": 97,
+            "str_att": 155,
+            "td_comp": 5,
+            "td_att": 12,
+            "sub_att": 1,
+            "ctrl_time": 503
+        }
+    }
+}

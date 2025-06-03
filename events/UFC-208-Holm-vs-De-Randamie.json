@@ -1,0 +1,361 @@
+{
+    "event": "UFC 208: Holm vs. De Randamie",
+    "date": "February 11, 2017",
+    "Holly Holm vs Germaine de Randamie": {
+        "name": "Holly Holm vs Germaine de Randamie",
+        "fighter1": "Holly Holm",
+        "fighter2": "Germaine de Randamie",
+        "winner": "Germaine de Randamie",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 5,
+        "fight_length": 540,
+        "score": [
+            141,
+            144
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 77,
+            "sig_str_att": 182,
+            "str_landed": 122,
+            "str_att": 235,
+            "td_comp": 0,
+            "td_att": 9,
+            "sub_att": 0,
+            "ctrl_time": 497
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 80,
+            "sig_str_att": 150,
+            "str_landed": 144,
+            "str_att": 223,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 38
+        }
+    },
+    "Anderson Silva vs Derek Brunson": {
+        "name": "Anderson Silva vs Derek Brunson",
+        "fighter1": "Anderson Silva",
+        "fighter2": "Derek Brunson",
+        "winner": "Anderson Silva",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            88
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 43,
+            "sig_str_att": 78,
+            "str_landed": 54,
+            "str_att": 89,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 54,
+            "sig_str_att": 101,
+            "str_landed": 118,
+            "str_att": 184,
+            "td_comp": 2,
+            "td_att": 10,
+            "sub_att": 0,
+            "ctrl_time": 228
+        }
+    },
+    "Jacare Souza vs Tim Boetsch": {
+        "name": "Jacare Souza vs Tim Boetsch",
+        "fighter1": "Jacare Souza",
+        "fighter2": "Tim Boetsch",
+        "winner": "Jacare Souza",
+        "method": "Submission",
+        "time_end": "3:41",
+        "round_end": 1,
+        "fight_length": 221,
+        "score": null,
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 7,
+            "sig_str_att": 18,
+            "str_landed": 15,
+            "str_att": 30,
+            "td_comp": 1,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 74
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 6,
+            "sig_str_att": 10,
+            "str_landed": 8,
+            "str_att": 12,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Glover Teixeira vs Jared Cannonier": {
+        "name": "Glover Teixeira vs Jared Cannonier",
+        "fighter1": "Glover Teixeira",
+        "fighter2": "Jared Cannonier",
+        "winner": "Glover Teixeira",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            78,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 24,
+            "sig_str_att": 53,
+            "str_landed": 113,
+            "str_att": 179,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 1,
+            "ctrl_time": 638
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 21,
+            "sig_str_att": 46,
+            "str_landed": 40,
+            "str_att": 66,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 10
+        }
+    },
+    "Dustin Poirier vs Jim Miller": {
+        "name": "Dustin Poirier vs Jim Miller",
+        "fighter1": "Dustin Poirier",
+        "fighter2": "Jim Miller",
+        "winner": "Dustin Poirier",
+        "method": "Decision - Majority",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            83,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 97,
+            "sig_str_att": 216,
+            "str_landed": 122,
+            "str_att": 243,
+            "td_comp": 3,
+            "td_att": 3,
+            "sub_att": 0,
+            "ctrl_time": 237
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 71,
+            "sig_str_att": 135,
+            "str_landed": 83,
+            "str_att": 150,
+            "td_comp": 1,
+            "td_att": 6,
+            "sub_att": 3,
+            "ctrl_time": 82
+        }
+    },
+    "Randy Brown vs Belal Muhammad": {
+        "name": "Randy Brown vs Belal Muhammad",
+        "fighter1": "Randy Brown",
+        "fighter2": "Belal Muhammad",
+        "winner": "Belal Muhammad",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            82,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 52,
+            "sig_str_att": 145,
+            "str_landed": 65,
+            "str_att": 158,
+            "td_comp": 0,
+            "td_att": 0,
+            "sub_att": 0,
+            "ctrl_time": 26
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 71,
+            "sig_str_att": 152,
+            "str_landed": 135,
+            "str_att": 236,
+            "td_comp": 2,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 353
+        }
+    },
+    "Wilson Reis vs Yuta Sasaki": {
+        "name": "Wilson Reis vs Yuta Sasaki",
+        "fighter1": "Wilson Reis",
+        "fighter2": "Yuta Sasaki",
+        "winner": "Wilson Reis",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            84,
+            87
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 84,
+            "str_landed": 52,
+            "str_att": 107,
+            "td_comp": 6,
+            "td_att": 9,
+            "sub_att": 2,
+            "ctrl_time": 526
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 34,
+            "sig_str_att": 105,
+            "str_landed": 69,
+            "str_att": 145,
+            "td_comp": 0,
+            "td_att": 1,
+            "sub_att": 0,
+            "ctrl_time": 68
+        }
+    },
+    "Nik Lentz vs Islam Makhachev": {
+        "name": "Nik Lentz vs Islam Makhachev",
+        "fighter1": "Nik Lentz",
+        "fighter2": "Islam Makhachev",
+        "winner": "Islam Makhachev",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            77,
+            90
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 13,
+            "sig_str_att": 35,
+            "str_landed": 35,
+            "str_att": 61,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 1,
+            "ctrl_time": 31
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 43,
+            "sig_str_att": 58,
+            "str_landed": 98,
+            "str_att": 127,
+            "td_comp": 5,
+            "td_att": 5,
+            "sub_att": 0,
+            "ctrl_time": 714
+        }
+    },
+    "Ricky Glenn vs Phillipe Nover": {
+        "name": "Ricky Glenn vs Phillipe Nover",
+        "fighter1": "Ricky Glenn",
+        "fighter2": "Phillipe Nover",
+        "winner": "Ricky Glenn",
+        "method": "Decision - Split",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            86,
+            85
+        ],
+        "fighter1_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 52,
+            "sig_str_att": 115,
+            "str_landed": 60,
+            "str_att": 123,
+            "td_comp": 0,
+            "td_att": 11,
+            "sub_att": 0,
+            "ctrl_time": 272
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 50,
+            "sig_str_att": 102,
+            "str_landed": 108,
+            "str_att": 165,
+            "td_comp": 0,
+            "td_att": 2,
+            "sub_att": 0,
+            "ctrl_time": 0
+        }
+    },
+    "Ryan LaFlare vs Roan Carneiro": {
+        "name": "Ryan LaFlare vs Roan Carneiro",
+        "fighter1": "Ryan LaFlare",
+        "fighter2": "Roan Carneiro",
+        "winner": "Ryan LaFlare",
+        "method": "Decision - Unanimous",
+        "time_end": "5:00",
+        "round_end": 3,
+        "fight_length": 420,
+        "score": [
+            81,
+            89
+        ],
+        "fighter1_fight_data": {
+            "kd": 1,
+            "sig_str_landed": 29,
+            "sig_str_att": 91,
+            "str_landed": 51,
+            "str_att": 116,
+            "td_comp": 1,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 309
+        },
+        "fighter2_fight_data": {
+            "kd": 0,
+            "sig_str_landed": 19,
+            "sig_str_att": 50,
+            "str_landed": 25,
+            "str_att": 56,
+            "td_comp": 0,
+            "td_att": 4,
+            "sub_att": 0,
+            "ctrl_time": 113
+        }
+    }
+}
