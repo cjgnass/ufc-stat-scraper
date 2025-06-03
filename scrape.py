@@ -91,6 +91,7 @@ def get_fight_data(url: str) -> dict:
     method = get_method(soup)
     time_end = get_time_end(soup)
     round_end = get_round_end(soup)
+    fight_length = 60 * (round_end - 1) + get_time(time_end)
     score = None
     fighter1_fight_stats, fighter2_fight_stats = get_fighter_fight_stats(soup)
    
@@ -102,6 +103,7 @@ def get_fight_data(url: str) -> dict:
     fight_data['method'] = method
     fight_data['time_end'] = time_end
     fight_data['round_end'] = round_end
+    fight_data['fight_length'] = fight_length
     if 'Decision' in fight_data['method']:
         score = get_score(soup)
     fight_data['score'] = score
@@ -152,18 +154,18 @@ def get_fighter_fight_stats(soup: BeautifulSoup) -> Tuple[dict, dict]:
     fighter1_fight_stats['sub_att'] = int(stats[12])
     fighter2_fight_stats['sub_att'] = int(stats[13])
 
-    fighter1_fight_stats['ctrl_time'] = get_ctrl_time(stats[16])
-    fighter2_fight_stats['ctrl_time'] = get_ctrl_time(stats[17])
+    fighter1_fight_stats['ctrl_time'] = get_time(stats[16])
+    fighter2_fight_stats['ctrl_time'] = get_time(stats[17])
 
     return fighter1_fight_stats, fighter2_fight_stats    
 
-def get_ctrl_time(time_str: str) -> int:
+def get_time(time_str: str) -> int:
     """
     Args:
-        time_str (str): string representing the control time for a fighter
+        time_str (str): string representing time
 
     Returns:
-        int: seconds of control time
+        int: time in seconds
     """ 
     minutes, seconds = map(int, time_str.split(':'))
     ctrl_time = minutes * 60 + seconds
