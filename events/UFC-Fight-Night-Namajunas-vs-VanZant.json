@@ -9,7 +9,7 @@
         "method": "Submission",
         "time_end": "2:25",
         "round_end": 5,
-        "fight_length": 385,
+        "fight_length": 1345,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -42,7 +42,7 @@
         "method": "Submission",
         "time_end": "2:57",
         "round_end": 2,
-        "fight_length": 237,
+        "fight_length": 477,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -75,7 +75,7 @@
         "method": "Submission",
         "time_end": "0:41",
         "round_end": 2,
-        "fight_length": 101,
+        "fight_length": 341,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -108,7 +108,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             82,
             87
@@ -144,7 +144,7 @@
         "method": "KO/TKO",
         "time_end": "0:21",
         "round_end": 2,
-        "fight_length": 81,
+        "fight_length": 321,
         "score": null,
         "fighter1_fight_data": {
             "kd": 1,
@@ -177,7 +177,7 @@
         "method": "KO/TKO",
         "time_end": "2:18",
         "round_end": 3,
-        "fight_length": 258,
+        "fight_length": 738,
         "score": null,
         "fighter1_fight_data": {
             "kd": 1,
@@ -210,7 +210,7 @@
         "method": "Submission",
         "time_end": "4:18",
         "round_end": 2,
-        "fight_length": 318,
+        "fight_length": 558,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -309,7 +309,7 @@
         "method": "Decision - Split",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             83,
             88
@@ -345,7 +345,7 @@
         "method": "Submission",
         "time_end": "4:13",
         "round_end": 2,
-        "fight_length": 313,
+        "fight_length": 553,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,

@@ -9,7 +9,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 5,
-        "fight_length": 540,
+        "fight_length": 1500,
         "score": [
             140,
             145
@@ -45,7 +45,7 @@
         "method": "KO/TKO",
         "time_end": "2:43",
         "round_end": 2,
-        "fight_length": 223,
+        "fight_length": 463,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -78,7 +78,7 @@
         "method": "KO/TKO",
         "time_end": "2:38",
         "round_end": 2,
-        "fight_length": 218,
+        "fight_length": 458,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -111,7 +111,7 @@
         "method": "Submission",
         "time_end": "1:41",
         "round_end": 2,
-        "fight_length": 161,
+        "fight_length": 401,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -210,7 +210,7 @@
         "method": "Submission",
         "time_end": "2:56",
         "round_end": 3,
-        "fight_length": 296,
+        "fight_length": 776,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -243,7 +243,7 @@
         "method": "Submission",
         "time_end": "3:01",
         "round_end": 3,
-        "fight_length": 301,
+        "fight_length": 781,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -276,7 +276,7 @@
         "method": "KO/TKO",
         "time_end": "4:40",
         "round_end": 2,
-        "fight_length": 340,
+        "fight_length": 580,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -309,7 +309,7 @@
         "method": "KO/TKO",
         "time_end": "4:40",
         "round_end": 3,
-        "fight_length": 400,
+        "fight_length": 880,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -342,7 +342,7 @@
         "method": "Decision - Split",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             85,
             86

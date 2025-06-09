@@ -9,7 +9,7 @@
         "method": "KO/TKO",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -240,7 +240,7 @@
         "method": "Submission",
         "time_end": "4:50",
         "round_end": 2,
-        "fight_length": 350,
+        "fight_length": 590,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,

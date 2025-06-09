@@ -9,7 +9,7 @@
         "method": "Decision - Split",
         "time_end": "5:00",
         "round_end": 5,
-        "fight_length": 540,
+        "fight_length": 1500,
         "score": [
             143,
             142
@@ -45,7 +45,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             80,
             90
@@ -81,7 +81,7 @@
         "method": "Submission",
         "time_end": "2:58",
         "round_end": 3,
-        "fight_length": 298,
+        "fight_length": 778,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -114,7 +114,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             83,
             88
@@ -150,7 +150,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             78,
             90
@@ -186,7 +186,7 @@
         "method": "Decision - Split",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             84,
             87
@@ -222,7 +222,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             83,
             88
@@ -258,7 +258,7 @@
         "method": "KO/TKO",
         "time_end": "0:53",
         "round_end": 2,
-        "fight_length": 113,
+        "fight_length": 353,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -291,7 +291,7 @@
         "method": "KO/TKO",
         "time_end": "1:25",
         "round_end": 2,
-        "fight_length": 145,
+        "fight_length": 385,
         "score": null,
         "fighter1_fight_data": {
             "kd": 1,
@@ -357,7 +357,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             82,
             89
@@ -393,7 +393,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             81,
             90

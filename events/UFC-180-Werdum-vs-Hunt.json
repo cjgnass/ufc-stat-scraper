@@ -9,7 +9,7 @@
         "method": "KO/TKO",
         "time_end": "2:27",
         "round_end": 2,
-        "fight_length": 207,
+        "fight_length": 447,
         "score": null,
         "fighter1_fight_data": {
             "kd": 1,
@@ -174,7 +174,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             84,
             87
@@ -210,7 +210,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             79,
             86
@@ -246,7 +246,7 @@
         "method": "TKO - Doctor's Stoppage",
         "time_end": "1:30",
         "round_end": 2,
-        "fight_length": 150,
+        "fight_length": 390,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -279,7 +279,7 @@
         "method": "Submission",
         "time_end": "0:30",
         "round_end": 3,
-        "fight_length": 150,
+        "fight_length": 630,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -312,7 +312,7 @@
         "method": "Submission",
         "time_end": "1:44",
         "round_end": 2,
-        "fight_length": 164,
+        "fight_length": 404,
         "score": null,
         "fighter1_fight_data": {
             "kd": 1,
@@ -345,7 +345,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             84,
             87

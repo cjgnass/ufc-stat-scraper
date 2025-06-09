@@ -9,7 +9,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             82,
             89
@@ -243,7 +243,7 @@
         "method": "Submission",
         "time_end": "1:17",
         "round_end": 3,
-        "fight_length": 197,
+        "fight_length": 677,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,

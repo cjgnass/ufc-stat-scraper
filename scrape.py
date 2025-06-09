@@ -91,7 +91,7 @@ def get_fight_data(url: str) -> dict:
     method = get_method(soup)
     time_end = get_time_end(soup)
     round_end = get_round_end(soup)
-    fight_length = 60 * (round_end - 1) + get_time(time_end)
+    fight_length = 300 * (round_end - 1) + get_time(time_end)
     score = None
     fighter1_fight_stats, fighter2_fight_stats = get_fighter_fight_stats(soup)
    
