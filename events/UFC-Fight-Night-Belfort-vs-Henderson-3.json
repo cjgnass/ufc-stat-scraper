@@ -42,7 +42,7 @@
         "method": "KO/TKO",
         "time_end": "1:12",
         "round_end": 2,
-        "fight_length": 132,
+        "fight_length": 372,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -108,7 +108,7 @@
         "method": "KO/TKO",
         "time_end": "0:51",
         "round_end": 3,
-        "fight_length": 171,
+        "fight_length": 651,
         "score": null,
         "fighter1_fight_data": {
             "kd": 1,
@@ -141,7 +141,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             81,
             90
@@ -177,7 +177,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             81,
             90
@@ -246,7 +246,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             84,
             87
@@ -315,7 +315,7 @@
         "method": "Submission",
         "time_end": "1:56",
         "round_end": 2,
-        "fight_length": 176,
+        "fight_length": 416,
         "score": null,
         "fighter1_fight_data": {
             "kd": 1,
@@ -348,7 +348,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             82,
             89
@@ -384,7 +384,7 @@
         "method": "Decision - Split",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             85,
             86
@@ -420,7 +420,7 @@
         "method": "Submission",
         "time_end": "3:27",
         "round_end": 3,
-        "fight_length": 327,
+        "fight_length": 807,
         "score": null,
         "fighter1_fight_data": {
             "kd": 1,

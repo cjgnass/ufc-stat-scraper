@@ -9,7 +9,7 @@
         "method": "Submission",
         "time_end": "1:28",
         "round_end": 2,
-        "fight_length": 148,
+        "fight_length": 388,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -42,7 +42,7 @@
         "method": "KO/TKO",
         "time_end": "0:38",
         "round_end": 2,
-        "fight_length": 98,
+        "fight_length": 338,
         "score": null,
         "fighter1_fight_data": {
             "kd": 1,
@@ -75,7 +75,7 @@
         "method": "Decision - Split",
         "time_end": "3:00",
         "round_end": 2,
-        "fight_length": 240,
+        "fight_length": 480,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -207,7 +207,7 @@
         "method": "Decision - Unanimous",
         "time_end": "3:00",
         "round_end": 2,
-        "fight_length": 240,
+        "fight_length": 480,
         "score": null,
         "fighter1_fight_data": {
             "kd": 1,
@@ -240,7 +240,7 @@
         "method": "Decision - Unanimous",
         "time_end": "3:00",
         "round_end": 2,
-        "fight_length": 240,
+        "fight_length": 480,
         "score": null,
         "fighter1_fight_data": null,
         "fighter2_fight_data": null

@@ -207,7 +207,7 @@
         "method": "Decision - Unanimous",
         "time_end": "3:00",
         "round_end": 2,
-        "fight_length": 240,
+        "fight_length": 480,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,

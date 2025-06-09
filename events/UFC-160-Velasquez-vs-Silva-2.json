@@ -42,7 +42,7 @@
         "method": "KO/TKO",
         "time_end": "4:18",
         "round_end": 3,
-        "fight_length": 378,
+        "fight_length": 858,
         "score": null,
         "fighter1_fight_data": {
             "kd": 2,
@@ -141,7 +141,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             80,
             90
@@ -177,7 +177,7 @@
         "method": "Decision - Split",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             85,
             86
@@ -213,7 +213,7 @@
         "method": "Decision - Split",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             85,
             86
@@ -249,7 +249,7 @@
         "method": "KO/TKO",
         "time_end": "0:41",
         "round_end": 3,
-        "fight_length": 161,
+        "fight_length": 641,
         "score": null,
         "fighter1_fight_data": {
             "kd": 1,
@@ -282,7 +282,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             81,
             90
@@ -318,7 +318,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             83,
             88
@@ -354,7 +354,7 @@
         "method": "KO/TKO",
         "time_end": "1:43",
         "round_end": 2,
-        "fight_length": 163,
+        "fight_length": 403,
         "score": null,
         "fighter1_fight_data": {
             "kd": 1,
@@ -387,7 +387,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             79,
             90

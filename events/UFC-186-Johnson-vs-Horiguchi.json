@@ -9,7 +9,7 @@
         "method": "Submission",
         "time_end": "4:59",
         "round_end": 5,
-        "fight_length": 539,
+        "fight_length": 1499,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -42,7 +42,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             82,
             89
@@ -78,7 +78,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             84,
             87
@@ -180,7 +180,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             84,
             87
@@ -216,7 +216,7 @@
         "method": "Submission",
         "time_end": "3:07",
         "round_end": 2,
-        "fight_length": 247,
+        "fight_length": 487,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -249,7 +249,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             83,
             88
@@ -285,7 +285,7 @@
         "method": "Submission",
         "time_end": "1:35",
         "round_end": 3,
-        "fight_length": 215,
+        "fight_length": 695,
         "score": null,
         "fighter1_fight_data": {
             "kd": 1,
@@ -318,7 +318,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             81,
             90
@@ -354,7 +354,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             83,
             88
@@ -390,7 +390,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             83,
             88

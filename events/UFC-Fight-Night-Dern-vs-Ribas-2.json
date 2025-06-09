@@ -9,7 +9,7 @@
         "method": "Submission",
         "time_end": "4:56",
         "round_end": 3,
-        "fight_length": 416,
+        "fight_length": 896,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -42,7 +42,7 @@
         "method": "KO/TKO",
         "time_end": "3:13",
         "round_end": 3,
-        "fight_length": 313,
+        "fight_length": 793,
         "score": null,
         "fighter1_fight_data": {
             "kd": 1,
@@ -108,7 +108,7 @@
         "method": "KO/TKO",
         "time_end": "4:59",
         "round_end": 3,
-        "fight_length": 419,
+        "fight_length": 899,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -141,7 +141,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             84,
             87
@@ -276,7 +276,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             84,
             87
@@ -345,7 +345,7 @@
         "method": "Decision - Split",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             85,
             86
@@ -381,7 +381,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             84,
             87
@@ -417,7 +417,7 @@
         "method": "KO/TKO",
         "time_end": "4:27",
         "round_end": 2,
-        "fight_length": 327,
+        "fight_length": 567,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -450,7 +450,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             83,
             88

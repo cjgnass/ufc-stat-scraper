@@ -42,7 +42,7 @@
         "method": "Decision - Unanimous",
         "time_end": "5:00",
         "round_end": 3,
-        "fight_length": 420,
+        "fight_length": 900,
         "score": [
             82,
             89
@@ -78,7 +78,7 @@
         "method": "TKO - Doctor's Stoppage",
         "time_end": "3:25",
         "round_end": 4,
-        "fight_length": 385,
+        "fight_length": 1105,
         "score": null,
         "fighter1_fight_data": {
             "kd": 0,
@@ -210,7 +210,7 @@
         "method": "KO/TKO",
         "time_end": "2:10",
         "round_end": 2,
-        "fight_length": 190,
+        "fight_length": 430,
         "score": null,
         "fighter1_fight_data": {
             "kd": 1,
