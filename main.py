@@ -44,4 +44,4 @@ for filename in os.listdir(folder_path):
 # Create DataFrame
 df = pd.DataFrame(fight_rows)
 
-df.to_csv('ufc_fights.csv', index=False)
+
